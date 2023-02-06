@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "df4e2a81f401a40a",
+        "id": "05352eea2acd2fe5",
         "type": "tabs",
         "children": [
           {
-            "id": "234544e6208caaa7",
+            "id": "4fc2450dcb114554",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end/JavaScript/JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/JavaScript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,17 +145,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "234544e6208caaa7",
+  "active": "4fc2450dcb114554",
   "lastOpenFiles": [
-    "Front-end/HTML/HTML.md",
-    "Front-end/CSS/CSS.md",
     "Front-end/Front-end.md",
-    "Front-end/JavaScript/JavaScript.md",
+    "Back-end/Back-end.md",
     "Back-end/SQL/SQL.md",
     "Back-end/Nodejs/Nodejs.md",
+    "Front-end/HTML/HTML.md",
+    "Front-end/JavaScript/JavaScript.md",
+    "Front-end/CSS/CSS.md",
     "Front-end/CSS/Box Model.md",
     "Untitled.md",
-    "Front-end/HTML/HTML Foundations Part 1.md",
-    "Front-end/HTML/HTML Foundations Part 2.md"
+    "Front-end/HTML/HTML Foundations Part 1.md"
   ]
 }

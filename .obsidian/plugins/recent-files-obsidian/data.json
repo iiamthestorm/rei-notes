@@ -1,20 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "JavaScript",
-      "path": "Front-end/JavaScript/JavaScript.md"
-    },
-    {
-      "basename": "HTML",
-      "path": "Front-end/HTML/HTML.md"
-    },
-    {
-      "basename": "CSS",
-      "path": "Front-end/CSS/CSS.md"
-    },
-    {
       "basename": "Front-end",
       "path": "Front-end/Front-end.md"
+    },
+    {
+      "basename": "Back-end",
+      "path": "Back-end/Back-end.md"
     },
     {
       "basename": "SQL",
@@ -23,6 +15,18 @@
     {
       "basename": "Nodejs",
       "path": "Back-end/Nodejs/Nodejs.md"
+    },
+    {
+      "basename": "HTML",
+      "path": "Front-end/HTML/HTML.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "Front-end/JavaScript/JavaScript.md"
+    },
+    {
+      "basename": "CSS",
+      "path": "Front-end/CSS/CSS.md"
     },
     {
       "basename": "Box Model",
