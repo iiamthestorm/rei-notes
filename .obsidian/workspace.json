@@ -122,14 +122,6 @@
             }
           },
           {
-            "id": "8b1e485e6a774003",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "2f0d771e1bd16c26",
             "type": "leaf",
             "state": {
@@ -137,12 +129,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +148,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9dcf3e208f434302",
+  "active": "2f0d771e1bd16c26",
   "lastOpenFiles": [
     "asda.md",
     "asdasdasdads.md",
