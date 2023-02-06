@@ -1,1 +1,1 @@
-#javascript #front-end 
+[[JavaScript]]

@@ -1,18 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Front End",
-      "path": "Front End.md"
-    },
-    {
-      "basename": "Syntax & Selectors",
-      "path": "Syntax & Selectors.md"
-    },
-    {
-      "basename": "Praktikum ADM",
-      "path": "Praktikum ADM.md"
-    },
-    {
       "basename": "Fundamentals Part 2",
       "path": "Fundamentals Part 2.md"
     },
@@ -21,12 +9,28 @@
       "path": "Fundamentals Part 1.md"
     },
     {
+      "basename": "JavaScript",
+      "path": "JavaScript.md"
+    },
+    {
+      "basename": "Syntax & Selectors",
+      "path": "Syntax & Selectors.md"
+    },
+    {
       "basename": "FlexBox",
       "path": "FlexBox.md"
     },
     {
       "basename": "Box Model",
       "path": "Box Model.md"
+    },
+    {
+      "basename": "CSS",
+      "path": "CSS.md"
+    },
+    {
+      "basename": "Praktikum ADM",
+      "path": "Praktikum ADM.md"
     },
     {
       "basename": "Pasted image 20230204151618",
