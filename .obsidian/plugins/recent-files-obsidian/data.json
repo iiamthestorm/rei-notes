@@ -1,36 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Fundamentals Part 1",
-      "path": "Fundamentals Part 1.md"
-    },
-    {
-      "basename": "Syntax & Selectors",
-      "path": "Syntax & Selectors.md"
-    },
-    {
-      "basename": "Box Model",
-      "path": "Box Model.md"
-    },
-    {
-      "basename": "FlexBox",
-      "path": "FlexBox.md"
+      "basename": "HTML",
+      "path": "HTML/HTML.md"
     },
     {
       "basename": "CSS",
-      "path": "CSS.md"
+      "path": "CSS/CSS.md"
+    },
+    {
+      "basename": "Fundamentals Part 1",
+      "path": "JavaScript/Fundamentals Part 1.md"
+    },
+    {
+      "basename": "Syntax & Selectors",
+      "path": "CSS/Syntax & Selectors.md"
+    },
+    {
+      "basename": "Box Model",
+      "path": "CSS/Box Model.md"
+    },
+    {
+      "basename": "FlexBox",
+      "path": "CSS/FlexBox.md"
     },
     {
       "basename": "JavaScript",
-      "path": "JavaScript.md"
+      "path": "JavaScript/JavaScript.md"
     },
     {
       "basename": "Fundamentals Part 2",
-      "path": "Fundamentals Part 2.md"
+      "path": "JavaScript/Fundamentals Part 2.md"
     },
     {
       "basename": "Praktikum ADM",
-      "path": "Praktikum ADM.md"
+      "path": "Praktikum ADM/Praktikum ADM.md"
     },
     {
       "basename": "Pasted image 20230204151618",

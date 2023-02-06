@@ -8,17 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "PRAKTIKUM ADM",
+      "query": "path:\"Praktikum ADM\"",
       "color": {
         "a": 1,
-        "rgb": 16514816
+        "rgb": 13107455
       }
     },
     {
-      "query": "CSS",
+      "query": "path:CSS",
       "color": {
         "a": 1,
         "rgb": 4026111
+      }
+    },
+    {
+      "query": "path:JavaScript",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 160,
-  "scale": 0.7514342322277665,
+  "scale": 0.751434232227767,
   "close": false
 }
