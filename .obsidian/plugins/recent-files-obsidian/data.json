@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "css4",
+      "path": "css4.md"
+    },
+    {
+      "basename": "css3",
+      "path": "css3.md"
+    },
+    {
+      "basename": "css2",
+      "path": "css2.md"
+    },
+    {
       "basename": "Box Model",
       "path": "Box Model.md"
+    },
+    {
+      "basename": "CSS",
+      "path": "CSS.md"
+    },
+    {
+      "basename": "FlexBox",
+      "path": "FlexBox.md"
     }
   ],
   "omittedPaths": [],
