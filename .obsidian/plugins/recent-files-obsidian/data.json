@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "JavaScript.md"
-    },
-    {
-      "basename": "CSS",
-      "path": "CSS.md"
-    },
-    {
       "basename": "Box Model",
       "path": "Box Model.md"
+    },
+    {
+      "basename": "FlexBox",
+      "path": "FlexBox.md"
     },
     {
       "basename": "Syntax & Selectors",
       "path": "Syntax & Selectors.md"
     },
     {
-      "basename": "Pasted image 20230204151618",
-      "path": "attachment/Pasted image 20230204151618.png"
+      "basename": "CSS",
+      "path": "CSS.md"
     },
     {
-      "basename": "FlexBox",
-      "path": "FlexBox.md"
+      "basename": "Fundamentals Part 2",
+      "path": "Fundamentals Part 2.md"
+    },
+    {
+      "basename": "Fundamentals Part 1",
+      "path": "Fundamentals Part 1.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "JavaScript.md"
+    },
+    {
+      "basename": "Praktikum ADM",
+      "path": "Praktikum ADM.md"
+    },
+    {
+      "basename": "Pasted image 20230204151618",
+      "path": "attachment/Pasted image 20230204151618.png"
     }
   ],
   "omittedPaths": [],

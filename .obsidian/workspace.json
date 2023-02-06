@@ -8,35 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b75d6b7f91a5c6b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "d7771ed8c07fcb42",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "3b5c50eaf0c609ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,17 +145,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b5c50eaf0c609ee",
+  "active": "d7771ed8c07fcb42",
   "lastOpenFiles": [
-    "JavaScript.md",
-    "CSS.md",
     "Box Model.md",
+    "FlexBox.md",
     "Syntax & Selectors.md",
+    "CSS.md",
+    "Fundamentals Part 2.md",
+    "Fundamentals Part 1.md",
+    "JavaScript.md",
+    "Praktikum ADM.md",
     "attachment/Pasted image 20230204151618.png",
-    "css9.md",
-    "css8.md",
-    "css7.md",
-    "css6.md",
-    "css5.md"
+    "css9.md"
   ]
 }

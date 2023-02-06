@@ -1,3 +1,4 @@
+#javascript
 ## Cara run javascript
 ada beberapa cara untuk running javascript, bisa di browser dan juga bisa di luar browser environtment.
 Cara yang paling simple untuk membuat sciprt js adalah dengan html:
