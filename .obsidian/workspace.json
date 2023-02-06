@@ -11,15 +11,32 @@
             "id": "4b75d6b7f91a5c6b",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7771ed8c07fcb42",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b5c50eaf0c609ee",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Syntax & Selectors.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax & Selectors.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,22 +147,6 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "fcfdbfc8b8a2de24",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "f27512742fa8a6b3",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
@@ -163,21 +164,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
-      "juggl:Juggl global graph": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4b75d6b7f91a5c6b",
+  "active": "3b5c50eaf0c609ee",
   "lastOpenFiles": [
+    "JavaScript.md",
     "CSS.md",
-    "attachment/Pasted image 20230204151618.png",
     "Box Model.md",
+    "Syntax & Selectors.md",
+    "attachment/Pasted image 20230204151618.png",
     "css9.md",
     "css8.md",
     "css7.md",
     "css6.md",
-    "css5.md",
-    "css4.md",
-    "css3.md"
+    "css5.md"
   ]
 }
