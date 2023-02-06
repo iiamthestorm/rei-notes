@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc1233b81b1fcc9d",
+            "id": "234544e6208caaa7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Front-end/JavaScript/JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Front-end/JavaScript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,17 +150,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc1233b81b1fcc9d",
+  "active": "234544e6208caaa7",
   "lastOpenFiles": [
-    "SQL/SQL.md",
-    "Nodejs/Nodejs.md",
+    "Front-end/HTML/HTML.md",
+    "Front-end/CSS/CSS.md",
+    "Front-end/Front-end.md",
+    "Front-end/JavaScript/JavaScript.md",
+    "Back-end/SQL/SQL.md",
+    "Back-end/Nodejs/Nodejs.md",
+    "Front-end/CSS/Box Model.md",
     "Untitled.md",
-    "HTML/HTML Foundations Part 1.md",
-    "HTML/HTML Foundations Part 2.md",
-    "HTML/HTML.md",
-    "CSS/CSS.md",
-    "JavaScript/Fundamentals Part 1.md",
-    "CSS/Syntax & Selectors.md",
-    "CSS/Box Model.md"
+    "Front-end/HTML/HTML Foundations Part 1.md",
+    "Front-end/HTML/HTML Foundations Part 2.md"
   ]
 }

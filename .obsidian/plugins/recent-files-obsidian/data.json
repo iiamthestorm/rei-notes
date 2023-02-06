@@ -1,52 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "SQL",
-      "path": "SQL/SQL.md"
-    },
-    {
-      "basename": "Nodejs",
-      "path": "Nodejs/Nodejs.md"
-    },
-    {
-      "basename": "HTML Foundations Part 1",
-      "path": "HTML/HTML Foundations Part 1.md"
-    },
-    {
-      "basename": "HTML Foundations Part 2",
-      "path": "HTML/HTML Foundations Part 2.md"
+      "basename": "JavaScript",
+      "path": "Front-end/JavaScript/JavaScript.md"
     },
     {
       "basename": "HTML",
-      "path": "HTML/HTML.md"
+      "path": "Front-end/HTML/HTML.md"
     },
     {
       "basename": "CSS",
-      "path": "CSS/CSS.md"
+      "path": "Front-end/CSS/CSS.md"
     },
     {
-      "basename": "Fundamentals Part 1",
-      "path": "JavaScript/Fundamentals Part 1.md"
+      "basename": "Front-end",
+      "path": "Front-end/Front-end.md"
     },
     {
-      "basename": "Syntax & Selectors",
-      "path": "CSS/Syntax & Selectors.md"
+      "basename": "SQL",
+      "path": "Back-end/SQL/SQL.md"
+    },
+    {
+      "basename": "Nodejs",
+      "path": "Back-end/Nodejs/Nodejs.md"
     },
     {
       "basename": "Box Model",
-      "path": "CSS/Box Model.md"
+      "path": "Front-end/CSS/Box Model.md"
+    },
+    {
+      "basename": "HTML Foundations Part 1",
+      "path": "Front-end/HTML/HTML Foundations Part 1.md"
+    },
+    {
+      "basename": "HTML Foundations Part 2",
+      "path": "Front-end/HTML/HTML Foundations Part 2.md"
+    },
+    {
+      "basename": "Fundamentals Part 1",
+      "path": "Front-end/JavaScript/Fundamentals Part 1.md"
+    },
+    {
+      "basename": "Syntax & Selectors",
+      "path": "Front-end/CSS/Syntax & Selectors.md"
     },
     {
       "basename": "FlexBox",
-      "path": "CSS/FlexBox.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "JavaScript/JavaScript.md"
+      "path": "Front-end/CSS/FlexBox.md"
     },
     {
       "basename": "Fundamentals Part 2",
-      "path": "JavaScript/Fundamentals Part 2.md"
+      "path": "Front-end/JavaScript/Fundamentals Part 2.md"
     },
     {
       "basename": "Praktikum ADM",
