@@ -125,6 +125,25 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "a5e9669f33b41f80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f86ab5a7b983c328",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
