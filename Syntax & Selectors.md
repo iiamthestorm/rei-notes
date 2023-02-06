@@ -1,13 +1,13 @@
 #CSS #front-end 
 # Basic Syntax
 
-At the most basic level, [[CSS]] is made up of various rules. These rules are made up of a selector (more on this in a bit) and a semi-colon separated list of declarations, with each of those declarations being made up of a property:value pair.
+At the most basic level, CSS is made up of various rules. These rules are made up of a selector (more on this in a bit) and a semi-colon separated list of declarations, with each of those declarations being made up of a property:value pair.
 
 <img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/05ce472eabf8e04eeb2cc9139e66db884074fd7d/foundations/html_css/css-foundations/imgs/00.jpg">
 
 # Selectors
 
-Selector biasanya merupakan elemen-elemen html yang akan digunakan untuk mengaplikasikan [[CSS]] untuk  rules2 tertentu. Disini akan dijelaskan beberapa selector yang paling sering digunakan.
+Selector biasanya merupakan elemen-elemen html yang akan digunakan untuk mengaplikasikan CSS untuk  rules2 tertentu. Disini akan dijelaskan beberapa selector yang paling sering digunakan.
 
 ## Universal Selector
 
@@ -64,7 +64,7 @@ Class Selector adalah selector yang bisa kita gunakan untuk mengganti nama eleme
 }
 ```
 
-Bisa dilihat dari gambar diatas bahwa class "container" dari tag \<div> bisa menjadi selector [[CSS]]. Class Selector juga bisa dipakai 2 kali dalam tag html. Multi Class Selector juga bisa dipakai didalam tag html. Contoh seperti berikut :
+Bisa dilihat dari gambar diatas bahwa class "container" dari tag \<div> bisa menjadi selector CSS. Class Selector juga bisa dipakai 2 kali dalam tag html. Multi Class Selector juga bisa dipakai didalam tag html. Contoh seperti berikut :
 
 ```html
 <body>
@@ -164,7 +164,7 @@ Bagaimana cara mendeklarasikan apabila kita mempunyai 2 elements yang mempunyai 
 }
 ```
 
-Cara diatas sangat efisien dan berguna dan sering di aplikasi kan dalam membuat [[CSS]].
+Cara diatas sangat efisien dan berguna dan sering di aplikasi kan dalam membuat CSS.
 
 ## Chaining Selectors
 
@@ -177,7 +177,7 @@ Another way to use selectors is to chain them as a list without any separation. 
 </div>
 ```
 
-We have two elements with the `subsection` class that have some sort of unique styles, but what if we only want to apply a separate rule to the element that also has `header` as a second class? Well, we could chain both the class selectors together in our [[CSS]] like so:
+We have two elements with the `subsection` class that have some sort of unique styles, but what if we only want to apply a separate rule to the element that also has `header` as a second class? Well, we could chain both the class selectors together in our CSS like so:
 
 ```css
 .subsection.header {

@@ -27,12 +27,8 @@
             "id": "ea86f3ca2de03fd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,15 +164,15 @@
   },
   "active": "ea86f3ca2de03fd6",
   "lastOpenFiles": [
-    "Box Model.md",
-    "Front End.md",
-    "Syntax & Selectors.md",
     "JavaScript.md",
     "HTML.md",
+    "CSS.md",
+    "Syntax & Selectors.md",
+    "Praktikum ADM.md",
     "Fundamentals Part 2.md",
     "Fundamentals Part 1.md",
+    "Front End.md",
     "FlexBox.md",
-    "CSS.md",
-    "Praktikum ADM.md"
+    "Box Model.md"
   ]
 }
