@@ -1,4 +1,4 @@
-#html
+#html #front-end 
 HTML (HyperText Markup Language) is a descriptive language that specifies webpage structure.
 An HTML document is a plaintext document structured with [elements](https://developer.mozilla.org/en-US/docs/Glossary/Element). Elements are surrounded by matching opening and closing [tags](https://developer.mozilla.org/en-US/docs/Glossary/Tag). Each tag begins and ends with angle brackets (`<>`). There are a few empty or _void_ elements that cannot enclose any text, for instance [`<img>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img).
 After learning HTML, you can then move on to learning about more advanced topics such as:

@@ -1,28 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "HTML",
-      "path": "HTML.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "JavaScript.md"
+      "basename": "CSS",
+      "path": "CSS.md"
     },
     {
       "basename": "Box Model",
       "path": "Box Model.md"
     },
     {
-      "basename": "FlexBox",
-      "path": "FlexBox.md"
+      "basename": "Front End",
+      "path": "Front End.md"
     },
     {
       "basename": "Syntax & Selectors",
       "path": "Syntax & Selectors.md"
     },
     {
-      "basename": "CSS",
-      "path": "CSS.md"
+      "basename": "JavaScript",
+      "path": "JavaScript.md"
+    },
+    {
+      "basename": "HTML",
+      "path": "HTML.md"
     },
     {
       "basename": "Fundamentals Part 2",
@@ -31,6 +31,10 @@
     {
       "basename": "Fundamentals Part 1",
       "path": "Fundamentals Part 1.md"
+    },
+    {
+      "basename": "FlexBox",
+      "path": "FlexBox.md"
     },
     {
       "basename": "Praktikum ADM",

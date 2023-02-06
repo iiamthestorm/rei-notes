@@ -19,16 +19,24 @@
             "id": "7aabd8cbba4d148b",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea86f3ca2de03fd6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML.md",
+                "file": "CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML.md",
+                "file": "CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,17 +167,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7aabd8cbba4d148b",
+  "active": "ea86f3ca2de03fd6",
   "lastOpenFiles": [
-    "HTML.md",
-    "JavaScript.md",
     "Box Model.md",
-    "FlexBox.md",
+    "Front End.md",
     "Syntax & Selectors.md",
-    "CSS.md",
+    "JavaScript.md",
+    "HTML.md",
     "Fundamentals Part 2.md",
     "Fundamentals Part 1.md",
-    "Praktikum ADM.md",
-    "attachment/Pasted image 20230204151618.png"
+    "FlexBox.md",
+    "CSS.md",
+    "Praktikum ADM.md"
   ]
 }

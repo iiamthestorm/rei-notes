@@ -6,36 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "Praktikum",
-      "color": {
-        "a": 1,
-        "rgb": 15552715
-      }
-    },
-    {
-      "query": "tag:#javascript",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "tag:#CSS",
-      "color": {
-        "a": 1,
-        "rgb": 5083647
-      }
-    },
-    {
-      "query": "tag:html",
-      "color": {
-        "a": 1,
-        "rgb": 16595208
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -45,7 +16,7 @@
   "centerStrength": 0.489583333333333,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 223,
-  "scale": 0.7514342322277643,
-  "close": true
+  "linkDistance": 160,
+  "scale": 0.7514342322277652,
+  "close": false
 }
