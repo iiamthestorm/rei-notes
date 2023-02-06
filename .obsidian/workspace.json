@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85a707ddc045613b",
+        "id": "7dc175932c27aa58",
         "type": "tabs",
         "children": [
           {
-            "id": "4a004d28e3f2a083",
+            "id": "7fcfeae37a7c6a84",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -145,8 +145,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c01b813dbe2ff747",
+  "active": "7fcfeae37a7c6a84",
   "lastOpenFiles": [
+    "Box Model.md",
     "asda.md",
     "asdasdasdads.md",
     "asdasd.md"
