@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "HTML",
+      "path": "HTML.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "JavaScript.md"
+    },
+    {
       "basename": "Box Model",
       "path": "Box Model.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Fundamentals Part 1",
       "path": "Fundamentals Part 1.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "JavaScript.md"
     },
     {
       "basename": "Praktikum ADM",
