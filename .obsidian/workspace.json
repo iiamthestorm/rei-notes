@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c10484e9196f4664",
+        "id": "196a1b81ca7cfc7b",
         "type": "tabs",
         "children": [
           {
-            "id": "17e0732b7223621b",
+            "id": "3523ce9165f6a4f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "attachment/Pasted image 20230204151618.png"
+              }
             }
           }
         ]
@@ -89,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "attachment/Pasted image 20230204151618.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +148,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17e0732b7223621b",
+  "active": "9dcf3e208f434302",
   "lastOpenFiles": [
+    "Box Model.md",
+    "CSS.md",
     "css9.md",
     "css8.md",
     "css7.md",
@@ -154,8 +159,6 @@
     "css5.md",
     "css4.md",
     "css3.md",
-    "css2.md",
-    "Box Model.md",
-    "CSS.md"
+    "css2.md"
   ]
 }
