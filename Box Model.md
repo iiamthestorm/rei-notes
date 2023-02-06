@@ -1,6 +1,6 @@
 
 ## Box Model
-
+Box Model adalah paradigma penting dalam [[CSS]].
 -   `padding` increases the space between the edge of a box and the content inside of it.
 -   `margin` increases the space between a box and any others that sit next to it.
 -   `border` adds space (even if it’s only a pixel or two) between the margin and the padding.

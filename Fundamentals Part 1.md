@@ -18,7 +18,7 @@ Cara yang paling simple untuk membuat sciprt js adalah dengan html:
 ```
 simpan kode diatas dan jalankan browser dengan live preview plugin di vscode studio. And open inspect elemen on the browser itself. In the 'Developer Tools' pane, find and select console tab. Disana akan ketemu output nya. ```console.log()``` berguna untuk print sesuatu ke developer console di browser.
 
-Anotherway to include javascript in a webpage is through an external script. Hampir mirip dengan css. Contoh:
+Anotherway to include javascript in a webpage is through an external script. Hampir mirip dengan CSS. Contoh:
 Ini file html nya:
 ```html
 <script src="javascript.js"></script>

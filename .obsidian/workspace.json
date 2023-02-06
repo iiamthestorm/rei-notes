@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9309e0c0b9c36084",
+        "id": "9fbe7290c55851c2",
         "type": "tabs",
         "children": [
           {
-            "id": "46034b68f32a13b4",
+            "id": "83b9bf7d0a1ee557",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -145,15 +145,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46034b68f32a13b4",
+  "active": "83b9bf7d0a1ee557",
   "lastOpenFiles": [
-    "Fundamentals Part 2.md",
     "Fundamentals Part 1.md",
-    "JavaScript.md",
     "Syntax & Selectors.md",
-    "FlexBox.md",
     "Box Model.md",
+    "FlexBox.md",
     "CSS.md",
+    "JavaScript.md",
+    "Fundamentals Part 2.md",
     "Front End.md",
     "HTML.md",
     "Praktikum ADM.md"
