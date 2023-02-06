@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "196a1b81ca7cfc7b",
+        "id": "652c2b5961d745d9",
         "type": "tabs",
         "children": [
           {
-            "id": "3523ce9165f6a4f0",
+            "id": "4b75d6b7f91a5c6b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachment/Pasted image 20230204151618.png"
+                "file": "Syntax & Selectors.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachment/Pasted image 20230204151618.png",
+                "file": "Syntax & Selectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +130,22 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "fcfdbfc8b8a2de24",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "f27512742fa8a6b3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -145,20 +163,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "9dcf3e208f434302",
+  "active": "4b75d6b7f91a5c6b",
   "lastOpenFiles": [
-    "Box Model.md",
     "CSS.md",
+    "attachment/Pasted image 20230204151618.png",
+    "Box Model.md",
     "css9.md",
     "css8.md",
     "css7.md",
     "css6.md",
     "css5.md",
     "css4.md",
-    "css3.md",
-    "css2.md"
+    "css3.md"
   ]
 }
