@@ -100,17 +100,6 @@
             }
           },
           {
-            "id": "9f7ffcacce9bc30e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "6ad0a538a9e6ae48",
             "type": "leaf",
             "state": {
@@ -126,6 +115,14 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fd06443963872f5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
@@ -148,7 +145,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f0d771e1bd16c26",
+  "active": "c01b813dbe2ff747",
   "lastOpenFiles": [
     "asda.md",
     "asdasdasdads.md",
