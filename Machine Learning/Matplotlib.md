@@ -1,0 +1,2 @@
+- [[Matplotlib Fundamentals Part 1]]
+- [[Matplotlib Fundamentals Part 2]]

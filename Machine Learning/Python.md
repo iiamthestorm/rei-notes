@@ -1,0 +1,2 @@
+- [[Python Fundamentals Part 1]]
+- [[Python Fundamentals Part 2]]

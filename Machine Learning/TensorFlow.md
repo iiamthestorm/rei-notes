@@ -1,0 +1,2 @@
+- [[TensorFlow Fundamentals Part 1]]
+	- [[CNN]]

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Machine Learning/TensorFlow.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Machine Learning/TensorFlow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Machine Learning/TensorFlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Machine Learning.md"
+                "file": "Machine Learning/TensorFlow.md"
               }
             }
           },
@@ -192,15 +192,15 @@
   },
   "active": "01fe0433738d2d0f",
   "lastOpenFiles": [
-    "Machine Learning.md",
-    "Web Development/JavaScript Fundamentals Part 2.md",
-    "Web Development/JavaScript Fundamentals Part 1.md",
-    "Web Development/SQL Fundamentals Part 1.md",
-    "Praktikum ADM/Praktikum ADM.md",
-    "Praktikum ADM/Praktikum ADM 1.md",
-    "Praktikum ADM/Praktikum ADM 4.md",
-    "Web Development/Web Development.md",
-    "Web Development.md",
-    "Front-End.md"
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning/Matplotlib.md",
+    "Machine Learning/CNN.md",
+    "Machine Learning/TensorFlow.md",
+    "Machine Learning/TensorFlow Fundamentals Part 2.md",
+    "Machine Learning/TensorFlow Fundamentals Part 1.md",
+    "Machine Learning/Matplotlib Fundamentals Part 1.md",
+    "Machine Learning/Pandas.md",
+    "Machine Learning/Python.md",
+    "Machine Learning/Python Fundamentals Part 1.md"
   ]
 }
