@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Web Development",
-      "path": "Web Development.md"
+      "basename": "Front-End",
+      "path": "Front-End.md"
+    },
+    {
+      "basename": "CSS Box Model",
+      "path": "CSS Box Model.md"
     },
     {
       "basename": "HTML",
       "path": "HTML.md"
     },
     {
-      "basename": "Front-End",
-      "path": "Front-End.md"
-    },
-    {
       "basename": "CSS",
       "path": "CSS.md"
+    },
+    {
+      "basename": "CSS FlexBox",
+      "path": "CSS FlexBox.md"
+    },
+    {
+      "basename": "CSS Syntax & Selectors",
+      "path": "CSS Syntax & Selectors.md"
+    },
+    {
+      "basename": "Web Development",
+      "path": "Web Development.md"
+    },
+    {
+      "basename": "HTML Foundations Part 1",
+      "path": "HTML Foundations Part 1.md"
+    },
+    {
+      "basename": "HTML Foundations Part 2",
+      "path": "HTML Foundations Part 2.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "SQL.md"
+    },
+    {
+      "basename": "NodeJs",
+      "path": "NodeJs.md"
+    },
+    {
+      "basename": "Back-End",
+      "path": "Back-End.md"
     },
     {
       "basename": "JavaScript",

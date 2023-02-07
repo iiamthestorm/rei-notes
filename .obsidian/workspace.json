@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97a7df0f93f64f01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Back-End.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bf0718e94c8ce52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NodeJs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0221ff55af586f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-End.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development.md",
+                "file": "Front-End.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development.md",
+                "file": "Front-End.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development.md"
+                "file": "Front-End.md"
               }
             }
           },
@@ -181,17 +218,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f31359804766984e",
+  "active": "0221ff55af586f86",
   "lastOpenFiles": [
-    "cieses property.md",
-    "jafaskrip variable.md",
-    "jafaskrip syntax.md",
-    "HTML.md",
+    "CSS Box Model.md",
     "Front-End.md",
+    "HTML.md",
     "CSS.md",
+    "CSS FlexBox.md",
     "CSS Syntax & Selectors.md",
-    "JavaScript.md",
+    "Web Development.md",
+    "HTML Foundations Part 1.md",
     "HTML Foundations Part 2.md",
-    "HTML Foundations Part 1.md"
+    "SQL.md"
   ]
 }

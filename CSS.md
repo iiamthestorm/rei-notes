@@ -1,2 +1,1 @@
-- [[CSS Syntax & Selectors]]
-- [[cieses property]]
+- 
