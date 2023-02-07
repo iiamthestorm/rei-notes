@@ -1,28 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "NLP",
+      "path": "Machine Learning/NLP.md"
+    },
+    {
       "basename": "TensorFlow",
       "path": "Machine Learning/TensorFlow.md"
-    },
-    {
-      "basename": "Machine Learning",
-      "path": "Machine Learning/Machine Learning.md"
-    },
-    {
-      "basename": "Matplotlib",
-      "path": "Machine Learning/Matplotlib.md"
     },
     {
       "basename": "CNN",
       "path": "Machine Learning/CNN.md"
     },
     {
+      "basename": "TensorFlow Fundamentals Part 1",
+      "path": "Machine Learning/TensorFlow Fundamentals Part 1.md"
+    },
+    {
+      "basename": "Machine Learning",
+      "path": "Machine Learning/Machine Learning.md"
+    },
+    {
       "basename": "TensorFlow Fundamentals Part 2",
       "path": "Machine Learning/TensorFlow Fundamentals Part 2.md"
     },
     {
-      "basename": "TensorFlow Fundamentals Part 1",
-      "path": "Machine Learning/TensorFlow Fundamentals Part 1.md"
+      "basename": "Time Series Fundamentals Part 1",
+      "path": "Machine Learning/Time Series Fundamentals Part 1.md"
+    },
+    {
+      "basename": "TFLite",
+      "path": "Machine Learning/TFLite.md"
+    },
+    {
+      "basename": "Time Series Fundamentals Part 2",
+      "path": "Machine Learning/Time Series Fundamentals Part 2.md"
+    },
+    {
+      "basename": "Matplotlib",
+      "path": "Machine Learning/Matplotlib.md"
     },
     {
       "basename": "Matplotlib Fundamentals Part 1",
@@ -49,18 +65,6 @@
       "path": "Machine Learning/TFLite Fundamentals Part 1.md"
     },
     {
-      "basename": "TFLite",
-      "path": "Machine Learning/TFLite.md"
-    },
-    {
-      "basename": "Time Series Fundamentals Part 2",
-      "path": "Machine Learning/Time Series Fundamentals Part 2.md"
-    },
-    {
-      "basename": "Time Series Fundamentals Part 1",
-      "path": "Machine Learning/Time Series Fundamentals Part 1.md"
-    },
-    {
       "basename": "Time Series",
       "path": "Machine Learning/Time Series.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "NLP Fundamentals Part 1",
       "path": "Machine Learning/NLP Fundamentals Part 1.md"
-    },
-    {
-      "basename": "NLP",
-      "path": "Machine Learning/NLP.md"
     },
     {
       "basename": "CNN Fundamentals Part 2",

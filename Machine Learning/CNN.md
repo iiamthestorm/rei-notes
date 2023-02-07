@@ -1,0 +1,2 @@
+- [[CNN Fundamentals Part 1]
+- [[CNN Fundamentals Part 2]]
