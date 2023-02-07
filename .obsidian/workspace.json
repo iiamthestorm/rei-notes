@@ -11,12 +11,8 @@
             "id": "58d8c23a36048b2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,6 +177,7 @@
   },
   "active": "58d8c23a36048b2c",
   "lastOpenFiles": [
+    "Web Development/JavaScript Fundamentals Part 2.md",
     "Machine Learning/TensorFlow.md",
     "Machine Learning/Machine Learning.md",
     "Machine Learning/TensorFlow Fundamentals Part 2.md",
@@ -192,7 +186,6 @@
     "Machine Learning/CNN.md",
     "Machine Learning/Matplotlib.md",
     "Machine Learning/TFLite Fundamentals Part 1.md",
-    "Machine Learning/Time Series.md",
-    "Machine Learning/NLP.md"
+    "Machine Learning/Time Series.md"
   ]
 }
