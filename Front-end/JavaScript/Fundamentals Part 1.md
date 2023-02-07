@@ -328,8 +328,19 @@ There are many operators in JavaScript. Every operator has a corresponding prece
 
 Here’s an extract from the precedence table (you don’t need to remember this, but note that unary operators are higher than corresponding binary ones):
 
-| Precedence | Name       | Sign |
-| ---------- | ---------- | ---- |
-| ...        | ...        | ...  |
-| 14         | unary plus | +    |
-| 14           |  unary negation          |      |
+| Precedence | Name           | Sign |
+| ---------- | -------------- | ---- |
+| ...        | ...            | ...  |
+| 14         | unary plus     | +    |
+| 14         | unary negation | -    |
+| 13         | exponentiation | **   |
+| 12         | multiplication | *    |
+| 12         | division       | /    |
+| 11         | addition       | +    |
+| 11         | substraction   | -    |
+| ...        | ...            | ...  |
+| 2          | assignment     | =    |
+| ...           |   ...             | ...     |
+
+As we can see, the “unary plus” has a priority of 14 which is higher than the 11 of “addition” (binary plus). That’s why, in the expression "+apples + +oranges", unary pluses work before the addition.
+
