@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d2df4b530394e736",
+        "id": "640b7f1d94275eb3",
         "type": "tabs",
         "children": [
           {
-            "id": "f455987faecc768b",
+            "id": "4cc91de61d22b6af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/JavaScript/Fundamentals Part 1.md",
+                "file": "Atomic Habit.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8906746a4084a68f",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/JavaScript/Fundamentals Part 1.md",
+                "file": "Atomic Habit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/JavaScript/Fundamentals Part 1.md",
+                "file": "Atomic Habit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/JavaScript/Fundamentals Part 1.md"
+                "file": "Atomic Habit.md"
               }
             }
           },
@@ -163,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +181,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f455987faecc768b",
+  "active": "4cc91de61d22b6af",
   "lastOpenFiles": [
     "Front-end/JavaScript/Fundamentals Part 1.md",
     "Front-end/Front-end.md",
@@ -194,6 +192,6 @@
     "Front-end/JavaScript/JavaScript.md",
     "Front-end/CSS/CSS.md",
     "Front-end/CSS/Box Model.md",
-    "Untitled.md"
+    "Atomic Habit.md"
   ]
 }
