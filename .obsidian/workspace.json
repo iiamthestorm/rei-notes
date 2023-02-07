@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Front-end/JavaScript/Fundamentals Part 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,14 +153,21 @@
                 "file": "Front-end/JavaScript/Fundamentals Part 1.md"
               }
             }
+          },
+          {
+            "id": "2835b1678a9f4723",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,7 +178,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "4fc2450dcb114554",
