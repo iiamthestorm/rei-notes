@@ -1,0 +1,2 @@
+- [[SQL Fundamentals Part 1]]
+- [[SQL Fundamentals Part 2]]

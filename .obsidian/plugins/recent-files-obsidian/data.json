@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "SQL",
+      "path": "SQL.md"
+    },
+    {
+      "basename": "Back-End",
+      "path": "Back-End.md"
+    },
+    {
+      "basename": "NodeJs",
+      "path": "NodeJs.md"
+    },
+    {
+      "basename": "Apache",
+      "path": "Apache.md"
+    },
+    {
+      "basename": "Apache Fundamentals Part 2",
+      "path": "Apache Fundamentals Part 2.md"
+    },
+    {
+      "basename": "Apache Fundamentals Part 1",
+      "path": "Apache Fundamentals Part 1.md"
+    },
+    {
+      "basename": "SQL Fundamentals Part 1",
+      "path": "SQL Fundamentals Part 1.md"
+    },
+    {
+      "basename": "SQL Fundamentals Part 2",
+      "path": "SQL Fundamentals Part 2.md"
+    },
+    {
+      "basename": "NodeJs Fundamentals Part 2",
+      "path": "NodeJs Fundamentals Part 2.md"
+    },
+    {
+      "basename": "NodeJs Fundamentals Part 1",
+      "path": "NodeJs Fundamentals Part 1.md"
+    },
+    {
       "basename": "JavaScript",
       "path": "JavaScript.md"
     },
@@ -47,18 +87,6 @@
     {
       "basename": "Web Development",
       "path": "Web Development.md"
-    },
-    {
-      "basename": "NodeJs",
-      "path": "NodeJs.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "SQL.md"
-    },
-    {
-      "basename": "Back-End",
-      "path": "Back-End.md"
     },
     {
       "basename": "Pasted image 20230204151618",

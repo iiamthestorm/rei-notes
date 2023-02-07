@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "487a6e3e430f9f66",
+        "id": "3c0a98a6e93a6c19",
         "type": "tabs",
         "children": [
           {
-            "id": "0221ff55af586f86",
+            "id": "0115fecaca0f3fbb",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -173,17 +173,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0221ff55af586f86",
+  "active": "0115fecaca0f3fbb",
   "lastOpenFiles": [
-    "JavaScript.md",
-    "JavaScript Fundamentals Part 2.md",
-    "JavaScript Fundamentals Part 1.md",
-    "Front-End.md",
-    "CSS FlexBox.md",
-    "CSS Box Model.md",
-    "CSS Syntax & Selectors.md",
-    "CSS.md",
-    "HTML Fundamentals Part 2.md",
-    "HTML Fundamentals Part 1.md"
+    "SQL.md",
+    "Back-End.md",
+    "NodeJs.md",
+    "Apache.md",
+    "Apache Fundamentals Part 2.md",
+    "Apache Fundamentals Part 1.md",
+    "SQL Fundamentals Part 1.md",
+    "SQL Fundamentals Part 2.md",
+    "NodeJs Fundamentals Part 2.md",
+    "NodeJs Fundamentals Part 1.md"
   ]
 }
