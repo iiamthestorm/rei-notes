@@ -2,4 +2,8 @@
 	- [[hatemel syntax]]
 	- [[hatemel selector]]
 - [[cieses]]
-	- 
+	- [[cieses syntax]]
+	- [[cieses property]]
+- [[jafaskrip]]
+	- [[jafaskrip syntax]]
+	- [[jafaskrip variable]]

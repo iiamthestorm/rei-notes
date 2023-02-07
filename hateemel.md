@@ -1,4 +1,2 @@
-- asd
-	- sasd
-	- as
-		- 
+- [[hatemel syntax]]
+- [[hatemel selector]]

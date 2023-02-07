@@ -1,0 +1,2 @@
+- [[jafaskrip syntax]]
+- [[jafaskrip variable]]
