@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a5b02dd6babd19b",
+        "id": "a9dee0163e47a4d3",
         "type": "tabs",
         "children": [
           {
-            "id": "ff514023ed30e173",
+            "id": "4b6d2033abc2e037",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -173,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff514023ed30e173",
+  "active": "4b6d2033abc2e037",
   "lastOpenFiles": [
     "Web Development.md",
     "Front-End.md",
