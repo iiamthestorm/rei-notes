@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Web Development",
+      "path": "Web Development.md"
+    },
+    {
+      "basename": "Front-End",
+      "path": "Front-End.md"
+    },
+    {
+      "basename": "HTML Fundamentals Part 2",
+      "path": "HTML Fundamentals Part 2.md"
+    },
+    {
+      "basename": "HTML Fundamentals Part 1",
+      "path": "HTML Fundamentals Part 1.md"
+    },
+    {
       "basename": "CSS Box Model",
       "path": "CSS Box Model.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "JavaScript Fundamentals Part 1",
       "path": "JavaScript Fundamentals Part 1.md"
-    },
-    {
-      "basename": "Web Development",
-      "path": "Web Development.md"
     },
     {
       "basename": "NodeJs Fundamentals Part 1",
@@ -61,10 +73,6 @@
       "path": "JavaScript Fundamentals Part 2.md"
     },
     {
-      "basename": "Front-End",
-      "path": "Front-End.md"
-    },
-    {
       "basename": "CSS FlexBox",
       "path": "CSS FlexBox.md"
     },
@@ -75,14 +83,6 @@
     {
       "basename": "CSS",
       "path": "CSS.md"
-    },
-    {
-      "basename": "HTML Fundamentals Part 2",
-      "path": "HTML Fundamentals Part 2.md"
-    },
-    {
-      "basename": "HTML Fundamentals Part 1",
-      "path": "HTML Fundamentals Part 1.md"
     },
     {
       "basename": "HTML",
