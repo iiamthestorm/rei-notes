@@ -1,2 +1,2 @@
-- [[jafaskrip syntax]]
-- [[jafaskrip variable]]
+- [[JavaScript Fundamentals Part 1]]
+- [[JavaScript Fundamentals Part 2]]

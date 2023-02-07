@@ -1,28 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "CSS",
-      "path": "CSS.md"
-    },
-    {
       "basename": "JavaScript",
       "path": "JavaScript.md"
-    },
-    {
-      "basename": "Back-End",
-      "path": "Back-End.md"
-    },
-    {
-      "basename": "Web Development",
-      "path": "Web Development.md"
-    },
-    {
-      "basename": "HTML Fundamentals Part 2",
-      "path": "HTML Fundamentals Part 2.md"
-    },
-    {
-      "basename": "HTML Fundamentals Part 1",
-      "path": "HTML Fundamentals Part 1.md"
     },
     {
       "basename": "JavaScript Fundamentals Part 2",
@@ -33,32 +13,52 @@
       "path": "JavaScript Fundamentals Part 1.md"
     },
     {
-      "basename": "CSS Syntax & Selectors",
-      "path": "CSS Syntax & Selectors.md"
-    },
-    {
-      "basename": "CSS Box Model",
-      "path": "CSS Box Model.md"
+      "basename": "Front-End",
+      "path": "Front-End.md"
     },
     {
       "basename": "CSS FlexBox",
       "path": "CSS FlexBox.md"
     },
     {
-      "basename": "Front-End",
-      "path": "Front-End.md"
+      "basename": "CSS Box Model",
+      "path": "CSS Box Model.md"
+    },
+    {
+      "basename": "CSS Syntax & Selectors",
+      "path": "CSS Syntax & Selectors.md"
+    },
+    {
+      "basename": "CSS",
+      "path": "CSS.md"
+    },
+    {
+      "basename": "HTML Fundamentals Part 2",
+      "path": "HTML Fundamentals Part 2.md"
+    },
+    {
+      "basename": "HTML Fundamentals Part 1",
+      "path": "HTML Fundamentals Part 1.md"
     },
     {
       "basename": "HTML",
       "path": "HTML.md"
     },
     {
-      "basename": "SQL",
-      "path": "SQL.md"
+      "basename": "Web Development",
+      "path": "Web Development.md"
     },
     {
       "basename": "NodeJs",
       "path": "NodeJs.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "SQL.md"
+    },
+    {
+      "basename": "Back-End",
+      "path": "Back-End.md"
     },
     {
       "basename": "Pasted image 20230204151618",

@@ -11,12 +11,8 @@
             "id": "0221ff55af586f86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,14 +176,14 @@
   "active": "0221ff55af586f86",
   "lastOpenFiles": [
     "JavaScript.md",
-    "Back-End.md",
-    "Web Development.md",
-    "HTML Fundamentals Part 2.md",
-    "HTML Fundamentals Part 1.md",
     "JavaScript Fundamentals Part 2.md",
     "JavaScript Fundamentals Part 1.md",
+    "Front-End.md",
+    "CSS FlexBox.md",
+    "CSS Box Model.md",
     "CSS Syntax & Selectors.md",
     "CSS.md",
-    "CSS Box Model.md"
+    "HTML Fundamentals Part 2.md",
+    "HTML Fundamentals Part 1.md"
   ]
 }
