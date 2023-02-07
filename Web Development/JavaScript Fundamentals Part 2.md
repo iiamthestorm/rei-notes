@@ -249,3 +249,42 @@ text = text.replaceAll("cats","dogs");
 
 console.log(text);
 ```
+The `replaceAll()` method allows you to specify a regular expression instead of a string to be replaced.
+
+If the parameter is a regular expression, the global flag (g) must be set set, otherwise a TypeError is thrown.
+```js
+let text = "I love cats. Cats are very easy to love. Cats are very popular";
+text = text.replaceAll(/Cats/g,"Dogs");
+text = text.replaceAll(/cats/g,"dogs");
+
+console.log(text);
+```
+```ad-info
+
+`replaceAll()` is an [ES2021](https://www.w3schools.com/js/js_2021.asp) feature.
+`replaceAll()` does not work in Internet Explorer.
+```
+
+
+
+
+
+
+
+### Converting to Upper and Lower Case
+A string is converted to upper case with `toUpperCase()`:
+A string is converted to lower case with `toLowerCase()`:
+#### JavaScript String toUpperCase()
+```js
+let text1 = "Hello World!";
+let text2 = text1.toUpperCase();
+
+console.log(text2);
+```
+#### JavaScript String toLowerCase()
+```js
+let text1 = "Hello World!";       // String
+let text2 = text1.toLowerCase();  // text2 is text1 converted to lower
+
+console.log(text2);
+```
