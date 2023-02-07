@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "JavaScript Fundamentals Part 2",
+      "path": "Web Development/JavaScript Fundamentals Part 2.md"
+    },
+    {
+      "basename": "JavaScript Fundamentals Part 1",
+      "path": "Web Development/JavaScript Fundamentals Part 1.md"
+    },
+    {
+      "basename": "TensorFlow Fundamentals Part 1",
+      "path": "Machine Learning/TensorFlow Fundamentals Part 1.md"
+    },
+    {
       "basename": "Praktikum ADM",
       "path": "Praktikum ADM/Praktikum ADM.md"
     },
@@ -9,16 +21,8 @@
       "path": "Praktikum ADM/Praktikum ADM 1.md"
     },
     {
-      "basename": "JavaScript Fundamentals Part 2",
-      "path": "Web Development/JavaScript Fundamentals Part 2.md"
-    },
-    {
       "basename": "Apache",
       "path": "Web Development/Apache.md"
-    },
-    {
-      "basename": "JavaScript Fundamentals Part 1",
-      "path": "Web Development/JavaScript Fundamentals Part 1.md"
     },
     {
       "basename": "SQL Fundamentals Part 1",
