@@ -11,8 +11,12 @@
             "id": "58d8c23a36048b2c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Praktikum ADM/Praktikum ADM.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8906746a4084a68f",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Praktikum ADM/Praktikum ADM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Praktikum ADM/Praktikum ADM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Praktikum ADM/Praktikum ADM.md"
+              }
             }
           },
           {
@@ -177,6 +184,8 @@
   },
   "active": "58d8c23a36048b2c",
   "lastOpenFiles": [
+    "Praktikum ADM/Praktikum ADM 1.md",
+    "Praktikum ADM/Praktikum ADM.md",
     "Web Development/JavaScript Fundamentals Part 2.md",
     "Machine Learning/TensorFlow.md",
     "Machine Learning/Machine Learning.md",
@@ -184,8 +193,6 @@
     "Machine Learning/TFLite.md",
     "Machine Learning/TensorFlow Fundamentals Part 1.md",
     "Machine Learning/CNN.md",
-    "Machine Learning/Matplotlib.md",
-    "Machine Learning/TFLite Fundamentals Part 1.md",
-    "Machine Learning/Time Series.md"
+    "Machine Learning/Matplotlib.md"
   ]
 }

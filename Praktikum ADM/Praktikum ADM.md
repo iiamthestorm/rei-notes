@@ -1,5 +1,11 @@
 Notes ini dibuat untuk mendokumentasi hal hal apa saja yang dipelajari pada praktikum adm. 
 - [[Praktikum ADM 1]]
+	- [[Praktikum ADM 1#Cara cek ip address]]
+	- [[Praktikum ADM 1#Cara melihat versi linux Centos nya]]
+	- [[Praktikum ADM 1#Cara mengupdate versi linux Centos nya]]
+	- [[Praktikum ADM 1#Syntax-Syntax Linux Centos]]
+	- [[Praktikum ADM 1#SELinux pada Centos7]]
 - [[Praktikum ADM 2]]
+	- [[p]]
 - [[Praktikum ADM 3]]
 - [[Praktikum ADM 4]]
