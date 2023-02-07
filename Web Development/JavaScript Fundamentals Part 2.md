@@ -171,3 +171,10 @@ let part = text.slice(-12);
 
 console.log(part);
 ```
+This example slices out a portion of a string from position -12 to position -6:
+```js
+let text = "Apple, Banana, Kiwi";
+let part = text.slice(-12, -6);
+
+console.log(part);
+```
