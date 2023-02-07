@@ -178,3 +178,39 @@ let part = text.slice(-12, -6);
 
 console.log(part);
 ```
+
+#### JavaScript String substring()
+`substring()` is similar to `slice()`.
+
+The difference is that start and end values less than 0 are treated as 0 in `substring()`.
+
+```ad-hint
+
+It means that you can't five minus value as it will be treated as 0.
+```
+If you omit the second parameter, `substring()` will slice out the rest of the string.
+
+#### JavaScript String substr()
+`substr()` is similar to `slice()`.
+
+The difference is that the second parameter specifies the **length** of the extracted part.
+
+
+
+
+
+
+
+
+
+
+
+
+### Replacing String Content
+The `replace()` method replaces a specified value with another value in a string:
+```js
+let text = "Please visit Microsoft!";
+let newText = text.replace("Microsoft", "W3Schools");
+
+console.log(newText);
+```
