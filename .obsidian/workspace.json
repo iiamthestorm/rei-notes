@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a438516eaf8358e8",
+        "id": "d2df4b530394e736",
         "type": "tabs",
         "children": [
           {
-            "id": "bb217631f08d6521",
+            "id": "f455987faecc768b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Front-end/JavaScript/Fundamentals Part 1.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8906746a4084a68f",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Front-end/JavaScript/Fundamentals Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Front-end/JavaScript/Fundamentals Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Front-end/JavaScript/Fundamentals Part 1.md"
+              }
             }
           },
           {
@@ -175,7 +182,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb217631f08d6521",
+  "active": "f455987faecc768b",
   "lastOpenFiles": [
     "Front-end/JavaScript/Fundamentals Part 1.md",
     "Front-end/Front-end.md",
