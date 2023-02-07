@@ -304,3 +304,6 @@ https://www.w3schools.com/js/js_string_methods.asp
 
 
 ## Conditionals
+- if else : https://www.w3schools.com/js/js_if_else.asp
+- logical operators : https://javascript.info/logical-operators
+- 
