@@ -120,3 +120,6 @@ alert(age); // "undefined"
 ```
 
 ## Data Types (Continuation)
+### String (Continuation)
+There is no difference between " " and ' ' in string. You can choose one of them and stick with it.
+
