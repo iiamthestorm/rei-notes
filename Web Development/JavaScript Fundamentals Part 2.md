@@ -139,4 +139,35 @@ console.log(length);
 There are 3 methods for extracting a part of a string:
 -   `slice(_start_, _end_)`
 -   `substring(_start_, _end_)`
--   `substr(_start_, _length_)`j
+-   `substr(_start_, _length_)`
+
+#### JavaScript String slice()
+`slice()` extracts a part of a string and returns the extracted part in a new string.
+
+The method takes 2 parameters: start position, and end position (end not included).
+```js
+let text = "Apple, Banana, Kiwi";
+let part = text.slice(7, 13);
+
+console.log(part);
+```
+```ad-attention
+
+JavaScript counts positions from zero.
+First position is 0.
+Second position is 1.
+```
+If you omit the second parameter, the method will slice out the rest of the string:
+```js
+let text = "Apple, Banana, Kiwi";  
+let part = text.slice(7);
+
+console.log(part);
+```
+If a parameter is negative, the position is counted from the end of the string:
+```js
+let text = "Apple, Banana, Kiwi";
+let part = text.slice(-12);
+
+console.log(part);
+```
