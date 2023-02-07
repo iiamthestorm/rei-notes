@@ -118,3 +118,5 @@ alert(age); // "undefined"
 
 …But we don’t recommend doing that. Normally, one uses `null` to assign an “empty” or “unknown” value to a variable, while `undefined` is reserved as a default initial value for unassigned things.
 ```
+
+## Data Types (Continuation)
