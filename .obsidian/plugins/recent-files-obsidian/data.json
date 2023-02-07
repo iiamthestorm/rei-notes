@@ -5,24 +5,24 @@
       "path": "Machine Learning/Machine Learning.md"
     },
     {
-      "basename": "Python",
-      "path": "Machine Learning/Python.md"
+      "basename": "TensorFlow",
+      "path": "Machine Learning/TensorFlow.md"
     },
     {
-      "basename": "Python Fundamentals Part 1",
-      "path": "Machine Learning/Python Fundamentals Part 1.md"
+      "basename": "TensorFlow Fundamentals Part 1",
+      "path": "Machine Learning/TensorFlow Fundamentals Part 1.md"
     },
     {
       "basename": "CNN",
       "path": "Machine Learning/CNN.md"
     },
     {
-      "basename": "Apache",
-      "path": "Web Development/Apache.md"
+      "basename": "Matplotlib",
+      "path": "Machine Learning/Matplotlib.md"
     },
     {
-      "basename": "TensorFlow",
-      "path": "Machine Learning/TensorFlow.md"
+      "basename": "TensorFlow Fundamentals Part 2",
+      "path": "Machine Learning/TensorFlow Fundamentals Part 2.md"
     },
     {
       "basename": "TFLite",
@@ -33,8 +33,28 @@
       "path": "Machine Learning/TFLite Fundamentals Part 1.md"
     },
     {
-      "basename": "TensorFlow Fundamentals Part 2",
-      "path": "Machine Learning/TensorFlow Fundamentals Part 2.md"
+      "basename": "Time Series",
+      "path": "Machine Learning/Time Series.md"
+    },
+    {
+      "basename": "NLP",
+      "path": "Machine Learning/NLP.md"
+    },
+    {
+      "basename": "Pandas",
+      "path": "Machine Learning/Pandas.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Machine Learning/Python.md"
+    },
+    {
+      "basename": "Python Fundamentals Part 1",
+      "path": "Machine Learning/Python Fundamentals Part 1.md"
+    },
+    {
+      "basename": "Apache",
+      "path": "Web Development/Apache.md"
     },
     {
       "basename": "Time Series Fundamentals Part 2",
@@ -45,10 +65,6 @@
       "path": "Machine Learning/Time Series Fundamentals Part 1.md"
     },
     {
-      "basename": "Time Series",
-      "path": "Machine Learning/Time Series.md"
-    },
-    {
       "basename": "NLP Fundamentals Part 1",
       "path": "Machine Learning/NLP Fundamentals Part 1.md"
     },
@@ -57,32 +73,16 @@
       "path": "Machine Learning/NLP Fundamentals Part 2.md"
     },
     {
-      "basename": "NLP",
-      "path": "Machine Learning/NLP.md"
-    },
-    {
       "basename": "CNN Fundamentals Part 1",
       "path": "Machine Learning/CNN Fundamentals Part 1.md"
-    },
-    {
-      "basename": "TensorFlow Fundamentals Part 1",
-      "path": "Machine Learning/TensorFlow Fundamentals Part 1.md"
     },
     {
       "basename": "Python Fundamentals Part 2",
       "path": "Machine Learning/Python Fundamentals Part 2.md"
     },
     {
-      "basename": "Matplotlib",
-      "path": "Machine Learning/Matplotlib.md"
-    },
-    {
       "basename": "Matplotlib Fundamentals Part 1",
       "path": "Machine Learning/Matplotlib Fundamentals Part 1.md"
-    },
-    {
-      "basename": "Pandas",
-      "path": "Machine Learning/Pandas.md"
     },
     {
       "basename": "TFLite Fundamentals Part 2",

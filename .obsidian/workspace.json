@@ -184,15 +184,15 @@
   },
   "active": "dcd3996ace3908c1",
   "lastOpenFiles": [
-    "Machine Learning/Python.md",
-    "Machine Learning/Machine Learning.md",
-    "Machine Learning/Python Fundamentals Part 1.md",
-    "Machine Learning/CNN.md",
-    "Web Development/Apache.md",
     "Machine Learning/TensorFlow.md",
+    "Machine Learning/TensorFlow Fundamentals Part 1.md",
+    "Machine Learning/CNN.md",
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning/Matplotlib.md",
+    "Machine Learning/TensorFlow Fundamentals Part 2.md",
     "Machine Learning/TFLite.md",
     "Machine Learning/TFLite Fundamentals Part 1.md",
-    "Machine Learning/TensorFlow Fundamentals Part 2.md",
-    "Machine Learning/Time Series Fundamentals Part 2.md"
+    "Machine Learning/Time Series.md",
+    "Machine Learning/NLP.md"
   ]
 }
