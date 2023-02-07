@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a9dee0163e47a4d3",
+        "id": "14397eba78978bbf",
         "type": "tabs",
         "children": [
           {
-            "id": "4b6d2033abc2e037",
+            "id": "9b06feeea107d13b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -173,17 +173,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b6d2033abc2e037",
+  "active": "9b06feeea107d13b",
   "lastOpenFiles": [
+    "Praktikum ADM/Praktikum ADM.md",
+    "Praktikum ADM/Praktikum ADM 1.md",
+    "Praktikum ADM/Praktikum ADM 4.md",
+    "Web Development/Web Development.md",
     "Web Development.md",
     "Front-End.md",
     "HTML Fundamentals Part 2.md",
     "HTML Fundamentals Part 1.md",
     "CSS Box Model.md",
-    "JavaScript.md",
-    "JavaScript Fundamentals Part 1.md",
-    "NodeJs Fundamentals Part 1.md",
-    "NodeJs.md",
-    "Back-End.md"
+    "JavaScript.md"
   ]
 }
