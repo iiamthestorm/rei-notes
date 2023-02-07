@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "52d8a6a15ddf6421",
+        "id": "10ffaf5c8fa29628",
         "type": "tabs",
         "children": [
           {
-            "id": "228a40e79869815b",
+            "id": "dcd3996ace3908c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/NLP.md",
+                "file": "Machine Learning/Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/NLP.md",
+                "file": "Machine Learning/Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/NLP.md",
+                "file": "Machine Learning/Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/NLP.md"
+                "file": "Machine Learning/Machine Learning.md"
               }
             }
           },
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,17 +182,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "228a40e79869815b",
+  "active": "dcd3996ace3908c1",
   "lastOpenFiles": [
-    "Machine Learning/TensorFlow.md",
-    "Machine Learning/NLP.md",
-    "Machine Learning/CNN.md",
-    "Machine Learning/TensorFlow Fundamentals Part 1.md",
+    "Machine Learning/Python.md",
     "Machine Learning/Machine Learning.md",
-    "Machine Learning/TensorFlow Fundamentals Part 2.md",
-    "Machine Learning/Time Series Fundamentals Part 1.md",
+    "Machine Learning/Python Fundamentals Part 1.md",
+    "Machine Learning/CNN.md",
+    "Web Development/Apache.md",
+    "Machine Learning/TensorFlow.md",
     "Machine Learning/TFLite.md",
-    "Machine Learning/Time Series Fundamentals Part 2.md",
-    "Machine Learning/Matplotlib.md"
+    "Machine Learning/TFLite Fundamentals Part 1.md",
+    "Machine Learning/TensorFlow Fundamentals Part 2.md",
+    "Machine Learning/Time Series Fundamentals Part 2.md"
   ]
 }

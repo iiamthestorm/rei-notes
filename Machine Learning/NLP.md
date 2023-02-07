@@ -1,0 +1,2 @@
+- [[NLP Fundamentals Part 1]]
+- [[NLP Fundamentals Part 2]]
