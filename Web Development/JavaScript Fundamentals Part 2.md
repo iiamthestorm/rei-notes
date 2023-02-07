@@ -214,3 +214,38 @@ let newText = text.replace("Microsoft", "W3Schools");
 
 console.log(newText);
 ```
+```ad-info
+
+The `replace()` method does not change the string it is called on.
+The `replace()` method returns a new string.
+The `replace()` method replaces **only the first** match
+If you want to replace all matches, use a regular expression with the /g flag set. See examples below.
+```
+To replace case insensitive, use a **regular expression** with an `/i` flag (insensitive):
+```js
+let text = "Please visit Microsoft!";
+let newText = text.replace(/MICROSOFT/i, "W3Schools");
+
+console.log(newText);
+```
+```ad-info
+
+Regular expressions are written without quotes.
+```
+To replace all matches, use a **regular expression** with a `/g` flag (global match):
+```js
+let text = "Please visit Microsoft and Microsoft!";
+let newText = text.replace(/Microsoft/g, "W3Schools");
+
+console.log(newText);
+```
+
+### JavaScript String ReplaceAll()
+In 2021, JavaScript introduced the string method replaceAll():
+```js
+let text = "I love cats. Cats are very easy to love. Cats are very popular."
+text = text.replaceAll("Cats","Dogs");
+text = text.replaceAll("cats","dogs");
+
+console.log(text);
+```
