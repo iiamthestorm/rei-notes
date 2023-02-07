@@ -56,5 +56,65 @@ alert( `Hello, ${name}!` ); // Hello, John!
 alert( `the result is ${1 + 2}` ); // the result is 3
 ```
 The expression inside `${…}` is evaluated and the result becomes a part of the string. We can put anything in there: a variable like `name` or an arithmetical expression like `1 + 2` or something more complex.
+```ad-important
 
 Please note that this can only be done in backticks. Other quotes don’t have this embedding functionality!
+```
+```js
+console.log( "the result is ${1 + 2}" ); // the result is ${1 + 2} (double quotes do nothing)
+```
+
+### Boolean (logical type)
+The boolean type has only two values: `true` and `false`.
+
+This type is commonly used to store yes/no values: `true` means “yes, correct”, and `false` means “no, incorrect”.
+
+For instance:
+```js
+let nameFieldChecked = true; // yes, name field is checked
+let ageFieldChecked = false; // no, age field is not checked
+```
+Boolean values also come as a result of comparisons:
+```js
+let isGreater = 4 > 1;
+
+alert( isGreater ); // true (the comparison result is "yes")
+```
+
+### The "Null" value
+The special `null` value does not belong to any of the types described above.
+
+It forms a separate type of its own which contains only the `null` value:
+```js
+let age = null;
+```
+In JavaScript, `null` is not a “reference to a non-existing object” or a “null pointer” like in some other languages.
+
+It’s just a special value which represents “nothing”, “empty” or “value unknown”.
+
+The code above states that `age` is unknown.
+
+### The "undefined" value
+The special value `undefined` also stands apart. It makes a type of its own, just like `null`.
+
+The meaning of `undefined` is “value is not assigned”.
+
+If a variable is declared, but not assigned, then its value is `undefined`:
+```js
+let age;
+
+alert(age); // shows "undefined"
+```
+Technically, it is possible to explicitly assign `undefined` to a variable:
+```js
+let age = 100;
+
+// change the value to undefined
+age = undefined;
+
+alert(age); // "undefined"
+```
+```ad-tip
+
+…But we don’t recommend doing that. Normally, one uses `null` to assign an “empty” or “unknown” value to a variable, while `undefined` is reserved as a default initial value for unassigned things.
+```
