@@ -288,3 +288,19 @@ let text2 = text1.toLowerCase();  // text2 is text1 converted to lower
 
 console.log(text2);
 ```
+
+
+
+
+
+```ad-note
+
+and so on... so on...
+i'm not gonna summarize them here, but check this link if you want to see the resource :
+https://www.w3schools.com/js/js_string_methods.asp
+```
+
+
+
+
+## Conditionals
