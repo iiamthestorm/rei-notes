@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Fundamentals Part 1",
+      "path": "Front-end/JavaScript/Fundamentals Part 1.md"
+    },
+    {
       "basename": "Front-end",
       "path": "Front-end/Front-end.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "HTML Foundations Part 2",
       "path": "Front-end/HTML/HTML Foundations Part 2.md"
-    },
-    {
-      "basename": "Fundamentals Part 1",
-      "path": "Front-end/JavaScript/Fundamentals Part 1.md"
     },
     {
       "basename": "Syntax & Selectors",
