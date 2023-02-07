@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Atomic Habit",
-      "path": "Atomic Habit.md"
+      "basename": "HTML Foundations Part 1",
+      "path": "Front-end/HTML/HTML Foundations Part 1.md"
+    },
+    {
+      "basename": "HTML",
+      "path": "Front-end/HTML/HTML.md"
+    },
+    {
+      "basename": "hateemel",
+      "path": "hateemel.md"
     },
     {
       "basename": "Fundamentals Part 1",
@@ -25,10 +33,6 @@
       "path": "Back-end/Nodejs/Nodejs.md"
     },
     {
-      "basename": "HTML",
-      "path": "Front-end/HTML/HTML.md"
-    },
-    {
       "basename": "JavaScript",
       "path": "Front-end/JavaScript/JavaScript.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Box Model",
       "path": "Front-end/CSS/Box Model.md"
-    },
-    {
-      "basename": "HTML Foundations Part 1",
-      "path": "Front-end/HTML/HTML Foundations Part 1.md"
     },
     {
       "basename": "HTML Foundations Part 2",

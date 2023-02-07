@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Habit.md",
+                "file": "Front-end/HTML/HTML Foundations Part 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Habit.md",
+                "file": "Front-end/HTML/HTML Foundations Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Habit.md",
+                "file": "Front-end/HTML/HTML Foundations Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Habit.md"
+                "file": "Front-end/HTML/HTML Foundations Part 1.md"
               }
             }
           },
@@ -183,15 +183,15 @@
   },
   "active": "4cc91de61d22b6af",
   "lastOpenFiles": [
+    "Front-end/HTML/HTML.md",
+    "hateemel.md",
     "Front-end/JavaScript/Fundamentals Part 1.md",
     "Front-end/Front-end.md",
     "Back-end/Back-end.md",
     "Back-end/SQL/SQL.md",
     "Back-end/Nodejs/Nodejs.md",
-    "Front-end/HTML/HTML.md",
     "Front-end/JavaScript/JavaScript.md",
     "Front-end/CSS/CSS.md",
-    "Front-end/CSS/Box Model.md",
-    "Atomic Habit.md"
+    "Front-end/CSS/Box Model.md"
   ]
 }
