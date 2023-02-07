@@ -1,1 +1,0 @@
-JavaScript adalah salah satu tools yang paling banyak dipakai dalam [[Front-end]]

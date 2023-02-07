@@ -1,104 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "jafaskrip syntax",
-      "path": "jafaskrip syntax.md"
-    },
-    {
-      "basename": "jafaskrip",
-      "path": "jafaskrip.md"
-    },
-    {
-      "basename": "fronen",
-      "path": "fronen.md"
-    },
-    {
-      "basename": "cieses",
-      "path": "cieses.md"
-    },
-    {
-      "basename": "hateemel",
-      "path": "hateemel.md"
-    },
-    {
-      "basename": "jafaskrip variable",
-      "path": "jafaskrip variable.md"
-    },
-    {
-      "basename": "cieses property",
-      "path": "cieses property.md"
-    },
-    {
-      "basename": "cieses syntax",
-      "path": "cieses syntax.md"
-    },
-    {
-      "basename": "hatemel selector",
-      "path": "hatemel selector.md"
-    },
-    {
-      "basename": "hatemel syntax",
-      "path": "hatemel syntax.md"
-    },
-    {
-      "basename": "HTML Foundations Part 2",
-      "path": "Front-end/HTML/HTML Foundations Part 2.md"
-    },
-    {
-      "basename": "HTML Foundations Part 1",
-      "path": "Front-end/HTML/HTML Foundations Part 1.md"
+      "basename": "Web Development",
+      "path": "Web Development.md"
     },
     {
       "basename": "HTML",
-      "path": "Front-end/HTML/HTML.md"
+      "path": "HTML.md"
     },
     {
-      "basename": "Fundamentals Part 1",
-      "path": "Front-end/JavaScript/Fundamentals Part 1.md"
-    },
-    {
-      "basename": "Front-end",
-      "path": "Front-end/Front-end.md"
-    },
-    {
-      "basename": "Back-end",
-      "path": "Back-end/Back-end.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Back-end/SQL/SQL.md"
-    },
-    {
-      "basename": "Nodejs",
-      "path": "Back-end/Nodejs/Nodejs.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "Front-end/JavaScript/JavaScript.md"
+      "basename": "Front-End",
+      "path": "Front-End.md"
     },
     {
       "basename": "CSS",
-      "path": "Front-end/CSS/CSS.md"
+      "path": "CSS.md"
     },
     {
-      "basename": "Box Model",
-      "path": "Front-end/CSS/Box Model.md"
-    },
-    {
-      "basename": "Syntax & Selectors",
-      "path": "Front-end/CSS/Syntax & Selectors.md"
-    },
-    {
-      "basename": "FlexBox",
-      "path": "Front-end/CSS/FlexBox.md"
-    },
-    {
-      "basename": "Fundamentals Part 2",
-      "path": "Front-end/JavaScript/Fundamentals Part 2.md"
-    },
-    {
-      "basename": "Praktikum ADM",
-      "path": "Praktikum ADM/Praktikum ADM.md"
+      "basename": "JavaScript",
+      "path": "JavaScript.md"
     },
     {
       "basename": "Pasted image 20230204151618",

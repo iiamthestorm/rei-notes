@@ -1,2 +1,0 @@
-- [[hatemel syntax]]
-- [[hatemel selector]]

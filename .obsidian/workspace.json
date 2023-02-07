@@ -4,127 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "640b7f1d94275eb3",
+        "id": "487a6e3e430f9f66",
         "type": "tabs",
         "children": [
           {
-            "id": "4cc91de61d22b6af",
+            "id": "f31359804766984e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hateemel.md",
+                "file": "Web Development.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "eff2297fe1dfb8c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cieses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94be02d4f0140275",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jafaskrip.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc8ea39df78af1c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fronen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd2517372bce25d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hatemel syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa828d14199bef6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fronen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "672ddfe73335845d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cieses syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "602e14ef114f1964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fronen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cb56789337b084f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jafaskrip syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9adc113871749bdf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web Development.md"
+              }
             }
           },
           {
@@ -282,17 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9adc113871749bdf",
+  "active": "f31359804766984e",
   "lastOpenFiles": [
-    "jafaskrip syntax.md",
-    "jafaskrip.md",
-    "fronen.md",
-    "cieses.md",
-    "hateemel.md",
-    "jafaskrip variable.md",
     "cieses property.md",
-    "cieses syntax.md",
-    "hatemel selector.md",
-    "hatemel syntax.md"
+    "jafaskrip variable.md",
+    "jafaskrip syntax.md",
+    "HTML.md",
+    "Front-End.md",
+    "CSS.md",
+    "CSS Syntax & Selectors.md",
+    "JavaScript.md",
+    "HTML Foundations Part 2.md",
+    "HTML Foundations Part 1.md"
   ]
 }

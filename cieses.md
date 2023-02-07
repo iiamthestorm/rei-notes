@@ -1,2 +1,0 @@
-- [[cieses syntax]]
-- [[cieses property]]
