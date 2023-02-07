@@ -10,6 +10,7 @@ let message = "hello";
 message = 123456;
 ```
 Programming languages that allow such things, such as JavaScript, are called “dynamically typed”, meaning that there exist data types, but variables are not bound to any of them.
+
 ### Number
 ```js
 let n = 123;
@@ -28,3 +29,32 @@ Or just reference it directly:
 ```js
 alert( Infinity ); // Infinity
 ```
+
+### String
+A string in JavaScript must be surrounded by quotes.
+```js
+let str = "Hello";
+let str2 = 'Single quotes are ok too';
+let phrase = `can embed another ${str}`;
+```
+In JavaScript, there are 3 types of quotes.
+
+1.  Double quotes: `"Hello"`.
+2.  Single quotes: `'Hello'`.
+3.  Backticks: `` `Hello` ``.
+
+Double and single quotes are “simple” quotes. There’s practically no difference between them in JavaScript.
+
+Backticks are “extended functionality” quotes. They allow us to embed variables and expressions into a string by wrapping them in `${…}`, for example:
+```js
+let name = "John";
+
+// embed a variable
+alert( `Hello, ${name}!` ); // Hello, John!
+
+// embed an expression
+alert( `the result is ${1 + 2}` ); // the result is 3
+```
+The expression inside `${…}` is evaluated and the result becomes a part of the string. We can put anything in there: a variable like `name` or an arithmetical expression like `1 + 2` or something more complex.
+
+Please note that this can only be done in backticks. Other quotes don’t have this embedding functionality!
