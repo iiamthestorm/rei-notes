@@ -9,6 +9,7 @@
 	- [[JavaScript]]
 		- [[JavaScript Fundamentals Part 1]]
 		- [[JavaScript Fundamentals Part 2]]
+		- [[JavaScript Developer Tools]]
 - [[Back-End]]
 	- [[NodeJs]]
 		- [[NodeJs Fundamentals Part 1]]

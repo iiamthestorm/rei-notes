@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "87596b1bf5845c1d",
+        "id": "886dd28eb3f7c655",
         "type": "tabs",
         "children": [
           {
-            "id": "3791e0ee13e0a0a0",
+            "id": "1d6f8a0bc043ecca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 2.md",
+                "file": "Web Development/JavaScript Developer Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 2.md",
+                "file": "Web Development/JavaScript Developer Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 2.md",
+                "file": "Web Development/JavaScript Developer Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 2.md"
+                "file": "Web Development/JavaScript Developer Tools.md"
               }
             }
           },
@@ -183,17 +183,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3791e0ee13e0a0a0",
+  "active": "1d6f8a0bc043ecca",
   "lastOpenFiles": [
     "Web Development/JavaScript Fundamentals Part 2.md",
-    "Machine Learning/Machine Learning.md",
     "Web Development/Web Development.md",
+    "Web Development/JavaScript Developer Tools.md",
+    "Web Development/JavaScript.md",
+    "Machine Learning/Machine Learning.md",
     "2023-02-07.md",
     "Web Development/JavaScript Fundamentals Part 1.md",
     "Machine Learning/TensorFlow Fundamentals Part 1.md",
     "Praktikum ADM/Praktikum ADM.md",
-    "Praktikum ADM/Praktikum ADM 1.md",
-    "Machine Learning/TensorFlow.md",
-    "Machine Learning/TensorFlow Fundamentals Part 2.md"
+    "Praktikum ADM/Praktikum ADM 1.md"
   ]
 }
