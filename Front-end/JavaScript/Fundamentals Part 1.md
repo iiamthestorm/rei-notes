@@ -327,11 +327,3 @@ Parentheses override any precedence, so if we’re not satisfied with the defaul
 There are many operators in JavaScript. Every operator has a corresponding precedence number. The one with the larger number executes first. If the precedence is the same, the execution order is from left to right.
 
 Here’s an extract from the precedence table (you don’t need to remember this, but note that unary operators are higher than corresponding binary ones):
-
-```notion-like-tables
-table-id-us3Xcb
-```
-
-
-
-
