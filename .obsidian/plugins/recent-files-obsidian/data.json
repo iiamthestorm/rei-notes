@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "JavaScript Fundamentals Part 2",
+      "path": "Web Development/JavaScript Fundamentals Part 2.md"
+    },
+    {
       "basename": "Machine Learning",
       "path": "Machine Learning/Machine Learning.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "JavaScript Fundamentals Part 1",
       "path": "Web Development/JavaScript Fundamentals Part 1.md"
-    },
-    {
-      "basename": "JavaScript Fundamentals Part 2",
-      "path": "Web Development/JavaScript Fundamentals Part 2.md"
     },
     {
       "basename": "TensorFlow Fundamentals Part 1",
