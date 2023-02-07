@@ -123,3 +123,20 @@ alert(age); // "undefined"
 ### String (Continuation)
 There is no difference between " " and ' ' in string. You can choose one of them and stick with it.
 
+
+
+
+## String Methods
+### JavaScript String Length
+The `length` property returns the length of a string:
+```js
+let text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+let length = text.length;
+
+console.log(length);
+```
+### Extracting String Parts
+There are 3 methods for extracting a part of a string:
+-   `slice(_start_, _end_)`
+-   `substring(_start_, _end_)`
+-   `substr(_start_, _length_)`j
