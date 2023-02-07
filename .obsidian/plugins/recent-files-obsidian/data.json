@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "fronen",
+      "path": "fronen.md"
+    },
+    {
+      "basename": "hatemel selector",
+      "path": "hatemel selector.md"
+    },
+    {
+      "basename": "hatemel syntax",
+      "path": "hatemel syntax.md"
+    },
+    {
+      "basename": "jafaskrip",
+      "path": "jafaskrip.md"
+    },
+    {
+      "basename": "cieses",
+      "path": "cieses.md"
+    },
+    {
+      "basename": "hateemel",
+      "path": "hateemel.md"
+    },
+    {
+      "basename": "HTML Foundations Part 2",
+      "path": "Front-end/HTML/HTML Foundations Part 2.md"
+    },
+    {
       "basename": "HTML Foundations Part 1",
       "path": "Front-end/HTML/HTML Foundations Part 1.md"
     },
     {
       "basename": "HTML",
       "path": "Front-end/HTML/HTML.md"
-    },
-    {
-      "basename": "hateemel",
-      "path": "hateemel.md"
     },
     {
       "basename": "Fundamentals Part 1",
@@ -43,10 +71,6 @@
     {
       "basename": "Box Model",
       "path": "Front-end/CSS/Box Model.md"
-    },
-    {
-      "basename": "HTML Foundations Part 2",
-      "path": "Front-end/HTML/HTML Foundations Part 2.md"
     },
     {
       "basename": "Syntax & Selectors",
