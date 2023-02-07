@@ -8,27 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61103d6e04c03ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "794696c09f9279cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -89,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8906746a4084a68f",
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,8 +174,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "61103d6e04c03ec6",
+  "active": "794696c09f9279cf",
   "lastOpenFiles": [
+    "2023-02-07.md",
     "Web Development/JavaScript Fundamentals Part 1.md",
     "Web Development/JavaScript Fundamentals Part 2.md",
     "Machine Learning/TensorFlow Fundamentals Part 1.md",
@@ -205,7 +185,6 @@
     "Machine Learning/TensorFlow.md",
     "Machine Learning/Machine Learning.md",
     "Machine Learning/TensorFlow Fundamentals Part 2.md",
-    "Machine Learning/TFLite.md",
-    "Machine Learning/CNN.md"
+    "Machine Learning/TFLite.md"
   ]
 }
