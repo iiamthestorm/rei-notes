@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ea6364f69792b62c",
+        "id": "8fb86c7d27ec39fd",
         "type": "tabs",
         "children": [
           {
-            "id": "58d8c23a36048b2c",
+            "id": "61103d6e04c03ec6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Praktikum ADM/Praktikum ADM.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8906746a4084a68f",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum ADM/Praktikum ADM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum ADM/Praktikum ADM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Praktikum ADM/Praktikum ADM.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,10 +175,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58d8c23a36048b2c",
+  "active": "61103d6e04c03ec6",
   "lastOpenFiles": [
-    "Praktikum ADM/Praktikum ADM 1.md",
     "Praktikum ADM/Praktikum ADM.md",
+    "Praktikum ADM/Praktikum ADM 1.md",
     "Web Development/JavaScript Fundamentals Part 2.md",
     "Machine Learning/TensorFlow.md",
     "Machine Learning/Machine Learning.md",
