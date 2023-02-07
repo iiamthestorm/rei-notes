@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10ffaf5c8fa29628",
+        "id": "ea6364f69792b62c",
         "type": "tabs",
         "children": [
           {
-            "id": "dcd3996ace3908c1",
+            "id": "58d8c23a36048b2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Web Development/JavaScript Fundamentals Part 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8906746a4084a68f",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Web Development/JavaScript Fundamentals Part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Web Development/JavaScript Fundamentals Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Machine Learning.md"
+                "file": "Web Development/JavaScript Fundamentals Part 2.md"
               }
             }
           },
@@ -166,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,15 +182,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcd3996ace3908c1",
+  "active": "58d8c23a36048b2c",
   "lastOpenFiles": [
     "Machine Learning/TensorFlow.md",
-    "Machine Learning/TensorFlow Fundamentals Part 1.md",
-    "Machine Learning/CNN.md",
     "Machine Learning/Machine Learning.md",
-    "Machine Learning/Matplotlib.md",
     "Machine Learning/TensorFlow Fundamentals Part 2.md",
     "Machine Learning/TFLite.md",
+    "Machine Learning/TensorFlow Fundamentals Part 1.md",
+    "Machine Learning/CNN.md",
+    "Machine Learning/Matplotlib.md",
     "Machine Learning/TFLite Fundamentals Part 1.md",
     "Machine Learning/Time Series.md",
     "Machine Learning/NLP.md"

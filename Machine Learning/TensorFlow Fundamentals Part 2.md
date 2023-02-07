@@ -1,1 +1,3 @@
 - [[TFLite]]
+	- [[TFLite Fundamentals Part 1]]
+	- [[TFLite Fundamentals Part 2]]
