@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Machine Learning",
+      "path": "Machine Learning/Machine Learning.md"
+    },
+    {
+      "basename": "Web Development",
+      "path": "Web Development/Web Development.md"
+    },
+    {
       "basename": "JavaScript Fundamentals Part 1",
       "path": "Web Development/JavaScript Fundamentals Part 1.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Praktikum ADM 4",
       "path": "Praktikum ADM/Praktikum ADM 4.md"
-    },
-    {
-      "basename": "Web Development",
-      "path": "Web Development/Web Development.md"
     },
     {
       "basename": "Pasted image 20230204151618",
