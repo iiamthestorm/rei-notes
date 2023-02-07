@@ -6,7 +6,22 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Web Development\"",
+      "color": {
+        "a": 1,
+        "rgb": 16592944
+      }
+    },
+    {
+      "query": "path:\"Praktikum ADM\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 9.6875,
   "linkStrength": 1,
   "linkDistance": 329,
-  "scale": 0.5359795996225941,
+  "scale": 0.5359795996225946,
   "close": true
 }
