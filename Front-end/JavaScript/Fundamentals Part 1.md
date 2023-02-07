@@ -272,3 +272,47 @@ When using the `===` operator, x and y are **not equal**.
 Comparing two JavaScript objects **always** returns **false**.
 
 ```
+
+### Numeric conversion, unary +
+The plus `+` exists in two forms: the binary form that we used above and the unary form.
+
+The unary plus or, in other words, the plus operator `+` applied to a single value, doesn’t do anything to numbers. But if the operand is not a number, the unary plus converts it into a number.
+
+For example:
+```js
+// No effect on numbers
+let x = 1;
+alert( +x ); // 1
+
+let y = -2;
+alert( +y ); // -2
+
+// Converts non-numbers
+alert( +true ); // 1
+alert( +"" );   // 0
+```
+It actually does the same thing as `Number(...)`, but is shorter.
+
+The need to convert strings to numbers arises very often. For example, if we are getting values from HTML form fields, they are usually strings. What if we want to sum them?
+
+The binary plus would add them as strings:
+```js
+let apples = "2";
+let oranges = "3";
+
+alert( apples + oranges ); // "23", the binary plus concatenates strings
+```
+If we want to treat them as numbers, we need to convert and then sum them:
+```js
+let apples = "2";
+let oranges = "3";
+
+// both values converted to numbers before the binary plus
+console.log(+apples + +oranges);
+
+// the longer variant
+// alert( Number(apples) + Number(oranges) ); // 5
+```
+From a mathematician’s standpoint, the abundance of pluses may seem strange. But from a programmer’s standpoint, there’s nothing special: unary pluses are applied first, they convert strings to numbers, and then the binary plus sums them up.
+
+Why are unary pluses applied to values before the binary ones? As we’re going to see, that’s because of their _higher precedence_.
