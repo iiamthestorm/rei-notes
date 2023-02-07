@@ -1,2 +1,2 @@
-- [[HTML Foundations Part 1]]
-- [[HTML Foundations Part 2]]
+- [[HTML Fundamentals Part 1]]
+- [[HTML Fundamentals Part 2]]
