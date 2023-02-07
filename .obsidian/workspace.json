@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "886dd28eb3f7c655",
+        "id": "9ddf09dcf10702ce",
         "type": "tabs",
         "children": [
           {
-            "id": "1d6f8a0bc043ecca",
+            "id": "16d53af8d529594c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/JavaScript Developer Tools.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavaScript Developer Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavaScript Developer Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Development/JavaScript Developer Tools.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,11 +173,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d6f8a0bc043ecca",
+  "active": "16d53af8d529594c",
   "lastOpenFiles": [
+    "Web Development/JavaScript Developer Tools.md",
     "Web Development/JavaScript Fundamentals Part 2.md",
     "Web Development/Web Development.md",
-    "Web Development/JavaScript Developer Tools.md",
     "Web Development/JavaScript.md",
     "Machine Learning/Machine Learning.md",
     "2023-02-07.md",
