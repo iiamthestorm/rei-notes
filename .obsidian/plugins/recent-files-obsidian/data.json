@@ -5,8 +5,8 @@
       "path": "Web Development/JavaScript Fundamentals Part 3.md"
     },
     {
-      "basename": "JavaScript Fundamentals Part 2",
-      "path": "Web Development/JavaScript Fundamentals Part 2.md"
+      "basename": "JavaScript",
+      "path": "Web Development/JavaScript.md"
     },
     {
       "basename": "Front-End",
@@ -17,16 +17,16 @@
       "path": "Web Development/CSS Syntax & Selectors.md"
     },
     {
+      "basename": "JavaScript Fundamentals Part 2",
+      "path": "Web Development/JavaScript Fundamentals Part 2.md"
+    },
+    {
       "basename": "JavaScript Developer Tools",
       "path": "Web Development/JavaScript Developer Tools.md"
     },
     {
       "basename": "Web Development",
       "path": "Web Development/Web Development.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "Web Development/JavaScript.md"
     },
     {
       "basename": "Machine Learning",
