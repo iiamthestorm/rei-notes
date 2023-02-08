@@ -2,3 +2,4 @@
 - [[JavaScript Fundamentals Part 2]]
 - [[JavaScript Developer Tools]]
 - [[JavaScript Fundamentals Part 3]]
+- [[JavaScript Fundamentals Part 4]]

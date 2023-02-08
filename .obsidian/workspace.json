@@ -11,8 +11,12 @@
             "id": "b3584673383cbc9f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/JavaScript Fundamentals Part 4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8906746a4084a68f",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web Development/JavaScript Fundamentals Part 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web Development/JavaScript Fundamentals Part 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web Development/JavaScript Fundamentals Part 4.md"
+              }
             }
           },
           {
@@ -175,15 +184,15 @@
   },
   "active": "b3584673383cbc9f",
   "lastOpenFiles": [
+    "Web Development/Front-End.md",
+    "Web Development/JavaScript.md",
+    "Web Development/JavaScript Fundamentals Part 4.md",
+    "Web Development/JavaScript Fundamentals Part 3.md",
+    "Web Development/JavaScript Developer Tools.md",
     "Web Development/JavaScript Fundamentals Part 2.md",
     "Web Development/JavaScript Fundamentals Part 1.md",
-    "Web Development/JavaScript Fundamentals Part 3.md",
-    "Web Development/JavaScript.md",
-    "Web Development/JavaScript Developer Tools.md",
-    "Web Development/Front-End.md",
     "Web Development/CSS Syntax & Selectors.md",
     "Web Development/Web Development.md",
-    "Machine Learning/Machine Learning.md",
-    "2023-02-07.md"
+    "Machine Learning/Machine Learning.md"
   ]
 }
