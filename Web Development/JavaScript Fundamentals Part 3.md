@@ -44,3 +44,32 @@ console.log(madeAnotherString);
 ```
 
 ## Anonymous functions and arrow functions
+We can create our anonymous function like this :
+```js
+(function () {
+	console.log('Hello!');
+})
+```
+anonymous function can be created without specifying name. You'll often see anonymous functions when a function expects to receive another function as a parameter. In this case the function parameter is often passed as an anonymous function. 
+
+For example, let's say you want to run some code when the user types into a text box. To do this you can call the [`addEventListener()`](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener "addEventListener()") function of the text box. This function expects you to pass it (at least) two parameters:
+
+-   the name of the event to listen for, which in this case is [`keydown`](https://developer.mozilla.org/en-US/docs/Web/API/Element/keydown_event "keydown")
+-   a function to run when the event happens.
+
+When the user presses a key, the browser will call the function you provided, and will pass it a parameter containing information about this event, including the particular key that the user pressed:
+```js
+function logKey(event) {
+  console.log(`You pressed "${event.key}".`);
+}
+
+textBox.addEventListener('keydown', logKey);
+```
+instead of defining a separater `logKey()` function, you can pass an anonymous function into `addEventListener()`:
+```js
+textBox.addEventListener('keydown', function(event) {
+  console.log(`You pressed "${event.key}".`);
+});
+```
+
+
