@@ -95,7 +95,7 @@ Finally, if your function needs to return a value, and contains only one line, y
 ```js
 const originals = [1, 2, 3];
 
-const doubled = originals.map((item) => item * 2);
+const doubled = originals.map(item => item * 2);
 
 console.log(doubled); // [2, 4, 6]
 ```
@@ -103,12 +103,9 @@ console.log(doubled); // [2, 4, 6]
 
 so in the example above you can see that `(item) => item * 2` is the arrow function equivalent of :
 ```js
-/*function doubleItem(item) {
+function doubleItem(item) {
 	return item * 2;
-}*/
-
-const originals = [1, 2, 3];
-console.log(originals.map((item) => item * 2));
-
-const o
+}
 ```
+I think arrow function is great for readable code and make it shorter.
+
