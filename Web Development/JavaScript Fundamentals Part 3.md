@@ -30,3 +30,17 @@ We were using a _function_!
 
 ## Functions versus methods
 Functions that are part of objetcs are called methods. 
+## Optional Parameters
+Some of the js built in function doesn't need parameter, but it is best practice if you want to produce a certain output with including a parameters. For example :
+```js
+const myArray = ['I', 'love', 'chocolate', 'frogs'];
+const madeAString = myArray.join(' ');
+console.log(madeAString);
+// returns 'I love chocolate frogs'
+
+const madeAnotherString = myArray.join();
+console.log(madeAnotherString);
+// returns 'I,love,chocolate,frogs'
+```
+
+## Anonymous functions and arrow functions
