@@ -101,14 +101,14 @@ console.log(doubled); // [2, 4, 6]
 ```
 `map` method takes each item in the array in turn, passing it into the given function. It then takes the value returned by that function and adds it to a new array.
 
-so in the example above yu can see that `(item) => item * 2*` is the arrow function equivalent of :
+so in the example above you can see that `(item) => item * 2` is the arrow function equivalent of :
 ```js
-function doubleItem(item) {
+/*function doubleItem(item) {
 	return item * 2;
-}
+}*/
 
-(doubleItem(item) {
-})
+const originals = [1, 2, 3];
+console.log(originals.map((item) => item * 2));
 
-console.log(doubleItem(4));
+const o
 ```
