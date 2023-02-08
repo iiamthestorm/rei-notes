@@ -76,10 +76,28 @@ textBox.addEventListener('keydown', function(event) {
 We can create a simple version of anonymous function with arrow function.
 ```ad-important
 
-Instead of `function(event)`, we can write `(event) =>` 
+Instead of `function(event)`, we can write `(event) =>`: 
 ```
-:
 ```js
-
+textBox.addEventListener('keydown', (event) => {
+  console.log(`You pressed "${event.key}".`);
+});
 ```
+If the function only has one line in the curly brackets, we can omit the curly brackets:
+```js
+textBox.addEventListener('keydown', (event) => console.log(`You pressed "${event.key}".`));
+```
+If the function only takes one parameter, you can also omit the brackets around the parameter:
+```js
+textBox.addEventListener('keydown', event => console.log(`You pressed "${event.key}".`));
+```
+Finally, if your function needs to return a value, and contains only one line, you can also omit the `return` statement. In the following example we're using the [`map()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) method of `Array` to double every value in the original array:
+```js
+const originals = [1, 2, 3];
+
+const doubled = originals.map((item) => item * 2);
+
+console.log(doubled); // [2, 4, 6]
+```
+
 
