@@ -47,3 +47,40 @@ result :
 ```
 Banana * Orange * Apple * Mango
 ```
+### Popping and Pushing
+When you work with arrays, it is easy to remove elements and add new elements. This is what popping and pushing is:
+```ad-important
+
+Popping items **out** of an array, or pushing items **into** an array.
+```
+#### JavaScript Array pop()
+The `pop()` method removes the last element from an array:
+```js
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.pop();
+```
+The `pop()` method returns the value that was "popped out":
+```js
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+let fruit = fruits.pop();
+```
+#### JavaScript Array push()
+The `push()` method adds a new element to an array (at the end):
+```js
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.push("Kiwi");
+```
+The `push()` method returns the new array length:
+```js
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+let length = fruits.push("Kiwi");
+```
+
+### Shifting Elements
+Shifting is equivalent to popping, but working on the first element instead of the last.
+#### JavaScript Array shift()
+The `shift()` method removes the first array element and "shifts" all other elements to a lower index.
+```js
+
+```
+
