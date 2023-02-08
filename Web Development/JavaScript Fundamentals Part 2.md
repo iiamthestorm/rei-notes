@@ -122,10 +122,6 @@ alert(age); // "undefined"
 ## Data Types (Continuation)
 ### String (Continuation)
 There is no difference between " " and ' ' in string. You can choose one of them and stick with it.
-
-
-
-
 ## String Methods
 ### JavaScript String Length
 The `length` property returns the length of a string:
@@ -195,17 +191,6 @@ If you omit the second parameter, `substring()` will slice out the rest of the
 
 The difference is that the second parameter specifies the **length** of the extracted part.
 
-
-
-
-
-
-
-
-
-
-
-
 ### Replacing String Content
 The `replace()` method replaces a specified value with another value in a string:
 ```js
@@ -265,12 +250,6 @@ console.log(text);
 `replaceAll()` does not work in Internet Explorer.
 ```
 
-
-
-
-
-
-
 ### Converting to Upper and Lower Case
 A string is converted to upper case with `toUpperCase()`:
 A string is converted to lower case with `toLowerCase()`:
@@ -288,10 +267,6 @@ let text2 = text1.toLowerCase();  // text2 is text1 converted to lower
 
 console.log(text2);
 ```
-
-
-
-
 
 ```ad-note
 

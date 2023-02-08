@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bab19ee692f4fa6e",
+        "id": "dd6279c418b903dc",
         "type": "tabs",
         "children": [
           {
-            "id": "8c9523854971c231",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9429c757ac7688e5",
+            "id": "fb220ffbff6eaf17",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8906746a4084a68f",
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 3.md",
+                "file": "Web Development/JavaScript Fundamentals Part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 3.md",
+                "file": "Web Development/JavaScript Fundamentals Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 3.md"
+                "file": "Web Development/JavaScript Fundamentals Part 2.md"
               }
             }
           },
@@ -194,13 +181,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c9523854971c231",
+  "active": "fb220ffbff6eaf17",
   "lastOpenFiles": [
-    "Web Development/JavaScript.md",
     "Web Development/JavaScript Fundamentals Part 1.md",
-    "Web Development/JavaScript Developer Tools.md",
     "Web Development/JavaScript Fundamentals Part 2.md",
     "Web Development/JavaScript Fundamentals Part 3.md",
+    "Web Development/JavaScript.md",
+    "Web Development/JavaScript Developer Tools.md",
     "Web Development/Front-End.md",
     "Web Development/CSS Syntax & Selectors.md",
     "Web Development/Web Development.md",
