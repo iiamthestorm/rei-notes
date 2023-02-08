@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dd6279c418b903dc",
+        "id": "c66aaa8c7ba399ea",
         "type": "tabs",
         "children": [
           {
-            "id": "fb220ffbff6eaf17",
+            "id": "b3584673383cbc9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,10 +173,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb220ffbff6eaf17",
+  "active": "b3584673383cbc9f",
   "lastOpenFiles": [
-    "Web Development/JavaScript Fundamentals Part 1.md",
     "Web Development/JavaScript Fundamentals Part 2.md",
+    "Web Development/JavaScript Fundamentals Part 1.md",
     "Web Development/JavaScript Fundamentals Part 3.md",
     "Web Development/JavaScript.md",
     "Web Development/JavaScript Developer Tools.md",

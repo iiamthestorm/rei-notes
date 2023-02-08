@@ -275,9 +275,6 @@ i'm not gonna summarize them here, but check this link if you want to see the re
 https://www.w3schools.com/js/js_string_methods.asp
 ```
 
-
-
-
 ## Conditionals
 ### If Else 
 Resource : https://www.w3schools.com/js/js_if_else.asp, https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals, https://javascript.info/ifelse
