@@ -44,6 +44,7 @@ console.log(madeAnotherString);
 ```
 
 ## Anonymous functions and arrow functions
+### Anonymous function
 We can create our anonymous function like this :
 ```js
 (function () {
@@ -71,5 +72,14 @@ textBox.addEventListener('keydown', function(event) {
   console.log(`You pressed "${event.key}".`);
 });
 ```
+### Arrow function
+We can create a simple version of anonymous function with arrow function.
+```ad-important
 
+Instead of `function(event)`, we can write `(event) =>` 
+```
+:
+```js
+
+```
 
