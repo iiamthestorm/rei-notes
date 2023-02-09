@@ -236,3 +236,11 @@ console.log(filtered);
 This looks a lot like `map()`, except the function we pass in returns a [boolean](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables#booleans): if it returns `true`, then the item is included in the new array. Our function tests that the item starts with the letter "L", so the result is an array containing only cats whose names start with "L".
 
 Note that `map()` and `filter()` are both often used with _function expressions_, which we will learn about in the [Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions) module. Using function expressions we could rewrite the example above to be much more compact:
+```js
+const cats = ['Leopard', 'Serval', 'Jaguar', 'Tiger', 'Caracal', 'Lion'];
+
+const filtered = cats.filter((cat) => cat.startsWith('L'));
+console.log(filtered);
+// [ "Leopard", "Lion" ]
+```
+
