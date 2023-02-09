@@ -190,3 +190,19 @@ All JavaScript objects have a toString() method.
 
 
 ## Loops
+### The for ... of loop
+The basic tool for looping through a collection is the [`for...of`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of) loop:
+```js
+const cats = ['Leopard', 'Serval', 'Jaguar', 'Tiger', 'Caracal', 'Lion'];
+
+for (const cat of cats) {
+  console.log(cat);
+}
+```
+In this example, `for (const cat of cats)` says:
+1.  Given the collection `cats`, get the first item in the collection.
+2.  Assign it to the variable `cat` and then run the code between the curly brackets `{}`.
+3.  Get the next item, and repeat (2) until you've reached the end of the collection.
+### map() and filter() 
+
+
