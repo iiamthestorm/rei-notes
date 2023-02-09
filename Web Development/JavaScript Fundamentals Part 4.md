@@ -142,6 +142,37 @@ The second parameter (1) defines **how many** elements should be **removed**.
 
 The rest of the parameters are omitted. No new elements will be added.
 ```
+#### JavaScript Array slice()
+The `slice()` method slices out a piece of an array into a new array.
 
+This example slices out a part of an array starting from array element 1 ("Orange"):
+```js
+const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];  
+const citrus = fruits.slice(1);
+```
+```ad-important
+
+The `slice()` method creates a new array.
+
+The `slice()` method does not remove any elements from the source array.
+```
+This example slices out a part of an array starting from array element 3 ("Apple"):
+```js
+const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
+const citrus = fruits.slice(3);
+```
+The `slice()` method can take two arguments like `slice(1, 3)`.
+The method then selects elements from the start argument, and up to (but not including) the end argument.
+```js
+const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];  
+const citrus = fruits.slice(1, 3);
+```
+If the end argument is omitted, like in the first examples, the `slice()` method slices out the rest of the array.
+```js
+const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];  
+const citrus = fruits.slice(2);
+```
+### Automatic toString()
+JavaScript automatically converts an array to a comma separated string when a primitive value is expected. This is always the case when you try to output an array. These two examples will produce the same result:
 
 
