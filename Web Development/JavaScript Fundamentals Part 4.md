@@ -113,5 +113,35 @@ The `concat()` method can also take strings as arguments:
 const arr1 = ["Emil", "Tobias", "Linus"];  
 const myChildren = arr1.concat("Peter");
 ```
+### Splicing and Slicing Arrays
+The `splice()` method adds new items to an array.
+The `slice()` method slices out a piece of an array.
+#### JavaScript Array splice()
+The `splice()` method can be used to add new items to an array:
+```js
+const fruits = ["Banana", "Orange", "Apple", "Mango"];  
+fruits.splice(2, 0, "Lemon", "Kiwi");
+```
+```ad-important
+
+The first parameter (2) defines the position **where** new elements should be **added** (spliced in).
+The second parameter (0) defines **how many** elements should be **removed**.
+The rest of the parameters ("Lemon" , "Kiwi") define the new elements to be **added**.
+```
+#### Using splice() to Remove Elements
+With clever parameter setting, you can use `splice()` to remove elements without leaving "holes" in the array:
+```js
+const fruits = ["Banana", "Orange", "Apple", "Mango"];  
+fruits.splice(0, 1);
+```
+```ad-important
+
+The first parameter (0) defines the position where new elements should be **added** (spliced in).
+
+The second parameter (1) defines **how many** elements should be **removed**.
+
+The rest of the parameters are omitted. No new elements will be added.
+```
+
 
 
