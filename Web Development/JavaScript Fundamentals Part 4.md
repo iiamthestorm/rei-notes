@@ -90,4 +90,28 @@ const fruits = ["Banana", "Orange", "Apple", "Mango"];
 fruits.unshift("Lemon");
 ```
 ### Merging (Concatenating) Arrays
+The `concat()` method creates a new array by merging (concatenating) existing arrays:
+```js
+const myGirls = ["Cecilie", "Lone"];
+const myBoys = ["Emil", "Tobias", "Linus"];
+
+const myChildren = myGirls.concat(myBoys);
+```
+```ad-important
+
+The `concat()` method does not change the existing arrays. It always returns a new array.
+```
+The `concat()` method can take any number of array arguments:
+```js
+const arr1 = ["Cecilie", "Lone"];
+const arr2 = ["Emil", "Tobias", "Linus"];
+const arr3 = ["Robin", "Morgan"];
+const myChildren = arr1.concat(arr2, arr3);
+```
+The `concat()` method can also take strings as arguments:
+```js
+const arr1 = ["Emil", "Tobias", "Linus"];  
+const myChildren = arr1.concat("Peter");
+```
+
 
