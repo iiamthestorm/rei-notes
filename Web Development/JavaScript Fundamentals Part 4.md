@@ -75,12 +75,19 @@ The `push()` method returns the new array length:
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 let length = fruits.push("Kiwi");
 ```
-
 ### Shifting Elements
 Shifting is equivalent to popping, but working on the first element instead of the last.
 #### JavaScript Array shift()
 The `shift()` method removes the first array element and "shifts" all other elements to a lower index.
 ```js
-
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.shift();
 ```
+#### JavaScript Array unshift()
+The `unshift()` method adds a new element to an array (at the beginning), and "unshifts" older elements:
+```js
+const fruits = ["Banana", "Orange", "Apple", "Mango"];  
+fruits.unshift("Lemon");
+```
+### Merging (Concatenating) Arrays
 
