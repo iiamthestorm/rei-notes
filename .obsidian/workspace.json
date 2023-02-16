@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b3584673383cbc9f",
+  "active": "dc63116d5c128019",
   "lastOpenFiles": [
     "Web Development/Front-End.md",
     "Web Development/JavaScript.md",
