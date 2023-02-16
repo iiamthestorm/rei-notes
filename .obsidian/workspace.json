@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c66aaa8c7ba399ea",
+        "id": "6755f822628ec132",
         "type": "tabs",
         "children": [
           {
-            "id": "b3584673383cbc9f",
+            "id": "06e7b2958ca44ce4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 4.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,11 +175,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc63116d5c128019",
+  "active": "4fd06443963872f5",
   "lastOpenFiles": [
+    "Web Development/JavaScript Fundamentals Part 4.md",
     "Web Development/Front-End.md",
     "Web Development/JavaScript.md",
-    "Web Development/JavaScript Fundamentals Part 4.md",
     "Web Development/JavaScript Fundamentals Part 3.md",
     "Web Development/JavaScript Developer Tools.md",
     "Web Development/JavaScript Fundamentals Part 2.md",
