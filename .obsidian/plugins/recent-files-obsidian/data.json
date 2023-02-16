@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "JavaScript Fundamentals Part 4",
-      "path": "Web Development/JavaScript Fundamentals Part 4.md"
+      "basename": "Machine Learning",
+      "path": "Machine Learning/Machine Learning.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "Web Development/JavaScript.md"
+    },
+    {
+      "basename": "JavaScript Fundamentals Part 2",
+      "path": "Web Development/JavaScript Fundamentals Part 2.md"
     },
     {
       "basename": "Front-End",
       "path": "Web Development/Front-End.md"
     },
     {
-      "basename": "JavaScript",
-      "path": "Web Development/JavaScript.md"
+      "basename": "JavaScript Fundamentals Part 4",
+      "path": "Web Development/JavaScript Fundamentals Part 4.md"
     },
     {
       "basename": "JavaScript Fundamentals Part 3",
@@ -19,10 +27,6 @@
     {
       "basename": "JavaScript Developer Tools",
       "path": "Web Development/JavaScript Developer Tools.md"
-    },
-    {
-      "basename": "JavaScript Fundamentals Part 2",
-      "path": "Web Development/JavaScript Fundamentals Part 2.md"
     },
     {
       "basename": "JavaScript Fundamentals Part 1",
@@ -35,10 +39,6 @@
     {
       "basename": "Web Development",
       "path": "Web Development/Web Development.md"
-    },
-    {
-      "basename": "Machine Learning",
-      "path": "Machine Learning/Machine Learning.md"
     },
     {
       "basename": "TensorFlow Fundamentals Part 1",

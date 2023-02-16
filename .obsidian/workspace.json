@@ -11,9 +11,17 @@
             "id": "06e7b2958ca44ce4",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "38305ca053851653",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 4.md",
+                "file": "Machine Learning/Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Development/JavaScript Fundamentals Part 4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,15 +188,15 @@
   },
   "active": "06e7b2958ca44ce4",
   "lastOpenFiles": [
+    "Machine Learning/Machine Learning.md",
+    "Web Development/JavaScript.md",
+    "Web Development/JavaScript Fundamentals Part 2.md",
     "Web Development/Front-End.md",
     "Web Development/JavaScript Fundamentals Part 4.md",
-    "Web Development/JavaScript.md",
     "Web Development/JavaScript Fundamentals Part 3.md",
     "Web Development/JavaScript Developer Tools.md",
-    "Web Development/JavaScript Fundamentals Part 2.md",
     "Web Development/JavaScript Fundamentals Part 1.md",
     "Web Development/CSS Syntax & Selectors.md",
-    "Web Development/Web Development.md",
-    "Machine Learning/Machine Learning.md"
+    "Web Development/Web Development.md"
   ]
 }
