@@ -11,8 +11,12 @@
             "id": "06e7b2958ca44ce4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/JavaScript Fundamentals Part 4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8906746a4084a68f",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web Development/JavaScript Fundamentals Part 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web Development/JavaScript Fundamentals Part 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web Development/JavaScript Fundamentals Part 4.md"
+              }
             }
           },
           {
@@ -175,10 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4fd06443963872f5",
+  "active": "06e7b2958ca44ce4",
   "lastOpenFiles": [
-    "Web Development/JavaScript Fundamentals Part 4.md",
     "Web Development/Front-End.md",
+    "Web Development/JavaScript Fundamentals Part 4.md",
     "Web Development/JavaScript.md",
     "Web Development/JavaScript Fundamentals Part 3.md",
     "Web Development/JavaScript Developer Tools.md",
