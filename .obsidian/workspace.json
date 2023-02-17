@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6755f822628ec132",
+        "id": "f66c87b2e6012580",
         "type": "tabs",
         "children": [
           {
-            "id": "06e7b2958ca44ce4",
+            "id": "56485f7fe3bcb9f6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,18 +16,19 @@
             }
           },
           {
-            "id": "38305ca053851653",
+            "id": "98975ca2110a3152",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Skripsi/Kerangka Bab 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Skripsi/Kerangka Bab 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Skripsi/Kerangka Bab 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Skripsi/Kerangka Bab 3.md"
+              }
             }
           },
           {
@@ -186,17 +190,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06e7b2958ca44ce4",
+  "active": "98975ca2110a3152",
   "lastOpenFiles": [
+    "Web Development/Web Development.md",
     "Machine Learning/Machine Learning.md",
+    "Web Development/Apache.md",
     "Web Development/JavaScript.md",
     "Web Development/JavaScript Fundamentals Part 2.md",
     "Web Development/Front-End.md",
     "Web Development/JavaScript Fundamentals Part 4.md",
     "Web Development/JavaScript Fundamentals Part 3.md",
     "Web Development/JavaScript Developer Tools.md",
-    "Web Development/JavaScript Fundamentals Part 1.md",
-    "Web Development/CSS Syntax & Selectors.md",
-    "Web Development/Web Development.md"
+    "Web Development/JavaScript Fundamentals Part 1.md"
   ]
 }

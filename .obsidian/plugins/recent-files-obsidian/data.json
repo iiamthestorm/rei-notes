@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Kerangka Bab 3",
+      "path": "Skripsi/Kerangka Bab 3.md"
+    },
+    {
+      "basename": "Web Development",
+      "path": "Web Development/Web Development.md"
+    },
+    {
       "basename": "Machine Learning",
       "path": "Machine Learning/Machine Learning.md"
+    },
+    {
+      "basename": "Apache",
+      "path": "Web Development/Apache.md"
     },
     {
       "basename": "JavaScript",
@@ -37,10 +49,6 @@
       "path": "Web Development/CSS Syntax & Selectors.md"
     },
     {
-      "basename": "Web Development",
-      "path": "Web Development/Web Development.md"
-    },
-    {
       "basename": "TensorFlow Fundamentals Part 1",
       "path": "Machine Learning/TensorFlow Fundamentals Part 1.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "Praktikum ADM 1",
       "path": "Praktikum ADM/Praktikum ADM 1.md"
-    },
-    {
-      "basename": "Apache",
-      "path": "Web Development/Apache.md"
     },
     {
       "basename": "SQL Fundamentals Part 1",
