@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae1c56cec9fd2f4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Kerangka Bab 3.md",
+                "file": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Kerangka Bab 3.md",
+                "file": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Kerangka Bab 3.md"
+                "file": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md"
               }
             }
           },
@@ -190,8 +202,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98975ca2110a3152",
+  "active": "ae1c56cec9fd2f4e",
   "lastOpenFiles": [
+    "Skripsi/Kerangka Bab 3.md",
     "Web Development/Web Development.md",
     "Machine Learning/Machine Learning.md",
     "Web Development/Apache.md",
@@ -200,7 +213,6 @@
     "Web Development/Front-End.md",
     "Web Development/JavaScript Fundamentals Part 4.md",
     "Web Development/JavaScript Fundamentals Part 3.md",
-    "Web Development/JavaScript Developer Tools.md",
-    "Web Development/JavaScript Fundamentals Part 1.md"
+    "Web Development/JavaScript Developer Tools.md"
   ]
 }
