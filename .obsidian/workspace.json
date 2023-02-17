@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "27372b6a3fac40fd",
+        "id": "ba033734e4c054a1",
         "type": "tabs",
         "children": [
           {
-            "id": "51f8de550b66d19d",
+            "id": "bfaff13691a86711",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -173,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4fd06443963872f5",
+  "active": "bfaff13691a86711",
   "lastOpenFiles": [
     "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
     "人生、夢、日本/ヨルシカ/ヨルシカの広告.md",
