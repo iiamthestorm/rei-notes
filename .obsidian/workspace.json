@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Kerangka Bab 3.md",
+                "file": "人生、夢、日本/ヨルシカ/(COVER) Itte by Yorushika Summer Version by Kaneko Lumi.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "990569ce1a28e17b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8906746a4084a68f",
@@ -94,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Kerangka Bab 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Kerangka Bab 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Skripsi/Kerangka Bab 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,12 +187,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bfaff13691a86711",
+  "active": "9dcf3e208f434302",
   "lastOpenFiles": [
-    "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
-    "人生、夢、日本/ヨルシカ/ヨルシカの広告.md",
     "人生、夢、日本/ヨルシカ/(COVER) Itte by Yorushika Summer Version by Kaneko Lumi.md",
     "Skripsi/Kerangka Bab 3.md",
+    "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
+    "人生、夢、日本/ヨルシカ/ヨルシカの広告.md",
     "Web Development/Web Development.md",
     "Machine Learning/Machine Learning.md",
     "Web Development/Apache.md",
