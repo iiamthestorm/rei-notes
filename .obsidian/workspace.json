@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生、夢、日本/ヨルシカ/(COVER) Itte by Yorushika Summer Version by Kaneko Lumi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "990569ce1a28e17b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "人生、夢、日本/本を読んでいる/Kafka On The Shore.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,17 +182,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "990569ce1a28e17b",
+  "active": "bfaff13691a86711",
   "lastOpenFiles": [
-    "人生、夢、日本/Untitled.md",
     "人生、夢、日本/ヨルシカ/(COVER) Itte by Yorushika Summer Version by Kaneko Lumi.md",
+    "人生、夢、日本/本を読んでいる/Kafka On The Shore.md",
+    "人生、夢、日本/Untitled.md",
     "Skripsi/Kerangka Bab 3.md",
     "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
     "人生、夢、日本/ヨルシカ/ヨルシカの広告.md",
     "Web Development/Web Development.md",
     "Machine Learning/Machine Learning.md",
     "Web Development/Apache.md",
-    "Web Development/JavaScript.md",
-    "Web Development/JavaScript Fundamentals Part 2.md"
+    "Web Development/JavaScript.md"
   ]
 }
