@@ -23,8 +23,12 @@
             "id": "990569ce1a28e17b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "人生、夢、日本/本を読んでいる/Kafka On The Shore.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人生、夢、日本/本を読んでいる/Kafka On The Shore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人生、夢、日本/本を読んでいる/Kafka On The Shore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人生、夢、日本/本を読んでいる/Kafka On The Shore.md"
+              }
             }
           },
           {
@@ -187,8 +195,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9dcf3e208f434302",
+  "active": "990569ce1a28e17b",
   "lastOpenFiles": [
+    "人生、夢、日本/Untitled.md",
     "人生、夢、日本/ヨルシカ/(COVER) Itte by Yorushika Summer Version by Kaneko Lumi.md",
     "Skripsi/Kerangka Bab 3.md",
     "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
@@ -197,7 +206,6 @@
     "Machine Learning/Machine Learning.md",
     "Web Development/Apache.md",
     "Web Development/JavaScript.md",
-    "Web Development/JavaScript Fundamentals Part 2.md",
-    "Web Development/Front-End.md"
+    "Web Development/JavaScript Fundamentals Part 2.md"
   ]
 }
