@@ -1,2 +1,5 @@
 ![[Pasted image 20230217155907.png]]
-Objek penelitian dari skripsi ini adalah hasil akurasi dari pemanfaatan augmentasi data dalam klasifikasi handwritten digit image. 
+Objek penelitian dari skripsi ini adalah hasil akurasi dari pemanfaatan augmentasi data dalam klasifikasi handwritten digit image menggunakan platform android.
+
+Hasil akurasi dari pemanfaatan augmentasi data ini kemudian akan dibandingkan dengan hasil akurasi tanpa menggunakan pemanfaatan augmentasi data.
+
