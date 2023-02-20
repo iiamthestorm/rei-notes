@@ -29,4 +29,8 @@ Berikut ini adalah spesifikasi software yang digunakan dalam proses penelitian i
 3. Google Colaboratory.
 4. Bahasa Pemrograman Python.
 5. Deep Learning Library seperti TensorFlow.
-6. Android Studio Electric Eel 2022.1.1
+6. Android Studio Electric Eel 2022.1.1.
+
+
+
+## Teknik Pengumpulan Data
