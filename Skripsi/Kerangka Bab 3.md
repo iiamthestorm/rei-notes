@@ -24,4 +24,9 @@ Rendahnya akurasi klasifikasi handwritten digit images menjadi masalah serius ya
 5. Mouse.
 6. Keyboard.
 Berikut ini adalah spesifikasi software yang digunakan dalam proses penelitian ini:
-1. Sistem Operasi Windows
+1. Sistem Operasi Windows 11 Pro.
+2. Web Browser Google Chrome.
+3. Google Colaboratory.
+4. Bahasa Pemrograman Python.
+5. Deep Learning Library seperti TensorFlow.
+6. Android Studio Electric Eel 2022.1.1
