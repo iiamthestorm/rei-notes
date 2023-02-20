@@ -8,4 +8,4 @@ Dengan melakukan penelitian ini diharapkan dapat memberikan gambaran yang lebih 
 Data yang digunakan dalam penelitian ini adalah data gambar MNIST (Modified National Institute of Standards and Technology). Dataset ini adalah kumpulan data gambar yang terdiri dari angka-angka tulisan tangan (handwritten digits) dari 0 hingga 9. Dataset ini sering digunakan sebagai bahan latihan dalam masalah klasifikasi gambar. Setiap gambar dalam dataset MNIST adalah gambar hitam-putih berukuran 28x28 piksel yang ditulis tangan oleh berbagai penulis.
 
 ![[Pasted image 20230220172618.png]]
-
+Saat ini, klasifikasi handwritten digit images menggunakan algoritma CNNs pada platform Android telah banyak dikembangkan dan digunakan. Namun, masalah yang muncul adalah rendahnya akurasi klasifikasi handwritten digit images tersebut. Oleh karena itu, penelitian ini mencoba untuk memperbaiki akurasi klasifikasi dengan memanfaatkan teknik augmentasi data. Dalam kondisi saat ini, penggunaan teknik augmentasi data diharapkan dapat meningkatkan akurasi klasifikasi handwritten digit images.
