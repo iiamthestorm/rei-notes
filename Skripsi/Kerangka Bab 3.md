@@ -38,7 +38,7 @@ Adapun teknik pengumpulan data yang diperlukan oleh peneliti meliputi beberapa m
 1. Wawancara untuk pengumpulan informasi yang berkatian tentang penelitian kepada narasumber yang mengetahui tentang handwritten images.
 2. Studi Pustaka dengan membaca literature buku, jurnal, makalah maupun artikel berkaitan dengan penelitian.
 3. Sumber data yang dijadikan bahan penelitian oleh penulis bersumber dari dataset MNIST (_Modified National Institute of Standards and Technology_). Dataset ini adalah kumpulan data gambar yang terdiri dari angka-angka tulisan tangan (_handwritten digits_) dari 0 hingga 9. Dataset ini sering digunakan sebagai bahan latihan dalam masalah klasifikasi gambar. Setiap gambar dalam dataset MNIST adalah gambar hitam-putih berukuran 28x28 piksel yang ditulis tangan oleh berbagai penulis.
-## Metodologi Penelitian
+## Desain Sistem
 Bab ini akan memberikan penjelasan tentang Langkah atau tahapan dan perancangan aplikasi penelitian agar prosesnya dapat terlihat lebih terstruktur sehingga proses penelitian dapat dipahami dengan baik. 
 
 Penelitian ini dirancang untuk melakukan pemanfaatan teknik augmentasi data pada klasifikasi handwritten digit images menggunakan metode Convolutional Neural Network (CNN) berbasis Android.
