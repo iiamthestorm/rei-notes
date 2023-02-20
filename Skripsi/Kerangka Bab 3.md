@@ -5,4 +5,7 @@ Dalam konteks penelitian ini, permasalahan yang ingin dijawab adalah apakah tekn
 
 Dengan melakukan penelitian ini diharapkan dapat memberikan gambaran yang lebih jelas tentang dampak pemanfaatan teknik augmentasi data pada akurasi klasifikasi handwritten digit image.
 
-Dalam penelitian ini, 
+Data yang digunakan dalam penelitian ini adalah data gambar MNIST (Modified National Institute of Standards and Technology). Dataset ini adalah kumpulan data gambar yang terdiri dari angka-angka tulisan tangan (handwritten digits) dari 0 hingga 9. Dataset ini sering digunakan sebagai bahan latihan dalam masalah klasifikasi gambar. Setiap gambar dalam dataset MNIST adalah gambar hitam-putih berukuran 28x28 piksel yang ditulis tangan oleh berbagai penulis.
+
+![[Pasted image 20230220172618.png]]
+
