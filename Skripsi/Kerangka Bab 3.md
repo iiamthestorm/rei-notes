@@ -34,3 +34,6 @@ Berikut ini adalah spesifikasi software yang digunakan dalam proses penelitian i
 
 
 ## Teknik Pengumpulan Data
+Adapun teknik pengumpulan data yang diperlukan oleh peneliti meliputi beberapa metodologi sebagai berikut:
+1. Wawancara untuk pengumpulan informasi yang berkatian tentang penelitian kepada narasumber yang mengetahui tentang handwritten images.
+2. Studi Pustaka dengan membaca literature buku, jurnal 
