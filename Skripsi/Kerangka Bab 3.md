@@ -17,9 +17,9 @@ Rendahnya akurasi klasifikasi handwritten digit images menjadi masalah serius ya
 
 ## Alat dan Bahan Penelitian yang Digunakan
 ![[Pasted image 20230220182455.png]]
-1. Processor AMD Ryzen 5 atau diatasnya.
+1. Processor Intel Core i5/AMD Ryzen 5 atau diatasnya.
 2. Random Access Memory (RAM) 8GB atau lebih.
-3. SSD Minimal 256GB & Hardisk (HDD) Minimal 500GB atau lebih
-4. Realme c25
-5. Mouse
-	1. Keyboard
+3. Solid State Drive (SSD) Minimal 256GB atau lebih.
+4. Realme c25.
+5. Mouse.
+6. Keyboard.
