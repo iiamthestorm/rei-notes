@@ -36,4 +36,5 @@ Berikut ini adalah spesifikasi software yang digunakan dalam proses penelitian i
 ## Teknik Pengumpulan Data
 Adapun teknik pengumpulan data yang diperlukan oleh peneliti meliputi beberapa metodologi sebagai berikut:
 1. Wawancara untuk pengumpulan informasi yang berkatian tentang penelitian kepada narasumber yang mengetahui tentang handwritten images.
-2. Studi Pustaka dengan membaca literature buku, jurnal 
+2. Studi Pustaka dengan membaca literature buku, jurnal, makalah maupun artikel berkaitan dengan penelitian.
+3. Sumber data yang dijadikan bahan penelitian oleh penulis bersumber dari dataset MNIST (_Modified National Institute of Standards and Technology_). Dataset ini adalah kumpulan data gambar yang terdiri dari angka-angka tulisan tangan (_handwritten digits_) dari 0 hingga 9. Dataset ini sering digunakan sebagai bahan latihan dalam masalah klasifikasi gambar. Setiap gambar dalam dataset MNIST adalah gambar hitam-putih berukuran 28x28 piksel yang ditulis tangan oleh berbagai penulis.
