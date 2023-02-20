@@ -43,4 +43,8 @@ Bab ini akan memberikan penjelasan tentang Langkah atau tahapan dan perancangan 
 
 Penelitian ini dirancang untuk melakukan pemanfaatan teknik augmentasi data pada klasifikasi handwritten digit images menggunakan metode Convolutional Neural Network (CNN) berbasis Android.
 
+Beberapa pertanyaan akan timbul ketika membangun sebuah sistem, seperti contoh "sistem apa yang akan dibangun?", "Bagaimana alur proses dari sistem tersebut?", "Bagaimana cara kerja dari sistem tersebut?". Oleh karena itu, diperlukan perancangan sistem, sehingga sistem akan tergambar lebih jelas dan mudah dipahami.
 
+Sistem yang akan dibangun dalam penelitian ini meliputi 4 tahap yaitu:
+1. Tahapan data preparation digunakan untuk memanipulasi data.
+2. 
