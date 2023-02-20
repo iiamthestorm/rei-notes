@@ -22,5 +22,4 @@ Rendahnya akurasi klasifikasi handwritten digit images menjadi masalah serius ya
 3. SSD Minimal 256GB & Hardisk (HDD) Minimal 500GB atau lebih
 4. Realme c25
 5. Mouse
-6. Keyboard
-
+	1. Keyboard
