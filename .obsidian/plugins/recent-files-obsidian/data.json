@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Web Development",
-      "path": "Web Development/Web Development.md"
+      "basename": "DOM Manipulation And Events",
+      "path": "Web Development/DOM Manipulation And Events.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "Web Development/JavaScript.md"
     },
     {
       "basename": "Front-End",
       "path": "Web Development/Front-End.md"
     },
     {
+      "basename": "Web Development",
+      "path": "Web Development/Web Development.md"
+    },
+    {
       "basename": "Kerangka Bab 3",
       "path": "Skripsi/Kerangka Bab 3.md"
+    },
+    {
+      "basename": "JavaScript Fundamentals Part 4",
+      "path": "Web Development/JavaScript Fundamentals Part 4.md"
     },
     {
       "basename": "Kafka On The Shore",
@@ -37,16 +49,8 @@
       "path": "Web Development/Apache.md"
     },
     {
-      "basename": "JavaScript",
-      "path": "Web Development/JavaScript.md"
-    },
-    {
       "basename": "JavaScript Fundamentals Part 2",
       "path": "Web Development/JavaScript Fundamentals Part 2.md"
-    },
-    {
-      "basename": "JavaScript Fundamentals Part 4",
-      "path": "Web Development/JavaScript Fundamentals Part 4.md"
     },
     {
       "basename": "JavaScript Fundamentals Part 3",
