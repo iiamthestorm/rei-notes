@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Web Development",
+      "path": "Web Development/Web Development.md"
+    },
+    {
+      "basename": "Front-End",
+      "path": "Web Development/Front-End.md"
+    },
+    {
       "basename": "Kerangka Bab 3",
       "path": "Skripsi/Kerangka Bab 3.md"
     },
@@ -21,10 +29,6 @@
       "path": "人生、夢、日本/ヨルシカ/ヨルシカの広告.md"
     },
     {
-      "basename": "Web Development",
-      "path": "Web Development/Web Development.md"
-    },
-    {
       "basename": "Machine Learning",
       "path": "Machine Learning/Machine Learning.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "JavaScript Fundamentals Part 2",
       "path": "Web Development/JavaScript Fundamentals Part 2.md"
-    },
-    {
-      "basename": "Front-End",
-      "path": "Web Development/Front-End.md"
     },
     {
       "basename": "JavaScript Fundamentals Part 4",
