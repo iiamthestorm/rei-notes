@@ -45,8 +45,9 @@ Penelitian ini dirancang untuk melakukan pemanfaatan teknik augmentasi data pada
 
 Beberapa pertanyaan akan timbul ketika membangun sebuah sistem, seperti contoh "sistem apa yang akan dibangun?", "Bagaimana alur proses dari sistem tersebut?", "Bagaimana cara kerja dari sistem tersebut?". Oleh karena itu, diperlukan perancangan sistem, sehingga sistem akan tergambar lebih jelas dan mudah dipahami.
 
-Sistem yang akan dibangun dalam penelitian ini meliputi 4 tahap yaitu:
+Sistem yang akan dibangun dalam penelitian ini meliputi beberapa tahap yaitu:
 1. Tahapan data preparation digunakan untuk memanipulasi data.
 2. Tahapan selanjutnya membuat pemodelan sistem dengan menentukan jumlah dari convolutional layer, pooling layer, filter dan model fully connected layer yang tersusun dari beberapa layer, setiap layer memiliki beberapa neuron yang saling berhubungan. Output dari tahapan ini adalah berupa klasifikasi label handwritten digit images.
-3. Training merupakan tahapan yang penting dari keberhasilan sebuah sistem yang dibangun. Jika hasil dari tahapan ini bagus, maka kemungkinan besar sistem bekerja dengan baik. Output dari tahapan ini adalah berupa klasifikasi label handwritten digit images.
-4. Model fitting ini akan digunakan sebagai validasiidaniperbandingan bobotidalamiproses testing.
+3. Tahapan selanjutnya adalah Training, Training merupakan tahapan yang penting dari keberhasilan sebuah sistem yang dibangun. Jika hasil dari tahapan ini bagus, maka kemungkinan besar sistem bekerja dengan baik. Output yang dihasilkan dari tahapan proses ini adalah sebuah model fitting yang merupakan ciri ciri dari klasifikasi handwritten digit image. Model fitting ini akan digunakan sebagai validasi dan perbandingan bobot dalam proses testing.
+4. Tahapan selanjutnya adalah Testing. Tahapan ini bertujuan untuk mengetahui seberapa baik kinerja sistem dalam mengklasifikasikan handwritten digit images. Pada tahap testing, dilakukan proses validasi dengan melakukan perbandingan model fitting yang didapat dari tahapan training sebelumnya.
+5. 
