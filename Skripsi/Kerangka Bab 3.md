@@ -48,4 +48,5 @@ Beberapa pertanyaan akan timbul ketika membangun sebuah sistem, seperti contoh "
 Sistem yang akan dibangun dalam penelitian ini meliputi 4 tahap yaitu:
 1. Tahapan data preparation digunakan untuk memanipulasi data.
 2. Tahapan selanjutnya membuat pemodelan sistem dengan menentukan jumlah dari convolutional layer, pooling layer, filter dan model fully connected layer yang tersusun dari beberapa layer, setiap layer memiliki beberapa neuron yang saling berhubungan. Output dari tahapan ini adalah berupa klasifikasi label handwritten digit images.
-3. 
+3. Training merupakan tahapan yang penting dari keberhasilan sebuah sistem yang dibangun. Jika hasil dari tahapan ini bagus, maka kemungkinan besar sistem bekerja dengan baik. Output dari tahapan ini adalah berupa klasifikasi label handwritten digit images.
+4. Model fitting ini akan digunakan sebagai validasiidaniperbandingan bobotidalamiproses testing.
