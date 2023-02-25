@@ -54,3 +54,6 @@ Sistem yang akan dibangun dalam penelitian ini meliputi beberapa tahap yaitu:
 6. Tahapan terakhir yaitu melakukan konversi pada model dan mengintegrasikannya ke dalam platform Android. 
 
 Desain arsitektur sistem yang akan dibangun pada penelitian ini digambarkan seperti gambari 3.1. berikut:
+![[Digit Classifier Diagram.png]]
+
+
