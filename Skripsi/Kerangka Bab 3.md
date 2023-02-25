@@ -60,4 +60,4 @@ Proses pada desain arsitektur sistem pada penelitian ini dimulai dari membuat so
 
 Sistem ini dirancang dengan menggunakan arsitektur jaringan Convolutional Neural Network (CNN) dan terdiri dari dua model, yaitu pre-augmented model dan post-augmented model. Pre-augmented model tidak menggunakan teknik augmentasi data, sementara post-augmented model menggunakan teknik augmentasi data. Hal ini dilakukan untuk membandingkan kinerja kedua model dalam mengenali objek pada dataset yang sama, serta memperlihatkan apakah teknik augmentasi data dapat meningkatkan performa model dalam mengenali objek.
 
-Sedangkan untuk perancangan sistem yang akan dibangun pada penelitian ini digambarkan secara sederhana, seperti gambar berikut :
+Sedangkan untuk perancangan model yang akan dibangun pada penelitian ini digambarkan secara sederhana, seperti gambar berikut :
