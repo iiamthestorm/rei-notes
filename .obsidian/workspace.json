@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Referensi.md",
+                "file": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Referensi.md",
+                "file": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Referensi.md",
+                "file": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Referensi.md"
+                "file": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md"
               }
             }
           },
@@ -196,16 +196,17 @@
   },
   "active": "e66360f069571063",
   "lastOpenFiles": [
-    "Skripsi/Kerangka Bab 3.md",
+    "人生、夢、日本/ヨルシカ/ヨルシカの広告.md",
+    "人生、夢、日本/ヨルシカ/(COVER) Itte by Yorushika Summer Version by Kaneko Lumi.md",
+    "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
     "Skripsi/Referensi.md",
+    "Skripsi/Kerangka Bab 3.md",
     "Web Development/DOM Manipulation And Events.md",
     "Web Development/JavaScript.md",
     "Web Development/Front-End.md",
     "Web Development/Web Development.md",
     "Web Development/JavaScript Fundamentals Part 4.md",
     "人生、夢、日本/本を読んでいる/Kafka On The Shore.md",
-    "人生、夢、日本/ヨルシカ/(COVER) Itte by Yorushika Summer Version by Kaneko Lumi.md",
-    "人生、夢、日本/Untitled.md",
-    "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md"
+    "人生、夢、日本/Untitled.md"
   ]
 }
