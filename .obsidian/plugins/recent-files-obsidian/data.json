@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Referensi",
+      "path": "Skripsi/Referensi.md"
+    },
+    {
+      "basename": "Kerangka Bab 3",
+      "path": "Skripsi/Kerangka Bab 3.md"
+    },
+    {
       "basename": "DOM Manipulation And Events",
       "path": "Web Development/DOM Manipulation And Events.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Web Development",
       "path": "Web Development/Web Development.md"
-    },
-    {
-      "basename": "Kerangka Bab 3",
-      "path": "Skripsi/Kerangka Bab 3.md"
     },
     {
       "basename": "JavaScript Fundamentals Part 4",

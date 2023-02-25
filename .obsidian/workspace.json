@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/DOM Manipulation And Events.md",
+                "file": "Skripsi/Kerangka Bab 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e66360f069571063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skripsi/Referensi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/DOM Manipulation And Events.md",
+                "file": "Skripsi/Referensi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/DOM Manipulation And Events.md",
+                "file": "Skripsi/Referensi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/DOM Manipulation And Events.md"
+                "file": "Skripsi/Referensi.md"
               }
             }
           },
@@ -181,13 +194,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bfaff13691a86711",
+  "active": "e66360f069571063",
   "lastOpenFiles": [
+    "Skripsi/Kerangka Bab 3.md",
+    "Web Development/DOM Manipulation And Events.md",
     "Web Development/JavaScript.md",
     "Web Development/Front-End.md",
     "Web Development/Web Development.md",
-    "Web Development/DOM Manipulation And Events.md",
-    "Skripsi/Kerangka Bab 3.md",
     "Web Development/JavaScript Fundamentals Part 4.md",
     "人生、夢、日本/本を読んでいる/Kafka On The Shore.md",
     "人生、夢、日本/ヨルシカ/(COVER) Itte by Yorushika Summer Version by Kaneko Lumi.md",
