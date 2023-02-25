@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d0830761c284078c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +194,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0830761c284078c",
+  "active": "e66360f069571063",
   "lastOpenFiles": [
     "Skripsi/Kerangka Bab 3.md",
     "Web Development/DOM Manipulation And Events.md",
