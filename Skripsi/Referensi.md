@@ -17,6 +17,9 @@ skripsi uir:
 https://repository.uir.ac.id/12878/1/143510351.pdf
 https://repository.uir.ac.id/8897/1/163510147.pdf
 
+skripsi luar:
+http://etheses.uin-malang.ac.id/37318/7/15650067.pdf == beras cnn
+
 Kerangka Pemikiran : 
 https://app.creately.com/d/DjsN7DPu6ex/edit/s/1m3e4b7h6n
 
