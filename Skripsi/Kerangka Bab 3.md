@@ -81,4 +81,7 @@ Dataset yang digunakan untuk klasifikasi handwritten digit image terdiri dari da
 
 Dataset ini diakses melalui library tensorflow public dataset yang menyediakan akses ke berbagai macam dataset populer untuk keperluan pengembangan dan riset di bidang deep learning yang selanjutnya akan dimasukkan ke Google Colaboratory. Dataset dipanggil menggunakan library TensorFlow dengan menggunakan fungsi `mnist.load_data()` pada sub-library `keras.datasets`. 
 
-Setiap gambar/image pada dataset MNIST memiliki label atau kelas yang sesuai dengan digit yang digambarkan pada gambar tersebut. Data training pada dataset MNIST terdiri dari 60.000 gambar digit tulisan tangan yang telah diverifikasi dengan benar. Data validation pada dataset MNIST terdiri dari 10.000 gambar digit tulisan tangan yang berbeda dengan data training dan digunakan untuk menguji kemampuan model klasifikasi yang telah dilatih sebelumnya.
+Setiap gambar/image pada dataset MNIST memiliki label atau kelas yang sesuai dengan digit yang digambarkan pada gambar tersebut. Data training pada dataset MNIST terdiri dari 60.000 gambar digit tulisan tangan yang telah diverifikasi dengan benar. Data validation pada dataset MNIST terdiri dari 10.000 gambar digit tulisan tangan yang berbeda dengan data training dan digunakan untuk menguji dan membandingkan hasil learning dengan dataset training di setiap epoch-nya.
+
+### 
+
