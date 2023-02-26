@@ -87,3 +87,7 @@ Normalisasi data juga perlu dilakukan pada langkah ini. setiap piksel gambar pad
 
 ### Data Augmentasi
 Setelah mendapatkan data dari dataset MNIST, langkah kedua dalam melakukan penelitian ini adalah melakukan data augmentasi pada data yang telah di inputkan. Data augmentasi adalah teknik yang digunakan untuk memperluas jumlah data pelatihan dengan membuat variasi kecil pada data yang ada. 
+
+Pada langkah ini, data augmentation akan dilakukan pada dataset MNIST menggunakan library TensorFlow Keras .ImageDataGenerator. Selanjutnya objek ImageDataGenerator akan menghasilkan augmented data dengan beberapa transformasi seperti rotasi gambar, pergeseran gambar, dan zoom in/out. 
+
+Setelah objek datagen didefinisikan, kita menggunakan method flow dari objek tersebut untuk menghasilkan augmented data dari dataset MNIST asli. Hasilnya, kita akan mendapatkan objek train_generator dan test_generator yang berisi data augmentasi dengan format batch (batch size, height, width, channel) yang siap digunakan dalam pelatihan model dengan Keras.
