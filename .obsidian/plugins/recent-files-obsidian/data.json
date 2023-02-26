@@ -5,6 +5,10 @@
       "path": "Skripsi/Kerangka Bab 3.md"
     },
     {
+      "basename": "Referensi",
+      "path": "Skripsi/Referensi.md"
+    },
+    {
       "basename": "Why did you come to Japan (何で日本に来たの)",
       "path": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "(COVER) Itte by Yorushika Summer Version by Kaneko Lumi",
       "path": "人生、夢、日本/ヨルシカ/(COVER) Itte by Yorushika Summer Version by Kaneko Lumi.md"
-    },
-    {
-      "basename": "Referensi",
-      "path": "Skripsi/Referensi.md"
     },
     {
       "basename": "DOM Manipulation And Events",
