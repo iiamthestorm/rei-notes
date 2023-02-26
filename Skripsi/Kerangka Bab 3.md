@@ -62,3 +62,4 @@ Sistem ini dirancang dengan menggunakan arsitektur jaringan Convolutional Neural
 
 Perancangan Pre-Augmented model yang akan dibangun pada penelitian ini digambarkan secara sederhana, seperti gambar berikut :
 
+![[Pre-Augmented Model.drawio.png]]
