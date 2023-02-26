@@ -66,3 +66,7 @@ Perancangan Pre-Augmented model yang akan dibangun pada penelitian ini digambark
 Gambar 3.2 Desain Pre-Augmented Model
 
 Sedangkan perancangan Post-Augmented model yang akan dibangun pada penelitian ini digambarkan seperti gambar berikut :
+![[Post-Augmented Model.png]]
+
+Gambar 3.3 Desain Post-Augmented Model
+
