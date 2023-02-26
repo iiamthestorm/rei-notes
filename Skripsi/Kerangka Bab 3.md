@@ -76,3 +76,5 @@ Dari gambar desain di atas, terlihat bahwa kedua model memiliki arsitektur yang 
 Langkah pertama dalam melakukan penelitihan ini yaitu input data dengan melakukan pembagian data yang berisi 2 macam gambar, yaitu:
 1. Data training, yang digunakan untuk proses learning.
 2. Data testing, yang digunakan untuk validasi ketika proses learning berlangsung.
+
+Dataset yang digunakan untuk klasifikasi handwritten digit image terdiri dari dataset training dan validation. Kedua dataset tersebut akan digunakan untuk melatih algoritma CNN sehingga dapat memperoleh model yang akurat.
