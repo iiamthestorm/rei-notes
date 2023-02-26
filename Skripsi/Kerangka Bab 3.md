@@ -83,7 +83,7 @@ Dataset ini diakses melalui library tensorflow public dataset yang menyediakan a
 
 Setiap gambar/image pada dataset MNIST memiliki label atau kelas yang sesuai dengan digit yang digambarkan pada gambar tersebut. Data training pada dataset MNIST terdiri dari 60.000 gambar digit tulisan tangan yang telah diverifikasi dengan benar. Data validation pada dataset MNIST terdiri dari 10.000 gambar digit tulisan tangan yang berbeda dengan data training dan digunakan untuk menguji dan membandingkan hasil learning dengan dataset training di setiap epoch-nya.
 
-
+Normalisasi data juga perlu dilakukan pada langkah ini. setiap piksel gambar pada data training dan validation akan dinormalisasi agar nilainya berada pada rentang antara 0 hingga 1. Hal ini dilakukan agar data dapat diproses dengan lebih efektif oleh algoritma CNN yang akan digunakan. Normalisasi juga dapat membantu mencegah terjadinya divergensi saat model dilatih, karena nilai yang terlalu besar dapat memperlambat konvergensi model. Dengan melakukan normalisasi, nilai piksel pada gambar akan memiliki skala yang sama sehingga memudahkan model dalam mempelajari pola-pola pada gambar.
 
 ### Data Augmentasi
 Setelah mendapatkan data dari dataset MNIST, langkah kedua dalam melakukan penelitian ini adalah melakukan data augmentasi pada data yang telah di inputkan. Data augmentasi adalah teknik yang digunakan untuk memperluas jumlah data pelatihan dengan membuat variasi kecil pada data yang ada. 
