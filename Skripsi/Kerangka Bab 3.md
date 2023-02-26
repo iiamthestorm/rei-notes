@@ -77,6 +77,6 @@ Langkah pertama dalam melakukan penelitihan ini yaitu input data dengan melakuka
 1. Data training, yang digunakan untuk proses learning.
 2. Data testing, yang digunakan untuk validasi ketika proses learning berlangsung.
 
-Dataset yang digunakan untuk klasifikasi handwritten digit image terdiri dari dataset training dan validation. Kedua dataset tersebut akan digunakan untuk melatih algoritma CNN sehingga dapat memperoleh model yang akurat.
+Dataset yang digunakan untuk klasifikasi handwritten digit image terdiri dari dataset training dan validation. Kedua dataset tersebut akan digunakan untuk melatih algoritma CNN sehingga dapat memperoleh model yang akurat. Seluruh dataset yang digunakan untuk pelatihan menggunakan gambar grayscale (satu saluran warna) dengan ukuran 28x28 piksel yang mana sudah sesuai untuk dimasukkan ke model. 
 
-Seluruh dataset yang digunakan untuk pelatihan menggunakan gambar grayscale (satu saluran warna) dengan ukuran 28x28 piksel
+Dataset ini diakses melalui library tensorflow public dataset yang menyediakan akses ke berbagai macam dataset populer untuk keperluan pengembangan dan riset di bidang deep learning yang selanjutnya akan dimasukkan ke Google Colaboratory.
