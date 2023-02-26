@@ -83,5 +83,7 @@ Dataset ini diakses melalui library tensorflow public dataset yang menyediakan a
 
 Setiap gambar/image pada dataset MNIST memiliki label atau kelas yang sesuai dengan digit yang digambarkan pada gambar tersebut. Data training pada dataset MNIST terdiri dari 60.000 gambar digit tulisan tangan yang telah diverifikasi dengan benar. Data validation pada dataset MNIST terdiri dari 10.000 gambar digit tulisan tangan yang berbeda dengan data training dan digunakan untuk menguji dan membandingkan hasil learning dengan dataset training di setiap epoch-nya.
 
-### 
 
+
+### Data Augmentasi
+Setelah mendapatkan data dari dataset MNIST, langkah kedua dalam melakukan penelitian ini adalah melakukan data augmentasi pada data yang telah di inputkan. Data augmentasi adalah teknik yang digunakan untuk memperluas jumlah data pelatihan dengan membuat variasi kecil pada data yang ada. 
