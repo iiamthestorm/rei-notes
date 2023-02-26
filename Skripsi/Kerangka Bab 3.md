@@ -86,10 +86,10 @@ Setiap gambar/image pada dataset MNIST memiliki label atau kelas yang sesuai den
 Normalisasi data juga perlu dilakukan pada langkah ini. setiap piksel gambar pada data training dan validation akan dinormalisasi agar nilainya berada pada rentang antara 0 hingga 1. Hal ini dilakukan agar data dapat diproses dengan lebih efektif oleh algoritma CNN yang akan digunakan. Normalisasi juga dapat membantu mencegah terjadinya divergensi saat model dilatih, karena nilai yang terlalu besar dapat memperlambat konvergensi model. Dengan melakukan normalisasi, nilai piksel pada gambar akan memiliki skala yang sama sehingga memudahkan model dalam mempelajari pola-pola pada gambar.
 
 ### Data Augmentasi
-Setelah mendapatkan data dari dataset MNIST, langkah kedua dalam melakukan penelitian ini adalah melakukan data augmentasi pada data yang telah di inputkan. Data augmentasi adalah teknik yang digunakan untuk memperluas jumlah data pelatihan dengan membuat variasi kecil pada data yang ada. 
+Setelah normalisasi data, langkah kedua dalam melakukan penelitian ini adalah melakukan data augmentasi. Data augmentasi adalah teknik yang digunakan untuk memperluas jumlah data pelatihan dengan membuat variasi kecil pada data yang ada. 
 
-Pada langkah ini, data augmentation akan dilakukan pada dataset MNIST menggunakan library TensorFlow Keras .ImageDataGenerator. 
+Pada langkah ini, data augmentation akan dilakukan menggunakan library TensorFlow Keras .ImageDataGenerator. 
 
-Dalam generator ini, objek datagen akan didefinisikan dan beberapa parameter augmentasi seperti rotasi gambar, pergeseran gambar/translasi, dan zoom in/out akan ditentukan. Dengan menggunakan generator ini, data latih dan data uji akan terus di-augmentasi secara acak saat pelatihan model, sehingga dapat menghasilkan model yang lebih baik dalam menggeneralisasi data baru.
+Dalam generator ini, objek datagen akan didefinisikan dan beberapa parameter augmentasi seperti rotasi gambar, pergeseran gambar/translasi, dan zoom in/out akan ditentukan. Dengan menggunakan generator ini, data latih dan data uji akan terus di-augmentasi secara acak saat pelatihan model, sehingga diharapkan dapat menghasilkan model yang lebih baik dalam menggeneralisasi data baru.
 
-Setelah objek datagen didefinisikan, kita menggunakan method flow dari objek tersebut untuk menghasilkan augmented data dari dataset yang telah kita normalisasi. Hasilnya, kita akan mendapatkan dataset baru yang berisi data augmentasi dengan format batch (batch size, height, width, channel) yang siap digunakan.
+Setelah objek datagen didefinisikan, kita menggunakan method flow dari objek tersebut untuk menghasilkan augmented data dari dataset yang telah kita normalisasi. Hasilnya, kita akan mendapatkan dataset baru berisi data augmentasi yang siap digunakan.
