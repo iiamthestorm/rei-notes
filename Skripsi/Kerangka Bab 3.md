@@ -93,3 +93,5 @@ Pada langkah ini, data augmentation akan dilakukan menggunakan library TensorFlo
 Dalam generator ini, objek datagen akan didefinisikan dan beberapa parameter augmentasi seperti rotasi gambar, pergeseran gambar/translasi, dan zoom in/out akan ditentukan. Dengan menggunakan generator ini, data latih dan data uji akan terus di-augmentasi secara acak saat pelatihan model, sehingga diharapkan dapat menghasilkan model yang lebih baik dalam menggeneralisasi data baru.
 
 Setelah objek datagen didefinisikan, kita menggunakan method flow dari objek tersebut untuk menghasilkan augmented data dari dataset yang telah kita normalisasi. Hasilnya, kita akan mendapatkan dataset baru berisi data augmentasi yang siap digunakan.
+
+Penting untuk diingat bahwa model yang menggunakan data augmentasi adalah post-augmented model, sementara pre-augmented model tidak melakukan data augmentasi. Setelah melakukan normalisasi pada data, langkah selanjutnya adalah membuat model CNN untuk pre-augmented model, sedangkan untuk post-augmented model, data akan dilakukan augmentasi terlebih dahulu sebelum diproses pada model CNN.
