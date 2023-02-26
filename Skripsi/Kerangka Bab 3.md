@@ -73,3 +73,6 @@ Gambar 3.3 Desain Post-Augmented Model
 Dari gambar desain di atas, terlihat bahwa kedua model memiliki arsitektur yang sama. Perbedaan utama antara keduanya terletak pada tahap augmentasi data yang dilakukan setelah tahap pre-processing pada model post-augmented. Dalam model pre-augmented, tahap augmentasi data tidak dilakukan sehingga data input langsung digunakan untuk training. Sedangkan pada model post-augmented, data input akan melalui tahap augmentasi terlebih dahulu sebelum digunakan untuk training.
 
 ### Input Image
+Langkah pertama dalam melakukan penelitihan ini yaitu input data dengan melakukan pembagian data yang berisi 2 macam gambar, yaitu:
+1. Data training, yang digunakan untuk proses learning.
+2. Data testing, yang digunakan untuk validasi ketika proses learning berlangsung.
