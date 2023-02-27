@@ -88,9 +88,7 @@ Normalisasi data juga perlu dilakukan pada langkah ini. setiap piksel gambar pad
 ### Data Augmentasi
 Setelah normalisasi data, langkah kedua dalam melakukan penelitian ini adalah melakukan data augmentasi. Data augmentasi adalah teknik yang digunakan untuk memperluas jumlah data pelatihan dengan membuat variasi kecil pada data yang ada. 
 
-Pada langkah ini, data augmentation akan dilakukan menggunakan library TensorFlow Keras .ImageDataGenerator. 
-
-Dalam generator ini, objek datagen akan didefinisikan dan beberapa parameter augmentasi seperti rotasi gambar, pergeseran gambar/translasi, dan zoom in/out akan ditentukan. Dengan menggunakan generator ini, data latih dan data uji akan terus di-augmentasi secara acak saat pelatihan model, sehingga diharapkan dapat menghasilkan model yang lebih baik dalam menggeneralisasi data baru.
+Pada langkah ini, data augmentation akan dilakukan menggunakan library TensorFlow Keras .ImageDataGenerator. Dalam generator ini, objek datagen akan didefinisikan dan beberapa parameter augmentasi seperti rotasi gambar, pergeseran gambar/translasi, dan zoom in/out akan ditentukan. Dengan menggunakan generator ini, data latih dan data uji akan terus di-augmentasi secara acak saat pelatihan model, sehingga diharapkan dapat menghasilkan model yang lebih baik dalam menggeneralisasi data baru.
 
 Setelah objek datagen didefinisikan, kita menggunakan method flow dari objek tersebut untuk menghasilkan augmented data dari dataset yang telah kita normalisasi. Hasilnya, kita akan mendapatkan dataset baru berisi data augmentasi yang siap digunakan.
 
