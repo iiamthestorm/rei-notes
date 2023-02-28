@@ -145,7 +145,3 @@ Untuk membandingkan hasil akurasi dari kedua model handwritten digit image class
 Pada proses pengujian, kita dapat membandingkan akurasi kedua model dengan memeriksa berapa banyak digit yang terdeteksi dengan benar dan berapa banyak yang salah. Dalam hal ini, kita dapat menghitung nilai akurasi dengan rumus akurasi = jumlah digit yang terdeteksi benar / jumlah total digit yang diuji.
 
 Selain itu, proses pengujian juga menguji berapa banyak nilai akurasi pada tepi kanan atas kiri bawah tempat kita menggambar digit. Dengan demikian, kita dapat membandingkan kedua model berdasarkan nilai akurasi pada setiap posisi di area penggambaran digit. Selain itu, kita juga dapat melihat perbedaan dalam tingkat kesulitan dalam menggambar digit yang dapat mempengaruhi akurasi model. Dengan membandingkan hasil akurasi kedua model pada berbagai posisi dan situasi penggambaran digit, kita dapat menentukan model mana yang lebih unggul dan lebih tepat digunakan pada aplikasi handwritten digit image classification pada perangkat Android.
-
-
-
-Android Studio dapat menggunakan bahasa pemrograman Java dan Kotlin. Android Studio digunakan untuk pengembangan aplikasi android berupa penulisan, edit, penyimpanan proyek dan beberapa file lain yang berhubungan dengan proyek yang dikembangkan. Android Studio memiliki Android SDK sebagai ekstensi kode dari java dan kotlin yang digunakan untuk menjalankan aplikasi pada perangkat Android. Jadi, Android Studio berperan sebagai penghubung antara bahasa pemrograman Java, Kotlin dan Android SDK (Android Studio User Guide, 2020).
