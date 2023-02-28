@@ -101,4 +101,13 @@ Berdasarkan Kinerja CNN yang sangat baik dalam komputer vision, maka arsitektur 
 
 Jumlah proses convolution pada rancangan ini memiliki dua lapisan convolution. Jumlah proses Pooling pada rancangan ini juga memiliki dua lapisan pooling. Setiap konvolusi memiliki jumlah filter yang berbeda tetapi memiliki ukuran kernel yang sama. Kemudian dilakukan proses flatten yang berfungsi untuk mengubah feature map dari hasil pooling layer menjadi bentuk vector. Proses ini disebut dengan proses fully Connected layer. Berikut adalah rancangan dari arsitektur CNN pada penelitian ini :
 ![[FlowChart CNN Architecture (3).png]]
-Convolution pertama menggunakan filter sebanyak 32 dan kernel dengan matriks 3x3. Kemudian dilakukan pooling menggunakan ukuran 2x2 dengan pergeseran mask dua langkah. Kemudian konvolusi kedua menggunakan filter sebanyak 64 dan kernel dengan matriks 3x3. Kemudian dilakukan pooling lagi menggunakan ukuran 2x2 dengan pergeseran mask dua langkah. 
+Berdasarkan gambar diatas dijelaskan terdapat dua tahap dalam arsitektur CNN, yaitu Feature Learning dan Classification. Feature learning merupakan teknik untuk memungkinkan sebuah system dapat berjalan secara otomatis untuk melakukan proses penentuan representasi dari sebuah image menjadi features yang berupa angka-angka yang merepresentasikan image tersebut. Tahap Classification adalah sebuah tahap dimana hasil dari feature learning akan digunakan untuk proses klasifikasi berdasarkan subclass yang sudah ditentukan.
+
+
+
+
+
+
+Convolution pertama menggunakan filter sebanyak 32 dan kernel dengan matriks 3x3. Kemudian dilakukan pooling menggunakan ukuran 2x2 dengan pergeseran mask dua langkah. Kemudian Convolution kedua menggunakan filter sebanyak 64 dan kernel dengan matriks 3x3. Kemudian dilakukan pooling lagi menggunakan ukuran 2x2 dengan pergeseran mask dua langkah. 
+
+Setelah proses Convolution dilakukan, output dari proses tersebut akan diubah menggunakan Flatten layer. Flatten layer melakukan perubahan output dari proses konvolusi dengan mengubah tensor multidimensi menjadi tensor satu dimensi untuk diproses lebih lanjut. Kemudian, proses klasifikasi dilakukan menggunakan Multi Layer Perceptron (MLP) yang terdiri dari satu lapisan tersembunyi dengan jumlah neuron yang telah ditentukan. Kelas dari citra kemudian diklasifikasikan berdasarkan nilai neuron pada lapisan tersembunyi dengan menggunakan fungsi aktivasi softmax.
