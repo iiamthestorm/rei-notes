@@ -95,4 +95,4 @@ Setelah objek datagen didefinisikan, kita menggunakan method flow dari objek ter
 Penting untuk diingat bahwa model yang menggunakan data augmentasi adalah post-augmented model, sementara pre-augmented model tidak melakukan data augmentasi. Setelah melakukan normalisasi pada data, langkah selanjutnya adalah membuat model CNN untuk pre-augmented model, sedangkan untuk post-augmented model, data akan dilakukan augmentasi terlebih dahulu sebelum diproses pada model CNN.
 
 ### Pembuatan Model CNN
-
+Setelah dilakukannya data augmentasi pada dataset, proses selanjutnya adalah melakukan pelatihan model CNN.
