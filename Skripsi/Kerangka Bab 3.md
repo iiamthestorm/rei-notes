@@ -78,13 +78,13 @@ Langkah pertama dalam melakukan penelitihan ini yaitu input data dengan melakuka
 1. Data training, yang digunakan untuk proses learning.
 2. Data testing, yang digunakan untuk validasi ketika proses learning berlangsung.
 
-Dataset yang digunakan untuk klasifikasi handwritten digit image terdiri dari dataset training dan validation. Kedua dataset tersebut akan digunakan untuk melatih algoritma CNN sehingga dapat memperoleh model yang akurat. Seluruh dataset yang digunakan untuk pelatihan menggunakan gambar grayscale (satu saluran warna) dengan ukuran 28x28 piksel yang mana sudah sesuai untuk dimasukkan ke model. 
+Dataset yang digunakan untuk klasifikasi handwritten digit image terdiri dari dataset training dan validation. Kedua dataset tersebut akan digunakan untuk melatih algoritma CNN sehingga dapat memperoleh model yang akurat. Seluruh dataset yang digunakan untuk pelatihan menggunakan gambar grayscale (satu saluran warna) dengan ukuran 28x28 piksel yang sudah cocok untuk dimasukkan ke model. 
 
 Dataset ini diakses melalui library tensorflow public dataset yang menyediakan akses ke berbagai macam dataset populer untuk keperluan pengembangan dan riset di bidang deep learning yang selanjutnya akan dimasukkan ke Google Colaboratory. Dataset dipanggil menggunakan library TensorFlow dengan menggunakan fungsi `mnist.load_data()` pada sub-library `keras.datasets` dan akan dimasukkan ke variable seperti (train_images, train_labels), (test_images, test_labels). Berikut adalah preview dataset yang diinput:
 ![[320px-MnistExamples.png]]
 Gambar 3.4 Preview Dataset MNIST
 
-Setiap gambar/image pada dataset MNIST memiliki label atau kelas yang sesuai dengan digit yang digambarkan pada gambar tersebut. Data training pada dataset MNIST terdiri dari 60.000 gambar digit tulisan tangan yang telah diverifikasi dengan benar. Data validation pada dataset MNIST terdiri dari 10.000 gambar digit tulisan tangan yang berbeda dengan data training dan digunakan untuk menguji dan membandingkan hasil learning dengan dataset training di setiap epoch-nya.
+Setiap gambar/image pada dataset MNIST memiliki label atau kelas yang sesuai dengan digit yang digambarkan pada gambar tersebut. Data training pada dataset MNIST terdiri dari 60.000 gambar digit tulisan tangan/handwritten yang telah diverifikasi dengan benar. Data validation pada dataset MNIST terdiri dari 10.000 gambar digit tulisan tangan/_handwritten_ yang berbeda dengan data training dan digunakan untuk menguji dan membandingkan hasil learning dengan dataset training di setiap epoch-nya.
 
 Normalisasi data juga perlu dilakukan pada langkah ini. setiap piksel gambar pada data training dan validation akan dinormalisasi agar nilainya berada pada rentang antara 0 hingga 1. Hal ini dilakukan agar data dapat diproses dengan lebih efektif oleh algoritma CNN yang akan digunakan. Normalisasi juga dapat membantu mencegah terjadinya divergensi saat model dilatih, karena nilai yang terlalu besar dapat memperlambat konvergensi model. Dengan melakukan normalisasi, nilai piksel pada gambar akan memiliki skala yang sama sehingga memudahkan model dalam mempelajari pola-pola pada gambar.
 
