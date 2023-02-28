@@ -57,9 +57,9 @@ Desain arsitektur sistem yang akan dibangun pada penelitian ini digambarkan sepe
 ![[Digit Classifier Diagram.png]]
 Gambar 3.1 Desain Arsitektur Sistem
 
-Proses pada desain arsitektur sistem pada penelitian ini dimulai dari membuat source code untuk mengimplementasikan Convolutional Neural Network (CNN) dan mengimpor Framework Tensorflow yang dibuat menggunakan infrastruktur Google Colaboratory dengan bahasa pemrograman Python dan disimpan dalam bentuk file Jupyter Notebooks (.ipynb) dan kemudian disimpan ke Github. Selanjutnya dataset pelatihan tersebut diambil dari TensorFlow library nya sendiri dan disimpan ke dalam tempat penyimpanan sementara pada Google Colaboratory. 
+Proses pada desain arsitektur sistem pada penelitian ini dimulai dari membuat source code untuk mengimplementasikan Convolutional Neural Network (CNN) dan mengimpor Framework Tensorflow yang dibuat menggunakan infrastruktur Google Colaboratory dengan bahasa pemrograman Python dan disimpan dalam bentuk file Jupyter Notebooks (.ipynb) dan kemudian disimpan ke Github. Selanjutnya dataset diambil dari TensorFlow library dan disimpan ke dalam tempat penyimpanan sementara pada Google Colaboratory. 
 
-Sistem ini dirancang dengan menggunakan arsitektur jaringan Convolutional Neural Network (CNN) dan terdiri dari dua model, yaitu pre-augmented model dan post-augmented model. Pre-augmented model tidak menggunakan teknik augmentasi data, sementara post-augmented model menggunakan teknik augmentasi data. Hal ini dilakukan untuk membandingkan kinerja kedua model dalam mengenali objek pada dataset yang sama, serta memperlihatkan apakah teknik augmentasi data dapat meningkatkan performa model dalam mengenali objek.
+Sistem ini dirancang dengan menggunakan arsitektur jaringan Convolutional Neural Network (CNN) dan terdiri dari dua model, yaitu pre-augmented model dan post-augmented model. Pre-augmented model tidak menggunakan teknik augmentasi data, sementara Post-augmented model menggunakan teknik augmentasi data. Hal ini dilakukan untuk membandingkan kinerja kedua model dalam mengenali objek pada dataset yang sama, serta memperlihatkan apakah teknik augmentasi data dapat meningkatkan performa model dalam mengenali objek.
 
 Perancangan Pre-Augmented model yang akan dibangun pada penelitian ini digambarkan secara sederhana, seperti gambar berikut :
 
@@ -74,7 +74,7 @@ Gambar 3.3 Desain Post-Augmented Model
 Dari gambar desain di atas, terlihat bahwa kedua model memiliki arsitektur yang sama. Perbedaan utama antara keduanya terletak pada tahap augmentasi data yang dilakukan setelah tahap pre-processing pada model post-augmented. Dalam model pre-augmented, tahap augmentasi data tidak dilakukan sehingga data input langsung digunakan untuk training. Sedangkan pada model post-augmented, data input akan melalui tahap augmentasi terlebih dahulu sebelum digunakan untuk training.
 
 ### Input Image
-Langkah pertama dalam melakukan penelitihan ini yaitu input data dengan melakukan pembagian data yang berisi 2 macam gambar, yaitu:
+Langkah pertama dalam melakukan penelitihan ini yaitu input data dengan melakukan pembagian data yang berisi 2 jenis data, yaitu:
 1. Data training, yang digunakan untuk proses learning.
 2. Data testing, yang digunakan untuk validasi ketika proses learning berlangsung.
 
