@@ -23,5 +23,12 @@ http://etheses.uin-malang.ac.id/37318/7/15650067.pdf == beras cnn
 Kerangka Pemikiran : 
 https://app.creately.com/d/DjsN7DPu6ex/edit/s/1m3e4b7h6n
 
+Pembuatan CNN Architecture :
+http://alexlenail.me/NN-SVG/LeNet.html = framework
+https://pixlr.com/x/#editor = edit text
+https://netron.app/ = pembuatan horizontal cnn architecture tanpa square model
+
+Penjelasan Depth pembuatan CNN Architecture:
+https://medium.com/@himanshubeniwal/handwritten-digit-recognition-using-machine-learning-ad30562a9b64
 
 
