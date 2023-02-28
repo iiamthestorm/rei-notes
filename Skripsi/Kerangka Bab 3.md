@@ -79,9 +79,9 @@ Langkah pertama dalam melakukan penelitihan ini yaitu input data dengan melakuka
 
 Dataset yang digunakan untuk klasifikasi handwritten digit image terdiri dari dataset training dan validation. Kedua dataset tersebut akan digunakan untuk melatih algoritma CNN sehingga dapat memperoleh model yang akurat. Seluruh dataset yang digunakan untuk pelatihan menggunakan gambar grayscale (satu saluran warna) dengan ukuran 28x28 piksel yang mana sudah sesuai untuk dimasukkan ke model. 
 
-Dataset ini diakses melalui library tensorflow public dataset yang menyediakan akses ke berbagai macam dataset populer untuk keperluan pengembangan dan riset di bidang deep learning yang selanjutnya akan dimasukkan ke Google Colaboratory. Dataset dipanggil menggunakan library TensorFlow dengan menggunakan fungsi `mnist.load_data()` pada sub-library `keras.datasets` dan akan dimasukkan ke variable seperti (train_images, train_labels), (test_images, test_labels). 
-
-Berikut adalah prev
+Dataset ini diakses melalui library tensorflow public dataset yang menyediakan akses ke berbagai macam dataset populer untuk keperluan pengembangan dan riset di bidang deep learning yang selanjutnya akan dimasukkan ke Google Colaboratory. Dataset dipanggil menggunakan library TensorFlow dengan menggunakan fungsi `mnist.load_data()` pada sub-library `keras.datasets` dan akan dimasukkan ke variable seperti (train_images, train_labels), (test_images, test_labels). Berikut adalah preview dataset yang diinput:
+![[320px-MnistExamples.png]]
+Gambar 3.3 Desain Post-Augmented Model
 
 Setiap gambar/image pada dataset MNIST memiliki label atau kelas yang sesuai dengan digit yang digambarkan pada gambar tersebut. Data training pada dataset MNIST terdiri dari 60.000 gambar digit tulisan tangan yang telah diverifikasi dengan benar. Data validation pada dataset MNIST terdiri dari 10.000 gambar digit tulisan tangan yang berbeda dengan data training dan digunakan untuk menguji dan membandingkan hasil learning dengan dataset training di setiap epoch-nya.
 
@@ -92,7 +92,9 @@ Setelah normalisasi data, langkah kedua dalam melakukan penelitian ini adalah me
 
 Pada langkah ini, data augmentation akan dilakukan menggunakan library TensorFlow Keras .ImageDataGenerator. Dalam generator ini, objek datagen akan didefinisikan dan beberapa parameter augmentasi seperti rotasi gambar, pergeseran gambar/translasi, dan zoom in/out akan ditentukan. Dengan menggunakan generator ini, data latih dan data uji akan terus di-augmentasi secara acak saat pelatihan model, sehingga diharapkan dapat menghasilkan model yang lebih baik dalam menggeneralisasi data baru.
 
-Setelah objek datagen didefinisikan, kita menggunakan method flow dari objek tersebut untuk menghasilkan augmented data dari dataset yang telah kita normalisasi. Hasilnya, kita akan mendapatkan dataset baru berisi data augmentasi yang siap digunakan.
+Setelah objek datagen didefinisikan, kita menggunakan method flow dari objek tersebut untuk menghasilkan augmented data dari dataset yang telah kita normalisasi. Hasilnya, kita akan mendapatkan dataset baru berisi data augmentasi yang siap digunakan. Berikut adalah gambar data yang belum diaugmentasi dan yang telah diaugmentasi:
+![[Dataset Belum Augmented.png]]
+gambar 
 
 Penting untuk diingat bahwa model yang menggunakan data augmentasi adalah post-augmented model, sementara pre-augmented model tidak melakukan data augmentasi. Setelah melakukan normalisasi pada data, langkah selanjutnya adalah membuat model CNN untuk pre-augmented model, sedangkan untuk post-augmented model, data akan dilakukan augmentasi terlebih dahulu sebelum diproses pada model CNN.
 
