@@ -111,4 +111,6 @@ Setelah proses Convolution dilakukan, output dari proses tersebut akan diubah me
 ### Training
 Proses training ini merupakan bagian terpenting dari keberhasilan proses CNN, yang mana proses CNN dapat dikatakan berhasil jika proses training memiliki hasil yang akurat. 
 
-Sistem akan mempelajari dataset training untuk klasifikasi jenis beras yang berjumlah lima jenis. Model fitting berisi model neuron yang harus diaktifkan ketika menunjukkan varietas berasnya. Setelah proes training selesai, model fitting kemudian disimpan untuk dipanggil kembali pada proses testing.
+Sistem akan mempelajari dataset training untuk klasifikasi jenis beras yang berjumlah lima jenis. 
+
+Model fitting berisi model neuron yang harus diaktifkan ketika menunjukkan varietas berasnya. Setelah proes training selesai, model fitting kemudian disimpan untuk dipanggil kembali pada proses testing.
