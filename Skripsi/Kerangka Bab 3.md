@@ -129,6 +129,8 @@ Untuk mengintegrasikan tflite model yang telah diunduh ke Android Studio, carany
 Setelah folder "assets" dibuat, langkah selanjutnya adalah menyalin file tflite model yang telah diunduh ke dalam folder tersebut. Dengan melakukan hal ini, maka file tflite model dapat diakses dan digunakan dalam pengembangan aplikasi Android.
 
 ### Desain Pengujian
-Untuk membandingkan hasil akurasi dari handwritten digit image classifier pada perangkat Android, dapat dilakukan dengan membandingkan hasil prediksi model pada gambar-gambar digit tertentu yang sudah diketahui kelasnya dengan label yang sebenarnya.
+Untuk membandingkan hasil akurasi dari kedua model handwritten digit image classifier pada perangkat Android, kita dapat melakukan pengujian dengan cara menggambar digit dengan jari pada aplikasi. Setelah itu, hasil akurasi dari kedua model tersebut dapat dibandingkan untuk melihat model mana yang lebih akurat. 
 
-Akurasi model secara keseluruhan dapat dihitung dengan menghitung rata-rata akurasi pada setiap gambar.
+Pada proses pengujian, kita dapat membandingkan akurasi kedua model dengan memeriksa berapa banyak digit yang terdeteksi dengan benar dan berapa banyak yang salah. Dalam hal ini, kita dapat menghitung nilai akurasi dengan rumus akurasi = jumlah digit yang terdeteksi benar / jumlah total digit yang diuji.
+
+Selain itu, proses pengujian juga menguji berapa banyak nilai akurasi pada tepi kanan atas kiri bawah tempat kita menggambar digit. Dengan demikian, kita dapat membandingkan kedua model berdasarkan nilai akurasi pada setiap posisi di area penggambaran digit. Selain itu, kita juga dapat melihat perbedaan dalam tingkat kesulitan dalam menggambar digit yang dapat mempengaruhi akurasi model. Dengan membandingkan hasil akurasi kedua model pada berbagai posisi dan situasi penggambaran digit, kita dapat menentukan model mana yang lebih unggul dan lebih tepat digunakan pada aplikasi handwritten digit image classification pada perangkat Android.
