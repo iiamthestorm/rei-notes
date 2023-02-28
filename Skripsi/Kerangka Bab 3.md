@@ -122,4 +122,8 @@ Setelah melakukan proses training dan testing pada model, tahap selanjutnya adal
 
 Untuk melakukan konversi model, digunakan fungsi 'tf.lite.TFLiteConverter.from_keras_model' dan diatur dengan optimizations level DEFAULT untuk mengoptimalkan kuantisasi model. Setelah itu, model yang sudah dikonversi akan disimpan di direktori Downloads dalam format TFLite. Akhirnya, model tersebut dapat diunduh dengan menggunakan fungsi 'files.download' yang tersedia di Google Colab. 
 
-Setelah model dikonversi dengan Tensorflow Lite, tahap selanjutnya adalah mengintegrasikannya ke dalam platform Android dengan menggunakan Android Studio. Android Studio menyediakan plugin Tensorflow Lite yang memungkinkan pengguna untuk mengimpor model dan menggunakan model tersebut dalam aplikasi Android.
+Setelah model dikonversi dengan Tensorflow Lite, tahap selanjutnya adalah mengintegrasikannya ke dalam platform Android dengan menggunakan Android Studio. 
+
+Untuk mengintegrasikan tflite model yang telah diunduh ke Android Studio, caranya adalah dengan membuka proyek Android Studio dan membuat folder "assets" di direktori "app/src/main/" jika folder tersebut belum ada. Hal ini perlu dilakukan untuk menyiapkan tempat untuk menyimpan file tflite model yang akan digunakan dalam aplikasi Android.
+
+Setelah folder "assets" dibuat, langkah selanjutnya adalah menyalin file tflite model yang telah diunduh ke dalam folder tersebut. Dengan melakukan hal ini, maka file tflite model dapat diakses dan digunakan dalam pengembangan aplikasi Android.
