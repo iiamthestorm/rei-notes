@@ -127,3 +127,8 @@ Setelah model dikonversi dengan Tensorflow Lite, tahap selanjutnya adalah mengin
 Untuk mengintegrasikan tflite model yang telah diunduh ke Android Studio, caranya adalah dengan membuka proyek Android Studio dan membuat folder "assets" di direktori "app/src/main/" jika folder tersebut belum ada. Hal ini perlu dilakukan untuk menyiapkan tempat untuk menyimpan file tflite model yang akan digunakan dalam aplikasi Android.
 
 Setelah folder "assets" dibuat, langkah selanjutnya adalah menyalin file tflite model yang telah diunduh ke dalam folder tersebut. Dengan melakukan hal ini, maka file tflite model dapat diakses dan digunakan dalam pengembangan aplikasi Android.
+
+### Desain Pengujian
+Untuk membandingkan hasil akurasi dari handwritten digit image classifier pada perangkat Android, dapat dilakukan dengan membandingkan hasil prediksi model pada gambar-gambar digit tertentu yang sudah diketahui kelasnya dengan label yang sebenarnya.
+
+Akurasi model secara keseluruhan dapat dihitung dengan menghitung rata-rata akurasi pada setiap gambar.
