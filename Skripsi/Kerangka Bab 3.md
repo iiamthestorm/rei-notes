@@ -129,7 +129,7 @@ Setelah itu, proses training akan dilakukan dengan memanggil fungsi fit' pada mo
 Untuk training model menggunakan data yang tidak diaugmentasi, data bisa langsung di panggil dari tahap Input Image sebelumnya. Kemudian langkah selanjutnya tetap sama seperti Jumlah epoch yang digunakan untuk proses training adalah 5 serta data validasi yang digunakan adalah data testing yang tidak diaugmentasi sebelumnya berupa variable (test_images, test_labels).
 
 ### Integrasi Model ke Android
-Setelah melakukan proses training dan testing pada model, tahap selanjutnya adalah melakukan konversi pada model agar dapat diintegrasikan ke dalam platform Android. Salah satu cara untuk melakukan konversi pada model adalah dengan menggunakan Tensorflow Lite. Dengan menggunakan Tensorflow Lite, model dapat dikonversi ke dalam format yang lebih kecil dan ringan, sehingga dapat dijalankan dengan efisien pada perangkat mobile. 
+Setelah melakukan proses training dan testing pada model, tahap selanjutnya adalah melakukan konversi pada model agar dapat diintegrasikan ke dalam platform Android. Salah satu cara untuk melakukan konversi pada model adalah dengan menggunakan Tensorflow Lite. Dengan menggunakan Tensorflow Lite, model dapat dikonversi ke dalam format yang lebih kecil dan ringan, sehingga dapat dijalankan dengan efisien pada perangkat Android. 
 
 Untuk melakukan konversi model, digunakan fungsi 'tf.lite.TFLiteConverter.from_keras_model' dan diatur dengan optimizations level DEFAULT untuk mengoptimalkan kuantisasi model. Setelah itu, model yang sudah dikonversi akan disimpan di direktori Downloads dalam format TFLite. Akhirnya, model tersebut dapat diunduh dengan menggunakan fungsi 'files.download' yang tersedia di Google Colab. 
 
@@ -140,7 +140,7 @@ Untuk mengintegrasikan tflite model yang telah diunduh ke Android Studio, carany
 Setelah folder "assets" dibuat, langkah selanjutnya adalah menyalin file tflite model yang telah diunduh ke dalam folder tersebut. Dengan melakukan hal ini, maka file tflite model dapat diakses dan digunakan dalam pengembangan aplikasi Android.
 
 ### Desain Pengujian
-Untuk membandingkan hasil akurasi dari kedua model handwritten digit image classifier pada perangkat Android, kita dapat melakukan pengujian dengan cara menggambar digit dengan jari pada aplikasi. Setelah itu, hasil akurasi dari kedua model tersebut dapat dibandingkan untuk melihat model mana yang lebih akurat. 
+Untuk membandingkan hasil akurasi dari kedua model handwritten digit image classification pada perangkat Android, kita dapat melakukan pengujian dengan cara menggambar digit dengan jari pada aplikasi. Setelah itu, hasil akurasi dari kedua model tersebut dapat dibandingkan untuk melihat model mana yang lebih akurat. 
 
 Pada proses pengujian, kita dapat membandingkan akurasi kedua model dengan memeriksa berapa banyak digit yang terdeteksi dengan benar dan berapa banyak yang salah. Dalam hal ini, kita dapat menghitung nilai akurasi dengan rumus akurasi = jumlah digit yang terdeteksi benar / jumlah total digit yang diuji.
 
