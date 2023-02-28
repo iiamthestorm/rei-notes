@@ -79,7 +79,7 @@ Langkah pertama dalam melakukan penelitihan ini yaitu input data dengan melakuka
 
 Dataset yang digunakan untuk klasifikasi handwritten digit image terdiri dari dataset training dan validation. Kedua dataset tersebut akan digunakan untuk melatih algoritma CNN sehingga dapat memperoleh model yang akurat. Seluruh dataset yang digunakan untuk pelatihan menggunakan gambar grayscale (satu saluran warna) dengan ukuran 28x28 piksel yang mana sudah sesuai untuk dimasukkan ke model. 
 
-Dataset ini diakses melalui library tensorflow public dataset yang menyediakan akses ke berbagai macam dataset populer untuk keperluan pengembangan dan riset di bidang deep learning yang selanjutnya akan dimasukkan ke Google Colaboratory. Dataset dipanggil menggunakan library TensorFlow dengan menggunakan fungsi `mnist.load_data()` pada sub-library `keras.datasets` dan akan dimasukkan ke variable seperti . 
+Dataset ini diakses melalui library tensorflow public dataset yang menyediakan akses ke berbagai macam dataset populer untuk keperluan pengembangan dan riset di bidang deep learning yang selanjutnya akan dimasukkan ke Google Colaboratory. Dataset dipanggil menggunakan library TensorFlow dengan menggunakan fungsi `mnist.load_data()` pada sub-library `keras.datasets` dan akan dimasukkan ke variable seperti (train_images, train_labels), (test_images, test_labels). 
 
 Setiap gambar/image pada dataset MNIST memiliki label atau kelas yang sesuai dengan digit yang digambarkan pada gambar tersebut. Data training pada dataset MNIST terdiri dari 60.000 gambar digit tulisan tangan yang telah diverifikasi dengan benar. Data validation pada dataset MNIST terdiri dari 10.000 gambar digit tulisan tangan yang berbeda dengan data training dan digunakan untuk menguji dan membandingkan hasil learning dengan dataset training di setiap epoch-nya.
 
@@ -108,22 +108,13 @@ Convolution pertama menggunakan filter sebanyak 32 dan kernel dengan matriks 3x3
 
 Setelah proses Convolution dilakukan, output dari proses tersebut akan diubah menggunakan Flatten layer. Flatten layer melakukan perubahan output dari proses konvolusi dengan mengubah tensor multidimensi menjadi tensor satu dimensi untuk diproses lebih lanjut. Kemudian, proses klasifikasi dilakukan menggunakan Multi Layer Perceptron (MLP) yang terdiri dari satu lapisan tersembunyi dengan jumlah neuron yang telah ditentukan. Kelas dari citra kemudian diklasifikasikan berdasarkan nilai neuron pada lapisan tersembunyi dengan menggunakan fungsi aktivasi softmax.
 
-### Training
-Proses training merupakan bagian terpenting dari keberhasilan proses CNN, yang mana proses CNN dapat dikatakan berhasil jika proses training memiliki hasil yang akurat. 
+### Training and Testing
+Proses training dan testing merupakan bagian terpenting dari keberhasilan proses CNN, yang mana proses CNN dapat dikatakan berhasil jika proses training dan testing memiliki hasil yang akurat. 
 
-Sebelum melakukan training, terdapat pemanggilan fungsi `compile` yang digunakan terlebih dahulu untuk mengkonfigurasi model CNN. 
+Sebelum melakukan training dan testing, terdapat pemanggilan fungsi `compile` yang digunakan terlebih dahulu untuk mengkonfigurasi model CNN. 
 
 Pada fungsi `compile`, kita menentukan optimizer yang digunakan (dalam hal ini 'adam'), loss function yang digunakan (dalam hal ini 'sparse_categorical_crossentropy'), serta metrics yang digunakan untuk mengukur kinerja model (dalam hal ini 'accuracy').
 
-Setelah itu, proses training akan dilakukan dengan memanggil fungsi `fit` pada model. Jika ingin training model menggunakan data yang telah di augmentasi, data tersebut bisa didapat dari tahap augmentasi data pada materi sebelumnya, yaitu dengan memanggil objek datagen berupa variabel seperti (`train_generator`). Jumlah epoch yang digunakan untuk proses training adalah 5, serta data validasi yang digunakan adalah data testing yang telah di augmentasi sebelumnya berupa variable (`test_generator`).
+Setelah itu, proses training akan dilakukan dengan memanggil fungsi `fit` pada model. Jika ingin training model menggunakan data yang telah di augmentasi, data tersebut bisa didapat dari tahap augmentasi data pada materi sebelumnya, yaitu dengan memanggil objek datagen berupa variabel seperti (`train_generator`). Jumlah epoch yang digunakan untuk proses training adalah 5, serta data validasi yang digunakan adalah data testing yang telah diaugmentasi sebelumnya berupa variable (`test_generator`).
 
-Untuk training model menggunakan data yang tidak diaugmentasi, data bisa langsung di panggil dari tahap Input Image sebelumnya. 
-
-
-
-
-
-
-Sistem akan mempelajari dataset training untuk klasifikasi jenis beras yang berjumlah lima jenis. 
-
-Model fitting berisi model neuron yang harus diaktifkan ketika menunjukkan varietas berasnya. Setelah proes training selesai, model fitting kemudian disimpan untuk dipanggil kembali pada proses testing.
+Untuk training model menggunakan data yang tidak diaugmentasi, data bisa langsung di panggil dari tahap Input Image sebelumnya. Kemudian langkah selanjutnya tetap sama seperti Jumlah epoch yang digunakan untuk proses training adalah 5 serta data validasi yang digunakan adalah data testing yang tidak diaugmentasi sebelumnya berupa variable (test_images, test_labels).
