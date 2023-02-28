@@ -97,4 +97,6 @@ Penting untuk diingat bahwa model yang menggunakan data augmentasi adalah post-a
 ### Pembuatan Model CNN
 Setelah dilakukan data augmentasi pada dataset, tergantung ingin membuat model pre-augmented atau model post-augmented, kita akan merancang struktur CNN.
 
-Berdasarkan Kinerja CNN yang sangat baik dalam komputer vision, maka arsitektur yang akan dibangun pada penelitian ini terdiri dari dua tahap, yaitu feature learning dan classification. Input gambar pada model CNN menggunakan citra yang memiliki ukuran 28x28x1. Angka 1 tersebut merupakan citra yang hanya memiliki 1 channel yaitu grayscale.
+Berdasarkan Kinerja CNN yang sangat baik dalam komputer vision, maka arsitektur yang akan dibangun pada penelitian ini terdiri dari dua tahap, yaitu feature learning dan classification. Input gambar pada model CNN menggunakan citra yang memiliki ukuran 28x28x1. Angka 1 tersebut merupakan citra yang hanya memiliki 1 channel yaitu grayscale. Citra masukan atau input kemudian diproses melalui proses convolution dan pooling yang dilakukan pada tahapan feature learning. 
+
+Jumlah proses convolution pada rancangan ini memiliki dua lapisan convolution. Setiap konvolusi memiliki jumlah filter dan ukuran kernel yang berbeda. Kemudian dilakukan proses flatten yang berfungsi untuk mengubah feature map dari hasil pooling layer menjadi bentuk vector. Proses ini disebut dengan proses fully Connected layer. Berikut adalah rancangan dari arsitektur CNN pada penelitian ini :
