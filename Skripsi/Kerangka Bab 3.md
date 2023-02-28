@@ -95,4 +95,6 @@ Setelah objek datagen didefinisikan, kita menggunakan method flow dari objek ter
 Penting untuk diingat bahwa model yang menggunakan data augmentasi adalah post-augmented model, sementara pre-augmented model tidak melakukan data augmentasi. Setelah melakukan normalisasi pada data, langkah selanjutnya adalah membuat model CNN untuk pre-augmented model, sedangkan untuk post-augmented model, data akan dilakukan augmentasi terlebih dahulu sebelum diproses pada model CNN.
 
 ### Pembuatan Model CNN
-Setelah dilakukannya data augmentasi pada dataset, proses selanjutnya adalah melakukan pelatihan model CNN.
+Setelah dilakukan data augmentasi pada dataset, tergantung ingin membuat model pre-augmented atau model post-augmented, kita akan merancang struktur CNN.
+
+Berdasarkan Kinerja CNN yang sangat baik dalam komputer vision, maka arsitektur yang akan dibangun pada penelitian ini terdiri dari dua tahap, yaitu feature learning dan classification. Input gambar pada model CNN menggunakan citra yang memiliki ukuran 28x28x1. Angka 1 tersebut merupakan citra yang hanya memiliki 1 channel yaitu grayscale.
