@@ -28,6 +28,7 @@ http://alexlenail.me/NN-SVG/LeNet.html = framework
 https://pixlr.com/x/#editor = edit text
 https://netron.app/ = pembuatan horizontal cnn architecture tanpa square model
 
+
 Penjelasan Depth pembuatan CNN Architecture:
 https://medium.com/@himanshubeniwal/handwritten-digit-recognition-using-machine-learning-ad30562a9b64
 
