@@ -81,7 +81,7 @@ Dataset yang digunakan untuk klasifikasi handwritten digit image terdiri dari da
 
 Dataset ini diakses melalui library tensorflow public dataset yang menyediakan akses ke berbagai macam dataset populer untuk keperluan pengembangan dan riset di bidang deep learning yang selanjutnya akan dimasukkan ke Google Colaboratory. Dataset dipanggil menggunakan library TensorFlow dengan menggunakan fungsi `mnist.load_data()` pada sub-library `keras.datasets` dan akan dimasukkan ke variable seperti (train_images, train_labels), (test_images, test_labels). Berikut adalah preview dataset yang diinput:
 ![[320px-MnistExamples.png]]
-Gambar 3.3 Desain Post-Augmented Model
+Gambar 3.4 Preview Dataset MNIST
 
 Setiap gambar/image pada dataset MNIST memiliki label atau kelas yang sesuai dengan digit yang digambarkan pada gambar tersebut. Data training pada dataset MNIST terdiri dari 60.000 gambar digit tulisan tangan yang telah diverifikasi dengan benar. Data validation pada dataset MNIST terdiri dari 10.000 gambar digit tulisan tangan yang berbeda dengan data training dan digunakan untuk menguji dan membandingkan hasil learning dengan dataset training di setiap epoch-nya.
 
@@ -94,7 +94,10 @@ Pada langkah ini, data augmentation akan dilakukan menggunakan library TensorFlo
 
 Setelah objek datagen didefinisikan, kita menggunakan method flow dari objek tersebut untuk menghasilkan augmented data dari dataset yang telah kita normalisasi. Hasilnya, kita akan mendapatkan dataset baru berisi data augmentasi yang siap digunakan. Berikut adalah gambar data yang belum diaugmentasi dan yang telah diaugmentasi:
 ![[Dataset Belum Augmented.png]]
-gambar 
+Gambar 3.5 Dataset MNIST yang belum diaugmentasi
+
+![[Dataset Sudah Augmented.png]]
+Gambar 3.6 Dataset MNIST yang telah diaugmentasi
 
 Penting untuk diingat bahwa model yang menggunakan data augmentasi adalah post-augmented model, sementara pre-augmented model tidak melakukan data augmentasi. Setelah melakukan normalisasi pada data, langkah selanjutnya adalah membuat model CNN untuk pre-augmented model, sedangkan untuk post-augmented model, data akan dilakukan augmentasi terlebih dahulu sebelum diproses pada model CNN.
 
