@@ -109,7 +109,18 @@ Convolution pertama menggunakan filter sebanyak 32 dan kernel dengan matriks 3x3
 Setelah proses Convolution dilakukan, output dari proses tersebut akan diubah menggunakan Flatten layer. Flatten layer melakukan perubahan output dari proses konvolusi dengan mengubah tensor multidimensi menjadi tensor satu dimensi untuk diproses lebih lanjut. Kemudian, proses klasifikasi dilakukan menggunakan Multi Layer Perceptron (MLP) yang terdiri dari satu lapisan tersembunyi dengan jumlah neuron yang telah ditentukan. Kelas dari citra kemudian diklasifikasikan berdasarkan nilai neuron pada lapisan tersembunyi dengan menggunakan fungsi aktivasi softmax.
 
 ### Training
-Proses training ini merupakan bagian terpenting dari keberhasilan proses CNN, yang mana proses CNN dapat dikatakan berhasil jika proses training memiliki hasil yang akurat. 
+Proses training merupakan bagian terpenting dari keberhasilan proses CNN, yang mana proses CNN dapat dikatakan berhasil jika proses training memiliki hasil yang akurat. 
+
+Sebelum melakukan training, terdapat pemanggilan fungsi `compile` yang digunakan terlebih dahulu untuk mengkonfigurasi model CNN. 
+
+Pada fungsi `compile`, kita menentukan optimizer yang digunakan (dalam hal ini 'adam'), loss function yang digunakan (dalam hal ini 'sparse_categorical_crossentropy'), serta metrics yang digunakan untuk mengukur kinerja model (dalam hal ini 'accuracy').
+
+Setelah melakukan konfigurasi, kita melakukan proses training dengan memanggil fungsi `fit` pada model. Jika ingin training model menggunakan data yang telah di augmentasi, data tersebut bisa didapat dari tahap augmentasi data pada materi sebelumnya, yaitu dengan memanggil objek datagen berupa variabel seperti (`train_generator`). 
+
+
+
+
+
 
 Sistem akan mempelajari dataset training untuk klasifikasi jenis beras yang berjumlah lima jenis. 
 
