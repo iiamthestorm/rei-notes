@@ -55,6 +55,7 @@ Sistem yang akan dibangun dalam penelitian ini meliputi beberapa tahap yaitu:
 
 Desain arsitektur sistem yang akan dibangun pada penelitian ini digambarkan seperti gambari 3.1. berikut:
 ![[Digit Classifier Diagram.png]]
+Gambar 3.1 Desain Arsitektur Sistem
 
 Proses pada desain arsitektur sistem pada penelitian ini dimulai dari membuat source code untuk mengimplementasikan Convolutional Neural Network (CNN) dan mengimpor Framework Tensorflow yang dibuat menggunakan infrastruktur Google Colaboratory dengan bahasa pemrograman Python dan disimpan dalam bentuk file Jupyter Notebooks (.ipynb) dan kemudian disimpan ke Github. Selanjutnya dataset pelatihan tersebut diambil dari TensorFlow library nya sendiri dan disimpan ke dalam tempat penyimpanan sementara pada Google Colaboratory. 
 
@@ -108,8 +109,11 @@ Berdasarkan Kinerja CNN yang sangat baik dalam komputer vision, maka arsitektur 
 
 Jumlah proses convolution pada rancangan ini memiliki dua lapisan convolution. Jumlah proses Pooling pada rancangan ini juga memiliki dua lapisan pooling. Setiap konvolusi memiliki jumlah filter yang berbeda tetapi memiliki ukuran kernel yang sama. Kemudian dilakukan proses flatten yang berfungsi untuk mengubah feature map dari hasil pooling layer menjadi bentuk vector. Proses ini disebut dengan proses fully Connected layer. Berikut adalah rancangan dari arsitektur CNN pada penelitian ini :
 ![[FlowChart CNN Architecture (3).png]]
+Gambar 3.7 Rancangan Arsitektur CNN
+
 Berdasarkan gambar di atas, dapat dijelaskan bahwa arsitektur CNN terdiri dari dua tahap utama, yaitu Feature Learning dan Classification. Feature learning merupakan teknik untuk memungkinkan sistem dapat secara otomatis mengekstraksi fitur-fitur dari sebuah gambar menjadi representasi numerik. Representasi ini kemudian digunakan dalam tahap Classification, di mana model menggunakan fitur-fitur tersebut untuk melakukan klasifikasi gambar ke dalam kelas atau subclass yang telah ditentukan sebelumnya. Dengan demikian, CNN memungkinkan penggunaan gambar sebagai input untuk melakukan klasifikasi secara otomatis. Jika gambar diatas diatas diubah kedalam bentuk arsitektur LeNet, maka dapat dilihat seperti gambar berikut:
 ![[CNN Architecture Diagram.png]]
+Gambar 3.8 Rancangan Arsitektur LeNet CNN
 
 Convolution pertama menggunakan filter sebanyak 32 dan kernel dengan matriks 3x3. Kemudian dilakukan pooling menggunakan ukuran 2x2 dengan pergeseran mask dua langkah. Kemudian Convolution kedua menggunakan filter sebanyak 64 dan kernel dengan matriks 3x3. Kemudian dilakukan pooling lagi menggunakan ukuran 2x2 dengan pergeseran mask dua langkah. 
 
