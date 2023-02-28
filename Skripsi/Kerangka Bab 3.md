@@ -111,10 +111,10 @@ Setelah proses Convolution dilakukan, output dari proses tersebut akan diubah me
 ### Training and Testing
 Proses training dan testing merupakan bagian terpenting dari keberhasilan proses CNN, yang mana proses CNN dapat dikatakan berhasil jika proses training dan testing memiliki hasil yang akurat. 
 
-Sebelum melakukan training dan testing, terdapat pemanggilan fungsi `compile` yang digunakan terlebih dahulu untuk mengkonfigurasi model CNN. 
+Sebelum melakukan training dan testing, terdapat pemanggilan fungsi 'compile' yang digunakan terlebih dahulu untuk mengkonfigurasi model CNN. Pada fungsi 'compile', kita menentukan optimizer yang digunakan (dalam hal ini 'adam'), loss function yang digunakan (dalam hal ini 'sparse_categorical_crossentropy'), serta metrics yang digunakan untuk mengukur kinerja model (dalam hal ini 'accuracy').
 
-Pada fungsi `compile`, kita menentukan optimizer yang digunakan (dalam hal ini 'adam'), loss function yang digunakan (dalam hal ini 'sparse_categorical_crossentropy'), serta metrics yang digunakan untuk mengukur kinerja model (dalam hal ini 'accuracy').
-
-Setelah itu, proses training akan dilakukan dengan memanggil fungsi `fit` pada model. Jika ingin training model menggunakan data yang telah di augmentasi, data tersebut bisa didapat dari tahap augmentasi data pada materi sebelumnya, yaitu dengan memanggil objek datagen berupa variabel seperti (`train_generator`). Jumlah epoch yang digunakan untuk proses training adalah 5, serta data validasi yang digunakan adalah data testing yang telah diaugmentasi sebelumnya berupa variable (`test_generator`).
+Setelah itu, proses training akan dilakukan dengan memanggil fungsi fit' pada model. Jika ingin training model menggunakan data yang telah di augmentasi, data tersebut bisa didapat dari tahap augmentasi data pada materi sebelumnya, yaitu dengan memanggil objek datagen berupa variabel seperti (train_generator). Jumlah epoch yang digunakan untuk proses training adalah 5, serta data validasi yang digunakan adalah data testing yang telah diaugmentasi sebelumnya berupa variable (test_generator).
 
 Untuk training model menggunakan data yang tidak diaugmentasi, data bisa langsung di panggil dari tahap Input Image sebelumnya. Kemudian langkah selanjutnya tetap sama seperti Jumlah epoch yang digunakan untuk proses training adalah 5 serta data validasi yang digunakan adalah data testing yang tidak diaugmentasi sebelumnya berupa variable (test_images, test_labels).
+
+
