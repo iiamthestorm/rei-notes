@@ -107,7 +107,7 @@ Setelah dilakukan data augmentasi pada dataset, untuk membuat model pre-augmente
 
 Berdasarkan Kinerja CNN yang sangat baik dalam komputer vision, maka arsitektur yang akan dibangun pada penelitian ini terdiri dari dua tahap, yaitu feature learning dan classification. Input gambar pada model CNN menggunakan citra yang memiliki ukuran 28x28x1. Angka 1 tersebut merupakan citra yang hanya memiliki 1 channel yaitu grayscale. Citra masukan atau input kemudian diproses melalui proses convolution dan pooling yang dilakukan pada tahapan feature learning. 
 
-Jumlah proses convolution pada rancangan ini memiliki dua lapisan convolution. Jumlah proses Pooling pada rancangan ini juga memiliki dua lapisan pooling. Setiap konvolusi memiliki jumlah filter yang berbeda tetapi memiliki ukuran kernel yang sama. Kemudian dilakukan proses flatten yang berfungsi untuk mengubah feature map dari hasil pooling layer menjadi bentuk vector. Proses ini disebut dengan proses fully Connected layer. Berikut adalah rancangan dari arsitektur CNN pada penelitian ini :
+Jumlah proses convolution pada rancangan ini memiliki dua lapisan convolution. Jumlah proses Pooling pada rancangan ini juga memiliki dua lapisan pooling. Setiap convolution memiliki jumlah filter yang berbeda tetapi memiliki ukuran kernel yang sama. Kemudian dilakukan proses flatten yang berfungsi untuk mengubah feature map dari hasil pooling layer menjadi bentuk vector. Proses ini disebut dengan proses fully Connected layer. Berikut adalah rancangan dari arsitektur CNN pada penelitian ini :
 ![[FlowChart CNN Architecture (3).png]]
 Gambar 3.7 Rancangan Arsitektur CNN
 
