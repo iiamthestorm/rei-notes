@@ -95,7 +95,7 @@ Setelah objek datagen didefinisikan, kita menggunakan method flow dari objek ter
 Penting untuk diingat bahwa model yang menggunakan data augmentasi adalah post-augmented model, sementara pre-augmented model tidak melakukan data augmentasi. Setelah melakukan normalisasi pada data, langkah selanjutnya adalah membuat model CNN untuk pre-augmented model, sedangkan untuk post-augmented model, data akan dilakukan augmentasi terlebih dahulu sebelum diproses pada model CNN.
 
 ### Pembuatan Model CNN
-Setelah dilakukan data augmentasi pada dataset, tergantung ingin membuat model pre-augmented atau model post-augmented, kita akan merancang struktur CNN.
+Setelah dilakukan data augmentasi pada dataset, untuk membuat model pre-augmented dan model post-augmented, kita akan merancang struktur CNN.
 
 Berdasarkan Kinerja CNN yang sangat baik dalam komputer vision, maka arsitektur yang akan dibangun pada penelitian ini terdiri dari dua tahap, yaitu feature learning dan classification. Input gambar pada model CNN menggunakan citra yang memiliki ukuran 28x28x1. Angka 1 tersebut merupakan citra yang hanya memiliki 1 channel yaitu grayscale. Citra masukan atau input kemudian diproses melalui proses convolution dan pooling yang dilakukan pada tahapan feature learning. 
 
@@ -117,4 +117,7 @@ Setelah itu, proses training akan dilakukan dengan memanggil fungsi fit' pada mo
 
 Untuk training model menggunakan data yang tidak diaugmentasi, data bisa langsung di panggil dari tahap Input Image sebelumnya. Kemudian langkah selanjutnya tetap sama seperti Jumlah epoch yang digunakan untuk proses training adalah 5 serta data validasi yang digunakan adalah data testing yang tidak diaugmentasi sebelumnya berupa variable (test_images, test_labels).
 
+### Integrasi Model ke Android
+Setelah melakukan proses training dan testing pada model, tahap selanjutnya adalah melakukan konversi pada model agar dapat diintegrasikan ke dalam platform Android. Salah satu cara untuk melakukan konversi pada model adalah dengan menggunakan Tensorflow Lite. Dengan menggunakan Tensorflow Lite, model dapat diubah ke dalam format yang lebih kecil dan ringan, sehingga dapat dijalankan dengan efisien pada perangkat mobile. Hal ini dapat 
 
+Setelah model dikonversi dengan Tensorflow Lite, tahap selanjutnya adalah mengintegrasikannya ke dalam platform Android dengan menggunakan Android Studio. Android Studio menyediakan plugin Tensorflow Lite yang memungkinkan pengguna untuk mengimpor model dan menggunakan model tersebut dalam aplikasi Android. Dengan mengintegrasikan model ke dalam aplikasi Android, pengguna dapat membuat aplikasi yang lebih cerdas dan mampu melakukan tugas yang lebih kompleks.
