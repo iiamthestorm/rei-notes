@@ -1,10 +1,12 @@
 _Convolutional Neural Network_ (_CNNs_) adalah jenis dari algoritma _deep learning_ yang digunakan untuk pengolahan data citra dan data sinyal. _CNNs_ menggunakan konsep konvolusi untuk mengidentifikasi pola dalam data masukan, seperti gambar atau sinyal audio.
 
+_Convolutional Neural Network_ (_CNNs_) garis besarnya terdiri dari lapisan input, lapisan konvolusi, lapisan _pooling_, dan lapisan output. Lapisan konvolusi mengekstrak fitur dari data masukan dengan mengaplikasikan filter yang berbeda-beda pada data. Lapisan pooling mengurangi dimensi data dengan mengambil nilai maksimum atau rata-rata dari sekelompok data yang terkait. Lapisan _output_ mengolah fitur yang diekstrak dari lapisan konvolusi dan _pooling_ untuk menghasilkan _output_ yang benar.
+
 Lapisan pada algoritma _CNNs_ memiliki _neuron_ yang diatur dalam 3 dimensi: _width_, _height_, dan _depth_. Dimensi _depth_ mengacu pada dimensi ketiga dari fungsi aktivasi, bukan kedalaman _neural network_ atau jumlah _total layer_ dalam jaringan.
 ![[CNN Depth, Height & Width.png]]
 Gambar 2.1 CNN Architecture Shape
 
-Convolutional Neural Network (CNN) memiliki beberapa lapisan atau layer utama sebagai berikut:
+Berikut :
 1. Input Layer, Lapisan masukan berfungsi sebagai penampungan dari nilai piksel citra yang menjadi input atau masukan (Tandungan, 2019). Input menyesuaikan dengan ukuran dan channel warna dari citra. Seperti contoh, jika terdapat citra grayscale yang berukuran 28x28 dan hanya memiliki 1 channel warna, maka input yang dibutuhkan adalah sebuah piksel array yang memiliki ukuran 28x28x1.
 2. Convolutional Layer, merupakan lapisan inti dari metode CNN (Tandungan, 2019). Layer ini terdiri dari beberapa filter (atau kernel) yang berfungsi untuk mengekstraksi fitur atau pola tertentu pada gambar. Layer ini bekerja dengan memproses citra masukan dengan menerapkan filter konvolusi pada seluruh bagian citra secara bergeser (sliding window) untuk menghasilkan representasi fitur. Proses konvolusi pada layer convolution dilakukan dengan mengalikan setiap nilai piksel pada filter dengan nilai piksel yang bersesuaian pada gambar input, kemudian menjumlahkan hasilnya.
    ![[Convolutional Layer Flow 1.png]]
