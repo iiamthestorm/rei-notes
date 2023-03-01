@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Kerangka Bab 2 (Minor Update).md",
+                "file": "Skripsi/Referensi.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Kerangka Bab 2 (Minor Update).md",
+                "file": "Skripsi/Referensi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Kerangka Bab 2 (Minor Update).md",
+                "file": "Skripsi/Referensi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Kerangka Bab 2 (Minor Update).md"
+                "file": "Skripsi/Referensi.md"
               }
             }
           },
@@ -181,12 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bfaff13691a86711",
+  "active": "9dcf3e208f434302",
   "lastOpenFiles": [
+    "Skripsi/Kerangka Bab 2 (Minor Update).md",
     "attachment/TFLite Architecture.png",
     "attachment/Antar Muka Android Studio.png",
     "Skripsi/Referensi.md",
-    "Skripsi/Kerangka Bab 2 (Minor Update).md",
     "attachment/Fully Connected Layer flow.png",
     "attachment/AveragePooling Flow.png",
     "attachment/MaxPooling flow.png",
@@ -196,7 +196,6 @@
     "attachment/CNN Depth, Height & Width.png",
     "attachment/Dataset Sudah Augmented.png",
     "attachment/Dataset Belum Augmented.png",
-    "attachment/320px-MnistExamples.png",
     "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
     "人生、夢、日本/ヨルシカ/ヨルシカの広告.md",
     "人生、夢、日本/ヨルシカ/(COVER) Itte by Yorushika Summer Version by Kaneko Lumi.md",

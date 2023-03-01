@@ -34,4 +34,7 @@ https://medium.com/@himanshubeniwal/handwritten-digit-recognition-using-machine-
 Penjelasan each convolution layer:
 https://www.kaggle.com/general/171197
 
+github mnist:
+
+
 
