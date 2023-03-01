@@ -45,4 +45,4 @@ Dari gambar di atas, dilihat bahwa tampilan Android Studio memiliki beberapa are
 5. Jendela alat: Mengakses tugas tertentu seperti pengelolaan project, penelusuran, kontrol versi, dan banyak lagi. Anda dapat memperluas dan menciutkan jendela ini.
 6. Status bar Menampilkan status project Anda dan IDE itu sendiri, serta semua peringatan atau pesan.
 ## daftar pustaka
-Google. “Android Studio User Guide”. [Daring]. Tersedia pada: https://developer.android.com/studio/intro. [Diakses: 3-Mar-2021].
+Google “Android Studio User Guide”, 2023, Mengenal Android Studio, [https://developer.android.com/studio/intro?hl=id](https://developer.android.com/studio/intro?hl=id), 27 Februari 2023.
