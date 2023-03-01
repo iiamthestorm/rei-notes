@@ -7,4 +7,7 @@ _Convolutional Neural Network_ (_CNNs_) memiliki arsitektur yang berbeda dari _N
 Lapisan pada algoritma _CNNs_ memiliki _neuron_ yang diatur dalam 3 dimensi: _width_, _height_, dan _depth_. Dimensi _depth_ mengacu pada dimensi ketiga dari fungsi aktivasi, bukan kedalaman _neural network_ atau jumlah _total layer_ dalam jaringan.
 
 Rumus matematis yang digunakan dalam _Convolutional Neural Network_ (_CNNs_) meliputi:
-1. 
+1. _Convolution Operation_: digunakan untuk mengekstrak fitur dari _input image_ dengan mengaplikasikan filter/kernel yang telah dipelajari. Rumusnya adalah:
+   **f'(i,j) = sum(f(i+m,j+n) * w(m,n))**
+   Dimana f adalah _input image_, w adalah kernel/filter yang telah dipelajari, dan f' adalah _output_ dari operasi konvolusi.
+2. ReLU (_Rectified Linear Unit_) _Activation Function_: digunakan untuk menambah non-linearitas pada CNN. Rumusnya adalah:
