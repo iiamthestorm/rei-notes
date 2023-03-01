@@ -32,3 +32,5 @@ Colab sangat berguna bagi para peneliti, pengembang, dan siswa yang ingin menjal
 
 Penggunaan Google Colaboratory memerlukan akun Google untuk dapat diakses dan digunakan semua fitur yang terdapat di dalamnya. Penggunaan Google Colaboratory sama seperti Jupyter Noteboook, yaitu melakukan tugas-tugas atau perintah-perintah yang berorientasi sel. Google Colaboratory dapat digunakan untuk membuat macam-macam sel dan digunakan untuk buku catatan. (Mueller & Massaron, 2019).
 
+## daftar pustaka
+Mueller, John Paul dan Luca Massaron. “What is Google Colaboratory”. [Daring]. Tersedia pada: https://www.dummies.com/programming/python/what-isgoogle-colaboratory/. [Diakses: 29-Jan-2021].
