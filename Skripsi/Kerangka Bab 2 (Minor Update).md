@@ -18,7 +18,7 @@ Convolutional Neural Network (CNN) memiliki beberapa lapisan atau layer utama se
    ![[MaxPooling flow.png]]
    sedangkan pada average pooling, nilai rata-rata diambil sebagai nilai keluaran:
    ![[AveragePooling Flow.png]]
-5. Fully Connected Layer, 
+5. Fully Connected Layer, Fully Connected Layer adalah jenis lapisan dalam arsitektur jaringan saraf tiruan (neural network) yang menghubungkan setiap neuron di lapisan ini dengan semua neuron di lapisan sebelumnya. Lapisan ini juga dikenal sebagai Dense Layer atau Linear Layer (Lorentius, dkk. 2019). 
 
 
 
