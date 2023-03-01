@@ -37,6 +37,10 @@ Google Colaboratory Documentation, 2023, Frequently Asked Questions, [https://re
 # Android Studio
 Tampilan antarmuka pada Android Studio dapat dilihat pada gambar di bawah.
 ![[Antar Muka Android Studio.png]]
-Dari gambar di atas, dilihat bahwa tampilan Android Studio memiliki beberapa area yaitu:
+Dari gambar di atas, dilihat bahwa tampilan Android Studio memiliki beberapa area penting seperti berikut:
+1. Toolbar: Menjalankan berbagai tindakan, termasuk menjalankan aplikasi dan meluncurkan alat Android.
+2. Menu navigasi: Membuka project Anda dan membuka file untuk diedit. Menu ini memberikan tampilan struktur yang lebih ringkas yang terlihat di jendela Project.
+3. Jendela editor: Membuat dan mengubah kode. Bergantung pada jenis file yang ada, editor ini dapat berubah. Misalnya, saat menampilkan file tata letak, editor akan menampilkan Layout Editor.
+4. 
 ## daftar pustaka
 Google. “Android Studio User Guide”. [Daring]. Tersedia pada: https://developer.android.com/studio/intro. [Diakses: 3-Mar-2021].
