@@ -11,7 +11,7 @@ Gambar 2.1 CNN Architecture Shape
 
 Convolutional Neural Network (CNN) memiliki lima lapisan atau layer utama sebagai berikut:
 1. Input Layer, Lapisan masukan berfungsi sebagai penampungan dari nilai piksel citra yang menjadi input atau masukan (Tandungan, 2019). Input menyesuaikan dengan ukuran dan channel warna dari citra. Seperti contoh, jika terdapat citra grayscale yang berukuran 28x28 dan hanya memiliki 1 channel warna, maka input yang dibutuhkan adalah sebuah piksel array yang memiliki ukuran 28x28x1.
-2. Convolutional Layer, merupakan lapisan inti dari metode CNN (Tandungan, 2019). 
+2. Convolutional Layer, merupakan lapisan inti dari metode CNN (Tandungan, 2019). Lapisan konvolusi memiliki susunan neuron untuk membentuk filter dua dimensi atau filter yang memiliki panjang dan tinggi (piksel). Lapisan ini menggunakan fungsitoutputtsebagaitfeature map dari 13 inputacitra. Kemudian feature map tersebut digunakanipada lapisan aktivasi (activation layer).
 
 
 
