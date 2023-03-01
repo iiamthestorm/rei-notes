@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Kerangka Bab 2 (Minor Update).md",
+                "file": "Skripsi/Kerangka Bab 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Kerangka Bab 2 (Minor Update).md",
+                "file": "Skripsi/Kerangka Bab 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Kerangka Bab 2 (Minor Update).md",
+                "file": "Skripsi/Kerangka Bab 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Kerangka Bab 2 (Minor Update).md"
+                "file": "Skripsi/Kerangka Bab 3.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "bfaff13691a86711",
   "lastOpenFiles": [
-    "Skripsi/Kerangka Bab 3.md",
     "Skripsi/Kerangka Bab 2 (Minor Update).md",
+    "Skripsi/Kerangka Bab 3.md",
     "attachment/CNN Depth, Height & Width.png",
     "Skripsi/Referensi.md",
     "attachment/Dataset Sudah Augmented.png",
