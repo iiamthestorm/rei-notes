@@ -18,7 +18,7 @@ Convolutional Neural Network (CNN) memiliki beberapa lapisan atau layer utama se
    ![[MaxPooling flow.png]]
    sedangkan pada average pooling, nilai rata-rata diambil sebagai nilai keluaran:
    ![[AveragePooling Flow.png]]
-5. 
+5. Fully Connected Layer, 
 
 
 
