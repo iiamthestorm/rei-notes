@@ -16,6 +16,7 @@ https://iopscience.iop.org/article/10.1088/1742-6596/1922/1/012007/pdf
 skripsi uir:
 https://repository.uir.ac.id/12878/1/143510351.pdf
 https://repository.uir.ac.id/8897/1/163510147.pdf
+file:///C:/Rei/SKRIPSI/ALL/REFERENSI/bab%203%20adli.pdf = adli
 
 skripsi luar:
 http://etheses.uin-malang.ac.id/37318/7/15650067.pdf == beras cnn
@@ -39,3 +40,6 @@ https://github.com/iiamthestorm/Mnist-Digit-Classifier-App
 
 source image drive:
 https://drive.google.com/drive/u/0/folders/1dBiUAiIc2z82SZHe8Y6-6GgD6DSGEA7-
+
+buat diagram etc:
+https://app.diagrams.net/
