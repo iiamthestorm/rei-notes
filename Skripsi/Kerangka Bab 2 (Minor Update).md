@@ -49,3 +49,6 @@ Google “Android Studio User Guide”, 2023, Mengenal Android Studio, [https://
 # TFLite
 TensorFlow Lite (TFLite) adalah sebuah framework deep learning open-source yang dikembangkan oleh Google dan dirancang khusus untuk menjalankan model machine learning di perangkat mobile dan embedded systems. TFLite memiliki ukuran yang kecil, cepat, dan efisien dalam penggunaan memori sehingga cocok digunakan pada perangkat dengan sumber daya terbatas seperti smartphone, tablet, dan IoT (Internet of Things) devices.
 
+TFLite juga menyediakan konversi model machine learning dari TensorFlow ke format yang lebih ringkas sehingga dapat diintegrasikan dengan mudah ke dalam aplikasi mobile dan embedded systems.
+
+TFLite memungkinkan pengembang untuk mengoptimalkan dan memperkecil ukuran model machine learning sehingga dapat dijalankan dengan efisien pada perangkat mobile dan embedded systems. Selain itu, TFLite menyediakan berbagai API yang memudahkan pengembang untuk mengintegrasikan model machine learning ke dalam aplikasi Android, iOS, dan Raspberry Pi. TFLite juga mendukung berbagai jenis arsitektur model machine learning seperti Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), dan lain-lain. 
