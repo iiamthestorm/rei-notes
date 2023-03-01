@@ -35,6 +35,7 @@ Penjelasan each convolution layer:
 https://www.kaggle.com/general/171197
 
 github mnist:
+https://github.com/iiamthestorm/Mnist-Digit-Classifier-App
 
-
-
+source image drive:
+https://drive.google.com/drive/u/0/folders/1dBiUAiIc2z82SZHe8Y6-6GgD6DSGEA7-
