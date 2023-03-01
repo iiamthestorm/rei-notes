@@ -21,8 +21,8 @@ Berikut penjelasan lebih dalam tentang lapisan Convolutional Neural Network:
 
 _CNNs_ telah digunakan dalam berbagai aplikasi seperti klasifikasi gambar, deteksi objek, dan pengenalan suara (LeCun dkk, 2015).
 ## daftar pustaka
-Tandungan, Sofyan. (2019). “Pengenalan Convolutional Neural Network – Part 1”. [Daring]. Tersedia pada: http://sofyantandungan.com/pengenalanconvolutional-neural-network-part-1/
-
+1. Tandungan, Sofyan. (2019). “Pengenalan Convolutional Neural Network – Part 1”. [Daring]. Tersedia pada: http://sofyantandungan.com/pengenalanconvolutional-neural-network-part-1/
+2. Lorentius, C.A dkk. (2019). Pengenalan Aksara Jawa dengan Menggunakan Metode Convolutional Neural Network. Jurnal Infra Vol.7, No.1.
 
 
 # Google Colaboratory
