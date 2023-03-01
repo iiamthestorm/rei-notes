@@ -30,7 +30,7 @@ Google Colaboratory (Colab) adalah sebuah layanan cloud computing gratis yang di
 
 Colab sangat berguna bagi para peneliti, pengembang, dan siswa yang ingin menjalankan kode mereka di lingkungan yang terpisah dari komputer lokal mereka. Dalam Colab, pengguna dapat mengimpor dan menginstal library Python, menyimpan dan membagikan notebook, dan mengakses data yang tersimpan di Google Drive. Colab juga menyediakan integrasi dengan layanan Google seperti BigQuery, Google Sheets, dan Google Cloud Storage, sehingga memudahkan pengguna untuk melakukan analisis data yang besar dan bekerja dengan data yang tersimpan di cloud.
 
-Penggunaan Google Colaboratory memerlukan akun Google untuk dapat diakses dan digunakan semua fitur yang terdapat di dalamnya. Penggunaan Google Colaboratory sama seperti Jupyter Noteboook, yaitu melakukan tugas-tugas atau perintah-perintah yang berorientasi sel. Google Colaboratory dapat digunakan untuk membuat macam-macam sel dan digunakan untuk buku catatan. (Mueller & Massaron, 2019).
+Penggunaan Google Colaboratory memerlukan akun Google untuk dapat diakses dan digunakan semua fitur yang terdapat di dalamnya. Penggunaan Google Colaboratory sama seperti Jupyter Noteboook, yaitu melakukan tugas-tugas atau perintah-perintah yang berorientasi sel. Google Colaboratory dapat digunakan untuk membuat macam-macam sel dan digunakan untuk buku catatan. (Google Colaboratory ).
 
 ## daftar pustaka
 Mueller, John Paul dan Luca Massaron. “What is Google Colaboratory”. [Daring]. Tersedia pada: https://www.dummies.com/programming/python/what-isgoogle-colaboratory/. [Diakses: 29-Jan-2021].
