@@ -16,4 +16,5 @@ Rumus matematis yang digunakan dalam _Convolutional Neural Network_ (_CNNs_) mel
 3. _Pooling Operation_: digunakan untuk mengurangi dimensi spasial dari _feature_ map yang dihasilkan oleh operasi konvolusi. Ada dua jenis _pooling_ yang sering digunakan, yaitu _max pooling_ dan _average pooling_. Rumus _max pooling_ adalah:
    **f'(i,j) = max(f(i:i+n, j:j+n))**
    Dimana f adalah _feature map_ yang dihasilkan oleh operasi konvolusi, f' adalah _output_ dari operasi _pooling_, dan n adalah ukuran _pooling window_.
-4. 
+
+_CNNs_ telah digunakan dalam berbagai aplikasi seperti klasifikasi gambar, deteksi objek, dan pengenalan suara (LeCun dkk, 2015).
