@@ -46,3 +46,6 @@ Dari gambar di atas, dilihat bahwa tampilan Android Studio memiliki beberapa are
 6. Status bar Menampilkan status project Anda dan IDE itu sendiri, serta semua peringatan atau pesan.
 ## daftar pustaka
 Google “Android Studio User Guide”, 2023, Mengenal Android Studio, [https://developer.android.com/studio/intro?hl=id](https://developer.android.com/studio/intro?hl=id), 27 Februari 2023.
+# TFLite
+TensorFlow Lite (TFLite) adalah sebuah framework deep learning open-source yang dikembangkan oleh Google dan dirancang khusus untuk menjalankan model machine learning di perangkat mobile dan embedded systems. TFLite memiliki ukuran yang kecil, cepat, dan efisien dalam penggunaan memori sehingga cocok digunakan pada perangkat dengan sumber daya terbatas seperti smartphone, tablet, dan IoT (Internet of Things) devices.
+
