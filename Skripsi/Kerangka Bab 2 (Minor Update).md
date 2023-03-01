@@ -6,6 +6,16 @@ _Convolutional Neural Network_ (_CNNs_) memiliki arsitektur yang berbeda dari _N
 
 Lapisan pada algoritma _CNNs_ memiliki _neuron_ yang diatur dalam 3 dimensi: _width_, _height_, dan _depth_. Dimensi _depth_ mengacu pada dimensi ketiga dari fungsi aktivasi, bukan kedalaman _neural network_ atau jumlah _total layer_ dalam jaringan.
 
+Convolutional Neural Network (CNN) memiliki lima lapisan atau layer utama sebagai berikut:
+1. Input Layer, Lapisan masukan berfungsi sebagai penampungan dari nilai piksel citra yang menjadi input atau masukan (Tandungan, 2019). 
+
+
+
+
+
+
+
+
 Rumus matematis yang digunakan dalam _Convolutional Neural Network_ (_CNNs_) meliputi:
 1. _Convolution Operation_: digunakan untuk mengekstrak fitur dari _input image_ dengan mengaplikasikan filter/kernel yang telah dipelajari. Rumusnya adalah:
    **f'(i,j) = sum(f(i+m,j+n) * w(m,n))**
