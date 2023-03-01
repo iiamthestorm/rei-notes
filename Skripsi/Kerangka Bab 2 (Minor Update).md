@@ -34,3 +34,7 @@ Penggunaan Google Colaboratory memerlukan akun Google untuk dapat diakses dan di
 
 ## daftar pustaka
 Google Colaboratory Documentation, 2023, Frequently Asked Questions, [https://research.google.com/colaboratory/faq.html](https://research.google.com/colaboratory/faq.html), 26 Februari 2023.
+# Android Studio
+
+## daftar pustaka
+Google. “Android Studio User Guide”. [Daring]. Tersedia pada: https://developer.android.com/studio/intro. [Diakses: 3-Mar-2021].
