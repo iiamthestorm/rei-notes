@@ -11,3 +11,9 @@ Rumus matematis yang digunakan dalam _Convolutional Neural Network_ (_CNNs_) mel
    **f'(i,j) = sum(f(i+m,j+n) * w(m,n))**
    Dimana f adalah _input image_, w adalah kernel/filter yang telah dipelajari, dan f' adalah _output_ dari operasi konvolusi.
 2. ReLU (_Rectified Linear Unit_) _Activation Function_: digunakan untuk menambah non-linearitas pada CNN. Rumusnya adalah:
+   **f(x) = max(0,x)**
+   Dimana x adalah _input_ dan f(x) adalah _output_ dari fungsi aktivasi ReLU.
+3. _Pooling Operation_: digunakan untuk mengurangi dimensi spasial dari _feature_ map yang dihasilkan oleh operasi konvolusi. Ada dua jenis _pooling_ yang sering digunakan, yaitu _max pooling_ dan _average pooling_. Rumus _max pooling_ adalah:
+   **f'(i,j) = max(f(i:i+n, j:j+n))**
+   Dimana f adalah _feature map_ yang dihasilkan oleh operasi konvolusi, f' adalah _output_ dari operasi _pooling_, dan n adalah ukuran _pooling window_.
+4. 
