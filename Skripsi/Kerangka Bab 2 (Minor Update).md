@@ -6,12 +6,12 @@ _Convolutional Neural Network_ (_CNNs_) memiliki arsitektur yang berbeda dari _N
 
 Lapisan pada algoritma _CNNs_ memiliki _neuron_ yang diatur dalam 3 dimensi: _width_, _height_, dan _depth_. Dimensi _depth_ mengacu pada dimensi ketiga dari fungsi aktivasi, bukan kedalaman _neural network_ atau jumlah _total layer_ dalam jaringan.
 ![[CNN Depth, Height & Width.png]]
-Gambar 2.1 CNN
+Gambar 2.1 CNN Architecture Shape
 
 
 Convolutional Neural Network (CNN) memiliki lima lapisan atau layer utama sebagai berikut:
 1. Input Layer, Lapisan masukan berfungsi sebagai penampungan dari nilai piksel citra yang menjadi input atau masukan (Tandungan, 2019). Input menyesuaikan dengan ukuran dan channel warna dari citra. Seperti contoh, jika terdapat citra grayscale yang berukuran 28x28 dan hanya memiliki 1 channel warna, maka input yang dibutuhkan adalah sebuah piksel array yang memiliki ukuran 28x28x1.
-2. Convolutional Layer, 
+2. Convolutional Layer, merupakan lapisan inti dari metode CNN (Tandungan, 2019). 
 
 
 
