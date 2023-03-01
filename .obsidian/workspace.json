@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Kerangka Bab 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e66360f069571063",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Skripsi/Kerangka Bab 2 (Minor Update).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,12 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e66360f069571063",
+  "active": "bfaff13691a86711",
   "lastOpenFiles": [
-    "attachment/CNN Depth, Height & Width.png",
-    "Skripsi/Referensi.md",
     "Skripsi/Kerangka Bab 3.md",
     "Skripsi/Kerangka Bab 2 (Minor Update).md",
+    "attachment/CNN Depth, Height & Width.png",
+    "Skripsi/Referensi.md",
     "attachment/Dataset Sudah Augmented.png",
     "attachment/Dataset Belum Augmented.png",
     "attachment/320px-MnistExamples.png",
