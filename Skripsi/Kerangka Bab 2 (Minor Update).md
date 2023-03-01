@@ -41,6 +41,8 @@ Dari gambar di atas, dilihat bahwa tampilan Android Studio memiliki beberapa are
 1. Toolbar: Menjalankan berbagai tindakan, termasuk menjalankan aplikasi dan meluncurkan alat Android.
 2. Menu navigasi: Membuka project Anda dan membuka file untuk diedit. Menu ini memberikan tampilan struktur yang lebih ringkas yang terlihat di jendela Project.
 3. Jendela editor: Membuat dan mengubah kode. Bergantung pada jenis file yang ada, editor ini dapat berubah. Misalnya, saat menampilkan file tata letak, editor akan menampilkan Layout Editor.
-4. 
+4. Kolom jendela alat: Menggunakan tombol di bagian luar jendela IDE untuk meluaskan atau menciutkan setiap jendela alat.
+5. Jendela alat: Mengakses tugas tertentu seperti pengelolaan project, penelusuran, kontrol versi, dan banyak lagi. Anda dapat memperluas dan menciutkan jendela ini.
+6. Status bar Menampilkan status project Anda dan IDE itu sendiri, serta semua peringatan atau pesan.
 ## daftar pustaka
 Google. “Android Studio User Guide”. [Daring]. Tersedia pada: https://developer.android.com/studio/intro. [Diakses: 3-Mar-2021].
