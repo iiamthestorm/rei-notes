@@ -20,6 +20,8 @@ Berikut penjelasan lebih dalam tentang lapisan Convolutional Neural Network:
    ![[Fully Connected Layer flow.png]]
 
 _CNNs_ telah digunakan dalam berbagai aplikasi seperti klasifikasi gambar, deteksi objek, dan pengenalan suara (LeCun dkk, 2015).
+## daftar pustaka
+Tandungan, Sofyan. (2019). “Pengenalan Convolutional Neural Network – Part 1”. [Daring]. Tersedia pada: http://sofyantandungan.com/pengenalanconvolutional-neural-network-part-1/
 
 
 
