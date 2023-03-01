@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Tambahan Bab 2.md",
+                "file": "Skripsi/Kerangka Bab 2 (Minor Update).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Tambahan Bab 2.md",
+                "file": "Skripsi/Kerangka Bab 2 (Minor Update).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Tambahan Bab 2.md",
+                "file": "Skripsi/Kerangka Bab 2 (Minor Update).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Tambahan Bab 2.md"
+                "file": "Skripsi/Kerangka Bab 2 (Minor Update).md"
               }
             }
           },
@@ -198,7 +198,7 @@
   "lastOpenFiles": [
     "Skripsi/Referensi.md",
     "Skripsi/Kerangka Bab 3.md",
-    "Skripsi/Tambahan Bab 2.md",
+    "Skripsi/Kerangka Bab 2 (Minor Update).md",
     "attachment/Dataset Sudah Augmented.png",
     "attachment/Dataset Belum Augmented.png",
     "attachment/320px-MnistExamples.png",
