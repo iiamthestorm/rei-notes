@@ -13,7 +13,7 @@ Convolutional Neural Network (CNN) memiliki beberapa lapisan atau layer utama se
 1. Input Layer, Lapisan masukan berfungsi sebagai penampungan dari nilai piksel citra yang menjadi input atau masukan (Tandungan, 2019). Input menyesuaikan dengan ukuran dan channel warna dari citra. Seperti contoh, jika terdapat citra grayscale yang berukuran 28x28 dan hanya memiliki 1 channel warna, maka input yang dibutuhkan adalah sebuah piksel array yang memiliki ukuran 28x28x1.
 2. Convolutional Layer, merupakan lapisan inti dari metode CNN (Tandungan, 2019). Layer ini terdiri dari beberapa filter (atau kernel) yang berfungsi untuk mengekstraksi fitur atau pola tertentu pada gambar. Layer ini bekerja dengan memproses citra masukan dengan menerapkan filter konvolusi pada seluruh bagian citra secara bergeser (sliding window) untuk menghasilkan representasi fitur. Proses konvolusi pada layer convolution dilakukan dengan mengalikan setiap nilai piksel pada filter dengan nilai piksel yang bersesuaian pada gambar input, kemudian menjumlahkan hasilnya.
    ![[Convolutional Layer Flow 1.png]]
-3. Activation Layer, 
+3. Activation Layer, Lapisan aktivasi (activation layer) merupakan lapisan yang berfungsi untuk memasukkanIfeatureImapIkeIfungsi aktivasi (Tandungan, 2019). 
 
 
 
