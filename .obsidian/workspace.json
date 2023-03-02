@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c8ae852105f28d41",
+        "id": "8fb263a56900d028",
         "type": "tabs",
         "children": [
           {
-            "id": "a24030d8685e1830",
+            "id": "5c8c0b3730a6372f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skripsi/Kerangka Bab 3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Kerangka Bab 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Kerangka Bab 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Skripsi/Kerangka Bab 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,10 +173,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a24030d8685e1830",
+  "active": "5c8c0b3730a6372f",
   "lastOpenFiles": [
-    "Skripsi/Referensi.md",
     "Skripsi/Kerangka Bab 2 (Minor Update).md",
+    "Skripsi/Kerangka Bab 3.md",
+    "Skripsi/Referensi.md",
     "attachment/TFLite Architecture.png",
     "attachment/Antar Muka Android Studio.png",
     "attachment/Fully Connected Layer flow.png",
@@ -192,7 +185,6 @@
     "attachment/MaxPooling flow.png",
     "attachment/Convolutional Layer Flow 1.png",
     "attachment/Convolutional Layer Flow.png",
-    "Skripsi/Kerangka Bab 3.md",
     "attachment/CNN Depth, Height & Width.png",
     "attachment/Dataset Sudah Augmented.png",
     "attachment/Dataset Belum Augmented.png",
