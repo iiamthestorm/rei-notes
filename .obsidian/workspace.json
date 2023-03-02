@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ba033734e4c054a1",
+        "id": "c8ae852105f28d41",
         "type": "tabs",
         "children": [
           {
-            "id": "bfaff13691a86711",
+            "id": "a24030d8685e1830",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Referensi.md",
+                "file": "Skripsi/Kerangka Bab 3.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ad575d9c1f1df5ca",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Referensi.md",
+                "file": "Skripsi/Kerangka Bab 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Referensi.md",
+                "file": "Skripsi/Kerangka Bab 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Referensi.md"
+                "file": "Skripsi/Kerangka Bab 3.md"
               }
             }
           },
@@ -192,12 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad575d9c1f1df5ca",
+  "active": "a24030d8685e1830",
   "lastOpenFiles": [
+    "Skripsi/Referensi.md",
     "Skripsi/Kerangka Bab 2 (Minor Update).md",
     "attachment/TFLite Architecture.png",
     "attachment/Antar Muka Android Studio.png",
-    "Skripsi/Referensi.md",
     "attachment/Fully Connected Layer flow.png",
     "attachment/AveragePooling Flow.png",
     "attachment/MaxPooling flow.png",
