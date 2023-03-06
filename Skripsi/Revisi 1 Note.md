@@ -7,7 +7,7 @@
 
 - BAB 3, 3.4
 	- ~~Teknik pengumpulan data dari 1 lgsg 3 saja
-	- Kasi berapa banyak data di nomor 3
+	- ~~Kasi berapa banyak data di nomor 3
 
 - BAB 3, 3.5 Desain Sistem
 	- Tidak Ada "Tahapan Pembuatan Model" hanya "menentukan layer yang dipakai pada CNN".
