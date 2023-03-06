@@ -31,4 +31,3 @@ Testing pada Perangkat Android menggunakan :
 1. ~~Testing
    - ~~Android Studio
 
-## 3.5 Desain Sistem
