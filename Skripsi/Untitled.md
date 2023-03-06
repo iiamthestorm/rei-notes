@@ -1,1 +1,1 @@
-adalah teknik augmentasi data yang dilakukan dengan cara membalikan gambar secara horizontal maupun vertikal.
+memperbesar atau memperkecil ukuran gambar.
