@@ -32,4 +32,3 @@ Testing pada Perangkat Android menggunakan :
    - Android Studio
 
 
-Alat-alat Pengembangan Aplikasi
