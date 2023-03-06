@@ -19,8 +19,7 @@
 
 
 # Kerangka
-## SUBBAB 2.2.7 Alat-alat Pengembangan Aplikasi
-subbab Tools Membangun Aplikasi
+## 2.2.7 Alat-alat Pengembangan Aplikasi
 Untuk membangun aplikasi handwriting digit image ini dibutuhkan 2 proses yaitu Training dan Testing. Training menggunakan :
 1. Training
    - Google Colaboratory
