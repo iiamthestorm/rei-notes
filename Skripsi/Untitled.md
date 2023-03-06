@@ -1,1 +1,1 @@
-Setelah model berhasil diintegrasikan ke dalam aplikasi, selanjutnya adalah membuat user interface yang memungkinkan pengguna untuk menggambar digit pada layar perangkat Android. User interface dapat dibuat menggunakan komponen Android seperti ImageView, EditText, dan Button.
+menginisialisasi model di dalam proyek Android Studio. Biasanya, inisialisasi model dilakukan pada aktivitas atau fragmen yang digunakan untuk mengakses model.
