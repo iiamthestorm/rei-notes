@@ -30,3 +30,6 @@ Untuk membangun aplikasi handwriting digit image ini dibutuhkan 2 proses yaitu T
 Testing pada Perangkat Android menggunakan :
 1. Testing
    - Android Studio
+
+
+Data training pada dataset MNIST terdiri dari 60.000 gambar digit tulisan tangan/handwritten yang telah diverifikasi dengan benar. Data validation pada dataset MNIST terdiri dari 10.000 gambar digit tulisan tangan/handwritten yang berbeda dengan data training
