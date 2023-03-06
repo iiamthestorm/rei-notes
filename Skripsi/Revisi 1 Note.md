@@ -2,4 +2,6 @@
 - Buat Teori Pengujian di BAB 2 SEBELUM HIPOTESIS
 - Kasi gambar di data augmentasi BAB 2
 - Buat Use Case Android app
+- Fixing Numbering 2.2 -> 2.2.1
+- BAB 3, 3.4 Teknik pengumpulan data dari 1 lgsg 3
 - 
