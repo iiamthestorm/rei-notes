@@ -21,5 +21,7 @@
    - Google Colaboratory
    - Python
    - TensorFlow
-   - 
+   - TFLite
+2. Testing
+   
 
