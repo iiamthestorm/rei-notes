@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Kerangka Bab 3.md",
+                "file": "Skripsi/Kerangka Bab 2 (Minor Update).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Kerangka Bab 3.md",
+                "file": "Skripsi/Kerangka Bab 2 (Minor Update).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Kerangka Bab 3.md",
+                "file": "Skripsi/Kerangka Bab 2 (Minor Update).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Kerangka Bab 3.md"
+                "file": "Skripsi/Kerangka Bab 2 (Minor Update).md"
               }
             }
           },
@@ -183,12 +183,12 @@
   },
   "active": "5c8c0b3730a6372f",
   "lastOpenFiles": [
+    "Skripsi/Kerangka Bab 3.md",
     "Web Development/DOM Manipulation And Events.md",
     "Web Development/JavaScript.md",
     "Web Development/Front-End.md",
     "Web Development/Web Development.md",
     "Skripsi/Kerangka Bab 2 (Minor Update).md",
-    "Skripsi/Kerangka Bab 3.md",
     "Skripsi/Referensi.md",
     "attachment/TFLite Architecture.png",
     "attachment/Antar Muka Android Studio.png",

@@ -54,3 +54,4 @@ TFLite memungkinkan pengembang untuk mengoptimalkan dan memperkecil ukuran model
 TensorFlow Lite memiliki arsitektur seperti pada gambar berikut ini.
 ![[TFLite Architecture.png]]
 TensorFlow Lite digunakan untuk melatih model yang kemudian akan diproses pada mesin dan dikonversi menjadi format “.tflite”, kemudian model dengan format tersebut akan dimuat pada interpreter Android.
+# Teori Pengujian
