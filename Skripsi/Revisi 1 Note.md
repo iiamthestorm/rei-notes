@@ -16,6 +16,7 @@
 	- Cara menanamkan/integrasi ke android buat butir nya trus gambarkan.
 
 
+BAB 2 Teori Setelah Data Augmentasi
 
 1. Training
    - Google Colaboratory
@@ -23,5 +24,6 @@
    - TensorFlow
    - TFLite
 2. Testing
+   - Android Studio
    
 
