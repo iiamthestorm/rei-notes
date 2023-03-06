@@ -1,2 +1,3 @@
-- Buat Rumus pakai microsoft equation pada desain pengujian
+- Buat Rumus pakai microsoft equation pada desain pengujian BAB 3
+- Buat Teori Pengujian di BAB 2
 - 
