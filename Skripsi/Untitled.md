@@ -1,1 +1,1 @@
-Dengan menggunakan tabel perbandingan ini, kita dapat menentukan model mana yang lebih unggul dan lebih tepat digunakan pada aplikasi handwritten digit image classification pada perangkat Android.
+Setelah model berhasil diintegrasikan ke dalam aplikasi, selanjutnya adalah membuat user interface yang memungkinkan pengguna untuk menggambar digit pada layar perangkat Android. User interface dapat dibuat menggunakan komponen Android seperti ImageView, EditText, dan Button.
