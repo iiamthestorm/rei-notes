@@ -31,4 +31,4 @@ Testing pada Perangkat Android menggunakan :
    - Android Studio
 
 
-adalah metode augmentasi yang dilakukan dengan cara memutar gambar secara acak
+adalah teknik augmentasi data yang dilakukan dengan cara gambar digeser kearah kiri atau kanan.
