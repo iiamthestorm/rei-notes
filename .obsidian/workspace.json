@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Referensi.md",
+                "file": "Skripsi/Kerangka Bab 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Referensi.md",
+                "file": "Skripsi/Kerangka Bab 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Referensi.md",
+                "file": "Skripsi/Kerangka Bab 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Referensi.md"
+                "file": "Skripsi/Kerangka Bab 3.md"
               }
             }
           },
@@ -208,9 +208,9 @@
   },
   "active": "1e3c4db11f018c4e",
   "lastOpenFiles": [
+    "Skripsi/Referensi.md",
     "Skripsi/Revisi 1 Note.md",
     "Skripsi/Untitled.md",
-    "Skripsi/Referensi.md",
     "Skripsi/Kerangka Bab 2 (Minor Update).md",
     "Skripsi/Kerangka Bab 3.md",
     "Web Development/DOM Manipulation And Events.md",
