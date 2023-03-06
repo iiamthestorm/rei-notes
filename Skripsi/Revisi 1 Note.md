@@ -17,7 +17,7 @@
 	- Cara menanamkan/integrasi ke android buat butir nya trus gambarkan.
 
 # Kerangka
-BAB 2 Teori Setelah Data Augmentasi
+## BAB 2 Teori Setelah Data Augmentasi
 Untuk membangun aplikasi handwriting digit image ini dibutuhkan 2 proses yaitu Training dan Testing. Training menggunakan :
 1. Training
    - Google Colaboratory
@@ -25,6 +25,7 @@ Untuk membangun aplikasi handwriting digit image ini dibutuhkan 2 proses yaitu T
    - TensorFlow
    - TFLite
 Testing pada Perangkat Android menggunakan :
-2. Testing
+1. Testing
    - Android Studio
+
 
