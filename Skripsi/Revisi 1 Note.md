@@ -8,9 +8,8 @@
 
 - BAB 3, 3.5 Desain Sistem
 	- Tidak Ada "Tahapan Pembuatan Model" hanya "menentukan layer yang dipakai pada CNN"
+	- Desain Pengujian buat jangan pakai paragraph, pakai numbering biar benar kemudian di jelaskan masing2, Buat Rumus pakai microsoft equation.
 
 
 - Buat Use Case Android app
 
-- BAB 3 Desain Pengujian buat jangan pakai paragraph, pakai numbering biar benar
-- Buat Rumus pakai microsoft equation pada desain pengujian BAB 3
