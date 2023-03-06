@@ -31,4 +31,4 @@ Testing pada Perangkat Android menggunakan :
    - Android Studio
 
 
-Unsupervised Data Augmentation adalah metode augmentasi yang tidak terkait dengan data label.
+adalah metode augmentasi yang dilakukan dengan cara memutar gambar secara acak
