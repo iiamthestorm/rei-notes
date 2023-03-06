@@ -1,1 +1,1 @@
-Aurelien Geron
+Nilai Akurasi dari hasil pengujian 
