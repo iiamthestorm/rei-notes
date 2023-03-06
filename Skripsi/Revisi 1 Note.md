@@ -1,4 +1,4 @@
-- a
+- BAB 2
 	- Fixing Numbering dari 2.2 ke 2.2.1 and all
 	- Kasi gambar di Sub bab Data Augmentasi
 	- Buat subbab Teori Pengujian sebelum subab hipotesis
