@@ -21,11 +21,11 @@
 # Kerangka
 ## ~~2.2.7 Alat-alat Pengembangan Aplikasi
 Untuk membangun aplikasi handwriting digit image ini dibutuhkan 2 proses yaitu Training dan Testing. Alat-alat yang digunakan dalam Training adalah sebagai berikut:
-1. Training
-   - Google Colaboratory
-   - Python
-   - TensorFlow
-   - TFLite
+1. ~~Training
+   - ~~Google Colaboratory
+   - ~~Python
+   - ~~TensorFlow
+   - ~~TFLite
 Testing pada Perangkat Android menggunakan :
-1. Testing
-   - Android Studio
+1. ~~Testing
+   - ~~Android Studio
