@@ -29,6 +29,3 @@ Untuk membangun aplikasi handwriting digit image ini dibutuhkan 2 proses yaitu T
 Testing pada Perangkat Android menggunakan :
 1. Testing
    - Android Studio
-
-
-adalah teknik augmentasi data yang dilakukan dengan cara gambar digeser kearah kiri atau kanan.
