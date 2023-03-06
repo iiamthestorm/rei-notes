@@ -13,5 +13,10 @@
 	- Desain Pengujian buat jangan pakai paragraph, pakai numbering biar benar kemudian di jelaskan masing2, Buat Rumus pakai microsoft equation.
 	- Buat Use Case Android app pada Integrasi Model ke Android.
 	- Pada Gambar 3.1 Desain Arsitektur Sistem, dari source code python lgsg ke TensorFlow Lite.
-	- Cara menanamkan/integrasi ke an
+	- Cara menanamkan/integrasi ke android buat butir nya trus gambarkan.
+
+
+
+1. Training
+   - Python
 
