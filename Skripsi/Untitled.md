@@ -1,1 +1,1 @@
-Nilai Akurasi dari hasil pengujian didapatkan melalui persamaan berikut:
+Pada tahapan ini, pengujian dilakukan dengan menggambar digit menggunakan jari pada aplikasi yang telah dibangun, kemudian hasil klasifikasi digit tersebut dievaluasi untuk menentukan tingkat akurasi model.Nilai Akurasi dari hasil pengujian didapatkan melalui persamaan berikut:
