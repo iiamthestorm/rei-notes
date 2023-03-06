@@ -1,1 +1,1 @@
-Akurasi (accuracy) dalam machine learning adalah metrik evaluasi yang digunakan untuk mengukur seberapa baik model dapat memprediksi output yang benar untuk setiap input.
+Aurelien Geron
