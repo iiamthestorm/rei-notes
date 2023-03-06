@@ -11,4 +11,5 @@
 	- Tidak Ada "Tahapan Pembuatan Model" hanya "menentukan layer yang dipakai pada CNN".
 	- Desain Pengujian buat jangan pakai paragraph, pakai numbering biar benar kemudian di jelaskan masing2, Buat Rumus pakai microsoft equation.
 	- Buat Use Case Android app pada Integrasi Model ke Android.
+	- 
 
