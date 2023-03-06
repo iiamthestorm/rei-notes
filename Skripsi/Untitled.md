@@ -1,1 +1,1 @@
-Setelah model berhasil diinisialisasi, selanjutnya adalah melakukan ekstraksi nilai piksel dari gambar yang diambil dari aplikasi. Proses ini dilakukan dengan cara membaca nilai piksel dari setiap pixel pada gambar. Setiap nilai piksel ini kemudian diteruskan ke model untuk diproses.
+Dengan berhasil mengekstrak nilai piksel gambar, maka model CNN sudah siap untuk digunakan pada aplikasi Android.
