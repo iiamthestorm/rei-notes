@@ -1,1 +1,1 @@
-Nilai Akurasi dari hasil pengujian 
+Nilai Akurasi dari hasil pengujian didapatkan melalui persamaan berikut:
