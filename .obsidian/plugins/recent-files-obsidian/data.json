@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Referensi",
+      "path": "Skripsi/Referensi.md"
+    },
+    {
       "basename": "Revisi 1 Note",
       "path": "Skripsi/Revisi 1 Note.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Kerangka Bab 3",
       "path": "Skripsi/Kerangka Bab 3.md"
-    },
-    {
-      "basename": "Referensi",
-      "path": "Skripsi/Referensi.md"
     },
     {
       "basename": "DOM Manipulation And Events",
