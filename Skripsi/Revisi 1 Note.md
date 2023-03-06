@@ -18,8 +18,7 @@
 
 # Kerangka
 BAB 2 Teori Setelah Data Augmentasi
-
-
+Untuk 
 1. Training
    - Google Colaboratory
    - Python
