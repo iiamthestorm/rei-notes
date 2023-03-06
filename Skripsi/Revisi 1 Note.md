@@ -1,10 +1,7 @@
-
-- Buat Teori Pengujian di BAB 2 SEBELUM HIPOTESIS
-
-- BAB 2
+- a
 	- Fixing Numbering dari 2.2 ke 2.2.1 and all
 	- Kasi gambar di Sub bab Data Augmentasi
-	- Buat Teori Pengujian
+	- Buat subbab Teori Pengujian sebelum subab hipotesis
 
 - BAB 3, 3.4
 	- Teknik pengumpulan data dari 1 lgsg 3 saja
