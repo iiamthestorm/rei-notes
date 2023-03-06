@@ -32,4 +32,4 @@ Testing pada Perangkat Android menggunakan :
    - Android Studio
 
 
-Dataset MNIST memiliki total 70.000 gambar yang kemudian akan dibagi menjadi Data Training dan Data Testing. Data training pada dataset MNIST terdiri dari 60.000 gambar digit tulisan tangan/handwritten yang telah diverifikasi dengan benar. Data validation pada dataset MNIST terdiri dari 10.000 gambar digit tulisan tangan/handwritten yang berbeda dengan data training.
+Alat-alat Pengembangan Aplikasi
