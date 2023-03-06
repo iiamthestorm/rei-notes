@@ -2,10 +2,15 @@
 - Kasi gambar di data augmentasi BAB 2
 - Buat Teori Pengujian di BAB 2 SEBELUM HIPOTESIS
 
+- BAB 3, 3.4
+	- Teknik pengumpulan data dari 1 lgsg 3 saja
+	- Kasi berapa banyak data di nomor 
+
 - BAB 3, 3.4 Teknik pengumpulan data dari 1 lgsg 3
 - Kasi berapa banyak data di BAB 3, 3.4 Teknik Pengumpulan data di nomor 3
 
-- BAB 3, 3.5 De
+- BAB 3, 3.5 Desain Sistem
+	- Tidak Ada
 
 
 - Buat Use Case Android app
