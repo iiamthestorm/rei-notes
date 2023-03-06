@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c8c0b3730a6372f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skripsi/Revisi 1 Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1e3c4db11f018c4e",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0144225862ea70f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skripsi/Referensi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,11 +183,11 @@
   },
   "active": "1e3c4db11f018c4e",
   "lastOpenFiles": [
-    "Skripsi/Untitled.md",
-    "Skripsi/Revisi 1 Note.md",
-    "Skripsi/Referensi.md",
-    "Skripsi/Kerangka Bab 3.md",
     "Skripsi/Kerangka Bab 2 (Minor Update).md",
+    "Skripsi/Kerangka Bab 3.md",
+    "Skripsi/Referensi.md",
+    "Skripsi/Revisi 1 Note.md",
+    "Skripsi/Untitled.md",
     "Web Development/DOM Manipulation And Events.md",
     "Web Development/JavaScript.md",
     "Web Development/Front-End.md",
