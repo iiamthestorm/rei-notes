@@ -1,1 +1,1 @@
-Pada tahapan pengujian ini, terdapat beberapa langkah yang harus dilakukan. Pertama, pengguna aplikasi akan diminta untuk menggambar digit dengan jari pada area yang disediakan pada aplikasi. Setelah pengguna selesai menggambar, aplikasi akan memproses gambar tersebut dan mengklasifikasikannya menggunakan model yang telah dibangun sebelumnya.
+Dengan menggunakan tabel perbandingan ini, kita dapat menentukan model mana yang lebih unggul dan lebih tepat digunakan pada aplikasi handwritten digit image classification pada perangkat Android.
