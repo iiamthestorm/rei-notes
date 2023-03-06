@@ -2,6 +2,7 @@
 	- Fixing Numbering dari 2.2 ke 2.2.1 and all
 	- Kasi gambar di Sub bab Data Augmentasi
 	- Buat subbab Teori Pengujian sebelum subab hipotesis
+	- Buat Subbab Training dan Testing di  
 
 - BAB 3, 3.4
 	- Teknik pengumpulan data dari 1 lgsg 3 saja
