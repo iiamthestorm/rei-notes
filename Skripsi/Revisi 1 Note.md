@@ -5,6 +5,9 @@
 - BAB 3, 3.4 Teknik pengumpulan data dari 1 lgsg 3
 - Kasi berapa banyak data di BAB 3, 3.4 Teknik Pengumpulan data di nomor 3
 
+- BAB 3, 3.5 De
+
+
 - Buat Use Case Android app
 
 - BAB 3 Desain Pengujian buat jangan pakai paragraph, pakai numbering biar benar
