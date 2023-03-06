@@ -6,7 +6,7 @@
 	- Buat Subbab Training dan Testing di Teori. trus anak subbabnya muncul lg berupa Python, Google Colab untuk training dan testing berupa android etc. 
 
 - BAB 3, 3.4
-	- Teknik pengumpulan data dari 1 lgsg 3 saja
+	- ~~Teknik pengumpulan data dari 1 lgsg 3 saja
 	- Kasi berapa banyak data di nomor 3
 
 - BAB 3, 3.5 Desain Sistem
