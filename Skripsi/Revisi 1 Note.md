@@ -1,0 +1,2 @@
+- Buat Rumus pakai microsoft equation pada desain pengujian
+- 
