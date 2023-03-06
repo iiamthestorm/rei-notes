@@ -4,6 +4,7 @@
 	- ~~Kasi gambar di Sub bab Data Augmentasi
 	- Buat subbab Teori Pengujian sebelum subab hipotesis
 	- ~~Buat Subbab Training dan Testing di Teori. trus anak subbabnya muncul lg berupa Python, Google Colab untuk training dan testing berupa android etc. 
+	- ~~tambah teori data augmentasi
 
 - BAB 3, 3.4
 	- ~~Teknik pengumpulan data dari 1 lgsg 3 saja
