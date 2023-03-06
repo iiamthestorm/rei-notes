@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Revisi 1 Note.md",
+                "file": "Skripsi/Referensi.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Revisi 1 Note.md",
+                "file": "Skripsi/Referensi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Revisi 1 Note.md",
+                "file": "Skripsi/Referensi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Revisi 1 Note.md"
+                "file": "Skripsi/Referensi.md"
               }
             }
           },
@@ -208,10 +208,10 @@
   },
   "active": "1e3c4db11f018c4e",
   "lastOpenFiles": [
+    "Skripsi/Revisi 1 Note.md",
     "Skripsi/Untitled.md",
     "Skripsi/Kerangka Bab 3.md",
     "Skripsi/Referensi.md",
-    "Skripsi/Revisi 1 Note.md",
     "Skripsi/Kerangka Bab 2 (Minor Update).md",
     "Web Development/DOM Manipulation And Events.md",
     "Web Development/JavaScript.md",
