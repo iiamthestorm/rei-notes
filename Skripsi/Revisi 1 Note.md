@@ -18,6 +18,7 @@
 
 # Kerangka
 ## BAB 2 Teori Setelah Data Augmentasi
+subbab Tools Membangun Aplikasi
 Untuk membangun aplikasi handwriting digit image ini dibutuhkan 2 proses yaitu Training dan Testing. Training menggunakan :
 1. Training
    - Google Colaboratory
