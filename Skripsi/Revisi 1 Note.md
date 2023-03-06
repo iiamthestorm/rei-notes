@@ -16,6 +16,8 @@
 	- Pada Gambar 3.1 Desain Arsitektur Sistem, dari source code python lgsg ke TensorFlow Lite.
 	- Cara menanamkan/integrasi ke android buat butir nya trus gambarkan.
 
+
+
 # Kerangka
 ## BAB 2 Teori Setelah Data Augmentasi
 subbab Tools Membangun Aplikasi
