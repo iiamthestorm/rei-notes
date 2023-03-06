@@ -32,4 +32,4 @@ Testing pada Perangkat Android menggunakan :
    - Android Studio
 
 
-Dwivedi, Rohit. “How Data Augmentation Impacts Performance Of Image Classification, With Codes.” analyticsindiamag.com
+Dwivedi, Rohit. “How Data Augmentation Impacts Performance Of Image Classification, With Codes.” Analytics India Magazine, 4 Aug. 2020, 
