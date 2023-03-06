@@ -24,7 +24,7 @@ Untuk membangun aplikasi handwriting digit image ini dibutuhkan 2 proses yaitu T
    - Python
    - TensorFlow
    - TFLite
-Testing Menggunakan :
+Testing pada Perangkat Android menggunakan :
 2. Testing
    - Android Studio
 
