@@ -1,4 +1,4 @@
 - Buat Rumus pakai microsoft equation pada desain pengujian BAB 3
 - Buat Teori Pengujian di BAB 2 SEBELUM HIPOTESIS
 - Kasi gambar di data augmentasi BAB 2
-- 
+- Buat Use Case Android
