@@ -1,9 +1,10 @@
-- Fixing Numbering 2.2 -> 2.2.1
-- Kasi gambar di data augmentasi BAB 2
+
 - Buat Teori Pengujian di BAB 2 SEBELUM HIPOTESIS
 
 - BAB 2
-- 
+	- Fixing Numbering dari 2.2 ke 2.2.1 and all
+	- Kasi gambar di Sub bab Data Augmentasi
+	- Buat Teori Pengujian
 
 - BAB 3, 3.4
 	- Teknik pengumpulan data dari 1 lgsg 3 saja
