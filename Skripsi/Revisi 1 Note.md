@@ -18,5 +18,8 @@
 
 
 1. Training
+   - Google Colaboratory
    - Python
+   - TensorFlow
+   - 
 
