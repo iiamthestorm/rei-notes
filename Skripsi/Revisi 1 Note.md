@@ -18,7 +18,7 @@
 
 # Kerangka
 BAB 2 Teori Setelah Data Augmentasi
-Untuk 
+Untuk membangun aplikasi handwriting digit image ini dibutuhkan 2 proses yaitu Training dan Testing. Training adalah ....., Testing adalah
 1. Training
    - Google Colaboratory
    - Python
