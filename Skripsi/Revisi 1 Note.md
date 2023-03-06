@@ -1,7 +1,7 @@
 # To Do
 - BAB 2
 	- Fixing Numbering dari 2.2 ke 2.2.1 and all
-	- Kasi gambar di Sub bab Data Augmentasi
+	- ~~Kasi gambar di Sub bab Data Augmentasi
 	- Buat subbab Teori Pengujian sebelum subab hipotesis
 	- Buat Subbab Training dan Testing di Teori. trus anak subbabnya muncul lg berupa Python, Google Colab untuk training dan testing berupa android etc. 
 
@@ -30,6 +30,3 @@ Untuk membangun aplikasi handwriting digit image ini dibutuhkan 2 proses yaitu T
 Testing pada Perangkat Android menggunakan :
 1. Testing
    - Android Studio
-
-
-Dwivedi, Rohit. “How Data Augmentation Impacts Performance Of Image Classification, With Codes.” Analytics India Magazine, 4 Aug. 2020, 
