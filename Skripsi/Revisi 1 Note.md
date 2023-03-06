@@ -1,3 +1,4 @@
+# To Do
 - BAB 2
 	- Fixing Numbering dari 2.2 ke 2.2.1 and all
 	- Kasi gambar di Sub bab Data Augmentasi
@@ -15,8 +16,9 @@
 	- Pada Gambar 3.1 Desain Arsitektur Sistem, dari source code python lgsg ke TensorFlow Lite.
 	- Cara menanamkan/integrasi ke android buat butir nya trus gambarkan.
 
-
+# Kerangka
 BAB 2 Teori Setelah Data Augmentasi
+
 
 1. Training
    - Google Colaboratory
