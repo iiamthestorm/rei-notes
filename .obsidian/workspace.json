@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Referensi.md",
+                "file": "Skripsi/SEMPRO IKUYO.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Referensi.md",
+                "file": "Skripsi/SEMPRO IKUYO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Referensi.md",
+                "file": "Skripsi/SEMPRO IKUYO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Referensi.md"
+                "file": "Skripsi/SEMPRO IKUYO.md"
               }
             }
           },
@@ -208,12 +208,12 @@
   },
   "active": "2b1be6e347d3ee69",
   "lastOpenFiles": [
+    "Skripsi/Referensi.md",
     "Skripsi/SEMPRO IKUYO.md",
     "Skripsi/Revisi 2 Note.md",
     "Skripsi/Revisi 1 Note.md",
     "Skripsi/Kerangka Bab 2 (Minor Update).md",
     "Skripsi/Kerangka Bab 3.md",
-    "Skripsi/Referensi.md",
     "Web Development/DOM Manipulation And Events.md",
     "Web Development/JavaScript.md",
     "Web Development/Front-End.md",
