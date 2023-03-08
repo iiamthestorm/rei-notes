@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b5600f38f3bbadc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skripsi/SEMPRO 行くよ！.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,12 +218,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b1be6e347d3ee69",
+  "active": "7b5600f38f3bbadc",
   "lastOpenFiles": [
-    "Skripsi/Referensi.md",
-    "Skripsi/SEMPRO 行くよ！.md",
     "Skripsi/Revisi 2 Note.md",
+    "Skripsi/SEMPRO 行くよ！.md",
     "Skripsi/Revisi 1 Note.md",
+    "Skripsi/Judul Skripsi.md",
+    "Skripsi/Referensi.md",
     "Skripsi/Kerangka Bab 2 (Minor Update).md",
     "Skripsi/Kerangka Bab 3.md",
     "Web Development/DOM Manipulation And Events.md",
