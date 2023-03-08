@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1cd8404f8715078a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skripsi/Revisi 2 Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Revisi 1 Note.md",
+                "file": "Skripsi/Revisi 2 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Revisi 1 Note.md",
+                "file": "Skripsi/Revisi 2 Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Revisi 1 Note.md"
+                "file": "Skripsi/Revisi 2 Note.md"
               }
             }
           },
@@ -181,13 +194,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e3c4db11f018c4e",
+  "active": "1cd8404f8715078a",
   "lastOpenFiles": [
-    "Skripsi/Kerangka Bab 2 (Minor Update).md",
     "Skripsi/Revisi 1 Note.md",
+    "Skripsi/Revisi 2 Note.md",
+    "Skripsi/Kerangka Bab 2 (Minor Update).md",
     "Skripsi/Kerangka Bab 3.md",
     "Skripsi/Referensi.md",
-    "Skripsi/Untitled.md",
     "Web Development/DOM Manipulation And Events.md",
     "Web Development/JavaScript.md",
     "Web Development/Front-End.md",
