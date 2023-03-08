@@ -1,3 +1,4 @@
 # To Do
 - Isi "**HALAMAN PENGESAHAN PROPOSAL**"
-- 
+- Print "**HALAMAN PENGESAHAN PROPOSAL**"
+- Serahin 
