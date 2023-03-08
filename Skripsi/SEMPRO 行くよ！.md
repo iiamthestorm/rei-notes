@@ -9,7 +9,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 
 ## Thursday, 09 March 2023
 - Minta ttd "**HALAMAN PENGESAHAN PROPOSAL**" sama buk nesi
-- Minta ttd "**KARTU BIMBINGAN**" sama pak apri (Kalau Perlu)
 - Unggah dokumen nya di GFORM
 
 ## Friday, 10 March 2023
