@@ -5,9 +5,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 ## Wednesday, 08 March 2023
 - ~~Buat Revisi 2
 - ~~Print lgsg proposal sama kakak
-- Print "**HALAMAN PENGESAHAN PROPOSAL**" sama kakak
+- ~~Print "**HALAMAN PENGESAHAN PROPOSAL**" sama kakak
 
 ## Thursday, 09 March 2023
+- Suruh kakak scan kartu bimbingan
 - Minta ttd "**HALAMAN PENGESAHAN PROPOSAL**" sama buk nesi
 - Unggah dokumen nya di GFORM
 
