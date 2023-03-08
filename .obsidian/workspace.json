@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Revisi 2 Note.md",
+                "file": "Skripsi/Revisi 1 Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Revisi 2 Note.md",
+                "file": "Skripsi/Revisi 1 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Revisi 2 Note.md",
+                "file": "Skripsi/Revisi 1 Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Revisi 2 Note.md"
+                "file": "Skripsi/Revisi 1 Note.md"
               }
             }
           },
@@ -196,8 +196,8 @@
   },
   "active": "1cd8404f8715078a",
   "lastOpenFiles": [
-    "Skripsi/Revisi 1 Note.md",
     "Skripsi/Revisi 2 Note.md",
+    "Skripsi/Revisi 1 Note.md",
     "Skripsi/Kerangka Bab 2 (Minor Update).md",
     "Skripsi/Kerangka Bab 3.md",
     "Skripsi/Referensi.md",
