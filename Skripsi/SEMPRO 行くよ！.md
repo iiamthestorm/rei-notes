@@ -10,7 +10,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 ## Thursday, 09 March 2023
 - ~~scan kartu bimbingan
 - ~~Minta ttd "**HALAMAN PENGESAHAN PROPOSAL**" sama buk nesi
-- Unggah dokumen nya di GFORM
+- ~~Unggah dokumen nya di GFORM
+- ~~Konfirmasi input gform ke wa tu ti uir
+- Buat PPT nanti malam.
 
 ## Friday, 10 March 2023
 - TBA (To Be Announced)
