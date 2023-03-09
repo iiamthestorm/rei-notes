@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c399edaab2a9c1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skripsi/Revisi 2 Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5776ac125707691b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/SEMPRO 行くよ！.md",
+                "file": "Skripsi/Done/Kerangka Bab 2 (Minor Update).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/SEMPRO 行くよ！.md",
+                "file": "Skripsi/Done/Kerangka Bab 2 (Minor Update).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/SEMPRO 行くよ！.md",
+                "file": "Skripsi/Done/Kerangka Bab 2 (Minor Update).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/SEMPRO 行くよ！.md"
+                "file": "Skripsi/Done/Kerangka Bab 2 (Minor Update).md"
               }
             }
           },
@@ -194,16 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5776ac125707691b",
+  "active": "9dcf3e208f434302",
   "lastOpenFiles": [
-    "Skripsi/Revisi 3 Note.md",
-    "Skripsi/Revisi 2 Note.md",
-    "Skripsi/Revisi 1 Note.md",
+    "Skripsi/Judul Skripsi.md",
+    "Skripsi/Done/Kerangka Bab 2 (Minor Update).md",
+    "Skripsi/Done",
+    "Skripsi/Kerangka Bab 3.md",
     "Skripsi/Referensi.md",
     "Skripsi/SEMPRO 行くよ！.md",
-    "Skripsi/Judul Skripsi.md",
-    "Skripsi/Kerangka Bab 2 (Minor Update).md",
-    "Skripsi/Kerangka Bab 3.md",
+    "Skripsi/Revisi 2 Note.md",
+    "Skripsi/Revisi 3 Note.md",
+    "Skripsi/Revisi 1 Note.md",
     "Web Development/DOM Manipulation And Events.md",
     "Web Development/JavaScript.md",
     "Web Development/Front-End.md",
