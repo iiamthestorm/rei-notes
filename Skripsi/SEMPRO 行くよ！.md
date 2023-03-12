@@ -18,6 +18,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 
 ## Monday, 11 March 2023
 - Make ppt
+- Liat Referensi dan print kalau bisa
 
 ## Tuesday, 12 March 2023
 - TBA (To Be Announced)
