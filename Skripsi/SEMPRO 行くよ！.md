@@ -20,7 +20,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 - Make ppt
 
 ## Tuesday, 12 March 2023
+- TBA (To Be Announced)
 
 ## Wednesday, 13 March 2023
+- TBA (To Be Announced)
 
 ## Thursday, 14 March 2023
+- SEMPRO TIME (Hopefully)
