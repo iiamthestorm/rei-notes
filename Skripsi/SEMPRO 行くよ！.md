@@ -16,5 +16,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 ## Friday, 10 March 2023
 - ~~Got tu ti uir confirmation
 
-## Sunday, 12 March 2023
-- Make ppt even tho belum bisa siap
+## Monday, 11 March 2023
+- Make ppt
+
+## Tuesday, 12 March 2023
+
+## Wednesday, 13 March 2023
+
+## Thursday, 14 March 2023
