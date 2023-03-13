@@ -21,10 +21,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 - Liat Referensi dan print kalau bisa
 
 ## Tuesday, 12 March 2023
-- TBA (To Be Announced)
+- Potong Rambut
 
 ## Wednesday, 13 March 2023
-- TBA (To Be Announced)
+- 
 
 ## Thursday, 14 March 2023
-- SEMPRO TIME (Hopefully)
+- SEMPRO TIME
