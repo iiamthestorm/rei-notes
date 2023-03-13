@@ -25,10 +25,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 ## Tuesday, 12 March 2023
 - Potong Rambut
 - urus berita acara sama TU Rizka Helen
-- minta kakak print skripsi 3 
+- minta kakak print skripsi 3 buah sama laporan penilaian
 
 ## Wednesday, 13 March 2023
-- 
+- Kasi skripsi dan laporan penilaian yang udah diprint sama kakak ke masing2 dosen
+- beli kue dan minum untuk masing2 dosen pas sempro
 
 ## Thursday, 14 March 2023
 - SEMPRO TIME
