@@ -24,7 +24,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 
 ## Tuesday, 12 March 2023
 - Potong Rambut
-- urus berita acara sama tu 
+- urus berita acara sama TU Rizka Helen
 
 ## Wednesday, 13 March 2023
 - 
