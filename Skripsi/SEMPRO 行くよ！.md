@@ -17,7 +17,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 - ~~Got tu ti uir confirmation
 
 ## Monday, 11 March 2023
-- Make ppt
 - Liat Referensi dan print kalau bisa
 - Benerin Skripsi sebelum sempro
 - buat form penilaian
@@ -26,7 +25,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 - Potong Rambut
 - urus berita acara sama TU Rizka Helen
 - minta kakak print skripsi dan laporan penilaian 3 buah
-- Lanjutkan buat ppt dari senin.
+- Buat dan hafalkan.
 
 ## Wednesday, 13 March 2023
 - Kasi skripsi dan laporan penilaian yang udah diprint sama kakak ke masing2 dosen
