@@ -33,4 +33,4 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 
 ## Thursday, 14 March 2023
 - SEMPRO TIME (Jam 8)
-- Jangan lupa nanyak 
+- Jangan lupa nanyak ke TU ttg yang 5 kali nengok sempro biar bisa kompre
