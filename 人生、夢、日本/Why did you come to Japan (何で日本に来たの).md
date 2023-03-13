@@ -6,4 +6,4 @@ https://youtu.be/WR-RZmos2o8?list=LL&t=205
 
 "In the other words, Many of us don't know exactly why we feel so attracted to japan, but we do know the source of that feeling is meaningful."
 
-I think that i come to japan looking for manifestations of the magic we fee
+I think that i come to japan looking for manifestations of the magic i feel in let say, 文化, きょ, languange 
