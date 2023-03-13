@@ -19,13 +19,13 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 ## Monday, 11 March 2023
 - Liat Referensi dan print kalau bisa
 - Benerin Skripsi sebelum sempro
-- buat form penilaian
+- ~~buat form penilaian
 
 ## Tuesday, 12 March 2023
 - Potong Rambut
 - urus berita acara sama TU Rizka Helen
 - minta kakak print skripsi dan laporan penilaian 3 buah
-- Buat dan hafalkan.
+- Buat ppt dan hafalkan.
 
 ## Wednesday, 13 March 2023
 - Kasi skripsi dan laporan penilaian yang udah diprint sama kakak ke masing2 dosen
