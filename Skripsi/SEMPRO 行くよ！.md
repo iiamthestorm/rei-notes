@@ -19,9 +19,12 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 ## Monday, 11 March 2023
 - Make ppt
 - Liat Referensi dan print kalau bisa
+- Benerin Skripsi sebelum sempro
+- buat form penilaian
 
 ## Tuesday, 12 March 2023
 - Potong Rambut
+- urus berita acara sama tu 
 
 ## Wednesday, 13 March 2023
 - 
