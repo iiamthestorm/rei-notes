@@ -24,7 +24,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 ## Tuesday, 12 March 2023
 - Potong Rambut
 - ~~urus berita acara sama TU Rizka Helen
-- minta kakak print skripsi dan laporan penilaian 3 buah
+- ~~minta kakak print skripsi dan laporan penilaian 3 buah
 - Buat ppt dan hafalkan.
 
 ## Wednesday, 13 March 2023
