@@ -17,7 +17,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 - ~~Got tu ti uir confirmation
 
 ## Monday, 11 March 2023
-- Liat Referensi dan print kalau bisa
+- ~~Liat Referensi
 - Benerin Skripsi sebelum sempro
 - ~~buat form penilaian
 
