@@ -18,7 +18,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 
 ## Monday, 11 March 2023
 - ~~Liat Referensi
-- Benerin Skripsi sebelum sempro
+- ~~Benerin Skripsi sebelum sempro
 - ~~buat form penilaian
 
 ## Tuesday, 12 March 2023
