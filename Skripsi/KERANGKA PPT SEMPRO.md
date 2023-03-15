@@ -32,3 +32,6 @@ Ada beberapa jenis Neural Network, diantaranya:
 1.  Feedforward Neural Network
 2.  Recurrent Neural Network
 3.  Convolutional Neural Network
+
+# Convolutional Neural Network
+
