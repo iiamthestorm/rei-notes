@@ -43,3 +43,5 @@ Namun, penggunaan CNN juga memiliki beberapa tantangan dan kelemahan, diantarany
 1.  Memerlukan daya komputasi yang besar dan waktu pelatihan yang lama terutama untuk data gambar yang sangat besar dan kompleks.
 2.  Memerlukan jumlah data yang cukup besar untuk memperoleh model yang akurat.
 
+
+# Augmentasi Data
