@@ -34,4 +34,13 @@ Ada beberapa jenis layer pada CNN, diantaranya:
 2. Pooling Layer: layer yang digunakan untuk mengurangi dimensi dari feature map dengan melakukan operasi penggabungan (pooling) pada beberapa area pada feature map.
 3. Fully-Connected Layer: layer yang terhubung dengan seluruh neuron pada layer sebelumnya, dan biasanya digunakan pada akhir jaringan CNN untuk menghasilkan output klasifikasi.
 
+Penerapan CNN dalam pengenalan gambar memiliki beberapa keunggulan, antara lain:
+1.  Mampu mempelajari fitur-fitur pada gambar secara hierarkis dan otomatis.
+2.  Robust terhadap variasi posisi, rotasi, dan ukuran objek pada gambar.
+3.  Mampu memproses dan mempelajari data gambar dalam bentuk matriks piksel yang besar dan kompleks.
+
+Namun, penggunaan CNN juga memiliki beberapa tantangan dan kelemahan, diantaranya:
+1.  Memerlukan daya komputasi yang besar dan waktu pelatihan yang lama terutama untuk data gambar yang sangat besar dan kompleks.
+2.  Memerlukan jumlah data yang cukup besar untuk memperoleh model yang akurat.
+3.  Sulit untuk diinterpretasi hasil dari model yang dibuat.
 
