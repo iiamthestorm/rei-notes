@@ -1,7 +1,9 @@
 # Pembukaan
 Bismillahirrohmanirrohim...
 Assalamu'alaikum wr wb......
-Yang terhormat ibu Ause Labellapanasa, S.T., M.Kom., M.Cs
+Yang terhormat ibu Ause Labellapanasa, S.T., M.Kom., M.Cs sebagai dosen penguji,
+Yang terhormat ibu Ana Yulianti, S.Kom., M.Kom sebagai dosen penguji,
+dan Yang terhormat Ibu Nesi Syafitri N, S.Kom., M.Cs
 
 # Deep Learning
 ![[Pasted image 20230315170219.png]]
