@@ -25,8 +25,8 @@ Konsep dasar dari Neural Network adalah bahwa setiap neuron menerima sinyal masu
 Ada beberapa jenis neural network, salah satunya adalah convolutional neural network yang akan saya bahas di slide selanjutnya
 
 # Convolutional Neural Network
-Convolutional Neural Network (CNN) adalah salah satu jenis neural network yang biasa digunakan pada data image. CNN bisa digunakan untuk mendeteksi dan mengenali object pada sebuah image. 
+Convolutional Neural Network (CNN) adalah salah satu jenis neural network yang digunakan khususnya untuk memproses data spasial seperti gambar atau video. CNN memanfaatkan operasi konvolusi atau filter untuk mengidentifikasi fitur-fitur pada gambar. Operasi konvolusi pada CNN melibatkan filter atau kernel yang digeser (sliding) ke seluruh area gambar untuk menghasilkan sebuah feature map atau peta fitur.
 
-Secara garis besarnya, CNN memanfaatkan proses konvolusi dengan menggerakan sebuah kernel konvolusi (filter) berukuran tertentu ke sebuah gambar, komputer mendapatkan informasi representatif baru dari hasil perkalian bagian gambar tersebut dengan filter yang digunakan.
+
 
 
