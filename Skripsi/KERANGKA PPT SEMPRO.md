@@ -52,4 +52,4 @@ Alur Desain aplikasi adalah :
 1. Pertama, kita membuka Google Colab, kemudian menggantinya menjadi runtime dengan akselerator GPU. Dengan menggunakan akselerator GPU, proses training data dapat dilakukan dengan lebih cepat.
 1. kemudian, kita panggil semua library yang diperlukan seperti TensorFlow, Numpy, Pandas, atau matplotlib.
 2. Kemudian, dataset dimuat dari _library TensorFlow_ dengan menggunakan fungsi **`mnist.load_data()`** pada _sub-library_ **`keras.datasets`**.
-3. Kemudian, kita akan mulai modelling 
+3. Kemudian, kita akan mulai membuat model pre-augmented dan post-augmented dengan menggunakan bahasa pemrograman Python.
