@@ -78,4 +78,4 @@ Alur Desain aplikasi adalah :
 
 
 # Penutup
-Baik itu adalah presentasi singkat dari saya, (lgsg demo buk?) izinkan saya untuk mendemokan aplikasi ini. 
+Baik itu adalah presentasi singkat dari saya, (lgsg demo buk?) izinkan saya untuk mendemokan aplikasi yang saya buat.
