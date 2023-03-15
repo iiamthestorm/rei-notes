@@ -49,7 +49,7 @@ Teknik augmentasi data adalah teknik yang digunakan untuk menghasilkan data baru
 # Desain Aplikasi
 ![[Pasted image 20230315161816.png]]
 Alur Desain aplikasi adalah :
-1. Kit
-1. Pertama2, kita panggil semua library yang diperlukan seperti TensorFlow
+1. Pertama2, Kita buka google colab kita, kemudian ganti menjadi gpu runtime, karena dengan gpu runtime kita bisa mentraining data dengan lebih cepat.
+1. kemudian, kita panggil semua library yang diperlukan seperti TensorFlow
 2. Kemudian, dataset dimuat dari _library TensorFlow_ dengan menggunakan fungsi **`mnist.load_data()`** pada _sub-library_ **`keras.datasets`**
 3. 
