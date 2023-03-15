@@ -30,7 +30,7 @@ Convolutional Neural Network (CNN) adalah salah satu jenis neural network yang d
 Konsep dasar dari CNN adalah bahwa setiap layer pada CNN terdiri dari beberapa filter atau kernel yang dapat mempelajari fitur-fitur yang berbeda pada gambar. Setiap filter pada layer tersebut akan mencari pola-pola tertentu pada gambar dan menghasilkan feature map yang akan digunakan sebagai input untuk layer berikutnya.
 
 Ada beberapa jenis layer pada CNN, diantaranya:
-1.  Convolutional Layer: layer yang terdiri dari beberapa filter atau kernel yang digunakan untuk menghasilkan feature map.
+1. Convolutional Layer: layer yang terdiri dari beberapa filter atau kernel yang digunakan untuk menghasilkan feature map.
 2. Pooling Layer: layer yang digunakan untuk mengurangi dimensi dari feature map dengan melakukan operasi penggabungan (pooling) pada beberapa area pada feature map.
 3. Fully-Connected Layer: layer yang terhubung dengan seluruh neuron pada layer sebelumnya, dan biasanya digunakan pada akhir jaringan CNN untuk menghasilkan output klasifikasi.
 
