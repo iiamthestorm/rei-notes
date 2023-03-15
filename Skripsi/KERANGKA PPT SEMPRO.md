@@ -42,5 +42,4 @@ Penerapan CNN dalam pengenalan gambar memiliki beberapa keunggulan, antara lain:
 Namun, penggunaan CNN juga memiliki beberapa tantangan dan kelemahan, diantaranya:
 1.  Memerlukan daya komputasi yang besar dan waktu pelatihan yang lama terutama untuk data gambar yang sangat besar dan kompleks.
 2.  Memerlukan jumlah data yang cukup besar untuk memperoleh model yang akurat.
-3.  Sulit untuk diinterpretasi hasil dari model yang dibuat.
 
