@@ -54,4 +54,4 @@ Alur Desain aplikasi adalah :
 3. Kemudian, dataset dimuat dari _library TensorFlow_ dengan menggunakan fungsi **`mnist.load_data()`** pada _sub-library_ **`keras.datasets`**.
 4. Kemudian, kita akan membuat dua model menggunakan bahasa pemrograman Python, yaitu model pre-augmentasi dan model post-augmentasi.
 5. Setelah model di training dan divalidasi, kita akan mulai mengkonversi model yang didapatkan dengan TensorFlow Lite. Hal ini dilakukan karena model yang biasanya dihasilkan setelah training tidak bisa dimuat ke dalam android, karena android memiliki keterbatasan dalam hal penyimpanan. 
-6. Kemudian, kita akan membuat source code untuk menampung model tf.lite yang telah kita download dengan bahasa pemrograman kotlin di Android Studio. Disini kita mulai membuat Kompo
+6. Kemudian, kita akan membuat source code untuk menampung model tf.lite yang telah kita download dengan bahasa pemrograman kotlin di Android Studio. Disini kita mulai membuat Komponen View untuk menampilkan halaman yang nantinya kita bisa gunakan untuk menginputkan/menggambarkan digit melalui jari kita.
