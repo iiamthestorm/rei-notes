@@ -1,5 +1,7 @@
 # Pembukaan
-Bismillahirro
+Bismillahirrohmanirrohim...
+Assalamu'alaikum wr wb......
+Yang terhormat ibu Ause Labellapanasa, S.T., M.Kom., M.Cs
 
 # Deep Learning
 ![[Pasted image 20230315170219.png]]
