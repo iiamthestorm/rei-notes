@@ -1,9 +1,5 @@
 # Deep Learning
-Deep Learning adalah salah satu cabang ilmu Pembelajaran Mesin (Machine Learning) yang memiliki kemampuan untuk mempelajari representasi data yang semakin kompleks dan abstrak melalui suatu jaringan neuron tiruan yang sangat besar dan dalam (deep neural network).
-
-_Deep learning_ merupakan subbidang _machine learning_ yang algoritmanya terinspirasi dari struktur otak manusia. Deep Learning memiliki kemampuan untuk mempelajari representasi data yang semakin kompleks dan abstrak melalui suatu jaringan neuron tiruan. Deep learning ini sendiri dapat menyelesaikan berbagai permasalahan yang sulit diselesaikan dengan algoritma ah
-
-Struktur tersebut dinamakan _Artificial Neural Networks_ atau disingkat ANN. Pada dasarnya, ia merupakan jaringan saraf yang memiliki tiga atau lebih lapisan ANN. Ia mampu belajar dan beradaptasi terhadap sejumlah besar data serta menyelesaikan berbagai permasalahan yang sulit diselesaikan dengan algoritma _machine learning_ lainnya.
+_Deep learning_ merupakan subbidang _machine learning_ yang algoritmanya terinspirasi dari struktur otak manusia. Deep Learning memiliki kemampuan untuk mempelajari representasi data yang semakin kompleks dan abstrak melalui suatu jaringan neuron tiruan. Deep learning ini sendiri dapat menyelesaikan berbagai permasalahan yang sulit diselesaikan dengan algoritma machine learning lainnya.
 
 Pada awalnya, konsep Deep Learning berasal dari bagaimana manusia belajar. Manusia dapat belajar dari informasi yang diberikan pada berbagai tingkat atau layer informasi. Contohnya, ketika manusia melihat sebuah objek seperti mobil, informasi pertama yang diterima adalah tentang bentuk dan warna mobil, kemudian dilanjutkan dengan informasi tentang detail mobil seperti roda dan kemudian informasi lain seperti jenis mobil, ukuran mesin, dan lainnya.
 
@@ -21,7 +17,7 @@ Namun, penggunaan Deep Learning juga memiliki tantangan yang signifikan, seperti
 1.  Ketergantungan terhadap data yang sangat besar dan bervariasi untuk melatih model
 2.  Kompleksitas arsitektur jaringan neuron
 
-Itulah ulasan singkat tentang Deep Learning. Semoga dapat memberikan gambaran tentang apa itu Deep Learning dan bagaimana penggunaannya. Terima kasih.
+Itulah ulasan singkat tentang Deep Learning. Selanjutnya kita akan membahasa apa itu neural network, 
 
 
 # Neural Network
