@@ -1,5 +1,5 @@
 # Pembukaan
-
+Bismillahirro
 
 # Deep Learning
 ![[Pasted image 20230315170219.png]]
