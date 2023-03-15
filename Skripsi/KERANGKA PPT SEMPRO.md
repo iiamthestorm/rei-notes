@@ -17,7 +17,6 @@ Dalam penggunaannya, Deep Learning banyak digunakan pada aplikasi yang membutuhk
 Namun, penggunaan Deep Learning juga memiliki tantangan yang signifikan, seperti:
 
 1.  Ketergantungan terhadap data yang sangat besar dan bervariasi untuk melatih model
-2.  Kompleksitas arsitektur jaringan neuron tiruan
-3.  Keterbatasan dalam interpretasi hasil dari model yang dibuat
+2.  Kompleksitas arsitektur jaringan neuron
 
 Itulah ulasan singkat tentang Deep Learning. Semoga dapat memberikan gambaran tentang apa itu Deep Learning dan bagaimana penggunaannya. Terima kasih.
