@@ -9,7 +9,6 @@
 # Latar Belakang
 latar belakang dari penelitian ini adalah.........
 
-#
 
 # Deep Learning
 ![[Pasted image 20230315170219.png]]
@@ -76,3 +75,6 @@ Alur Desain aplikasi adalah :
 4. Kemudian, kita akan membuat dua model menggunakan bahasa pemrograman Python, yaitu model pre-augmentasi dan model post-augmentasi. Model pre-augmentasi adalah model yang tidak menggunakan data augmentasi alias hanya mentraining data asli. Model post-augmentasi adalah model yang menggunakan data augmentasi, data augmentasi dapat digunakan dengan _library_ **TensorFlow** pada sub-library keras.preprocessing.image.ImageDataGenerator.
 5. Setelah 2 model di training dan divalidasi, kita akan mulai mengkonversi model yang didapatkan dengan TensorFlow Lite. Hal ini dilakukan karena model yang biasanya dihasilkan setelah training tidak bisa dimuat ke dalam android, karena android memiliki keterbatasan dalam hal penyimpanan. 
 6. Kemudian, kita akan membuat source code untuk menampung model tf.lite yang telah kita download dengan bahasa pemrograman kotlin di Android Studio. Disini kita mulai membuat Komponen View untuk menampilkan halaman yang nantinya kita bisa gunakan untuk menginputkan/menggambarkan digit melalui jari kita.
+
+
+# B
