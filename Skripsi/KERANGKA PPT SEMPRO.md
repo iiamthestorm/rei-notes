@@ -20,6 +20,8 @@ Namun, penggunaan Deep Learning juga memiliki tantangan yang signifikan, seperti
 Itulah ulasan singkat tentang Deep Learning. Selanjutnya kita akan membahasa apa itu neural network, 
 
 # Neural Network
+![[Pasted image 20230315170325.png]]
+
 Neural Network adalah sebuah model matematika yang terinspirasi dari cara kerja otak manusia. Model ini terdiri dari sejumlah besar neuron atau sel saraf buatan (artificial neurons) yang dihubungkan satu sama lain dalam sebuah jaringan. Neural Network dapat digunakan untuk mempelajari pola-pola kompleks dari data.
 
 Konsep dasar dari Neural Network adalah bahwa setiap neuron menerima sinyal masukan, memproses sinyal tersebut, dan menghasilkan keluaran (output) yang kemudian dapat digunakan oleh neuron lain dalam jaringan. Jaringan Neural terdiri dari beberapa lapisan atau layer, dimana setiap layer terdiri dari sejumlah neuron. Setiap layer menerima input dari layer sebelumnya, dan menghasilkan output yang kemudian digunakan sebagai input untuk layer berikutnya.
@@ -27,6 +29,8 @@ Konsep dasar dari Neural Network adalah bahwa setiap neuron menerima sinyal masu
 Ada beberapa jenis neural network, salah satunya adalah convolutional neural network yang akan saya bahas di slide selanjutnya
 
 # Convolutional Neural Network
+![[Pasted image 20230315170344.png]]
+
 Convolutional Neural Network (CNN) adalah salah satu jenis neural network yang digunakan khususnya untuk memproses data spasial seperti gambar atau video. CNN memanfaatkan operasi konvolusi atau filter untuk mengidentifikasi fitur-fitur pada gambar. Operasi konvolusi pada CNN melibatkan filter atau kernel yang digeser (sliding) ke seluruh area gambar untuk menghasilkan sebuah feature map atau peta fitur.
 
 Konsep dasar dari CNN adalah bahwa setiap layer pada CNN terdiri dari beberapa filter atau kernel yang dapat mempelajari fitur-fitur yang berbeda pada gambar. Setiap filter pada layer tersebut akan mencari pola-pola tertentu pada gambar dan menghasilkan feature map yang akan digunakan sebagai input untuk layer berikutnya.
@@ -47,6 +51,8 @@ Namun, penggunaan CNN juga memiliki beberapa tantangan dan kelemahan, diantarany
 
 
 # Augmentasi Data
+![[Pasted image 20230315170355.png]]
+
 Teknik augmentasi data adalah teknik yang digunakan untuk menghasilkan data baru dari data yang ada dengan melakukan manipulasi atau modifikasi pada data tersebut. Beberapa contoh teknik augmentasi data pada gambar antara lain flipping, cropping, scaling, rotation. Dengan teknik augmentasi data, jumlah data yang tersedia untuk pelatihan model dapat ditingkatkan sehingga diharapkan model menjadi lebih akurat dan generalisasi dengan baik pada data yang belum pernah dilihat sebelumnya.
 # Desain Aplikasi
 ![[Pasted image 20230315161816.png]]
