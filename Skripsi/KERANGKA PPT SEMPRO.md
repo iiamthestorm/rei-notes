@@ -77,4 +77,5 @@ Alur Desain aplikasi adalah :
 6. Kemudian, kita akan membuat source code untuk menampung model tf.lite yang telah kita download dengan bahasa pemrograman kotlin di Android Studio. Disini kita mulai membuat Komponen View untuk menampilkan halaman yang nantinya kita bisa gunakan untuk menginputkan/menggambarkan digit melalui jari kita.
 
 
-# B
+# Penutup
+Baik itu adalah presentasi singkat dari saya, lgsg demo buizinkan saya untuk
