@@ -49,5 +49,5 @@ Teknik augmentasi data adalah teknik yang digunakan untuk menghasilkan data baru
 # Desain Aplikasi
 ![[Pasted image 20230315161816.png]]
 Alur Desain aplikasi adalah :
-1. Pertama, Dataset dimasukkan dari _library TensorFlow_ dengan menggunakan fungsi **`mnist.load_data()`** pada _sub-library_ **`keras.datasets`**
-
+1. Pertama, dataset dimuat dari _library TensorFlow_ dengan menggunakan fungsi **`mnist.load_data()`** pada _sub-library_ **`keras.datasets`**
+2. 
