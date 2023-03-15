@@ -53,4 +53,4 @@ Alur Desain aplikasi adalah :
 2. kemudian, kita panggil semua library yang diperlukan seperti TensorFlow, Numpy, Pandas, atau matplotlib.
 3. Kemudian, dataset dimuat dari _library TensorFlow_ dengan menggunakan fungsi **`mnist.load_data()`** pada _sub-library_ **`keras.datasets`**.
 4. Kemudian, kita akan membuat dua model menggunakan bahasa pemrograman Python, yaitu model pre-augmentasi dan model post-augmentasi.
-5. Setelah model di training dan divalidasi, kita akan mulai mengkonversi model yang didapatkan dengan TensorFlow Lite. Hal ini dilakukan karena model yang biasanya dihasilkan setelah training tidak bisa dimuat ke dalam android, karena android memiliki keterbatasan dalam hal pen
+5. Setelah model di training dan divalidasi, kita akan mulai mengkonversi model yang didapatkan dengan TensorFlow Lite. Hal ini dilakukan karena model yang biasanya dihasilkan setelah training tidak bisa dimuat ke dalam android, karena android memiliki keterbatasan dalam hal penyimpanan. 
