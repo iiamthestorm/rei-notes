@@ -27,11 +27,7 @@ Neural Network adalah sebuah model matematika yang terinspirasi dari cara kerja 
 
 Konsep dasar dari Neural Network adalah bahwa setiap neuron menerima sinyal masukan, memproses sinyal tersebut, dan menghasilkan keluaran (output) yang kemudian dapat digunakan oleh neuron lain dalam jaringan. Jaringan Neural terdiri dari beberapa lapisan atau layer, dimana setiap layer terdiri dari sejumlah neuron. Setiap layer menerima input dari layer sebelumnya, dan menghasilkan output yang kemudian digunakan sebagai input untuk layer berikutnya.
 
-Ada beberapa jenis Neural Network, diantaranya:
-
-1.  Feedforward Neural Network
-2.  Recurrent Neural Network
-3.  Convolutional Neural Network
+Ada beberapa jenis neural network, salah satunya adalah convolutional neural network yang akan saya bahas di slide selanjutnya
 
 # Convolutional Neural Network
 
