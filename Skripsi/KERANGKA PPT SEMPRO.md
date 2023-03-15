@@ -23,7 +23,7 @@ Itulah ulasan singkat tentang Deep Learning. Semoga dapat memberikan gambaran te
 
 
 # Neural Network
-Neural Network adalah sebuah model matematika yang terinspirasi dari cara kerja otak manusia. Model ini terdiri dari sejumlah besar neuron atau sel saraf buatan (artificial neurons) yang dihubungkan satu sama lain dalam sebuah jaringan. Neural Network adalah salah satu algoritma Machine Learning yang dapat digunakan untuk mempelajari pola-pola kompleks dari data.
+Neural Network adalah sebuah model matematika yang terinspirasi dari cara kerja otak manusia. Model ini terdiri dari sejumlah besar neuron atau sel saraf buatan (artificial neurons) yang dihubungkan satu sama lain dalam sebuah jaringan. Neural Network dapat digunakan untuk mempelajari pola-pola kompleks dari data.
 
 Konsep dasar dari Neural Network adalah bahwa setiap neuron menerima sinyal masukan, memproses sinyal tersebut, dan menghasilkan keluaran (output) yang kemudian dapat digunakan oleh neuron lain dalam jaringan. Jaringan Neural terdiri dari beberapa lapisan atau layer, dimana setiap layer terdiri dari sejumlah neuron. Setiap layer menerima input dari layer sebelumnya, dan menghasilkan output yang kemudian digunakan sebagai input untuk layer berikutnya.
 
