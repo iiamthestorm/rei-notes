@@ -20,3 +20,5 @@ Namun, penggunaan Deep Learning juga memiliki tantangan yang signifikan, seperti
 2.  Kompleksitas arsitektur jaringan neuron
 
 Itulah ulasan singkat tentang Deep Learning. Semoga dapat memberikan gambaran tentang apa itu Deep Learning dan bagaimana penggunaannya. Terima kasih.
+
+
