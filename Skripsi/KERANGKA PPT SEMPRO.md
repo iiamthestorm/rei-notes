@@ -1,7 +1,7 @@
 # Deep Learning
 Deep Learning adalah salah satu cabang ilmu Pembelajaran Mesin (Machine Learning) yang memiliki kemampuan untuk mempelajari representasi data yang semakin kompleks dan abstrak melalui suatu jaringan neuron tiruan yang sangat besar dan dalam (deep neural network).
 
-_Deep learning_ merupakan subbidang _machine learning_ yang algoritmanya terinspirasi dari struktur otak manusia. 
+_Deep learning_ merupakan subbidang _machine learning_ yang algoritmanya terinspirasi dari struktur otak manusia. Deep Learning memiliki kemampuan untuk mempelajari representasi data yang semakin kompleks dan abstrak melalui suatu jaringan neuron tiruan. Deep learning ini sendiri dapat menyelesaikan berbagai permasalahan yang sulit diselesaikan dengan algoritma ah
 
 Struktur tersebut dinamakan _Artificial Neural Networks_ atau disingkat ANN. Pada dasarnya, ia merupakan jaringan saraf yang memiliki tiga atau lebih lapisan ANN. Ia mampu belajar dan beradaptasi terhadap sejumlah besar data serta menyelesaikan berbagai permasalahan yang sulit diselesaikan dengan algoritma _machine learning_ lainnya.
 
