@@ -47,5 +47,7 @@ Namun, penggunaan CNN juga memiliki beberapa tantangan dan kelemahan, diantarany
 # Augmentasi Data
 Teknik augmentasi data adalah teknik yang digunakan untuk menghasilkan data baru dari data yang ada dengan melakukan manipulasi atau modifikasi pada data tersebut. Beberapa contoh teknik augmentasi data pada gambar antara lain flipping, cropping, scaling, rotation. Dengan teknik augmentasi data, jumlah data yang tersedia untuk pelatihan model dapat ditingkatkan sehingga diharapkan model menjadi lebih akurat dan generalisasi dengan baik pada data yang belum pernah dilihat sebelumnya.
 # Desain Aplikasi
+![[Pasted image 20230315161816.png]]
+Alur Desain aplikasi adalah
 1. Dataset dimasukkan dari _library TensorFlow_ dengan menggunakan fungsi **`mnist.load_data()`** pada _sub-library_ **`keras.datasets`**
 
