@@ -29,7 +29,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 ## Wednesday, 13 March 2023
 - ~~beli kue dan minum untuk masing2 dosen pas sempro
 - ~~Buat ppt
-- Hafalkan ppt yg sedikit itu.
+- ~~Hafalkan ppt yg sedikit itu.
 
 ## Thursday, 14 March 2023
 - Kasi skripsi dan laporan penilaian yang udah diprint sama kakak ke masing2 dosen
