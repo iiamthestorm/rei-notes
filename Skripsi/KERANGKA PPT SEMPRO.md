@@ -27,6 +27,8 @@ Ada beberapa jenis neural network, salah satunya adalah convolutional neural net
 # Convolutional Neural Network
 Convolutional Neural Network (CNN) adalah salah satu jenis neural network yang digunakan khususnya untuk memproses data spasial seperti gambar atau video. CNN memanfaatkan operasi konvolusi atau filter untuk mengidentifikasi fitur-fitur pada gambar. Operasi konvolusi pada CNN melibatkan filter atau kernel yang digeser (sliding) ke seluruh area gambar untuk menghasilkan sebuah feature map atau peta fitur.
 
+Konsep dasar dari CNN adalah bahwa setiap layer pada CNN terdiri dari beberapa filter atau kernel yang dapat mempelajari fitur-fitur yang berbeda pada gambar. Setiap filter pada layer tersebut akan mencari pola-pola tertentu pada gambar dan menghasilkan feature map yang akan digunakan sebagai input untuk layer berikutnya.
+
 
 
 
