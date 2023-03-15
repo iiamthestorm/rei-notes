@@ -50,6 +50,7 @@ Teknik augmentasi data adalah teknik yang digunakan untuk menghasilkan data baru
 ![[Pasted image 20230315161816.png]]
 Alur Desain aplikasi adalah :
 1. Pertama, kita membuka Google Colab, kemudian menggantinya menjadi runtime dengan akselerator GPU. Dengan menggunakan akselerator GPU, proses training data dapat dilakukan dengan lebih cepat.
-1. kemudian, kita panggil semua library yang diperlukan seperti TensorFlow, Numpy, Pandas, atau matplotlib.
-2. Kemudian, dataset dimuat dari _library TensorFlow_ dengan menggunakan fungsi **`mnist.load_data()`** pada _sub-library_ **`keras.datasets`**.
-3. Kemudian, kita akan mulai membuat model pre-augmented dan post-augmented dengan menggunakan bahasa pemrograman Python.
+2. kemudian, kita panggil semua library yang diperlukan seperti TensorFlow, Numpy, Pandas, atau matplotlib.
+3. Kemudian, dataset dimuat dari _library TensorFlow_ dengan menggunakan fungsi **`mnist.load_data()`** pada _sub-library_ **`keras.datasets`**.
+4. Kemudian, kita akan membuat dua model menggunakan bahasa pemrograman Python, yaitu model pre-augmentasi dan model post-augmentasi.
+5. Setelah model di training dan divalidasi, kita akan mulai mengkonversi model yang didapatkan dengan 
