@@ -1,10 +1,11 @@
 # Pembukaan
-Bismillahirrohmanirrohim...
-Assalamu'alaikum wr wb......
-Yang terhormat ibu Ause Labellapanasa, S.T., M.Kom., M.Cs sebagai dosen penguji,
+- Bismillahirrohmanirrohim...
+- Assalamu'alaikum wr wb......
+- Yang terhormat ibu Ause Labellapansa, S.T., M.Kom., M.Cs sebagai dosen penguji,
 Yang terhormat ibu Ana Yulianti, S.Kom., M.Kom sebagai dosen penguji,
 dan Yang terhormat Ibu Nesi Syafitri N, S.Kom., M.Cs sebagai dosen pembimbing saya.
-Perkenalkan nama saya Reihan Maulana, disini izinkan saya untuk mempresentasikan proposal yang saya buat 
+
+Perkenalkan nama saya Reihan Maulana, disini izinkan saya untuk mempresentasikan proposal yang saya buat yang berjudul "Pemanfaatan Augmentasi Data Dalam Klasifikasi Handwritten Digit Images Menggunakan Algoritma CNNs Berbasis Android"
 
 # Deep Learning
 ![[Pasted image 20230315170219.png]]
