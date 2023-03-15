@@ -1,8 +1,6 @@
 # Deep Learning
 _Deep learning_ merupakan subbidang _machine learning_ yang algoritmanya terinspirasi dari struktur otak manusia. Deep Learning memiliki kemampuan untuk mempelajari representasi data yang semakin kompleks dan abstrak melalui suatu jaringan neuron tiruan. Deep learning ini sendiri dapat menyelesaikan berbagai permasalahan yang sulit diselesaikan dengan algoritma machine learning lainnya.
 
-Pada awalnya, konsep Deep Learning berasal dari bagaimana manusia belajar. Manusia dapat belajar dari informasi yang diberikan pada berbagai tingkat atau layer informasi. Contohnya, ketika manusia melihat sebuah objek seperti mobil, informasi pertama yang diterima adalah tentang bentuk dan warna mobil, kemudian dilanjutkan dengan informasi tentang detail mobil seperti roda dan kemudian informasi lain seperti jenis mobil, ukuran mesin, dan lainnya.
-
 Dalam penggunaannya, Deep Learning banyak digunakan pada aplikasi yang membutuhkan analisis data yang kompleks dan memerlukan pemahaman data yang lebih dalam, seperti:
 
 1.  Pengenalan wajah dan pengenalan suara
