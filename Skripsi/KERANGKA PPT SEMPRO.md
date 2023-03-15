@@ -1,4 +1,6 @@
 # Deep Learning
+![[Pasted image 20230315170219.png]]
+
 _Deep learning_ merupakan subbidang _machine learning_ yang algoritmanya terinspirasi dari struktur otak manusia. Deep Learning memiliki kemampuan untuk mempelajari representasi data yang semakin kompleks dan abstrak melalui suatu jaringan neuron tiruan. Deep learning ini sendiri dapat menyelesaikan berbagai permasalahan yang sulit diselesaikan dengan algoritma machine learning lainnya.
 
 Dalam penggunaannya, Deep Learning banyak digunakan pada aplikasi yang membutuhkan analisis data yang kompleks dan memerlukan pemahaman data yang lebih dalam, seperti:
