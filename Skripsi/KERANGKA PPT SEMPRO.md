@@ -19,7 +19,6 @@ Namun, penggunaan Deep Learning juga memiliki tantangan yang signifikan, seperti
 
 Itulah ulasan singkat tentang Deep Learning. Selanjutnya kita akan membahasa apa itu neural network, 
 
-
 # Neural Network
 Neural Network adalah sebuah model matematika yang terinspirasi dari cara kerja otak manusia. Model ini terdiri dari sejumlah besar neuron atau sel saraf buatan (artificial neurons) yang dihubungkan satu sama lain dalam sebuah jaringan. Neural Network dapat digunakan untuk mempelajari pola-pola kompleks dari data.
 
