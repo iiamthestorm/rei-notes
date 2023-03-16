@@ -1,0 +1,3 @@
+- liat berapa banyak data tiap digit
+- siapa yang saya wawancarai
+- 

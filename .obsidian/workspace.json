@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b796ed2d18fc8a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skripsi/Revisi 4 Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/KERANGKA PPT SEMPRO.md",
+                "file": "Skripsi/Revisi 4 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/KERANGKA PPT SEMPRO.md",
+                "file": "Skripsi/Revisi 4 Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/KERANGKA PPT SEMPRO.md"
+                "file": "Skripsi/Revisi 4 Note.md"
               }
             }
           },
@@ -181,10 +194,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00af9a27eab875ce",
+  "active": "7b796ed2d18fc8a4",
   "lastOpenFiles": [
-    "Skripsi/SEMPRO 行くよ！.md",
     "Skripsi/KERANGKA PPT SEMPRO.md",
+    "Skripsi/Revisi 4 Note.md",
+    "Skripsi/SEMPRO 行くよ！.md",
     "Skripsi/Referensi.md",
     "Skripsi/Judul Skripsi.md",
     "attachment/Pasted image 20230315170355.png",
