@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "464d556f3eae34e6",
+        "id": "34f19502c019362f",
         "type": "tabs",
         "children": [
           {
-            "id": "f93a8f312d2e4afc",
+            "id": "ce0eb3e97312a27e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Revisi 4 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Revisi 4 Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Skripsi/Revisi 4 Note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,8 +173,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9dcf3e208f434302",
+  "active": "ce0eb3e97312a27e",
   "lastOpenFiles": [
+    "2023-03-21.md",
+    "人生、夢、日本/ヨルシカ/ヨルシカの広告.md",
+    "人生、夢、日本/ヨルシカ/(COVER) Itte by Yorushika Summer Version by Kaneko Lumi.md",
     "Skripsi/KERANGKA PPT SEMPRO.md",
     "Skripsi/Revisi 4 Note.md",
     "Skripsi/SEMPRO 行くよ！.md",
@@ -205,8 +204,6 @@
     "attachment/Fully Connected Layer flow.png",
     "attachment/AveragePooling Flow.png",
     "attachment/MaxPooling flow.png",
-    "人生、夢、日本/ヨルシカ/ヨルシカの広告.md",
-    "人生、夢、日本/ヨルシカ/(COVER) Itte by Yorushika Summer Version by Kaneko Lumi.md",
     "Web Development/JavaScript Fundamentals Part 4.md",
     "人生、夢、日本/本を読んでいる/Kafka On The Shore.md",
     "人生、夢、日本/Untitled.md"
