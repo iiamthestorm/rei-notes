@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "270891adb97975f2",
+        "id": "9ea7771ba27cecc2",
         "type": "tabs",
         "children": [
           {
-            "id": "4c070e30a4ebfd3d",
+            "id": "c6fdccabced4ce75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "人生、夢、日本/日記/2023-03-22.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -110,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -126,14 +131,15 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "6ad0a538a9e6ae48",
+  "active": "c6fdccabced4ce75",
   "lastOpenFiles": [
+    "人生、夢、日本/日記/2023-03-23.md",
     "2023-03-23.md",
     "人生、夢、日本/日記/2023-03-22.md",
-    "人生、夢、日本/日記/2023-03-23.md",
     "人生、夢、日本/日記/Untitled.md",
     "人生、夢、日本/何で日本に来たの.md",
     "人生、夢、日本/日記",
