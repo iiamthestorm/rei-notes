@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c7698ef0fc3d0fbc",
+        "id": "270891adb97975f2",
         "type": "tabs",
         "children": [
           {
-            "id": "39254d2a57d2e335",
+            "id": "4c070e30a4ebfd3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人生、夢、日本/日記/2023-03-22.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,23 +84,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c01b813dbe2ff747",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "人生、夢、日本/日記/2023-03-22.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "6ad0a538a9e6ae48",
             "type": "leaf",
             "state": {
@@ -130,43 +109,12 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "a5e9669f33b41f80",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "人生、夢、日本/日記/2023-03-22.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f86ab5a7b983c328",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "人生、夢、日本/日記/2023-03-22.md"
-              }
-            }
-          },
-          {
-            "id": "2835b1678a9f4723",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +129,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39254d2a57d2e335",
+  "active": "6ad0a538a9e6ae48",
   "lastOpenFiles": [
-    "人生、夢、日本/日記/2023-03-23.md",
+    "2023-03-23.md",
     "人生、夢、日本/日記/2023-03-22.md",
+    "人生、夢、日本/日記/2023-03-23.md",
     "人生、夢、日本/日記/Untitled.md",
     "人生、夢、日本/何で日本に来たの.md",
     "人生、夢、日本/日記",
@@ -220,7 +169,6 @@
     "attachment/Fully Connected Layer flow.png",
     "attachment/AveragePooling Flow.png",
     "attachment/MaxPooling flow.png",
-    "Web Development/JavaScript Fundamentals Part 4.md",
-    "人生、夢、日本/本を読んでいる/Kafka On The Shore.md"
+    "Web Development/JavaScript Fundamentals Part 4.md"
   ]
 }
