@@ -14,5 +14,13 @@
       ],
       "key": "\\"
     }
+  ],
+  "nldates-obsidian:nlp-time": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Y"
+    }
   ]
 }
