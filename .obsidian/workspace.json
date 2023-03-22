@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4638063326ebe7d5",
+        "id": "c7698ef0fc3d0fbc",
         "type": "tabs",
         "children": [
           {
-            "id": "213c7a5a03a250fd",
+            "id": "50f39af924fb6068",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
+                "file": "人生、夢、日本/日記/2023-03-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
+                "file": "人生、夢、日本/日記/2023-03-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
+                "file": "人生、夢、日本/日記/2023-03-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md"
+                "file": "人生、夢、日本/日記/2023-03-23.md"
               }
             }
           },
@@ -181,8 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "213c7a5a03a250fd",
+  "active": "9dcf3e208f434302",
   "lastOpenFiles": [
+    "人生、夢、日本/日記/Untitled.md",
+    "人生、夢、日本/日記/2023-03-23.md",
+    "人生、夢、日本/何で日本に来たの.md",
+    "人生、夢、日本/日記",
     "人生、夢、日本/日本語勉強中/出所.md",
     "2023-03-21.md",
     "人生、夢、日本/日本語勉強中/Redditからの出所.md",
@@ -201,7 +205,6 @@
     "attachment/Pasted image 20230315170219.png",
     "attachment/Pasted image 20230315161816.png",
     "Skripsi/Done/Revisi 3 Note.md",
-    "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
     "Skripsi/Done/Revisi 2 Note.md",
     "Skripsi/Done/Revisi 1 Note.md",
     "Skripsi/Done/Kerangka Bab 2 (Minor Update).md",
