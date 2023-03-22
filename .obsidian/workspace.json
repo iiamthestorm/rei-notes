@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "34f19502c019362f",
+        "id": "4638063326ebe7d5",
         "type": "tabs",
         "children": [
           {
-            "id": "ce0eb3e97312a27e",
+            "id": "213c7a5a03a250fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/出所.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa60ebbce61bb15a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人生、夢、日本/日本語勉強中/Redditからの出所.md",
+                "file": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/Redditからの出所.md",
+                "file": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/Redditからの出所.md",
+                "file": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/Redditからの出所.md"
+                "file": "人生、夢、日本/Why did you come to Japan (何で日本に来たの).md"
               }
             }
           },
@@ -194,13 +181,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa60ebbce61bb15a",
+  "active": "213c7a5a03a250fd",
   "lastOpenFiles": [
     "人生、夢、日本/日本語勉強中/出所.md",
+    "2023-03-21.md",
     "人生、夢、日本/日本語勉強中/Redditからの出所.md",
     "人生、夢、日本/日本語勉強中/文法.md",
     "人生、夢、日本/日本語勉強中/output.md.crdownload",
-    "2023-03-21.md",
     "人生、夢、日本/ヨルシカ/ヨルシカの広告.md",
     "人生、夢、日本/ヨルシカ/(COVER) Itte by Yorushika Summer Version by Kaneko Lumi.md",
     "Skripsi/KERANGKA PPT SEMPRO.md",
