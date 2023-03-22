@@ -11,8 +11,12 @@
             "id": "ce0eb3e97312a27e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "人生、夢、日本/日本語勉強中/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人生、夢、日本/日本語勉強中/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "人生、夢、日本/日本語勉強中/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "人生、夢、日本/日本語勉強中/Untitled.md"
+              }
             }
           },
           {
@@ -175,6 +183,7 @@
   },
   "active": "ce0eb3e97312a27e",
   "lastOpenFiles": [
+    "人生、夢、日本/日本語勉強中/Untitled.md",
     "2023-03-21.md",
     "人生、夢、日本/ヨルシカ/ヨルシカの広告.md",
     "人生、夢、日本/ヨルシカ/(COVER) Itte by Yorushika Summer Version by Kaneko Lumi.md",
