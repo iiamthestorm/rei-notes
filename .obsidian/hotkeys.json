@@ -18,9 +18,10 @@
   "nldates-obsidian:nlp-time": [
     {
       "modifiers": [
+        "Alt",
         "Mod"
       ],
-      "key": "Y"
+      "key": "T"
     }
   ]
 }
