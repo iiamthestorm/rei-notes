@@ -113,6 +113,45 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "f50da3943edb2131",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "人生、夢、日本/日本語勉強中/Redditからの出所.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a66844ec7620315b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "人生、夢、日本/日本語勉強中/Redditからの出所.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dab6dc5a675dbc47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "人生、夢、日本/日本語勉強中/Redditからの出所.md"
+              }
+            }
           }
         ],
         "currentTab": 2
