@@ -1,0 +1,1 @@
+I wake up at 11 am and i felt like shit as usual, i wanking at 1.30 pm and i regret it. And the rest is as usual as shit... until 1 am [[2023-03-23, Thursday]]. I hope Ramadhan i can eliminate this urge to wank.
