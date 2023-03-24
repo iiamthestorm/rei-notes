@@ -1,4 +1,4 @@
-出所雨https://ja.hinative.com/questions/14821522
+出所 : https://ja.hinative.com/questions/14821522
 他の人：いつまでも と いつまででも はどう違いますか？
 答え：
 
