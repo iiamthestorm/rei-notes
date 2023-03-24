@@ -6,6 +6,7 @@
       {
         "id": "b9bc9b3acd2cad16",
         "type": "tabs",
+        "dimension": 63.015184381778745,
         "children": [
           {
             "id": "aa06d4090827d301",
@@ -35,18 +36,19 @@
         "currentTab": 1
       },
       {
-        "id": "374d04411c50e1a1",
+        "id": "0c368e8fc7b9ff46",
         "type": "tabs",
+        "dimension": 36.984815618221255,
         "children": [
           {
-            "id": "244ced6aaa79553e",
+            "id": "153e5f1d6b5c04f6",
             "type": "leaf",
             "state": {
               "type": "translator-view",
               "state": {
                 "language_from": "auto",
                 "language_to": "en",
-                "translation_service": "google_translate",
+                "translation_service": "lingva_translate",
                 "auto_translate": false,
                 "apply_glossary": false,
                 "view_mode": 0,
@@ -208,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,7 +227,7 @@
       "translate:Open translation view": false
     }
   },
-  "active": "244ced6aaa79553e",
+  "active": "abfbca755c7de4f1",
   "lastOpenFiles": [
     "人生、夢、日本/日本語勉強中/文法.md",
     "人生、夢、日本/日本語勉強中/いつまでも VS いつまででも.md",
