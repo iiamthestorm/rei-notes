@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/文法.md",
+                "file": "人生、夢、日本/日本語勉強中/いまび.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/文法.md",
+                "file": "人生、夢、日本/日本語勉強中/いまび.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/文法.md"
+                "file": "人生、夢、日本/日本語勉強中/いまび.md"
               }
             }
           }
@@ -186,10 +187,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aa06d4090827d301",
+  "active": "5aeb8283bb0cef22",
   "lastOpenFiles": [
-    "人生、夢、日本/日本語勉強中/いまび.md",
     "人生、夢、日本/日本語勉強中/文法.md",
+    "人生、夢、日本/日本語勉強中/いまび.md",
     "人生、夢、日本/日記/2023-03-24, Friday.md",
     "人生、夢、日本/日記/2023-03-23, Thursday.md",
     "人生、夢、日本/日記/2023-03-22, Wednesday.md",
