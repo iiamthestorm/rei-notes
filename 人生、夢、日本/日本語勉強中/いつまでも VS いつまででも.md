@@ -6,7 +6,8 @@
 いつまででも is an image of "holding" that the moment that something will happen is predicted and that can be extended at the will of the person. So the current state and the state after the event will change. Expired.
 
 例文：
-
+- いつまでも寝ている : image that never wakes up.
+- いつまででも寝ている : I will wake up if something happens, but until then I sleep all the time with my own will.
 
 
 
