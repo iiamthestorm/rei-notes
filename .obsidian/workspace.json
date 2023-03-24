@@ -6,7 +6,6 @@
       {
         "id": "b9bc9b3acd2cad16",
         "type": "tabs",
-        "dimension": 63.015184381778745,
         "children": [
           {
             "id": "aa06d4090827d301",
@@ -34,44 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "0c368e8fc7b9ff46",
-        "type": "tabs",
-        "dimension": 36.984815618221255,
-        "children": [
-          {
-            "id": "153e5f1d6b5c04f6",
-            "type": "leaf",
-            "state": {
-              "type": "translator-view",
-              "state": {
-                "language_from": "auto",
-                "language_to": "en",
-                "translation_service": "lingva_translate",
-                "auto_translate": false,
-                "apply_glossary": false,
-                "view_mode": 0,
-                "filter_mode": 0,
-                "show_attribution": false,
-                "top_buttons": [
-                  "change-service",
-                  "automatic-translation",
-                  "change-layout",
-                  "apply-filter",
-                  "open-settings"
-                ],
-                "left_buttons": [
-                  "paste",
-                  "clear"
-                ],
-                "right_buttons": [
-                  "copy"
-                ]
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
