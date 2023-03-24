@@ -33,6 +33,43 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "ceffa5b271d45f05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "596b55619a27f704",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {
+                "language_from": "auto",
+                "language_to": "en",
+                "translation_service": "google_translate",
+                "auto_translate": false,
+                "apply_glossary": false,
+                "view_mode": 0,
+                "filter_mode": 0,
+                "show_attribution": false,
+                "top_buttons": [
+                  "change-service",
+                  "automatic-translation",
+                  "change-layout",
+                  "apply-filter",
+                  "open-settings"
+                ],
+                "left_buttons": [
+                  "paste",
+                  "clear"
+                ],
+                "right_buttons": [
+                  "copy"
+                ]
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +221,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "translate:Open translation view": false
     }
   },
-  "active": "abfbca755c7de4f1",
+  "active": "596b55619a27f704",
   "lastOpenFiles": [
     "人生、夢、日本/日本語勉強中/文法.md",
     "人生、夢、日本/日本語勉強中/いつまでも VS いつまででも.md",
