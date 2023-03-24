@@ -700,11 +700,14 @@
       "version": "1.0.0"
     },
     "lingva_translate": {
-      "selected_languages": [],
+      "selected_languages": [
+        "ja",
+        "en"
+      ],
       "host": "lingva.ml",
       "auto_translate": false,
       "auto_translate_interval": 500,
-      "validated": null,
+      "validated": true,
       "available_languages": [
         "af",
         "ak",
