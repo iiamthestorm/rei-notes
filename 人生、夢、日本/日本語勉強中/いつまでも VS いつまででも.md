@@ -1,8 +1,11 @@
 他の人：いつまでも と いつまででも はどう違いますか？
 答え：
 
-Forever is an image of a "straight line" that continues in the same state without a single time setting.
-The present state and the future state are always the same. No deadline.
+いつまでも is an image of a "straight line" that continues in the same state without a single time setting. The present state and the future state are always the same. No deadline.
+
+いつまででも is an image of "holding" that the moment that something will happen is predicted and that can be extended at the will of the person. So the current state and the state after the event will change. Expired.
+
+例文：
 
 
 
