@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/文法.md",
+                "file": "人生、夢、日本/日記/2023-03-24, Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/文法.md",
+                "file": "人生、夢、日本/日記/2023-03-24, Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/文法.md",
+                "file": "人生、夢、日本/日記/2023-03-24, Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/文法.md"
+                "file": "人生、夢、日本/日記/2023-03-24, Friday.md"
               }
             }
           }
@@ -176,6 +176,10 @@
   },
   "active": "aa06d4090827d301",
   "lastOpenFiles": [
+    "人生、夢、日本/日記/2023-03-23, Thursday.md",
+    "人生、夢、日本/日記/2023-03-24, Friday.md",
+    "人生、夢、日本/日記/2023-03-22, Wednesday.md",
+    "人生、夢、日本/日本語勉強中/文法.md",
     "attachment/Pasted image 20230324143256.png",
     "attachment/Pasted image 20230324143240.png",
     "attachment/Pasted image 20230324005412.png",
@@ -183,9 +187,6 @@
     "attachment/Pasted image 20230324004100.png",
     "人生、夢、日本/日本語勉強中/出所.md",
     "人生、夢、日本/日本語勉強中/Redditからの出所.md",
-    "人生、夢、日本/日本語勉強中/文法.md",
-    "人生、夢、日本/日記/2023-03-23, Thursday.md",
-    "人生、夢、日本/日記/2023-03-22, Wednesday.md",
     "insert tem.md",
     "2023-03-23.md",
     "2023-03.md",
@@ -213,7 +214,6 @@
     "Skripsi/Done",
     "Skripsi/Done/Kerangka Bab 3.md",
     "Web Development/DOM Manipulation And Events.md",
-    "Web Development/JavaScript.md",
-    "attachment/TFLite Architecture.png"
+    "Web Development/JavaScript.md"
   ]
 }
