@@ -210,7 +210,9 @@
       "version": "1.1.0"
     },
     "bergamot": {
-      "selected_languages": [],
+      "selected_languages": [
+        "en"
+      ],
       "validated": null,
       "auto_translate": false,
       "auto_translate_interval": 500,
@@ -846,7 +848,9 @@
       "version": "1.0.1"
     },
     "libre_translate": {
-      "selected_languages": [],
+      "selected_languages": [
+        "en"
+      ],
       "host": "",
       "auto_translate": false,
       "auto_translate_interval": 500,

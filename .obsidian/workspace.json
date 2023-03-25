@@ -184,8 +184,8 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "translate:Open translation view": false
+      "translate:Open translation view": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "abfbca755c7de4f1",
