@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b9bc9b3acd2cad16",
+        "id": "64bba17d08c23e21",
         "type": "tabs",
         "children": [
+          {
+            "id": "a14b160195836aed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人生、夢、日本/日本語勉強中/いまび.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "abfbca755c7de4f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/文法.md",
+                "file": "人生、夢、日本/日本語勉強中/ん５.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/文法.md",
+                "file": "人生、夢、日本/日本語勉強中/いまび.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/文法.md",
+                "file": "人生、夢、日本/日本語勉強中/いまび.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/文法.md"
+                "file": "人生、夢、日本/日本語勉強中/いまび.md"
               }
             }
           }
@@ -175,12 +187,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "abfbca755c7de4f1",
+  "active": "a14b160195836aed",
   "lastOpenFiles": [
-    "人生、夢、日本/日本語勉強中/出所.md",
     "人生、夢、日本/日本語勉強中/ん５.md",
-    "人生、夢、日本/日本語勉強中/ん５.md",
+    "人生、夢、日本/日本語勉強中/いまび.md",
     "人生、夢、日本/日本語勉強中/文法.md",
+    "人生、夢、日本/日本語勉強中/出所.md",
     "人生、夢、日本/日本語勉強中/Redditからの出所.md",
     "attachment/Pasted image 20230326084502.png",
     "attachment/Pasted image 20230326084409.png",
@@ -214,7 +226,6 @@
     "Skripsi/Done/Revisi 3 Note.md",
     "Skripsi/Done/Revisi 2 Note.md",
     "Skripsi/Done/Revisi 1 Note.md",
-    "Skripsi/Done/Kerangka Bab 2 (Minor Update).md",
     "Skripsi/Done"
   ]
 }
