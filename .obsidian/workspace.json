@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "64bba17d08c23e21",
+        "id": "44ba64cbe8b11bea",
         "type": "tabs",
         "children": [
           {
-            "id": "a14b160195836aed",
+            "id": "606c993ad3002ddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/いまび.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abfbca755c7de4f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人生、夢、日本/日本語勉強中/ん５.md",
+                "file": "人生、夢、日本/日本語勉強中/文法.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/いまび.md",
+                "file": "人生、夢、日本/日本語勉強中/文法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/いまび.md",
+                "file": "人生、夢、日本/日本語勉強中/文法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/いまび.md"
+                "file": "人生、夢、日本/日本語勉強中/文法.md"
               }
             }
           }
@@ -187,7 +175,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a14b160195836aed",
+  "active": "606c993ad3002ddf",
   "lastOpenFiles": [
     "人生、夢、日本/日本語勉強中/ん５.md",
     "人生、夢、日本/日本語勉強中/いまび.md",
