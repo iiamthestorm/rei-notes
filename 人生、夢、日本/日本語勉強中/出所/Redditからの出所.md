@@ -3,3 +3,5 @@
 - https://dokushoclub.com/
 - https://marshallyin.com/
 - https://steven-kraft.com/projects/japanese/
+- https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/
+- 
