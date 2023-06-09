@@ -32,6 +32,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSdB1lkoLP3m0iCkwmDAlD2_svyrT9DkrowaMnhb
 - ~~Hafalkan ppt yg sedikit itu.
 
 ## Thursday, 14 March 2023
-- Kasi skripsi dan laporan penilaian yang udah diprint sama kakak ke masing2 dosen
-- SEMPRO TIME (Jam 8)
-- Jangan lupa nanyak ke TU ttg yang 5 kali nengok sempro biar bisa kompre
+- ~~Kasi skripsi dan laporan penilaian yang udah diprint sama kakak ke masing2 dosen
+- ~~SEMPRO TIME (Jam 8)
+- ~~Jangan lupa nanyak ke TU ttg yang 5 kali nengok sempro biar bisa kompre
