@@ -7,4 +7,4 @@
 	- (tba)
 
 - Revisi Bu Ana
-	- 
+	- daftar pustaka minimal 20
