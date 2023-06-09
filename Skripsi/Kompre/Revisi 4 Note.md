@@ -1,3 +1,5 @@
+actual time limit
+![[Pasted image 20230610020240.png]]
 - Revisi Bu Ause
 	- liat berapa banyak data tiap digit
 	- siapa yang saya wawancarai
