@@ -8,7 +8,6 @@ Colab :
 https://drive.google.com/drive/u/0/folders/1RjgzszyW1fcFA6GnpgJEB4ldyJD37lZi
 https://colab.research.google.com/drive/11SC2-Yh6buMhV7nAMMavZoayY6vzTCdY#scrollTo=Hq8jQRblUGJb
 https://colab.research.google.com/github/tensorflow/examples/blob/master/lite/codelabs/digit_classifier/ml/step2_train_ml_model.ipynb
-https://colab.research.google.com/github/tensorflow/examples/blob/master/lite/codelabs/digit_classifier/ml/step2_train_ml_model.ipynb
 
 Journal :
 https://iopscience.iop.org/article/10.1088/1742-6596/1922/1/012007/pdf
