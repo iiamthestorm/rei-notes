@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5098225317044f61",
+        "id": "756173fa306313fb",
         "type": "tabs",
         "children": [
           {
-            "id": "bd5f0285cd06aa24",
+            "id": "03c579b2f191e5f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Kompre/Revisi 4 Note.md",
+                "file": "Skripsi/Done/Sempro/SEMPRO 行くよ！(DONE).md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "27e172e3da17b0cd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Kompre/Revisi 4 Note.md",
+                "file": "Skripsi/Done/Sempro/SEMPRO 行くよ！(DONE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Kompre/Revisi 4 Note.md",
+                "file": "Skripsi/Done/Sempro/SEMPRO 行くよ！(DONE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Kompre/Revisi 4 Note.md"
+                "file": "Skripsi/Done/Sempro/SEMPRO 行くよ！(DONE).md"
               }
             }
           }
@@ -194,12 +183,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "27e172e3da17b0cd",
+  "active": "03c579b2f191e5f1",
   "lastOpenFiles": [
+    "Skripsi/Done/Sempro/Revisi 3 Note.md",
+    "Skripsi/Kompre/Revisi 4 Note.md",
     "attachment/Pasted image 20230610020240.png",
     "attachment/Pasted image 20230610020218.png",
     "Skripsi/Judul Skripsi.md",
-    "Skripsi/Kompre/Revisi 4 Note.md",
     "Skripsi/Referensi.md",
     "Skripsi/Done/Sempro/KERANGKA PPT SEMPRO.md",
     "Skripsi/Done/Sempro/Kerangka Bab 3.md",
@@ -208,7 +198,6 @@
     "Skripsi/Done/Sempro/Kerangka Bab 2 (Minor Update).md",
     "Skripsi/Done/Sempro/SEMPRO 行くよ！(DONE).md",
     "Skripsi/Done/Sempro",
-    "Skripsi/Done/Sempro/Revisi 3 Note.md",
     "人生、夢、日本/日記帳/2023-03-24, Friday.md",
     "人生、夢、日本/日記帳/2023-05-28, 日曜日.md",
     "人生、夢、日本/日本語勉強中/文法/ぶんぷろう/文プロのん５.md",
@@ -220,7 +209,6 @@
     "attachment/Pasted image 20230401235844.png",
     "attachment/Pasted image 20230401235619.png",
     "attachment/Pasted image 20230401235603.png",
-    "attachment/Pasted image 20230401235543.png",
     "人生、夢、日本/日本語勉強中/文法/いまび/いまびのん５.md",
     "人生、夢、日本/日本語勉強中/文法/ぶんぷろう/ぶんぷろう.md",
     "人生、夢、日本/日本語勉強中/文法/文法.md",
