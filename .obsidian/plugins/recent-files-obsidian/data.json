@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Referensi",
+      "path": "Skripsi/Referensi.md"
+    },
+    {
+      "basename": "何で日本に来たの",
+      "path": "人生、夢、日本/何で日本に来たの.md"
+    },
+    {
+      "basename": "Kafka On The Shore",
+      "path": "人生、夢、日本/本を読んでいる/Kafka On The Shore.md"
+    },
+    {
+      "basename": "Revisi 4 Note",
+      "path": "Skripsi/Kompre/Revisi 4 Note.md"
+    },
+    {
       "basename": "SEMPRO 行くよ！(DONE)",
       "path": "Skripsi/Done/Sempro/SEMPRO 行くよ！(DONE).md"
     },
@@ -9,16 +25,8 @@
       "path": "Skripsi/Done/Sempro/Revisi 3 Note.md"
     },
     {
-      "basename": "Revisi 4 Note",
-      "path": "Skripsi/Kompre/Revisi 4 Note.md"
-    },
-    {
       "basename": "Judul Skripsi",
       "path": "Skripsi/Judul Skripsi.md"
-    },
-    {
-      "basename": "Referensi",
-      "path": "Skripsi/Referensi.md"
     },
     {
       "basename": "KERANGKA PPT SEMPRO",
@@ -81,10 +89,6 @@
       "path": "人生、夢、日本/日記帳/2023-03-22, Wednesday.md"
     },
     {
-      "basename": "何で日本に来たの",
-      "path": "人生、夢、日本/何で日本に来たの.md"
-    },
-    {
       "basename": "ヨルシカの広告",
       "path": "人生、夢、日本/ヨルシカ/ヨルシカの広告.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "JavaScript Fundamentals Part 4",
       "path": "Web Development/JavaScript Fundamentals Part 4.md"
-    },
-    {
-      "basename": "Kafka On The Shore",
-      "path": "人生、夢、日本/本を読んでいる/Kafka On The Shore.md"
     },
     {
       "basename": "Machine Learning",
