@@ -16,5 +16,11 @@ Answer
 	- I can flexing my portofolio to others,
 	- i can impressed girl,
 	- i can working in 3D fields hell probably going into 3D low poly game.
-	- I also can make yorushika art.
-- I think if i can stop wanking and watching pornography, i think i can be more extrovert, my thoughts can be clear, i can be freed from guilty of consuming porn. I can
+	- I can make yorushika art.
+- I think if i can stop wanking and watching pornography, 
+	- i think i can be more extrovert, 
+	- my thoughts can be clear, 
+	- i can be freed from guilty of consuming porn.
+	- I can be more confident 
+	- I'm not depressed all day
+	- Increased my testosterone
