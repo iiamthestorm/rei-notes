@@ -25,4 +25,7 @@ Answer
 	- I'm not depressed all day
 	- Increased my testosterone
 - I think if i workout and make it a habit,
-	- MY BODY WILL BE GOOD AND 
+	- MY BODY WILL BE GOOD AND FEMALES WILL BOW TO ME HEHE
+	- I GET LAID FOR SURE
+	- I CAN BE MORE CONFIDENT
+	- HELL I CAN EVEN WEAR THE CLOTHES I WANT
