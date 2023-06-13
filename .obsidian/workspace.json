@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生、夢、日本/日記帳/2023-06-13、水曜日.md",
+                "file": "人生、夢、日本/ヨルシカ/ヨルシカの広告.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/日記帳/2023-06-13、水曜日.md",
+                "file": "人生、夢、日本/ヨルシカ/ヨルシカの広告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/日記帳/2023-06-13、水曜日.md",
+                "file": "人生、夢、日本/ヨルシカ/ヨルシカの広告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/日記帳/2023-06-13、水曜日.md"
+                "file": "人生、夢、日本/ヨルシカ/ヨルシカの広告.md"
               }
             }
           }
@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +198,8 @@
   },
   "active": "d0e52a9b5f01dd76",
   "lastOpenFiles": [
-    "人生、夢、日本/日記帳/2023-05-28, 日曜日.md",
     "人生、夢、日本/日記帳/2023-06-13、水曜日.md",
+    "人生、夢、日本/日記帳/2023-05-28, 日曜日.md",
     "Skripsi/Kompre/Revisi 4 Note.md",
     "Skripsi/Done/Sempro/SEMPRO 行くよ！(DONE).md",
     "Skripsi/Referensi.md",
