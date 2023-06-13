@@ -32,4 +32,5 @@ Answer
 - I think if i read book and make it a habit,
 	- man.. i will be smart af.. really.. i have all knowledge about philosphy n sort of stuff
 	- FOR SURE I WILL GET LAID because women interested in smart men.
-	- 
+	- i can developped writing skills or speaking skills.
+	- i can combat depressed thoughts and nihilistic thoughts
