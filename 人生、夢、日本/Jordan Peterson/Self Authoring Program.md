@@ -44,4 +44,8 @@ Answer
 	- my head will be dumb
 	- my dick will nut even tho im not horny
 	- i just cant thinking straight
-	- i just feeling depr
+	- i just feeling depressed
+- I think if i still tidur2an and not productive,
+	- My life in 5 years or 3 years will be invain
+	- "what the fuck am i doing with my life" moment
+	- envy of other people achievment
