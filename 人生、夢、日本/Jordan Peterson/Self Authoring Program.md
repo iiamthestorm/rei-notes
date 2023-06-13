@@ -30,4 +30,6 @@ Answer
 	- I CAN BE MORE CONFIDENT
 	- HELL I CAN EVEN WEAR THE CLOTHES I WANT
 - I think if i read book and make it a habit,
-	- man.. i will be smart af 
+	- man.. i will be smart af.. really.. i have all knowledge about philosphy n sort of stuff
+	- FOR SURE I WILL GET LAID because women interested in smart men.
+	- 
