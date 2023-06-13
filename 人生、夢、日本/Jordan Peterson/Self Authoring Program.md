@@ -40,4 +40,8 @@ Answer
 	- I WILL GET CANCER, PROSTATE CANCER AND I CAN'T USE MY DICK
 	- i will get erectal dysfunction which mean, i can't enjoy the pleasure of sex and intimacy anymore
 	- MY MARRIAGE IS COLLAPSED BECAUSE MY PARTNER NOT SATISFIED
-	- I will 
+	- I can't focus a thing
+	- my head will be dumb
+	- my dick will nut even tho im not horny
+	- i just cant thinking straight
+	- i just feeling depr
