@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生、夢、日本/日記帳/2023-06-13、水曜日.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e89f6e9f4757c661",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skripsi/Referensi.md",
+                "file": "人生、夢、日本/本を読んでいる/12 Rules of Life.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/日記帳/2023-06-13、水曜日.md",
+                "file": "人生、夢、日本/本を読んでいる/12 Rules of Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/日記帳/2023-06-13、水曜日.md",
+                "file": "人生、夢、日本/本を読んでいる/12 Rules of Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/日記帳/2023-06-13、水曜日.md"
+                "file": "人生、夢、日本/本を読んでいる/12 Rules of Life.md"
               }
             }
           }
@@ -197,17 +185,18 @@
   },
   "active": "d0e52a9b5f01dd76",
   "lastOpenFiles": [
+    "Skripsi/Referensi.md",
+    "人生、夢、日本/本を読んでいる/12 Rules of Life.md",
+    "人生、夢、日本/日記帳/2023-06-13、水曜日.md",
     "人生、夢、日本/日記帳/2023-03-23, Thursday.md",
     "人生、夢、日本/日記帳/2023-03-24, Friday.md",
     "人生、夢、日本/日記帳/2023-05-28, 日曜日.md",
-    "人生、夢、日本/日記帳/2023-06-13、水曜日.md",
     "人生、夢、日本/Jordan Peterson/Self Authoring Program.md",
     "人生、夢、日本/何で日本に来たの.md",
     "人生、夢、日本/Jordan Peterson",
     "人生、夢、日本/ヨルシカ/ヨルシカの広告.md",
     "Skripsi/Kompre/Revisi 4 Note.md",
     "Skripsi/Done/Sempro/SEMPRO 行くよ！(DONE).md",
-    "Skripsi/Referensi.md",
     "人生、夢、日本/本を読んでいる/Kafka On The Shore.md",
     "Skripsi/Done/Sempro/Revisi 3 Note.md",
     "attachment/Pasted image 20230610020240.png",
@@ -236,7 +225,6 @@
     "人生、夢、日本/日本語勉強中/文法/ぶんぷろう",
     "人生、夢、日本/日本語勉強中/文法/いつまでも VS いつまででも.md",
     "人生、夢、日本/日本語勉強中/出所/出所.md",
-    "人生、夢、日本/日本語勉強中/出所/Redditからの出所.md",
     "人生、夢、日本/日本語勉強中/出所",
     "人生、夢、日本/日本語勉強中/文法/いまび",
     "人生、夢、日本/日本語勉強中/文法",
