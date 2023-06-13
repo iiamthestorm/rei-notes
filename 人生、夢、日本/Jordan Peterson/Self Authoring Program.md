@@ -24,4 +24,5 @@ Answer
 	- I can be more confident 
 	- I'm not depressed all day
 	- Increased my testosterone
-- 
+- I think if i workout and make it a habit,
+	- MY BODY WILL BE GOOD AND 
