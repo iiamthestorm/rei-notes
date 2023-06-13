@@ -7,7 +7,7 @@ actual time limit
 	- ~~liat berapa pixel each digit (collab)
 		- liat 1 citra berapa shape nya/pixel nya
 	- ~~jelaskan step step each subbab di bab 3 (step input data etc)
-	- (tba)
+	- bandingkan dataset yg belum aug
 
 - Revisi Bu Ana
 	- daftar pustaka minimal 20
