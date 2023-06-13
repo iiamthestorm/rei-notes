@@ -9,9 +9,9 @@ actual time limit
 	- bandingkan dataset yg belum augmentasi dengan sudah augmentasi dengan data yg sama atau digit
 	- buat step2 atau list step dalam pembuatan arsitektur cnn
 	- buat step2 atau list step dalam menginput kan data/ data preparasi
-	- Testing tidak perlu dijelaskan di bab 3
+	- ~~definisi Testing tidak perlu dijelaskan di bab 3
 
 - Revisi Bu Ana
 	- daftar pustaka minimal 20
 	- explain desain sistem dari diagram kemudian baru text 
-	- dasar teori harusnya augmentasi dll/ kasus baru aspek ti nya.
+	- dasar teori harusnya augmentasi dll/kasus baru aspek ti nya.
