@@ -48,4 +48,7 @@ Answer
 - I think if i still tidur2an and not productive,
 	- My life in 5 years or 3 years will be invain
 	- "what the fuck am i doing with my life" moment
-	- envy of other people achievment
+	- envy of other people achievments
+	- can't eat what i want, because im not learning skills that necessary if i want to work
+	- can't get laid and feeling inferior to women
+	- can't rizz because ugly also not productive and 
