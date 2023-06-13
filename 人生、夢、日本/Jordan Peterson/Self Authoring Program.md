@@ -4,7 +4,7 @@
 
 Answer
 
-### Answer 1:
+### Answer 1 :
 - I think if i train enough japanese and put an effort to learn it, i would be great ;
 	- i can read books in japanese, 
 	- i can be translator, 
@@ -34,3 +34,6 @@ Answer
 	- FOR SURE I WILL GET LAID because women interested in smart men.
 	- i can developped writing skills or speaking skills.
 	- i can combat depressed thoughts and nihilistic thoughts
+
+### Answer 2 :
+- I think 
