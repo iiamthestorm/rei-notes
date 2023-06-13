@@ -4,4 +4,5 @@
 
 Answer
 
-1. 
+Answer 1:
+- I think if i train enough japanese and 
