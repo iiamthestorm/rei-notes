@@ -10,7 +10,7 @@ actual time limit
 	- bandingkan dataset yg belum augmentasi dengan sudah augmentasi dengan data yg sama atau digit
 	- buat step2 atau list step dalam pembuatan arsitektur cnn
 	- buat step2 atau list step dalam menginput kan data/ data preparasi
-	- 
+	- overfitting menurut ibu ause adalah dimana tidak bisa membedakan sama sekali 
 
 - Revisi Bu Ana
 	- daftar pustaka minimal 20
