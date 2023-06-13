@@ -9,7 +9,8 @@ actual time limit
 	- ~~jelaskan step step each subbab di bab 3 (step input data etc)
 	- bandingkan dataset yg belum augmentasi dengan sudah augmentasi dengan data yg sama atau digit
 	- buat step2 atau list step dalam pembuatan arsitektur cnn
-	- buat step2 atau list step dalam mengin
+	- buat step2 atau list step dalam menginput kan data/ data preparasi
+	- 
 
 - Revisi Bu Ana
 	- daftar pustaka minimal 20
