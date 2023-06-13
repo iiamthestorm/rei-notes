@@ -51,4 +51,5 @@ Answer
 	- envy of other people achievments
 	- can't eat what i want, because im not learning skills that necessary if i want to work
 	- can't get laid and feeling inferior to women
-	- can't rizz because ugly also not productive and 
+	- can't rizz because ugly also not productive and not competent
+	- FEELING SHIT FOR 5 YEARS WTF
