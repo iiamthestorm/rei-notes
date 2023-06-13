@@ -29,3 +29,5 @@ Answer
 	- I GET LAID FOR SURE
 	- I CAN BE MORE CONFIDENT
 	- HELL I CAN EVEN WEAR THE CLOTHES I WANT
+- I think if i read book and make it a habit,
+	- man.. i will be smart af 
