@@ -23,7 +23,7 @@ minor fix :
 4. dasar teori harusnya augmentasi dll/kasus baru aspek ti nya.
 
 major fix :
-1. bandingkan dataset yg belum augmentasi dengan sudah augmentasi dengan data yg sama atau digit yang sa
+1. bandingkan dataset yg belum augmentasi dengan sudah augmentasi dengan data yg sama atau digit yang sama
 2. buat step2 atau list step dalam pembuatan arsitektur cnn
 3. buat step2 atau list step dalam menginput kan data/ data preparasi
 4. explain desain sistem dari diagram kemudian baru text.
