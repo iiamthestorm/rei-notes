@@ -18,7 +18,7 @@ actual time limit
 
 minor fix :
 1. jelaskan berapa banyak data tiap digit 
-2. liat 1 citra berapa shape nya/pixel nya (collab)
+2. ~~liat 1 citra berapa shape nya/pixel nya (collab)
 3. daftar pustaka minimal 20
 4. dasar teori harusnya augmentasi dll/kasus baru aspek ti nya.
 
