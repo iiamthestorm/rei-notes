@@ -13,7 +13,7 @@ actual time limit
 
 - Revisi Bu Ana
 	- ~~daftar pustaka minimal 20
-	- explain desain sistem dari diagram kemudian baru text 
+	- ~~explain desain sistem dari diagram kemudian baru text 
 	- ~~dasar teori harusnya augmentasi dll/kasus baru aspek ti nya.
 
 minor fix :
