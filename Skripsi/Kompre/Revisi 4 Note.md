@@ -6,9 +6,9 @@ actual time limit
 	- ~~liat berapa pixel each digit (collab)
 		- ~~liat 1 citra berapa shape nya/pixel nya
 	- ~~jelaskan step step each subbab di bab 3 (step input data etc)
-	- bandingkan dataset yg belum augmentasi dengan sudah augmentasi dengan data yg sama atau digit yang sama
+	- ~~bandingkan dataset yg belum augmentasi dengan sudah augmentasi dengan data yg sama atau digit yang sama
 	- buat step2 atau list step dalam pembuatan arsitektur cnn
-	- buat step2 atau list step dalam menginput kan data/ data preparasi
+	- ~~buat step2 atau list step dalam menginput kan data/ data preparasi
 	- ~~definisi Testing tidak perlu dijelaskan di bab 3
 
 - Revisi Bu Ana
@@ -23,7 +23,7 @@ minor fix :
 4. ~~dasar teori harusnya augmentasi dll/kasus baru aspek ti nya.
 
 major fix :
-1. bandingkan dataset yg belum augmentasi dengan sudah augmentasi dengan data yg sama atau digit yang sama
+1. ~~bandingkan dataset yg belum augmentasi dengan sudah augmentasi dengan data yg sama atau digit yang sama
 2. buat step2 atau list step dalam pembuatan arsitektur cnn
 3. ~~buat step2 atau list step dalam menginput kan data/ data preparasi
 4. ~~explain desain sistem dari diagram kemudian baru text.
