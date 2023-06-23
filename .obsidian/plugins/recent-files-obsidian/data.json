@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Revisi 5 Note",
+      "path": "Skripsi/Kompre/Revisi 5 Note.md"
+    },
+    {
       "basename": "Revisi 4 Note",
       "path": "Skripsi/Kompre/Revisi 4 Note.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SQL Fundamentals Part 1",
       "path": "Web Development/SQL Fundamentals Part 1.md"
-    },
-    {
-      "basename": "Praktikum ADM 4",
-      "path": "Praktikum ADM/Praktikum ADM 4.md"
     }
   ],
   "omittedPaths": [],
