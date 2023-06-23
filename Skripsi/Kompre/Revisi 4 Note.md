@@ -25,7 +25,7 @@ minor fix :
 major fix :
 1. bandingkan dataset yg belum augmentasi dengan sudah augmentasi dengan data yg sama atau digit yang sama
 2. buat step2 atau list step dalam pembuatan arsitektur cnn
-3. buat step2 atau list step dalam menginput kan data/ data preparasi
+3. ~~buat step2 atau list step dalam menginput kan data/ data preparasi
 4. ~~explain desain sistem dari diagram kemudian baru text.
 
 Looks like imma remake bab 3.
