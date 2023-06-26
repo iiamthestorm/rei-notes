@@ -3,7 +3,7 @@
 3. bikin lampiran pengesahan revisi seminar
 4. baru bikin 4 dan bab 5 (sebenarnya bisa angsur juga si sekalian sama yg sebelumnya)
 5. TES TOELF
-6. AMBIL SERTIF NGAJI
+6. AMBIL SERTIF NGAJI (tinggal ambil di LDIK aja boy, rektorat, lantai 3)
 
 surat yg perlu diminta ttd
 1. ttd berita acara (udah diprint) (belum ttd)
