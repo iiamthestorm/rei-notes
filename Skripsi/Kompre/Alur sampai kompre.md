@@ -4,5 +4,5 @@
 4. baru bikin 4 dan bab 5 (sebenarnya bisa angsur juga si sekalian sama yg sebelumnya)
 
 surat yg perlu diminta ttd
-1. ttd berita acara
+1. ttd berita acara (udah di print)
 2. lampiran pengesahan revisi seminar
