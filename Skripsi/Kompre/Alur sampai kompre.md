@@ -5,4 +5,4 @@
 
 surat yg perlu diminta ttd
 1. ttd berita acara (udah diprint) (belum ttd)
-2. lampiran pengesahan revisi seminar (udah diprint) (belum ttd)
+2. lampiran pengesahan revisi seminar (belum diprint) (belum ttd)
