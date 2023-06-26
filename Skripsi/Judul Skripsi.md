@@ -8,3 +8,4 @@ Ause Labellapansa, S.T., M.Kom., M.Cs.
 NIDN. 1018088102
 # Dosen Penguji 2
 Ana Yulianti, S.Kom., M.Kom.
+NIDN. 1024077901
