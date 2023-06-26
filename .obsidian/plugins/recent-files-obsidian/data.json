@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Alur sampai kompre",
+      "path": "Skripsi/Kompre/Alur sampai kompre.md"
+    },
+    {
       "basename": "2023-06-26",
       "path": "人生、夢、日本/日記帳/2023-06-26.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "TensorFlow Fundamentals Part 1",
       "path": "Machine Learning/TensorFlow Fundamentals Part 1.md"
-    },
-    {
-      "basename": "Praktikum ADM",
-      "path": "Praktikum ADM/Praktikum ADM.md"
     }
   ],
   "omittedPaths": [],
