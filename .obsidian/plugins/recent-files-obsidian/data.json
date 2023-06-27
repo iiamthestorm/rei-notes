@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Minta maaf sama bu nesi atas keterlambatan skripsi",
+      "path": "Skripsi/Kompre/Minta maaf sama bu nesi atas keterlambatan skripsi.md"
+    },
+    {
       "basename": "Alur sampai kompre",
       "path": "Skripsi/Kompre/Alur sampai kompre.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "CSS Syntax & Selectors",
       "path": "Web Development/CSS Syntax & Selectors.md"
-    },
-    {
-      "basename": "TensorFlow Fundamentals Part 1",
-      "path": "Machine Learning/TensorFlow Fundamentals Part 1.md"
     }
   ],
   "omittedPaths": [],
