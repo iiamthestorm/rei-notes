@@ -1,10 +1,8 @@
   
-Kepada Bapak/Ibu Dosen Pembimbing,
-Maaf bu Nesi,
+Assalamu'alaikum Bu Nesi
 
-Reihan minta maaf sebesar-besarnya atas keterlambatan dalam menyelesaikan skripsi saya, Akhir mei kemarin sampai juni saya 
+Reihan minta maaf sebesar-besarnya atas keterlambatan dalam menyelesaikan skripsi Reihan, Akhir mei kemarin sampai juni saya kena penyakit tifus selama 2 minggu dan harus dirawat dirumah sakit, karena itu saya belum bisa menyelesaikan revisi yang diminta dosen penguji.
 
-Sebelumnya, saya telah menjalani seminar proposal skripsi pada bulan Maret dan sejak itu revisi skripsi saya belum selesai. Bulan April dan Mei merupakan bulan puasa dalam agama Islam, dan pada bulan Juni ini saya baru pulih dari penyakit tifus yang saya derita selama dua minggu di rumah sakit sejak akhir Mei. Karena kondisi kesehatan dan beberapa faktor lainnya, saya tidak dapat segera menyelesaikan revisi yang diminta oleh kedua dosen penguji saya.
 
 Saat ini, saya berkomitmen untuk segera menyelesaikan revisi proposal skripsi, serta melanjutkan pengerjaan bab 4 dan bab 5. Saya sangat menyadari pentingnya tanggung jawab saya dalam menyelesaikan skripsi ini dan akan memberikan yang terbaik untuk menyelesaikannya secepat mungkin.
 
