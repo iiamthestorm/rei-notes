@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Non Partner Criteria",
+      "path": "人生、夢、日本/Non Partner Criteria.md"
+    },
+    {
       "basename": "2023-06-26、月曜日",
       "path": "人生、夢、日本/日記帳/2023-06-26、月曜日.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "JavaScript Fundamentals Part 1",
       "path": "Web Development/JavaScript Fundamentals Part 1.md"
-    },
-    {
-      "basename": "CSS Syntax & Selectors",
-      "path": "Web Development/CSS Syntax & Selectors.md"
     }
   ],
   "omittedPaths": [],

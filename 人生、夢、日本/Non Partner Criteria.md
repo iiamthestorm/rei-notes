@@ -1,0 +1,1 @@
+1. Terima apa adanya termasuk kelur
