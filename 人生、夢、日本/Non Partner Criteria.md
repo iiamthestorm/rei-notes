@@ -9,4 +9,5 @@
 9. Suka Olahraga & Games
 10. Tidak ada acara/aturan adat dalam pesta
 11. Keeping heart, promise, time to family
-12. 
+12. Tidak ada Penyakit bahaya/turunan
+13. Multi lingual
