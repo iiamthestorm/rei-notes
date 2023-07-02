@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "人生、夢、日本/3D (Blender)/Progress/Untitled.md"
+    },
+    {
       "basename": "2023-07-01、土曜日",
       "path": "人生、夢、日本/3D (Blender)/Progress/2023-07-01、土曜日.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "JavaScript Fundamentals Part 3",
       "path": "Web Development/JavaScript Fundamentals Part 3.md"
-    },
-    {
-      "basename": "JavaScript Developer Tools",
-      "path": "Web Development/JavaScript Developer Tools.md"
     }
   ],
   "omittedPaths": [],
