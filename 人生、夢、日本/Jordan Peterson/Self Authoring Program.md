@@ -12,6 +12,7 @@ Answer
 	- i can probably get laid, 
 	- i can get work or can pursue scholarship in japan.
 	- i can sing yorushika song and know the lyrics simultaneously
+	- i can FLEX MY N2 AND N1 証書
 - I think if i train enough 3D and really patience learning it for 3-5 years..  damn, that would be impressive as hell. 
 	- I can flexing my portofolio to others,
 	- i can impressed girl,
