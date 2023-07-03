@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "人生、夢、日本/日記帳/Untitled.md"
+    },
+    {
       "basename": "Alur sampai kompre",
       "path": "Skripsi/Kompre/Alur sampai kompre.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Apache",
       "path": "Web Development/Apache.md"
-    },
-    {
-      "basename": "JavaScript Fundamentals Part 2",
-      "path": "Web Development/JavaScript Fundamentals Part 2.md"
     }
   ],
   "omittedPaths": [],
