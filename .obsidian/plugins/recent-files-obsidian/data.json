@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "人生、夢、日本/日記帳/Untitled.md"
+    },
+    {
       "basename": "1. What is Logic",
       "path": "人生、夢、日本/forallx An Introduction to Formal Logic/1. What is Logic.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "JavaScript Fundamentals Part 4",
       "path": "Web Development/JavaScript Fundamentals Part 4.md"
-    },
-    {
-      "basename": "Machine Learning",
-      "path": "Machine Learning/Machine Learning.md"
     }
   ],
   "omittedPaths": [],
