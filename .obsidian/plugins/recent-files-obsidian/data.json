@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1. What is Logic",
+      "path": "人生、夢、日本/forallx An Introduction to Formal Logic/1. What is Logic.md"
+    },
+    {
       "basename": "Alur sampai kompre",
       "path": "Skripsi/Kompre/Alur sampai kompre.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Machine Learning",
       "path": "Machine Learning/Machine Learning.md"
-    },
-    {
-      "basename": "Apache",
-      "path": "Web Development/Apache.md"
     }
   ],
   "omittedPaths": [],
