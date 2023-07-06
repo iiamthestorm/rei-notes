@@ -5,6 +5,10 @@
       "path": "人生、夢、日本/3D (Blender)/Progress/2023-07-02、日曜日.md"
     },
     {
+      "basename": "2023-07-06、木曜日",
+      "path": "人生、夢、日本/3D (Blender)/Progress/2023-07-06、木曜日.md"
+    },
+    {
       "basename": "2023-07-01、土曜日",
       "path": "人生、夢、日本/3D (Blender)/Progress/2023-07-01、土曜日.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Web Development",
       "path": "Web Development/Web Development.md"
-    },
-    {
-      "basename": "JavaScript Fundamentals Part 4",
-      "path": "Web Development/JavaScript Fundamentals Part 4.md"
     }
   ],
   "omittedPaths": [],
