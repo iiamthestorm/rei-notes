@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8906746a4084a68f",
@@ -184,7 +185,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c5695427d85be741",
+  "active": "9dcf3e208f434302",
   "lastOpenFiles": [
     "Skripsi/Kompre/Saran dari Bu Ana untuk Sempro Reihan.md",
     "Skripsi/Kompre/Kerangka Bab 5.md",
