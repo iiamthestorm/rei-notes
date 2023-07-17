@@ -1,1 +1,1 @@
-- Bu Ause (Done) (Tinggal Minta TTD)
+- ~~Bu Ause (Done) (Tinggal Minta TTD)
