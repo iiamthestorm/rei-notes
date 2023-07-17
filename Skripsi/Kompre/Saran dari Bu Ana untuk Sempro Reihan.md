@@ -5,7 +5,9 @@
 	- ~~Caption
 
 
-Penelitian yang dilakukan (Fabio Garcea et al., 2023) menjelaskan strategi augmentasi data yang digunakan dalam domain medis. Augmentasi data memungkinkan perluasan jumlah dan variasi data yang tersedia untuk pelatihan tanpa harus mengumpulkan sampel baru. Teknik augmentasi data dapat berupa transformasi sederhana seperti rotation, padding, dan flipping yang ternyata sangat efektif.
+Penelitian yang dilakukan (Fabio Garcea et al., 2023) menjelaskan strategi augmentasi data yang digunakan dalam domain medis. Masalah utama yang dihadapi adalah kurangnya jumlah dataset gambar medis yang tersedia, yang disebabkan oleh beberapa faktor seperti jumlah pasien yang terbatas, penolakan pasien untuk penggunaan gambar mereka, keterbatasan peralatan medis, dan kesulitan dalam memperoleh gambar yang memenuhi kriteria yang diinginkan.
+
+Augmentasi data memungkinkan perluasan jumlah dan variasi data yang tersedia untuk pelatihan tanpa harus mengumpulkan sampel baru. Teknik augmentasi data dapat berupa transformasi sederhana seperti rotation, padding, dan flipping yang ternyata sangat efektif.
 
 Bergantung pada karakteristik masukan data visual, strategi teknik augmentasi data yang berbeda kemungkinan akan memiliki performa yang berbeda pula. 
 
