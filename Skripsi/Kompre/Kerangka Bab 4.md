@@ -3,8 +3,7 @@
 
 
 
-- Digit 0
-	- Kondisi "Atas"
+- Performance Results for Digit 0 - Top Position
 
 | Percobaan | Hasil Pre-Augmentasi | Hasil Post-Augmentasi | Akurasi |
 | --------- | -------------------- | --------------------- | ------- |
