@@ -7,7 +7,7 @@
 
 Meskipun deep learning telah mencapai kinerja yang memuaskan dalam bidang computer vision tetap diperlukan dataset yang besar. Namun, masih sulit untuk mengumpulkan dataset yang besar. Banyak algoritma augmentasi gambar telah diusulkan untuk mengatasi masalah ini. Memahami algoritma yang ada sangat penting untuk menemukan metode yang cocok dan mengembangkan metode baru untuk tugas tertentu. 
 
-Dalam penelitian ini, kami melakukan tinjauan komprehensif tentang augmentasi gambar untuk deep learning menggunakan taksonomi informatif yang baru. 
+Dalam penelitian ini, kami melakukan tinjauan komprehensif tentang augmentasi gambar untuk deep learning menggunakan taksonomi informatif.
 
 Algoritma-algoritma tersebut kemudian diklasifikasikan menjadi tiga kategori: model-free, model-based, dan optimizing policy-based. Kategori model-free menggunakan metode-metode dari pemrosesan gambar, sementara pendekatan model-based memanfaatkan model generasi gambar untuk mensintesis gambar. Sebaliknya, pendekatan optimizing policy-based bertujuan untuk menemukan kombinasi operasi yang optimal. 
 
