@@ -30,10 +30,10 @@ Berdasarkan hasil rata-rata akurasi, model sebelum augmentasi mencapai rata-rata
 | 3         | 88.1                   | 6 (salah)                     | 97.9                    | 0 (benar)                      |
 | 4         | 44.8                   | 2 (salah)                     | 88.0                    | 0 (benar)                      |
 | 5         | 73.0                   | 2 (salah)                     | 77.2                    | 0 (benar)                      |
-| 6         | 85                   | 8 (salah)                     | 99.6                    | 0 (benar)                      |
-| 7         | 68.1                   | 9 (salah)                     | 99.7                    | 0 (benar)                      |
-| 8         | 91.6                   | 4 (salah)                     | 99.9                    | 0 (benar)                      |
-| 9         | 93.9                   | 4 (salah)                     | 98.4                    | 0 (benar)                      |
-| 10        | 87.9                   | 4 (salah)                     | 99.8                    | 0 (benar)                      |
+| 6         | 85.5                   | 8 (salah)                     | 99.6                    | 0 (benar)                      |
+| 7         | 51.5                   | 6 (salah)                     | 99.7                    | 0 (benar)                      |
+| 8         | 97.9                   | 2 (salah)                     | 99.9                    | 0 (benar)                      |
+| 9         | 84.7                   | 2 (salah)                     | 98.4                    | 0 (benar)                      |
+| 10        | 73.2                   | 2 (salah)                     | 99.8                    | 0 (benar)                      |
 | Average   | 79.41                  | -                             | 95.43                   | -                              |
 
