@@ -106,4 +106,7 @@ Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh Total 
 
 Berdasarkan hasil rata-rata akurasi, model sebelum augmentasi mencapai rata-rata akurasi sekitar 91,36%, sementara model setelah augmentasi mencapai rata-rata akurasi sekitar 94,41% pada posisi "Tengah".
 
-Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh Total Benar Prediksi sebanyak 9, sementara model Post-Augmentasi memperoleh Total Benar Prediksi sebanyak 9 pada posisi "Tengah".
+Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh Total Benar Prediksi sebanyak 9, sementara model Post-Augmentasi memperoleh Total Benar Prediksi sebanyak 10 (semua prediksi benar) pada posisi "Tengah".
+
+## Performance Results for Digit 1
+### Digit 1 - Top Positi
