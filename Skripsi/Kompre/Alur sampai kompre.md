@@ -2,7 +2,7 @@
 2. Minta ttd berita acara sempro (sekalian revisi gpp sekali jalan)
 3. bikin lampiran pengesahan revisi seminar
 4. baru bikin 4 dan bab 5 (sebenarnya bisa angsur juga si sekalian sama yg sebelumnya)
-5. ~~TES TOELF (sudah daftar)
+5. ~~TES TOELF (sudah daftar) (sudah selesai)
 6. ~~AMBIL SERTIF NGAJI (tinggal ambil di LDIK aja boy, rektorat, lantai 3)
 
 surat yg perlu diminta ttd
