@@ -14,5 +14,7 @@ links :
 7. https://sci-hub.se/10.1007/s11042-020-08883-w
 8. https://www.google.com/search?q=A+comprehensive+survey+of+recent+trends+in+deep+learning+for+digital+images+augmentation+pdf&oq=A+comprehensive+survey+of+recent+trends+in+deep+learning+for+digital+images+augmentation+pdf&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEAyBggDEEUYQNIBCDE5OTRqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
 9. file:///C:/Users/ASUS/Downloads/Documents/1712.04621.pdf
-10. 
+10. file:///C:/Users/ASUS/Downloads/Documents/2205.01491.pdf
+11. https://www.researchgate.net/publication/323532488_Chest_x-ray_generation_and_data_augmentation_for_cardiovascular_abnormality_classification
+12. https://arxiv.org/abs/2205.01491
 
