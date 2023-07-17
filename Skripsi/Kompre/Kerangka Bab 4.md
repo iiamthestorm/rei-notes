@@ -43,9 +43,9 @@ Berdasarkan hasil rata-rata akurasi, model sebelum augmentasi mencapai rata-rata
 
 | Percobaan | Akurasi Pre-Augmentasi | Hasil Prediksi Pre-Augmentasi | Akurasi Post-Augmentasi | Hasil Prediksi Post-Augmentasi |
 | --------- | ---------------------- | ----------------------------- | ----------------------- | ------------------------------ |
-| 1         |                    | 6 (salah)                     | 63.8                    | 0 (benar)                      |
-| 2         | 41.1                   | 6 (salah)                     | 96.1                    | 0 (benar)                      |
-| 3         | 88.1                   | 6 (salah)                     | 93.2                    | 0 (benar)                      |
+| 1         | 94.8                   | 7 (salah)                     | 63.8                    | 0 (benar)                      |
+| 2         | 42.8                   | 7 (salah)                     | 96.1                    | 0 (benar)                      |
+| 3         | 61.5                   | 1 (salah)                     | 93.2                    | 0 (benar)                      |
 | 4         | 44.8                   | 2 (salah)                     | 86.8                    | 0 (benar)                      |
 | 5         | 73.0                   | 2 (salah)                     | 97.7                    | 0 (benar)                      |
 | 6         | 85.5                   | 8 (salah)                     | 81.1                    | 0 (benar)                      |
