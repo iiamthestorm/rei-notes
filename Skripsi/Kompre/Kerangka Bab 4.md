@@ -91,9 +91,9 @@ Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh Total 
 
 | Percobaan            | Akurasi Pre-Augmentasi | Hasil Prediksi Pre-Augmentasi | Akurasi Post-Augmentasi | Hasil Prediksi Post-Augmentasi |
 | -------------------- | ---------------------- | ----------------------------- | ----------------------- | ------------------------------ |
-| 1                    |                    | 1 (salah)                     | 92.5                    | 0 (benar)                      |
-| 2                    | 98.6                   | 4 (salah)                     | 84.7                    | 0 (benar)                      |
-| 3                    | 91.5                   | 1 (salah)                     | 96.9                    | 0 (benar)                      |
+| 1                    | 99.9                   | 0 (benar)                     | 92.5                    | 0 (benar)                      |
+| 2                    | 72.9                   | 0 (benar)                     | 84.7                    | 0 (benar)                      |
+| 3                    | 91.5                   | 0 (benar)                     | 96.9                    | 0 (benar)                      |
 | 4                    | 94.1                   | 4 (salah)                     | 87.0                    | 0 (benar)                      |
 | 5                    | 75.6                   | 1 (salah)                     | 99.8                    | 0 (benar)                      |
 | 6                    | 83.2                   | 1 (salah)                     | 99.8                    | 0 (benar)                      |
