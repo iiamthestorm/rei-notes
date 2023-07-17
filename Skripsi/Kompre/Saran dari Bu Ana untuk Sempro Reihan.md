@@ -5,7 +5,7 @@
 	- ~~Caption
 
 
-Penelitian yang dilakukan (Evgin Goceri) ini bertujuan untuk mendesain metode berbasis deep learning dalam penggunaan gambar medis guna membantu klinisi dalam pemeriksaan cepat dan diagnosis yang akurat. 
+Penelitian yang dilakukan (Evgin Goceri) ini menggunakan  bertujuan untuk mendesain metode berbasis deep learning dalam penggunaan gambar medis guna membantu klinisi dalam pemeriksaan cepat dan diagnosis yang akurat. 
 
 Masalah utama yang dihadapi adalah kurangnya jumlah dataset gambar medis yang tersedia, yang disebabkan oleh beberapa faktor seperti jumlah pasien yang terbatas, penolakan pasien untuk penggunaan gambar mereka, keterbatasan peralatan medis, dan kesulitan dalam memperoleh gambar yang memenuhi kriteria yang diinginkan. 
 
