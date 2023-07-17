@@ -80,9 +80,11 @@ Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh Total 
 | 8                    | 99.4                   | 4 (salah)                     | 68.3                    | 6 (salah)                      |
 | 9                    | 92.8                   | 1 (salah)                     | 93.6                    | 0 (benar)                      |
 | 10                   | 99.7                   | 1 (salah)                     | 73.6                    | 0 (benar)                      |
-| Average              | 88.85                  | -                             |                    | -                              |
+| Average              | 88.85                  | -                             | 89.41                   | -                              |
 | Total Benar Prediksi |                        | 0                             |                         | 9                              |
 
-Berdasarkan hasil rata-rata akurasi, model sebelum augmentasi mencapai rata-rata akurasi sekitar 77,26%, sementara model setelah augmentasi mencapai rata-rata akurasi sekitar 79,78% pada posisi "Kanan".
+Berdasarkan hasil rata-rata akurasi, model sebelum augmentasi mencapai rata-rata akurasi sekitar 88,85%, sementara model setelah augmentasi mencapai rata-rata akurasi sekitar 89,41% pada posisi "Kanan".
 
 Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh Total Benar Prediksi sebanyak 0 (semua prediksi salah), sementara model Post-Augmentasi memperoleh Total Benar Prediksi sebanyak 9 pada posisi "Kanan".
+
+### 
