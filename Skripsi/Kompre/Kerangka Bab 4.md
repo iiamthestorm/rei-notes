@@ -20,9 +20,9 @@
 | Average              | 79.41                  | -                             | 95.43                   | -                              |
 | Total Benar Prediksi |                        | 0                             |                         | 10                             |
 
-Berdasarkan hasil rata-rata akurasi, model sebelum Pre-Augmentasi mencapai rata-rata akurasi sekitar 79,41%, sementara model Paugmentasi mencapai rata-rata akurasi sekitar 95,43% pada posisi "Atas".
+Berdasarkan hasil rata-rata akurasi, model sebelum Pre-Augmentasi mencapai rata-rata akurasi sekitar 79,41%, sementara model Post-Augmentasi mencapai rata-rata akurasi sekitar 95,43% pada posisi "Atas".
 
-Berdasarkan Total Benar Prediksi, model sebelum 
+Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh , sementara model Post-Augmentasi mencapai rata-rata akurasi sekitar 95,43% pada posisi "Atas".
 
 ### Digit 0 - Bottom Position
 
