@@ -17,7 +17,8 @@
 | 8         | 91.6                   | 4 (salah)                     | 99.9                    | 0 (benar)                      |
 | 9         | 93.9                   | 4 (salah)                     | 98.4                    | 0 (benar)                      |
 | 10        | 87.9                   | 4 (salah)                     | 99.8                    | 0 (benar)                      |
-| Average   | 79.41                  | -                             | 95.43                   | -                              |
+
+Average   | 79.41                  | -                             | 95.43                   | -                              |
 
 Berdasarkan hasil rata-rata akurasi, model sebelum augmentasi mencapai rata-rata akurasi sekitar 79,41%, sementara model setelah augmentasi mencapai rata-rata akurasi sekitar 95,43% pada posisi "Atas".
 
@@ -51,7 +52,7 @@ Berdasarkan hasil rata-rata akurasi, model sebelum augmentasi mencapai rata-rata
 | 6         | 90.3                   | 1 (salah)                     | 94.7                    | 0 (benar)                      |
 | 7         | 99.0                   | 1 (salah)                     | 58.5                    | 2 (salah)                      |
 | 8         | 54.0                   | 1 (salah)                     | 96.7                    | 0 (benar)                      |
-| 9         | 93.2                   | 1 (salah)                     |                     | 0 (benar)                      |
-| 10        | 54.4                   | 4 (salah)                     | 99.0                    | 0 (benar)                      |
+| 9         | 93.2                   | 1 (salah)                     | 88.2                    | 0 (benar)                      |
+| 10        | 54.4                   | 4 (salah)                     | 71.2                    | 0 (benar)                      |
 | Average   | 68.54                  | -                             | 82.6                    | -                              |
 
