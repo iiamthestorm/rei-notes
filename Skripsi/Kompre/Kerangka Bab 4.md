@@ -25,11 +25,11 @@ Berdasarkan hasil rata-rata akurasi, model sebelum augmentasi mencapai rata-rata
 
 | Percobaan | Akurasi Pre-Augmentasi | Hasil Prediksi Pre-Augmentasi | Akurasi Post-Augmentasi | Hasil Prediksi Post-Augmentasi |
 | --------- | ---------------------- | ----------------------------- | ----------------------- | ------------------------------ |
-| 1         | 45.6                   | 6 (salah)                     | 99.4                    | 0 (benar)                      |
-| 2         | 41.1                   | 6 (salah)                     | 94.4                    | 0 (benar)                      |
-| 3         | 88.1                   | 6 (salah)                     | 97.9                    | 0 (benar)                      |
-| 4         | 44.8                   | 2 (salah)                     | 88.0                    | 0 (benar)                      |
-| 5         | 73.0                   | 2 (salah)                     | 77.2                    | 0 (benar)                      |
+| 1         | 45.6                   | 6 (salah)                     | 63.8                    | 0 (benar)                      |
+| 2         | 41.1                   | 6 (salah)                     | 96.1                    | 0 (benar)                      |
+| 3         | 88.1                   | 6 (salah)                     | 93.2                    | 0 (benar)                      |
+| 4         | 44.8                   | 2 (salah)                     | 86.8                    | 0 (benar)                      |
+| 5         | 73.0                   | 2 (salah)                     | 97.7                    | 0 (benar)                      |
 | 6         | 85.5                   | 8 (salah)                     | 99.6                    | 0 (benar)                      |
 | 7         | 51.5                   | 6 (salah)                     | 99.7                    | 0 (benar)                      |
 | 8         | 97.9                   | 2 (salah)                     | 99.9                    | 0 (benar)                      |
