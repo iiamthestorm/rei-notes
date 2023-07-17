@@ -5,17 +5,17 @@
 
 - Digit 0
 
-| Jumlah Percobaan | Kondisi | Hasil Pre-Augmentasi | Hasil Post-Augmentasi | Akurasi |
+| Percobaan | Kondisi | Hasil Pre-Augmentasi | Hasil Post-Augmentasi | Akurasi |
 | ---------------- | ------- | -------------------- | --------------------- | ------- |
-| 10               |         |                      |                       |         |
-| 10               |         |                      |                       |         |
-| 10               |         |                      |                       |         |
-| 10               |         |                      |                       |         |
-| 10               |         |                      |                       |         |
-| 10               |         |                      |                       |         |
-| 10               |         |                      |                       |         |
-| 10               |         |                      |                       |         |
-| 10               |         |                      |                       |         |
+| 1               |         |                      |                       |         |
+| 2               |         |                      |                       |         |
+| 3               |         |                      |                       |         |
+| 4               |         |                      |                       |         |
+| 5               |         |                      |                       |         |
+| 6               |         |                      |                       |         |
+| 7               |         |                      |                       |         |
+| 8               |         |                      |                       |         |
+| 9               |         |                      |                       |         |
 | 10               |         |                      |                       |         |
 
 - Digit 1
