@@ -109,4 +109,19 @@ Berdasarkan hasil rata-rata akurasi, model sebelum augmentasi mencapai rata-rata
 Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh Total Benar Prediksi sebanyak 9, sementara model Post-Augmentasi memperoleh Total Benar Prediksi sebanyak 10 (semua prediksi benar) pada posisi "Tengah".
 
 ## Performance Results for Digit 1
-### Digit 1 - Top Positi
+### Digit 1 - Top Position
+
+| Percobaan            | Akurasi Pre-Augmentasi | Hasil Prediksi Pre-Augmentasi | Akurasi Post-Augmentasi | Hasil Prediksi Post-Augmentasi |
+| -------------------- | ---------------------- | ----------------------------- | ----------------------- | ------------------------------ |
+| 1                    | 99.9                   | 0 (benar)                     | 99.1                    | 0 (benar)                      |
+| 2                    | 72.9                   | 0 (benar)                     | 97.4                    | 0 (benar)                      |
+| 3                    | 95.9                   | 0 (benar)                     | 94.8                    | 0 (benar)                      |
+| 4                    | 99.5                   | 0 (benar)                     | 85.5                    | 0 (benar)                      |
+| 5                    | 99.1                   | 0 (benar)                     | 98.4                    | 0 (benar)                      |
+| 6                    | 97.8                   | 0 (benar)                     | 97.5                    | 0 (benar)                      |
+| 7                    | 51.6                   | 0 (benar)                     | 98.8                    | 0 (benar)                      |
+| 8                    | 99.9                   | 0 (benar)                     | 95.2                    | 0 (benar)                      |
+| 9                    | 98.6                   | 9 (salah)                     | 97.3                    | 0 (benar)                      |
+| 10                   | 98.4                   | 0 (benar)                     | 80.1                    | 0 (benar)                      |
+| Average              | 91.36                  | -                             | 94.41                   | -                              |
+| Total Benar Prediksi |                        | 9                             |                         | 10                              |
