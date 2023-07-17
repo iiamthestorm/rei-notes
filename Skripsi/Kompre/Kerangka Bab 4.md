@@ -3,7 +3,7 @@
 
 
 ## Performance Results for Digit 0
-Digit 0 - Top Position
+### Digit 0 - Top Position
 
 | Percobaan | Akurasi Pre-Augmentasi | Hasil Prediksi Pre-Augmentasi | Akurasi Post-Augmentasi | Hasil Prediksi Post-Augmentasi |
 | --------- | ---------------------- | ----------------------------- | ----------------------- | ------------------------------ |
@@ -21,7 +21,7 @@ Digit 0 - Top Position
 
 Berdasarkan hasil rata-rata akurasi, model sebelum augmentasi mencapai rata-rata akurasi sekitar 79,41%, sementara model setelah augmentasi mencapai rata-rata akurasi sekitar 95,43% pada posisi "Atas".
 
-- Performance Results for Digit 0 - Bottom Position
+### Digit 0 - Bottom Position
 
 | Percobaan | Akurasi Pre-Augmentasi | Hasil Prediksi Pre-Augmentasi | Akurasi Post-Augmentasi | Hasil Prediksi Post-Augmentasi |
 | --------- | ---------------------- | ----------------------------- | ----------------------- | ------------------------------ |
