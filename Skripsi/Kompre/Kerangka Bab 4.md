@@ -71,11 +71,11 @@ Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh Total 
 | Percobaan            | Akurasi Pre-Augmentasi | Hasil Prediksi Pre-Augmentasi | Akurasi Post-Augmentasi | Hasil Prediksi Post-Augmentasi |
 | -------------------- | ---------------------- | ----------------------------- | ----------------------- | ------------------------------ |
 | 1                    | 92.8                   | 1 (salah)                     | 71.1                    | 0 (benar)                      |
-| 2                    | 42.8                   | 4 (salah)                     | 95.9                    | 0 (benar)                      |
-| 3                    | 61.5                   | 1 (salah)                     | 52.2                    | 0 (benar)                      |
-| 4                    | 93.9                   | 1 (salah)                     | 96.1                    | 0 (benar)                      |
-| 5                    | 88.7                   | 1 (salah)                     | 73.2                    | 0 (benar)                      |
-| 6                    | 90.3                   | 1 (salah)                     | 94.7                    | 0 (benar)                      |
+| 2                    | 98.6                   | 4 (salah)                     | 95.9                    | 0 (benar)                      |
+| 3                    | 91.5                   | 1 (salah)                     | 52.2                    | 0 (benar)                      |
+| 4                    | 94.1                   | 4 (salah)                     | 96.1                    | 0 (benar)                      |
+| 5                    | 75.6                   | 1 (salah)                     | 73.2                    | 0 (benar)                      |
+| 6                    | 83.2                   | 1 (salah)                     | 94.7                    | 0 (benar)                      |
 | 7                    | 99.0                   | 1 (salah)                     | 58.5                    | 2 (salah)                      |
 | 8                    | 54.0                   | 1 (salah)                     | 96.7                    | 0 (benar)                      |
 | 9                    | 93.2                   | 1 (salah)                     | 88.2                    | 0 (benar)                      |
