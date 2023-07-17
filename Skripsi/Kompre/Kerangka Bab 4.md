@@ -1,4 +1,4 @@
-| Digit | Jumlah Percobaan | Kondisi | Hasil Sebelum Augmentasi | Hasil Sesudah Augmentasi |
+| Digit | Jumlah Percobaan | Kondisi | Hasil Pre-Augmentasi | Hasil Post-Augmentasi |
 | ----- | ---------------- | ------  | ------------------------ | ------------------------ |
 | 0     |                  |         |                          |                          |
 | 1     |                  |         |                          |                          |
