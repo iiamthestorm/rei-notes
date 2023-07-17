@@ -9,4 +9,6 @@ Meskipun deep learning telah mencapai kinerja yang memuaskan dalam penglihatan k
 
 Dalam penelitian ini, kami melakukan tinjauan komprehensif tentang augmentasi gambar untuk deep learning menggunakan taksonomi informatif yang baru. 
 
-Algoritma-algoritma tersebut kemudian diklasifikasikan menjadi tiga kategori: model-free, model-based, dan optimizing policy-based. Kategori model-free menggunakan metode-metode dari pemrosesan gambar, sementara pendekatan model-based memanfaatkan model generasi gambar untuk mensintesis gambar. Sebaliknya, pendekatan optimizing policy-based bertujuan untuk menemukan kombinasi operasi yang optimal. Berdasarkan analisis ini, kami percaya bahwa tinjauan kami meningkatkan pemahaman yang diperlukan untuk memilih metode yang tepat dan merancang algoritma baru.
+Algoritma-algoritma tersebut kemudian diklasifikasikan menjadi tiga kategori: model-free, model-based, dan optimizing policy-based. Kategori model-free menggunakan metode-metode dari pemrosesan gambar, sementara pendekatan model-based memanfaatkan model generasi gambar untuk mensintesis gambar. Sebaliknya, pendekatan optimizing policy-based bertujuan untuk menemukan kombinasi operasi yang optimal. 
+
+Berdasarkan analisis ini, kami percaya bahwa tinjauan kami meningkatkan pemahaman yang diperlukan untuk memilih metode yang tepat dan merancang algoritma baru.
