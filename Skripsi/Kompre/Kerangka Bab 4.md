@@ -22,7 +22,7 @@
 
 Berdasarkan hasil rata-rata akurasi, model sebelum Pre-Augmentasi mencapai rata-rata akurasi sekitar 79,41%, sementara model Post-Augmentasi mencapai rata-rata akurasi sekitar 95,43% pada posisi "Atas".
 
-Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh , sementara model Post-Augmentasi mencapai rata-rata akurasi sekitar 95,43% pada posisi "Atas".
+Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh total sebesar 0 (semua prediksi salah), sementara model Post-Augmentasi memperoleh total sebesar 10 (semua prediksi benar) pada posisi "Atas".
 
 ### Digit 0 - Bottom Position
 
