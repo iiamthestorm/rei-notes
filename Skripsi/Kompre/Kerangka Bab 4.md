@@ -19,7 +19,9 @@
 | 10        | 87.9                   | 4 (salah)                     | 99.8                    | 0 (benar)                      |
 | Average   | 79.41                  | -                             | 95.43                   | -                              |
 
+Berdasarkan hasil rata-rata akurasi, model sebelum augmentasi mencapai rata-rata akurasi sekitar 79,41%, sementara model setelah augmentasi mencapai rata-rata akurasi sekitar 95,43% pada posisi "Atas".
 
-- Digit 1
+- Performance Results for Digit 0 - Bottom Position
+
 
 
