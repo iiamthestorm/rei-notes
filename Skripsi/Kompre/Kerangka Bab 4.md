@@ -7,8 +7,8 @@
 
 | Percobaan | Akurasi Pre-Augmentasi | Hasil Prediksi Pre-Augmentasi | Akurasi Post-Augmentasi | Hasil Prediksi Post-Augmentasi |
 | --------- | ---------------------- | ----------------------------- | ----------------------- | ------------------------------ |
-| 1         |                        |                               |                         |                                |
-| 2         |                        |                               |                         |                                |
+| 1         | 95.0                   | 4                             |                         |                                |
+| 2         |                        | 4                              |                         |                                |
 | 3         |                        |                               |                         |                                |
 | 4         |                        |                               |                         |                                |
 | 5         |                        |                               |                         |                                |
