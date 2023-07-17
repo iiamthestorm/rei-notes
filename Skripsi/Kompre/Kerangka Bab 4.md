@@ -43,15 +43,15 @@ Berdasarkan hasil rata-rata akurasi, model sebelum augmentasi mencapai rata-rata
 
 | Percobaan | Akurasi Pre-Augmentasi | Hasil Prediksi Pre-Augmentasi | Akurasi Post-Augmentasi | Hasil Prediksi Post-Augmentasi |
 | --------- | ---------------------- | ----------------------------- | ----------------------- | ------------------------------ |
-| 1         | 94.8                   | 7 (salah)                     | 63.8                    | 0 (benar)                      |
-| 2         | 42.8                   | 7 (salah)                     | 96.1                    | 0 (benar)                      |
+| 1         | 94.8                   | 7 (salah)                     | 71.1                    | 0 (benar)                      |
+| 2         | 42.8                   | 7 (salah)                     | 95.9                    | 0 (benar)                      |
 | 3         | 61.5                   | 1 (salah)                     | 93.2                    | 0 (benar)                      |
 | 4         | 93.9                   | 1 (salah)                     | 86.8                    | 0 (benar)                      |
 | 5         | 88.7                   | 1 (salah)                     | 97.7                    | 0 (benar)                      |
 | 6         | 90.3                   | 1 (salah)                     | 81.1                    | 0 (benar)                      |
 | 7         | 99.0                   | 1 (salah)                     | 77.4                    | 0 (benar)                      |
-| 8         | 97.9                   | 2 (salah)                     | 42.5                    | 0 (benar)                      |
-| 9         | 84.7                   | 2 (salah)                     | 88.4                    | 0 (benar)                      |
-| 10        | 73.2                   | 2 (salah)                     | 99.0                    | 0 (benar)                      |
+| 8         | 54.0                   | 1 (salah)                     | 42.5                    | 0 (benar)                      |
+| 9         | 93.2                   | 1 (salah)                     | 88.4                    | 0 (benar)                      |
+| 10        | 54.4                   | 4 (salah)                     | 99.0                    | 0 (benar)                      |
 | Average   | 68.54                  | -                             | 82.6                    | -                              |
 
