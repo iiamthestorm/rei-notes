@@ -5,7 +5,7 @@
 	- ~~Caption
 
 
-Meskipun deep learning telah mencapai kinerja yang memuaskan dalam penglihatan komputer, diperlukan volume besar gambar. Namun, mengumpulkan gambar seringkali mahal dan sulit. Banyak algoritma augmentasi gambar telah diusulkan untuk mengatasi masalah ini. Memahami algoritma yang ada sangat penting untuk menemukan metode yang cocok dan mengembangkan metode baru untuk tugas tertentu. 
+Meskipun deep learning telah mencapai kinerja yang memuaskan dalam bidang computer vision, diperlukan dataset yang besar. Namun untuk mengumpulkan gambar seringkali mahal dan sulit. Banyak algoritma augmentasi gambar telah diusulkan untuk mengatasi masalah ini. Memahami algoritma yang ada sangat penting untuk menemukan metode yang cocok dan mengembangkan metode baru untuk tugas tertentu. 
 
 Dalam penelitian ini, kami melakukan tinjauan komprehensif tentang augmentasi gambar untuk deep learning menggunakan taksonomi informatif yang baru. 
 
