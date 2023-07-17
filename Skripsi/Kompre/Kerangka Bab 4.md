@@ -59,5 +59,5 @@ Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh total 
 | 8         | 54.0                   | 1 (salah)                     | 96.7                    | 0 (benar)                      |
 | 9         | 93.2                   | 1 (salah)                     | 88.2                    | 0 (benar)                      |
 | 10        | 54.4                   | 4 (salah)                     | 71.2                    | 0 (benar)                      |
-| Average   | 77.26                  | -                             | 82.6                    | -                              |
+| Average   | 77.26                  | -                             | 79.78                   | -                              |
 
