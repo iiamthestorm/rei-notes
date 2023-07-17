@@ -5,10 +5,4 @@
 	- ~~Caption
 
 
-Meskipun deep learning telah mencapai kinerja yang memuaskan dalam bidang computer vision tetap diperlukan dataset yang besar. Namun, masih sulit untuk mengumpulkan dataset yang besar. Banyak algoritma augmentasi gambar telah diusulkan untuk mengatasi masalah ini. Memahami algoritma yang ada sangat penting untuk menemukan metode yang cocok dan mengembangkan metode baru untuk tugas tertentu. 
-
-Dalam penelitian ini, kami melakukan tinjauan komprehensif tentang augmentasi gambar untuk deep learning menggunakan taksonomi informatif.
-
-Algoritma-algoritma tersebut kemudian diklasifikasikan menjadi tiga kategori: model-free, model-based, dan optimizing policy-based. Kategori model-free menggunakan metode-metode dari pemrosesan gambar, sementara pendekatan model-based memanfaatkan model generasi gambar untuk mensintesis gambar. Sebaliknya, pendekatan optimizing policy-based bertujuan untuk menemukan kombinasi operasi yang optimal. 
-
-Berdasarkan analisis ini, kami percaya bahwa tinjauan kami meningkatkan pemahaman yang diperlukan untuk memilih metode yang tepat dan merancang algoritma baru.
+Penelitian yang dilakukan  Generative Adversarial Networks (GAN), teknik yang tidak memerlukan pengetahuan sebelumnya tentang variasi yang mungkin terjadi antar contoh untuk menciptakan contoh buatan baru. Meskipun penambahan gambar melalui GAN dapat membantu meningkatkan akurasi, dampak sebenarnya dan jumlah optimal gambar buatan yang ditambahkan masih belum diketahui. Pendekatan ini diuji pada empat dataset digit tulisan tangan, dan hasilnya menunjukkan bahwa penambahan gambar yang dihasilkan oleh GAN pada dataset pelatihan dapat meningkatkan akurasi. Namun, perlu diingat bahwa penambahan gambar buatan yang terlalu banyak dapat mempengaruhi kinerja secara negatif.
