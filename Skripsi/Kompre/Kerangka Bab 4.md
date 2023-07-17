@@ -26,19 +26,20 @@ Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh total 
 
 ### Digit 0 - Bottom Position
 
-| Percobaan | Akurasi Pre-Augmentasi | Hasil Prediksi Pre-Augmentasi | Akurasi Post-Augmentasi | Hasil Prediksi Post-Augmentasi |
-| --------- | ---------------------- | ----------------------------- | ----------------------- | ------------------------------ |
-| 1         | 45.6                   | 6 (salah)                     | 63.8                    | 0 (benar)                      |
-| 2         | 41.1                   | 6 (salah)                     | 96.1                    | 0 (benar)                      |
-| 3         | 88.1                   | 6 (salah)                     | 93.2                    | 0 (benar)                      |
-| 4         | 44.8                   | 2 (salah)                     | 86.8                    | 0 (benar)                      |
-| 5         | 73.0                   | 2 (salah)                     | 97.7                    | 0 (benar)                      |
-| 6         | 85.5                   | 8 (salah)                     | 81.1                    | 0 (benar)                      |
-| 7         | 51.5                   | 6 (salah)                     | 77.4                    | 0 (benar)                      |
-| 8         | 97.9                   | 2 (salah)                     | 42.5                    | 0 (benar)                      |
-| 9         | 84.7                   | 2 (salah)                     | 88.4                    | 0 (benar)                      |
-| 10        | 73.2                   | 2 (salah)                     | 99.0                    | 0 (benar)                      |
-| Average   | 68.54                  | -                             | 82.6                    | -                              |
+| Percobaan            | Akurasi Pre-Augmentasi | Hasil Prediksi Pre-Augmentasi | Akurasi Post-Augmentasi | Hasil Prediksi Post-Augmentasi |
+| -------------------- | ---------------------- | ----------------------------- | ----------------------- | ------------------------------ |
+| 1                    | 45.6                   | 6 (salah)                     | 63.8                    | 0 (benar)                      |
+| 2                    | 41.1                   | 6 (salah)                     | 96.1                    | 0 (benar)                      |
+| 3                    | 88.1                   | 6 (salah)                     | 93.2                    | 0 (benar)                      |
+| 4                    | 44.8                   | 2 (salah)                     | 86.8                    | 0 (benar)                      |
+| 5                    | 73.0                   | 2 (salah)                     | 97.7                    | 0 (benar)                      |
+| 6                    | 85.5                   | 8 (salah)                     | 81.1                    | 0 (benar)                      |
+| 7                    | 51.5                   | 6 (salah)                     | 77.4                    | 0 (benar)                      |     |      |
+| 8                    | 97.9                   | 2 (salah)                     | 42.5                    | 0 (benar)                      |     |     |     |     |     |
+| 9                    | 84.7                   | 2 (salah)                     | 88.4                    | 0 (benar)                      |     |     |     |     |     |
+| 10                   | 73.2                   | 2 (salah)                     | 99.0                    | 0 (benar)                      |     |     |     |     |     |
+| Average              | 68.54                  | -                             | 82.6                    | -                              |     |     |     |     |     |
+| Total Benar Prediksi |                        | 0                             |                         | 10                             |     |     |     |     |     |
 
 Berdasarkan hasil rata-rata akurasi, model sebelum augmentasi mencapai rata-rata akurasi sekitar 68,54%, sementara model setelah augmentasi mencapai rata-rata akurasi sekitar 82,6% pada posisi "Bawah".
 
