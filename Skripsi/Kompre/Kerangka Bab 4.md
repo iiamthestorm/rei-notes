@@ -24,9 +24,7 @@ Confidence adalah ukuran tingkat kepercayaan model terhadap hasil prediksi tungg
 
 Berdasarkan hasil rata-rata confidence, model sebelum Pre-Augmentasi mencapai rata-rata confidence sekitar 79,41%, sementara model Post-Augmentasi mencapai rata-rata confidence sekitar 95,43% pada posisi "Atas".
 
-Akurasi yang diperoleh dari model Pre-Augmentasi adalah sebesar 0%, sementara Akurasi yang diperoleh dari model Post-Augmentasi adalah sebesar 
-
-Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh Total Benar Prediksi sebanyak 0 (semua prediksi salah), sementara model Post-Augmentasi memperoleh Total Benar Prediksi sebanyak 10 (semua prediksi benar) pada posisi "Atas".
+Akurasi yang diperoleh dari model Pre-Augmentasi adalah sebesar 0%, sementara Akurasi yang diperoleh dari model Post-Augmentasi adalah sebesar 100%. 
 
 ### Digit 0 - Bottom Position
 
