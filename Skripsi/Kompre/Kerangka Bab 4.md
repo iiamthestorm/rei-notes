@@ -2,6 +2,7 @@ Sebelum sistem yang dibangun publikasikan, ada beberapa tahapan yang harus dilak
 
 Pada bab ini akan dibahas mengenai hasil dari pengujian yang telah dilakukan pada model. Dalam hal ini pengujian dilakukan melalui evaluasi model secara langsung.
 
+Pada pengujian ini penulis melakukan 10 kali pengujian pada tiap karakter secara manual di Aplikasi yang sudah diimplemantasi model yang sudah penulis buat, lalu akan di ambil rata-ratanya
 
 
 
