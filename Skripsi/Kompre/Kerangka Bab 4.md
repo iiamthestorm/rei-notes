@@ -1,3 +1,5 @@
+Sebelum sistem yang dibangun publikasikan, ada beberapa tahapan yang harus dilakukan yaitu adalah tahapan pengujian. Hal ini dimaksudkan agar sewaktu aplikasi benar-benar sudah dipublikasikan tidak lagi terjadi kesalahan. 
+Pada bab ini akan dibahas mengenai hasil dari pengujian yang telah dlakukan pada model. Dalam hal ini terdapat dua bagian pengujian yaitu evaluasi model secara langsung dan pengujian model di dalam aplikasi.
 
 
 
