@@ -7,7 +7,7 @@ Confidence adalah ukuran tingkat kepercayaan model terhadap hasil prediksi tungg
 ## Performance Results for Digit 0
 ### Digit 0 - Top Position
 
-| Percobaan            | Akurasi Pre-Augmentasi | Hasil Prediksi Pre-Augmentasi | Akurasi Post-Augmentasi | Hasil Prediksi Post-Augmentasi |
+| Pengujian            | Confidence Pre-Augmentasi | Hasil Prediksi Pre-Augmentasi | Confidence Post-Augmentasi | Hasil Prediksi Post-Augmentasi |
 | -------------------- | ---------------------- | ----------------------------- | ----------------------- | ------------------------------ |
 | 1                    | 95.5                   | 4 (salah)                     | 99.4                    | 0 (benar)                      |
 | 2                    | 65.6                   | 4 (salah)                     | 94.4                    | 0 (benar)                      |
@@ -19,7 +19,7 @@ Confidence adalah ukuran tingkat kepercayaan model terhadap hasil prediksi tungg
 | 8                    | 91.6                   | 4 (salah)                     | 99.9                    | 0 (benar)                      |
 | 9                    | 93.9                   | 4 (salah)                     | 98.4                    | 0 (benar)                      |
 | 10                   | 87.9                   | 4 (salah)                     | 99.8                    | 0 (benar)                      |
-| Average              | 79.41                  | -                             | 95.43                   | -                              |
+| Average of Confidence             | 79.41                  | -                             | 95.43                   | -                              |
 | Total Benar Prediksi |                        | 0                             |                         | 10                             |
 
 Berdasarkan hasil rata-rata akurasi, model sebelum Pre-Augmentasi mencapai rata-rata akurasi sekitar 79,41%, sementara model Post-Augmentasi mencapai rata-rata akurasi sekitar 95,43% pada posisi "Atas".
