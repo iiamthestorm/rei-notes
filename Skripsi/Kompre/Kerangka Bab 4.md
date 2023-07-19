@@ -129,3 +129,4 @@ Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh Total 
 | Total Benar Prediksi |                        | 9                             |                         | 10                             |
 
 
+Digit 2 Posisi Atas Top Nomor 5
