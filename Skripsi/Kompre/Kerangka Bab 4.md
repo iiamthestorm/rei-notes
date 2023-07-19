@@ -2,7 +2,7 @@ Sebelum sistem yang dibangun publikasikan, ada beberapa tahapan yang harus dilak
 
 Pada bab ini akan dibahas mengenai hasil dari pengujian yang telah dilakukan pada model. Dalam hal ini pengujian dilakukan melalui evaluasi model secara langsung.
 
-Pada pengujian ini penulis melakukan 10 kali pengujian pada 5 posisi yaitu posisi atas(top), kiri(left), kanan(right), bawah(below) pada tiap digit secara manual di Aplikasi yang sudah diimplemantasi model yang sudah penulis buat, lalu akan di ambil rata-ratanya
+Pada pengujian ini penulis melakukan 10 kali pengujian pada 5 posisi yaitu posisi atas(top), kiri(left), kanan(right), bawah(below) pada tiap digit secara manual di aplikasi yang sudah diimplemantasi model yang sudah penulis buat. Keluaran(Output) dari tiap pengujian terdiri dari 2 hal, yaitu Confidence 
 
 
 
