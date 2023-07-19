@@ -6,8 +6,6 @@ Pada pengujian ini penulis melakukan 10 kali pengujian pada 5 posisi yaitu posis
 
 Confidence adalah ukuran tingkat kepercayaan model terhadap hasil prediksi tunggal. Confidence dapat digunakan untuk memahami sejauh mana model yakin dengan prediksi tertentu. Sedangkan Hasil prediksi adalah kondisi dimana model yang telah dilatih telah berhasil mengklasifikasikan atau memperkirakan nilai target. Dari hasil prediksi ini, kita bisa menggunakan metriks akurasi untuk mengukur sejauh mana model berhasil dalam melakukan prediksi yang benar dari total hasil prediksi yang dilakukan. Akurasi menghitung jumlah prediksi yang benar dibandingkan dengan jumlah total data yang diprediksi.
 
-
-
 ## Performance Results for Digit 0
 ### Digit 0 - Top Position
 
