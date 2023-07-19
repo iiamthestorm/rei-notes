@@ -4,7 +4,7 @@ Pada bab ini akan dibahas mengenai hasil dari pengujian yang telah dilakukan pad
 
 Pada pengujian ini penulis melakukan 10 kali pengujian pada 5 posisi yaitu posisi atas(top), kiri(left), kanan(right), bawah(below) pada tiap digit secara manual di aplikasi yang sudah diimplemantasi model yang sudah penulis buat. Keluaran(Output) dari tiap pengujian terdiri dari 2 hal, yaitu Confidence dan Hasil Prediksi. 
 
-Confidence adalah 
+Confidence adalah ukuran tingkat kepercayaan model terhadap hasil prediksi tunggal. Confidence dapat digunakan untuk memahami sejauh mana model yakin dengan prediksi tertentu.
 
 
 
