@@ -1,17 +1,8 @@
-Sebelum sistem yang dibangun publikasikan, ada beberapa tahapan yang harus dilakukan, hal ini dimaksudkan agar sewaktu aplikasi benar-benar sudah dipublikasikan tidak lagi terjadi kesalahan. 
-
-Pada bab ini akan dibahas mengenai hasil dari pengujian yang telah dilakukan pada model. Dalam hal ini pengujian dilakukan melalui evaluasi model secara langsung.
-
-Pada pengujian ini penulis melakukan 10 kali pengujian pada 5 posisi yaitu posisi atas(top), kiri(left), kanan(right), bawah(below) pada tiap digit secara manual di aplikasi yang sudah diimplemantasi model yang sudah penulis buat. Keluaran(Output) dari tiap pengujian terdiri dari 2 hal, yaitu Confidence dan Hasil Prediksi. 
-
-Confidence adalah ukuran tingkat kepercayaan model terhadap hasil prediksi tunggal. Confidence dapat digunakan untuk memahami sejauh mana model yakin dengan prediksi tertentu. Sedangkan Hasil prediksi adalah kondisi dimana model yang telah dilatih telah berhasil mengklasifikasikan atau memperkirakan nilai target. Dari hasil prediksi ini, kita bisa menggunakan metriks akurasi untuk mengukur sejauh mana model berhasil dalam melakukan prediksi yang benar dari total hasil prediksi yang dilakukan. Akurasi menghitung jumlah prediksi yang benar dibandingkan dengan jumlah total data yang diprediksi.
-
-
 Sebelum sistem yang dibangun dipublikasikan, beberapa tahapan harus dilakukan untuk memastikan bahwa aplikasi telah benar-benar siap tanpa kesalahan.
 
 Pada bab ini, akan dibahas tentang hasil pengujian model. Evaluasi model dilakukan secara langsung dengan melakukan 10 kali pengujian pada 5 posisi yaitu atas (top), kiri (left), kanan (right), dan bawah (below) pada tiap digit secara manual melalui aplikasi yang telah diimplementasikan dengan model yang telah dibuat. Hasil dari setiap pengujian terdiri dari dua hal, yaitu Confidence dan Hasil Prediksi.
 
-Confidence adalah ukuran tingkat kepercayaan model terhadap hasil prediksi tunggal. Confidence digunakan untuk memahami sejauh mana model yakin dengan prediksi tertentu. Sedangkan Hasil Prediksi adalah kondisi di mana model yang telah dilatih berhasil mengklasifikasikan atau memperkirakan nilai target. Dari hasil prediksi ini, dapat menggunakan metrik akurasi untuk mengukur sejauh mana model berhasil dalam melakukan prediksi yang benar dari total hasil prediksi yang dilakukan. Akurasi menghitung jumlah prediksi yang benar dibandingkan dengan jumlah total data yang diprediksi.
+Confidence adalah ukuran tingkat kepercayaan model terhadap hasil prediksi tunggal. Confidence digunakan untuk memahami sejauh mana model yakin dengan prediksi tertentu. Sedangkan Hasil Prediksi adalah kondisi di mana model yang telah dilatih berhasil mengklasifikasikan atau memperkirakan nilai target. Dari hasil prediksi ini, metriks akurasi dapat digunakan untuk mengukur sejauh mana model berhasil dalam melakukan prediksi yang benar dari total hasil prediksi yang dilakukan. Akurasi menghitung jumlah prediksi yang benar dibandingkan dengan jumlah total data yang diprediksi.
 
 ## Performance Results for Digit 0
 ### Digit 0 - Top Position
