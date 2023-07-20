@@ -142,4 +142,4 @@ Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh Total 
 
 
 
-Digit 2 Posisi Atas Top Nomor 5
+Tabel 4. 17 Hasil Pengujian Digit 3 pada posisi Bawah
