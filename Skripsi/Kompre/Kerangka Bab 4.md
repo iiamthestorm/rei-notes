@@ -1,3 +1,4 @@
+## preface
 Sebelum sistem yang dibangun dipublikasikan, beberapa tahapan harus dilakukan untuk memastikan bahwa aplikasi telah benar-benar siap tanpa kesalahan.
 
 Pada bab ini, akan dibahas tentang hasil pengujian model. Evaluasi model dilakukan secara langsung dengan melakukan 10 kali pengujian pada 5 posisi yaitu atas (top), kiri (left), kanan (right), dan bawah (below) pada tiap digit secara manual melalui aplikasi yang telah diimplementasikan dengan model yang telah dibuat. Hasil dari setiap pengujian terdiri dari dua hal, yaitu Confidence dan Hasil Prediksi.
@@ -133,6 +134,11 @@ Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh Total 
 
 
 
+
+
+
+
+## dst
 
 
 
