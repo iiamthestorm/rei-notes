@@ -1,2 +1,2 @@
 Setelah melakukan penelitian, perancangan dan pengujian pada Aplikasi Klasifikasi Handwritten Digit, maka dapat diambil kesimpulan sebagai berikut :
-1. 
+1. Perbandingan Pre-Augmentasi dan Post-Augmentasi Model: Hasil pengujian menunjukkan bahwa post-augmentasi model secara keseluruhan mengungguli pre-augmentasi model dalam mengklasifikasikan digit dari posisi atas, bawah, kanan, dan kiri. Penggunaan teknik augmentasi data memberikan dampak positif pada akurasi pengklasifikasian, terutama pada posisi-posisi tersebut.
