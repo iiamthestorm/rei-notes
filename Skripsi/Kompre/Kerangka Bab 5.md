@@ -6,4 +6,4 @@ Setelah melakukan penelitian, perancangan dan pengujian pada Aplikasi Klasifikas
 Untuk peningkatan penelitian ke depannya, penulis menyarankan beberapa hal berikut, yaitu:
 1. Penelitian selanjutnya dapat menguji efektivitas augmentasi data dalam situasi sumber daya terbatas, seperti ketika jumlah data training terbatas. Evaluasi performa model dalam skenario seperti ini dapat memberikan insight dan pemahaman tentang penggunaan augmentasi data untuk mengatasi masalah overfitting.
 2. Selain Teknik augmentasi data yang sudah digunakan dalam skripsi ini, penelitian selanjutnya dapat mencari teknik augmentasi data yang lebih spesifik dan dioptimalkan untuk klasifikasi digit tulisan tangan. Misalnya, dengan mencoba teknik augmentasi data berbasis morfologi, seperti dilasi dan erosi, atau menggabungkan teknik augmentasi berbeda untuk menciptakan variasi data yang lebih diverse.
-3. 
+3. Penelitian selanjutnya dapat mengeksplorasi teknik optimasi model dan augmentasi data yang lebih canggih, seperti penggunaan teknik transfer learning atau optimasi hyperparameter untuk meningkatkan performa model.
