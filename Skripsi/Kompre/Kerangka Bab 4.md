@@ -142,5 +142,3 @@ Berdasarkan Total Benar Prediksi, model sebelum Pre-Augmentasi memperoleh Total 
 
 
 
-Tabel 4. 36 Hasil Pengujian Digit 7 pada posisi Atas 
-1 - 2
