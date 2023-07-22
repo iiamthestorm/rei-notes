@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e0fefebd1f334d71",
+        "id": "e2ed347dff253448",
         "type": "tabs",
         "children": [
           {
-            "id": "c5695427d85be741",
+            "id": "00b3e80dd79a5d59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skripsi/Kompre/Kerangka Bab 5.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -128,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Kompre/Kerangka Bab 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Kompre/Kerangka Bab 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Skripsi/Kompre/Kerangka Bab 5.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -184,11 +176,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c5695427d85be741",
+  "active": "00b3e80dd79a5d59",
   "lastOpenFiles": [
+    "Skripsi/Kompre/Kerangka Bab 5.md",
     "Skripsi/Kompre/Kerangka Bab 4.md",
     "Skripsi/Kompre/Alur sampai kompre.md",
-    "Skripsi/Kompre/Kerangka Bab 5.md",
     "Skripsi/Kompre/perhitungan halaman bab 4.md",
     "Skripsi/Kompre/Saran dari Bu Ana untuk Sempro Reihan.md",
     "Skripsi/Kompre/SEMPRO Revisi 5 Note.md",
