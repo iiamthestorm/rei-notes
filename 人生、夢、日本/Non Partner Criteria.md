@@ -6,7 +6,7 @@
 6. ~~Bangun Pagi/Subuh
 7. ~~Keluarga Harmonis/Tidak ada masalah
 8. Bisa Main Musik (1 at least)
-9. Suka Olahraga & Games
+9. ~~Suka Olahraga & Games
 10. ~~Tidak ada acara/aturan adat dalam pesta
 11. Keeping heart, promise, time to family
 12. ~~Tidak ada Penyakit bahaya/turunan
