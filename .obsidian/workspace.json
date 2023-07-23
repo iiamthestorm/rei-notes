@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e2ed347dff253448",
+        "id": "acdd25dfded3104f",
         "type": "tabs",
         "children": [
           {
-            "id": "00b3e80dd79a5d59",
+            "id": "556ba4aa7e0ed47c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/文法/ぶんぷろう/文プロのN4.md",
+                "file": "人生、夢、日本/日記/2023-07-23、日曜日.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/文法/ぶんぷろう/文プロのN4.md",
+                "file": "人生、夢、日本/日記/2023-07-23、日曜日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/文法/ぶんぷろう/文プロのN4.md",
+                "file": "人生、夢、日本/日記/2023-07-23、日曜日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/日本語勉強中/文法/ぶんぷろう/文プロのN4.md"
+                "file": "人生、夢、日本/日記/2023-07-23、日曜日.md"
               }
             }
           }
@@ -184,10 +184,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "00b3e80dd79a5d59",
+  "active": "556ba4aa7e0ed47c",
   "lastOpenFiles": [
-    "人生、夢、日本/日本語勉強中/文法/ぶんぷろう/文プロのん５.md",
+    "人生、夢、日本/日記/2023-07-23、日曜日.md",
     "人生、夢、日本/日本語勉強中/文法/ぶんぷろう/文プロのN4.md",
+    "人生、夢、日本/日本語勉強中/文法/ぶんぷろう/文プロのん５.md",
     "人生、夢、日本/日本語勉強中/文法/ぶんぷろう/ぶんぷろう.md",
     "人生、夢、日本/日本語勉強中/文法/いつまでも VS いつまででも.md",
     "人生、夢、日本/日本語勉強中/文法/いまび/いまびのん５.md",
@@ -211,7 +212,6 @@
     "人生、夢、日本/3D (Blender)/Progress/2023-07-01、土曜日.md",
     "Skripsi/Kompre/Revisi Bab 4 & 5.md",
     "Skripsi/Kompre/Alur sampai kompre.md",
-    "Skripsi/Kompre/Kerangka Bab 4.md",
     "attachment/Pasted image 20230706204844.png",
     "attachment/Pasted image 20230705222351.png",
     "attachment/Pasted image 20230705222224.png",
