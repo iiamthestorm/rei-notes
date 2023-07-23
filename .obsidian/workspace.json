@@ -11,8 +11,12 @@
             "id": "00b3e80dd79a5d59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Skripsi/Kompre/Alur sampai kompre.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -124,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Skripsi/Kompre/Alur sampai kompre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Skripsi/Kompre/Alur sampai kompre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Skripsi/Kompre/Alur sampai kompre.md"
+              }
             }
           }
         ],
@@ -178,13 +186,13 @@
   },
   "active": "00b3e80dd79a5d59",
   "lastOpenFiles": [
-    "Skripsi/Kompre/Kerangka Bab 5.md",
     "Skripsi/Kompre/Kerangka Bab 4.md",
-    "Skripsi/Kompre/Alur sampai kompre.md",
-    "Skripsi/Kompre/perhitungan halaman bab 4.md",
+    "Skripsi/Kompre/Kerangka Bab 5.md",
     "Skripsi/Kompre/Saran dari Bu Ana untuk Sempro Reihan.md",
-    "Skripsi/Kompre/SEMPRO Revisi 5 Note.md",
+    "Skripsi/Kompre/perhitungan halaman bab 4.md",
     "Skripsi/Kompre/SEMPRO Revisi 4 Note.md",
+    "Skripsi/Kompre/SEMPRO Revisi 5 Note.md",
+    "Skripsi/Kompre/Alur sampai kompre.md",
     "Skripsi/Judul Skripsi.md",
     "Skripsi/Referensi.md",
     "Skripsi/Done/Saran dari Bu Ause untuk Sempro Reihan (DONE).md",
