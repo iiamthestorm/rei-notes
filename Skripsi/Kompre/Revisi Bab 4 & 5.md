@@ -5,5 +5,5 @@
 4. ~~buat nomor rumus/formula dan merujuk ke bab 4
 
 # Revisi Bab 4 & 5
-1. Tabel per posisi
-2. 1 tabel berisi 
+- Tabel per posisi, total = 5 tabel
+| Digit | Percobaan | 
