@@ -6,4 +6,4 @@
 
 # Revisi Bab 4 & 5
 - Tabel per posisi, total = 5 tabel
-| Digit | Percobaan | 
+| Digit | Percobaan | Confidence >= 80 | Confidence < 80 | 
