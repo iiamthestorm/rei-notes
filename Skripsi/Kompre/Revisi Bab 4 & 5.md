@@ -8,7 +8,7 @@
 - Tabel per posisi, total = 5 tabel
 ## Top
 
-| Digit | Percobaan | Pre-augmentasi Berapa banyak yang Confidence >= 80 | Pre-augmentasi Berapa Banyak yang Confidence < 80 | Pre-augmentasi Berapa banyak yg benar | Pre-augmentasi Berapa banyak yg salah |
+| Digit | Percobaan | Pre-augmentasi Berapa banyak yang Confidence >= 80 | Pre-augmentasi Berapa Banyak yang Confidence < 80 | Pre-augmentasi Berapa banyak yg benar | Pre-augmentasi Berapa banyak yg salah | | Pre-augmentasi Berapa banyak yang Confidence >= 80 | Pre-augmentasi Berapa Banyak yang Confidence < 80 | Pre-augmentasi Berapa banyak yg benar | Pre-augmentasi Berapa banyak yg salah |
 | ----- | --------- | -------------------------------------------------- | ------------------------------------------------- | ------------------------------------- | ------------------------------------- |
 | 0     | 10        | 5                                                  | 5                                                 | 0                                     | 10                                    |
 | 1     | 10        |                                                    |                                                   |                                       |                                       |
