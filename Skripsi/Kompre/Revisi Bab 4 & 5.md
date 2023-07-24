@@ -8,9 +8,9 @@
 - Tabel per posisi, total = 5 tabel
 ## Top
 
-| Digit | Percobaan | Berapa banyak yang Confidence >= 80 | Berapa Banyak yang Confidence < 80 | Pre-augmentasi Berapa banyak yg benar | Berapa banyak yg salah |
+| Digit | Percobaan | Pre-augmentasi Berapa banyak yang Confidence >= 80 | Pre-augmentasi Berapa Banyak yang Confidence < 80 | Pre-augmentasi Berapa banyak yg benar | Pre-augmentasi Berapa banyak yg salah |
 | ----- | --------- | ----------------------------------- | ---------------------------------- | ---------------------- | ---------------------- |
-| 0     | 10        |                                     |                                    |            10            |                        |
+| 0     | 10        |                                     |                                    |            0            |          10              |
 | 1     | 10        |                                     |                                    |                        |                        |
 | 2     | 10        |                                     |                                    |                        |                        |
 | 3     | 10        |                                     |                                    |                        |                        |
