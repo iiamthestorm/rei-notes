@@ -1,0 +1,1 @@
+1. bab 2 tabel use case dibuat pake word.
