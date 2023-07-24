@@ -6,7 +6,15 @@
 
 # Revisi Bab 4 & 5
 - Tabel per posisi, total = 5 tabel
+## Left
 
 | Digit | Percobaan | Berapa banyak yang Confidence >= 80 | Berapa Banyak yang Confidence < 80 | Berapa banyak yg benar | Berapa banyak yg salah |
 | ----- | --------- | ----------------------------------- | ---------------------------------- | ---------------------- | ---------------------- |
-| 1     | 10        |                                     |                                    |                        |                        |
+| 0     | 10        |                                     |                                    |                        |                        |
+| 1     |           |                                     |                                    |                        |                        |
+| 2     |           |                                     |                                    |                        |                        |
+| 3     |           |                                     |                                    |                        |                        |
+| 4     |           |                                     |                                    |                        |                        |
+| 5     |           |                                     |                                    |                        |                        |
+| 6     |           |                                     |                                    |                        |                        |
+| 7      |           |                                     |                                    |                        |                        |
