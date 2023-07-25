@@ -10,8 +10,9 @@ surat yg perlu diminta ttd
 2. ~~lampiran pengesahan revisi seminar (belum diprint) (belum ttd)
 
 # Alur Turnitin
-- Turnitin 1 (Sudah)
-daftar https://docs.google.com/forms/d/e/1FAIpQLScooOO04E-h_Oa0HpkUk1yKEsFcVEhVBRGcObs8bBptvgO4VQ/viewform
+- ~~Turnitin 1 (Sudah)
+daftar : https://docs.google.com/forms/d/e/1FAIpQLScooOO04E-h_Oa0HpkUk1yKEsFcVEhVBRGcObs8bBptvgO4VQ/viewform
 ![[Pasted image 20230725104642.png]]
 ![[Pasted image 20230725104719.png]]
 - Turnitin 2
+daftar : https://docs.google.com/forms/d/e/1FAIpQLSfF-hM0TJEo6vBgZvjtFuw7cFvH7qTpas1X47-UytCqige-8g/viewform
