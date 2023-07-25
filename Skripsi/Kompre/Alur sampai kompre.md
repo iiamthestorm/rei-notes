@@ -24,9 +24,11 @@ daftar : https://docs.google.com/forms/d/e/1FAIpQLSfF-hM0TJEo6vBgZvjtFuw7cFvH7qT
 - Berita Acara Kompre
 
 # Hal yang harus dipersiapkan sebelum Kompre
+## 25 JULY 2023
 - Revisi BAB 4 SAMA 5 (BESOK DEADLINE)
+## 26 JULY 2023 
 - PRINT REVISI BAB 4 SAMA 5 BESOK PAGI
-- 
+- BIMBINGAN LAGI
 - BELAJAR KOMPRE
 - REVISI BAB 4 SAMA 5
 - Konsumsi 100rb
