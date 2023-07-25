@@ -16,3 +16,5 @@ daftar : https://docs.google.com/forms/d/e/1FAIpQLScooOO04E-h_Oa0HpkUk1yKEsFcVEh
 ![[Pasted image 20230725104719.png]]
 - Turnitin 2
 daftar : https://docs.google.com/forms/d/e/1FAIpQLSfF-hM0TJEo6vBgZvjtFuw7cFvH7qTpas1X47-UytCqige-8g/viewform
+
+# Kep
