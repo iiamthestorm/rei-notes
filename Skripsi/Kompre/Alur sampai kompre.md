@@ -9,5 +9,7 @@ surat yg perlu diminta ttd
 1. ~~ttd berita acara (udah diprint) (belum ttd)
 2. ~~lampiran pengesahan revisi seminar (belum diprint) (belum ttd)
 
-
-a
+# Alur Turnitin
+- Turnitin 1 (Sudah)
+![[Pasted image 20230725104642.png]]
+- Turnitin 2
