@@ -32,6 +32,6 @@ daftar : https://docs.google.com/forms/d/e/1FAIpQLSfF-hM0TJEo6vBgZvjtFuw7cFvH7qT
 - BELAJAR KOMPRE
 - Kasi Konsumsi 100rb
 - SURU PRINT SAMA KAKAK SKRIPSI 4 RANGKAP
-- 
+- SURU PRINT SAMA KAKAK 3 BUAH SURAT (di folder Kompre T)
 ## 27 JULY 2023
 - KOMPRE BITCH
