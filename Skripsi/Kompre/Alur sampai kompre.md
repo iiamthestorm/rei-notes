@@ -23,8 +23,10 @@ daftar : https://docs.google.com/forms/d/e/1FAIpQLSfF-hM0TJEo6vBgZvjtFuw7cFvH7qT
 - SK Penguji (masi di soaft)
 - Berita Acara Kompre
 
-# Hal yang harus dipersiapkan sebelum 
-- Buat PPT KOMPRE
+# Hal yang harus dipersiapkan sebelum Kompre
+- Revisi BAB 4 SAMA 5 (BESOK DEADLINE)
+- PRINT REVISI BAB 4 SAMA 5 BESOK PAGI
+- 
 - BELAJAR KOMPRE
 - REVISI BAB 4 SAMA 5
 - Konsumsi 100rb
