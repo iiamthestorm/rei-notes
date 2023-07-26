@@ -1,4 +1,4 @@
-- Confidence rumus
-- Kesimpulan (Confidence)
-- CNN Algoritma
-- tabel header
+- ~~Confidence rumus
+- ~~Kesimpulan (Confidence)
+- ~~CNN Algoritma
+- ~~tabel header
