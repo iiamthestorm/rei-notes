@@ -102,6 +102,11 @@ Model pre-augmentasi berhasil memprediksi digit 1 dan 2 dibandingkan dengan digi
 ### Post-Augmentasi
 Model post-augmentasi berhasil memprediksi semua digit dengan benar, terutama ketika confidence >= 80. Namun, hanya digit 2 yang memiliki rasio antara confidence >= 80 dan confidence < 80 pada prediksi benar yang sama, yaitu sebanyak 4 kali.
 
+## Kiri (Left)
+### Pre-Augmentasi
+Model pre-augmentasi gagal memprediksi semua digit dengan benar. Pada prediksi benar, tingkat confidence < 80 lebih banyak dibandingkan confidence >= 80. 
+
+### Post-Augmentasi
 
 
 
