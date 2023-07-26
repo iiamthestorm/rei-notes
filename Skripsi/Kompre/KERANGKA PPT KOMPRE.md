@@ -66,8 +66,8 @@ Namun, penggunaan CNN juga memiliki beberapa tantangan dan kelemahan, diantarany
 ![[Pasted image 20230315170355.png]]
 
 Teknik augmentasi data adalah teknik yang digunakan untuk menghasilkan data baru dari data yang ada dengan melakukan manipulasi atau modifikasi pada data tersebut. Beberapa contoh teknik augmentasi data pada gambar antara lain flipping, cropping, scaling, rotation. Dengan teknik augmentasi data, jumlah data yang tersedia untuk pelatihan model dapat ditingkatkan sehingga diharapkan model menjadi lebih akurat dan generalisasi dengan baik pada data yang belum pernah dilihat sebelumnya.
-# Desain Aplikasi
-![[Pasted image 20230315161816.png]]
+# Alur Desain Aplikasi
+
 Alur Desain aplikasi adalah :
 1. Pertama, kita membuka Google Colab, kemudian menggantinya menjadi runtime dengan akselerator GPU. Dengan menggunakan akselerator GPU, proses training data dapat dilakukan dengan lebih cepat.
 2. kemudian, kita panggil semua library yang diperlukan seperti TensorFlow, Numpy, Pandas, atau matplotlib.
