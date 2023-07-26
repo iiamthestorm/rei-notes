@@ -1,0 +1,3 @@
+- Confidence rumus
+- Kesimpulan (Confidence)
+- CNN Algoritma
