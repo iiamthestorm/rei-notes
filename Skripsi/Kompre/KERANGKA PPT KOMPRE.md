@@ -114,7 +114,13 @@ Model post-augmentasi berhasil memprediksi semua digit dengan benar, terutama ke
 Model pre-augmentasi berhasil memprediksi digit 2 dan 4 namun gagal dalam memprediksi 0, 1, 3, 5, 6, 7, 8, 9. Digit 2 dan 4 memiliki jumlah hasil prediksi benar dan confidence >= 80 lebih banyak daripada prediksi benar dan confidence < 80.
 
 ### Post-Augmentasi
+Model post-augmentasi berhasil memprediksi digit 0, 2, 3, 4, 5, 6, 7, 8 tetapi gagal dalam memprediksi digit 1 dan 9.
 
+## Tengah (Middle)
+### Pre-Augmentasi
+Model pre-augmentasi cukup berhasil memprediksi semua digit dengan benar.
+
+### Post-Augmentasi
 
 
 # Penutup
