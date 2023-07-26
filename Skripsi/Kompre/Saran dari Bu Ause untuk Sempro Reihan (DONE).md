@@ -9,7 +9,7 @@
 - liat berapa pixel each digit (collab), contoh ; liat 1 citra berapa shape nya/pixel nya
 
 ## buat step2 atau list step dalam pembuatan arsitektur cnn (Lihat Comment di Bab 3)
-1. **Import Libraries**: Langkah pertama adalah mengimpor library yang diperlukan untuk membangun dan melatih model CNN. Beberapa library yang umum digunakan adalah TensorFlow atau Keras, NumPy, dan lainnya.
+1. **Import Libraries**: Langkah pertama adalah mengimpor library yang diperlukan untuk membangun dan melatih model CNN. Beberapa library yang umum digunakan adalah TensorFlow atau Keras, NumPy, dan  matplotlib
 2. **Pra-Pemrosesan Data**: Data harus dipersiapkan sebelum digunakan dalam model CNN. Langkah ini melibatkan normalisasi data, pembagian data menjadi set pelatihan dan set validasi, serta pengubahan format data menjadi bentuk yang dapat diterima oleh model CNN.
 3. **Pembentukan Arsitektur Model**: Ini adalah langkah utama dalam membangun model CNN. Pada tahap ini, kita menentukan lapisan-lapisan yang akan digunakan dalam model, termasuk lapisan konvolusi, lapisan pooling, dan lapisan fully connected. Arsitektur model ini akan menentukan bagaimana informasi diproses dan bagaimana jaringan mempelajari representasi-fitur dari gambar.
 4. **Inisialisasi Model**: Model CNN perlu diinisialisasi sebelum pelatihan dimulai. Inisialisasi ini termasuk penentuan fungsi aktivasi, optimizer, dan fungsi kerugian (loss function) yang akan digunakan dalam proses pelatihan.
