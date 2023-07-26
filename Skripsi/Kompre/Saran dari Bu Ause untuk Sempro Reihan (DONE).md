@@ -6,4 +6,6 @@
 
 
 # Collab
-- iat berapa pixel each digit (collab), contoh ; liat 1 citra berapa shape nya/pixel nya
+- liat berapa pixel each digit (collab), contoh ; liat 1 citra berapa shape nya/pixel nya
+
+## buat step2 atau list step dalam pembuatan arsitektur cnn (Lihat Comment di Bab 3)
