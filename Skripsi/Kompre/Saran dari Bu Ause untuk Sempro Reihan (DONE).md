@@ -7,4 +7,5 @@
 - definisi Testing tidak perlu dijelaskan di bab 3
 
 
-- liat berapa pixel each digit (collab), contoh ; liat 1 citra berapa shape nya/pixel nya
+# Collab
+- iat berapa pixel each digit (collab), contoh ; liat 1 citra berapa shape nya/pixel nya
