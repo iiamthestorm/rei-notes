@@ -1,3 +1,4 @@
 - Confidence rumus
 - Kesimpulan (Confidence)
 - CNN Algoritma
+- tabel header
