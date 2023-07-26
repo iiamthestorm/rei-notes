@@ -18,8 +18,8 @@ daftar : https://docs.google.com/forms/d/e/1FAIpQLScooOO04E-h_Oa0HpkUk1yKEsFcVEh
 daftar : https://docs.google.com/forms/d/e/1FAIpQLSfF-hM0TJEo6vBgZvjtFuw7cFvH7qTpas1X47-UytCqige-8g/viewform
 
 # surat yang belum
-- Turnitin
-- Kartu Bimbingan
+- ~~Turnitin
+- ~~Kartu Bimbingan
 - SK Penguji (masi di soaft)
 - Berita Acara Kompre
 
@@ -28,8 +28,8 @@ daftar : https://docs.google.com/forms/d/e/1FAIpQLSfF-hM0TJEo6vBgZvjtFuw7cFvH7qT
 - ~~Revisi BAB 4 SAMA 5 (BESOK DEADLINE)
 ## 26 JULY 2023 
 - ~~PRINT REVISI BAB 4 SAMA 5 BESOK PAGI
-- BIMBINGAN LAGI
-- Kasi Konsumsi 100rb
+- ~~BIMBINGAN LAGI
+- ~~Kasi Konsumsi 100rb
 - SURU PRINT SAMA KAKAK SKRIPSI 4 RANGKAP
 - SURU PRINT SAMA KAKAK 3 BUAH SURAT (di folder Kompre Time), 3 3 buah
 - BELAJAR KOMPRE
