@@ -121,7 +121,7 @@ Model post-augmentasi berhasil memprediksi digit 0, 2, 3, 4, 5, 6, 7, 8 tetapi g
 Model pre-augmentasi cukup berhasil memprediksi semua digit dengan benar.
 
 ### Post-Augmentasi
-
+Model post-augmentasi sangat bagus dalam memprediksi semua digit dengan benar. Semua digit kecuali digit 6 mempunya tingkat confidence >= 80 yang sangat tinggi.
 
 # Penutup
 Baik itu adalah presentasi singkat dari saya.
