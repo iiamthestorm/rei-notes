@@ -83,7 +83,7 @@ Alur Desain aplikasi adalah :
 
 7.      Tahapan terakhir adalah _Testing_. Pada tahapan ini, testing dilakukan dengan menggambar digit menggunakan jari pada aplikasi yang telah dibangun di perangkat android, kemudian hasil klasifikasi digit tersebut dievaluasi untuk menentukan tingkat akurasi model.
 
-
+#    Hasil dan Pembahasan
 
 
 # Penutup
