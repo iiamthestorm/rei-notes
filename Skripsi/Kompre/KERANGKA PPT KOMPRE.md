@@ -67,15 +67,21 @@ Namun, penggunaan CNN juga memiliki beberapa tantangan dan kelemahan, diantarany
 
 Teknik augmentasi data adalah teknik yang digunakan untuk menghasilkan data baru dari data yang ada dengan melakukan manipulasi atau modifikasi pada data tersebut. Beberapa contoh teknik augmentasi data pada gambar antara lain flipping, cropping, scaling, rotation. Dengan teknik augmentasi data, jumlah data yang tersedia untuk pelatihan model dapat ditingkatkan sehingga diharapkan model menjadi lebih akurat dan generalisasi dengan baik pada data yang belum pernah dilihat sebelumnya.
 # Alur Desain Aplikasi
-
+![[Pasted image 20230726224226.png]]
 Alur Desain aplikasi adalah :
-1. Pertama, kita membuka Google Colab, kemudian menggantinya menjadi runtime dengan akselerator GPU. Dengan menggunakan akselerator GPU, proses training data dapat dilakukan dengan lebih cepat.
-2. kemudian, kita panggil semua library yang diperlukan seperti TensorFlow, Numpy, Pandas, atau matplotlib.
-3. Kemudian, dataset dimuat dari _library TensorFlow_ dengan menggunakan fungsi **`mnist.load_data()`** pada _sub-library_ **`keras.datasets`**.
-4. Kemudian, kita akan membuat dua model menggunakan bahasa pemrograman Python, yaitu model pre-augmentasi dan model post-augmentasi. Model pre-augmentasi adalah model yang tidak menggunakan data augmentasi alias hanya mentraining data asli. Model post-augmentasi adalah model yang menggunakan data augmentasi, data augmentasi dapat digunakan dengan _library_ **TensorFlow** pada sub-library keras.preprocessing.image.ImageDataGenerator.
-5. Setelah 2 model di training dan divalidasi, kita akan mulai mengkonversi model yang didapatkan dengan TensorFlow Lite. Hal ini dilakukan karena model yang biasanya dihasilkan setelah training tidak bisa dimuat ke dalam android, karena android memiliki keterbatasan dalam hal penyimpanan. 
-6. Kemudian, kita akan membuat source code untuk menampung model tf.lite yang telah kita download dengan bahasa pemrograman kotlin di Android Studio. Disini kita mulai membuat Komponen View untuk menampilkan halaman yang nantinya kita bisa gunakan untuk menginputkan/menggambarkan digit melalui jari kita.
+1.    Tahapan data preparasi digunakan untuk mengumpulkan data yang dibutuhkan. Langkah ini meliputi mengunggah dataset dari _Library TensorFlow_ ke platform _Google Colab_.
 
+2.    Tahapan EDA yang sering disebut dengan _Explanatory Data Analysis_ merupakan merupakan proses pemeriksaan dan pembersihan agar data siap dipakai. EDA biasanya dilakukan sebagai tahap awal dalam proses analisis data untuk membantu memandu analisis dan pemodelan selanjutnya. Pemanfaatan Augmentasi Data akan dilakukan di tahap ini. Langkah ini dilakukan di platform _Google Colab_.
+
+3.    Tahapan selanjutnya adalah pembuatan arsitektur model CNN dengan menentukan jumlah dari _convolutional layer_, _pooling layer_, _filter_ dan model _fully connected layer_ yang tersusun dari beberapa _layer_, setiap _layer_ memiliki beberapa _neuron_ yang saling berhubungan. Sistem memiliki 2 macam model yang akan dibuat, Pertama yaitu _Pre-Augmented model_ yang mana model ini dibuat tanpa menggunakan teknik Data Augmentasi. Kedua yaitu _Post-Augmented model_ yang mana model ini dibuat dengan menggunakan teknik Data Augmentasi. Langkah ini dilakukan di platform _Google Colab_.
+
+4.    Tahapan selanjutnya adalah _Training_, _Training_ merupakan tahapan yang penting dari keberhasilan sebuah sistem yang dibangun. Jika hasil dari tahapan ini bagus, maka kemungkinan besar sistem bekerja dengan baik. Output yang dihasilkan dari tahapan proses ini adalah sebuah _model fitting_ yang merupakan ciri ciri dari klasifikasi _handwritten digit image_. _Model fitting_ ini akan digunakan sebagai validasi dan perbandingan bobot dalam proses _testing_. Langkah ini dilakukan di platform _Google Colab_.
+
+5.    Tahapan selanjutnya adalah _Validating_. Tahapan ini bertujuan untuk mengetahui seberapa baik kinerja sistem dalam mengklasifikasikan _handwritten digit image_. Pada tahap _validation_, dilakukan proses validasi dengan melakukan perbandingan _model fitting_ yang didapat dari tahapan _training_ sebelumnya. Langkah ini dilakukan di platform _Google Colab_.
+
+6.      Tahapan selanjutnya yaitu melakukan konversi pada model dan mengintegrasikannya ke dalam platform Android dengan menggunakan _Library TensorFlow Lite_ dan _Android Studio_ menggunakan bahasa pemrograman _Kotlin_.
+
+7.      Tahapan terakhir adalah _Testing_. Pada tahapan ini, testing dilakukan dengan menggambar digit menggunakan jari pada aplikasi yang telah dibangun di perangkat android, kemudian hasil klasifikasi digit tersebut dievaluasi untuk menentukan tingkat akurasi model.
 
 
 
