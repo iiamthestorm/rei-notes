@@ -88,8 +88,11 @@ Evaluasi model dilakukan secara langsung dengan melakukan 10 kali pengujian pada
 
 Confidence adalah ukuran tingkat kepercayaan model terhadap hasil prediksi tunggal. Confidence digunakan untuk memahami sejauh mana model yakin dengan prediksi tertentu. Sedangkan hasil prediksi adalah kondisi di mana model yang telah dilatih berhasil mengklasifikasikan atau memperkirakan nilai target.
 
+## Pre-Augmentasi
+### Atas (Top)
+Model ini berhasil memprediksi digit 1 dan 3 dengan baik, terutama ketika Confidence >= 80. Namun, model ini mengalami kesulitan dalam memprediksi digit 0, 2, 4, 5, 6, 7, 8, dan 9 pada posisi atas.
 
-
+## Post-Augmentasi
 
 
 
