@@ -96,7 +96,8 @@ Model ini berhasil memprediksi digit 1 dan 3 dengan baik, terutama ketika Confid
 ### Post-Augmentasi
 Model ini memiliki performa yang baik dalam memprediksi sebagian besar digit dengan confidence >= 80. Namun, digit 2 memiliki prediksi yang benar sebanyak 5 kali, namun dengan confidence < 80, yang mana jumlahnya lebih banyak daripada prediksi yang benar dengan confidence >= 80 sebanyak 4 kali.
 
-
+## Bawah (Bottom)
+### 
 
 
 # Penutup
