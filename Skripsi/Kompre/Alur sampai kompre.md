@@ -25,9 +25,9 @@ daftar : https://docs.google.com/forms/d/e/1FAIpQLSfF-hM0TJEo6vBgZvjtFuw7cFvH7qT
 
 # Hal yang harus dipersiapkan sebelum Kompre
 ## 25 JULY 2023
-- Revisi BAB 4 SAMA 5 (BESOK DEADLINE)
+- ~~Revisi BAB 4 SAMA 5 (BESOK DEADLINE)
 ## 26 JULY 2023 
-- PRINT REVISI BAB 4 SAMA 5 BESOK PAGI
+- ~~PRINT REVISI BAB 4 SAMA 5 BESOK PAGI
 - BIMBINGAN LAGI
 - Kasi Konsumsi 100rb
 - SURU PRINT SAMA KAKAK SKRIPSI 4 RANGKAP
