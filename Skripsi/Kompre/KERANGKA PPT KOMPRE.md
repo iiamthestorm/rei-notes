@@ -83,8 +83,17 @@ Alur Desain aplikasi adalah :
 
 7.      Tahapan terakhir adalah _Testing_. Pada tahapan ini, testing dilakukan dengan menggambar digit menggunakan jari pada aplikasi yang telah dibangun di perangkat android, kemudian hasil klasifikasi digit tersebut dievaluasi untuk menentukan tingkat akurasi model.
 
-#    Hasil dan Pembahasan
+# Hasil dan Pembahasan
+Evaluasi model dilakukan secara langsung dengan melakukan 10 kali pengujian pada 5 posisi yaitu atas (top), kiri (left), kanan (right), dan bawah (below) pada tiap digit melalui aplikasi yang telah diimplementasikan dengan model yang telah dibuat. Hasil dari setiap pengujian terdiri dari dua hal, yaitu Confidence dan hasil prediksi.
+
+Confidence adalah ukuran tingkat kepercayaan model terhadap hasil prediksi tunggal. Confidence digunakan untuk memahami sejauh mana model yakin dengan prediksi tertentu. Sedangkan hasil prediksi adalah kondisi di mana model yang telah dilatih berhasil mengklasifikasikan atau memperkirakan nilai target.
+
+
+
+
+
+
 
 
 # Penutup
-Baik itu adalah presentasi singkat dari saya, izinkan saya untuk mendemokan aplikasi yang saya buat.
+Baik itu adalah presentasi singkat dari saya.
