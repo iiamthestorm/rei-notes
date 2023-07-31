@@ -30,4 +30,7 @@
 	- Pas Foto
 	- Pesan dan Kesan
 	- email ke : zulfadli@staff.uir.ac.id
-	- subject : F
+	- subject : Fail Pin Wisuda Reihan Maulana-193510037-0895614016403
+11. Upload Foto Wisuda 
+	- Pin Wisuda
+	- 
