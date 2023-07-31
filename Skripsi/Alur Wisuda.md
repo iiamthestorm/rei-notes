@@ -42,4 +42,12 @@
 	- Bebas Pustaka (jpg)
 	- Bebas Labor (jpg)
 	- KTP (jpg)
-13. 
+13. Pendaftaran di Fakultas
+	- Surat Pernyataan Daftar Online Wisuda
+	- KTP
+	- Transkrip Nilai Sikad
+	- Ijazah
+	- Bebas Pustaka 
+	- Bebas Labor (adm)
+	- Serah Terima skripsi
+	- 
