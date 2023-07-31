@@ -22,4 +22,10 @@
 8. Surat Bebas Pustaka
 	- Serahkan jilid skripsi dan burning CD 
 	- TTD surat serah terima skripsi
-- 
+9. Surat bebas labor (kepala labor/sekretaris prodi)
+10. Mendapatkan Pin Wisuda
+	- Transkrip Nilai
+	- Berita Acara
+	- KTM
+	- Pas Foto
+	- Pesan dan Kesan
