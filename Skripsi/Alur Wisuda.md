@@ -31,6 +31,9 @@
 	- Pesan dan Kesan
 	- email ke : zulfadli@staff.uir.ac.id
 	- subject : Fail Pin Wisuda Reihan Maulana-193510037-0895614016403
-11. Upload Foto Wisuda 
+11. Upload Foto Wisuda (Diverifikasi oleh BAAK)
 	- Pin Wisuda
-	- 
+	- Pas Foto Baju Putih Pakai Jas (Laki)
+	- Latar Merah
+	- Size Foto minimal 300kb (max 1mb)
+12. Dafta
