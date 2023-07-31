@@ -12,6 +12,11 @@
 5. Serah Terima Skripsi (TTD PEMBIMBING DAN PENGUJI)
 6. Lembar Pengesahan Penguji dan Pembimbing dan kaprodi dan jilid skripsi
 7. Input Nilai
-	- Berita Acara
-	- SK penguji
+	- Berita Acara (Udah keluar, belum ttd)
+	- SK penguji (udah keluar)
+	- SK pembimbing (udah keluar)
+	- Kartu Bimbingan (udah ada)
+	- Surat Turnitin (udah ada)
+	- Buku Cetak (belum ada)
+	- Laporan dan Bukti Upload Jurnal (belum ada)
 8. 
