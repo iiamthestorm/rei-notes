@@ -6,10 +6,10 @@
 
 # Alur
 1. Revisi (1 kali lagi)
-2. Buat Jurnal (bimbingan dan ttd lembar pernyataan )
+2. Buat Jurnal (bimbingan dan ttd lembar pernyataan dan publikasi sebagai bentuk ACC. Kemudian upload jurnal di web ITJRD dan TTD Bukti Upload Jurnal)
 3. Photo Studio (JAS, DASI, LATAR BELAKANG MERAH)
 4. TTD Berita Acara Meja Hijau (PENGUJI, PEMBIMBING, KAPRODI, DEKAN)
-5. Serah Terima Skripsi (TTD PEMBIMBING DAN PENGUJI)
+5. Serah Terima Skripsi (TTD PEMBIMBING DAN kapr)
 6. Lembar Pengesahan Penguji dan Pembimbing dan kaprodi dan jilid skripsi
 7. Input Nilai
 	- Berita Acara (Udah keluar, belum ttd)
