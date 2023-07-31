@@ -29,3 +29,5 @@
 	- KTM
 	- Pas Foto
 	- Pesan dan Kesan
+	- email ke : zulfadli@staff.uir.ac.id
+	- subject : F
