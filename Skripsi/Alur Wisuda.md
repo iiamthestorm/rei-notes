@@ -36,4 +36,10 @@
 	- Pas Foto Baju Putih Pakai Jas (Laki)
 	- Latar Merah
 	- Size Foto minimal 300kb (max 1mb)
-12. Dafta
+12. Daftar Online Wisuda (Isi data dan upload, dan diverifikasi oleh BAAK)
+	- Berita Acara (jpg)
+	- Ijazah (jpg)
+	- Bebas Pustaka (jpg)
+	- Bebas Labor (jpg)
+	- KTP (jpg)
+13. 
