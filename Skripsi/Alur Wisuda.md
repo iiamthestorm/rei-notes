@@ -50,4 +50,6 @@
 	- Bebas Pustaka 
 	- Bebas Labor (adm)
 	- Serah Terima skripsi
-	- 
+	- berita acara
+	- yudisium
+
