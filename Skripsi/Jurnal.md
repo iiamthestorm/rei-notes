@@ -23,3 +23,4 @@ Therefore, the author is developing an application that can fulfill the mentione
 2. CNNs algorithms require a large amount of training data to achieve good performance.
 3. The complexity of CNNs architecture necessitates representative training data from the data distribution to be tested.
 4. TFLite can only handle models of a relatively small size, so the model's size needs to be considered before converting it to an Android device.
+## Scope of Problem
