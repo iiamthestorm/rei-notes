@@ -12,3 +12,4 @@ NIDN. 1024077901
 
 
 Apri Siswanto, S.Kom, M.Kom, PhD
+![[Pasted image 20230803145824.png]]
