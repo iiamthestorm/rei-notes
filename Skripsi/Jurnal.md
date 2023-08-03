@@ -30,4 +30,3 @@ Therefore, the author is developing an application that can fulfill the mentione
 
 
 
-donwlod latex dan buat ulang.
