@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Jurnal",
+      "path": "Skripsi/Jurnal.md"
+    },
+    {
+      "basename": "Alur Wisuda",
+      "path": "Skripsi/Alur Wisuda.md"
+    },
+    {
       "basename": "Kerangka Bab 5",
       "path": "Skripsi/Done/Kompre/Kerangka Bab 5.md"
     },
     {
       "basename": "Judul Skripsi",
       "path": "Skripsi/Judul Skripsi.md"
-    },
-    {
-      "basename": "Alur Wisuda",
-      "path": "Skripsi/Alur Wisuda.md"
     },
     {
       "basename": "Referensi",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-07-06、木曜日",
       "path": "人生、夢、日本/3D (Blender)/Progress/2023-07-06、木曜日.md"
-    },
-    {
-      "basename": "2023-07-01、土曜日",
-      "path": "人生、夢、日本/3D (Blender)/Progress/2023-07-01、土曜日.md"
     }
   ],
   "omittedPaths": [],
