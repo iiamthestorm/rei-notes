@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Jurnal.md",
+                "file": "Skripsi/Alur Wisuda.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Jurnal.md",
+                "file": "Skripsi/Alur Wisuda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Jurnal.md",
+                "file": "Skripsi/Alur Wisuda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Jurnal.md"
+                "file": "Skripsi/Alur Wisuda.md"
               }
             }
           }
@@ -184,10 +184,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9dcf3e208f434302",
+  "active": "cbf4e86ab8a39257",
   "lastOpenFiles": [
-    "Skripsi/Alur Wisuda.md",
     "Skripsi/Jurnal.md",
+    "Skripsi/Alur Wisuda.md",
     "Skripsi/Judul Skripsi.md",
     "attachment/Pasted image 20230803145824.png",
     "Skripsi/Referensi.md",
