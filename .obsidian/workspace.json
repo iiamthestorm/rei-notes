@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Referensi.md",
+                "file": "Skripsi/Judul Skripsi.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Referensi.md",
+                "file": "Skripsi/Judul Skripsi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Referensi.md",
+                "file": "Skripsi/Judul Skripsi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Referensi.md"
+                "file": "Skripsi/Judul Skripsi.md"
               }
             }
           }
@@ -187,11 +187,11 @@
   "active": "cbf4e86ab8a39257",
   "lastOpenFiles": [
     "Skripsi/Jurnal.md",
+    "Skripsi/Referensi.md",
     "Skripsi/Done/Kompre/Kerangka Bab 5.md",
     "Skripsi/Judul Skripsi.md",
     "Skripsi/Alur Wisuda.md",
     "attachment/Pasted image 20230803145824.png",
-    "Skripsi/Referensi.md",
     "attachment/Pasted image 20230731132036.png",
     "Skripsi/Done/Sempro/Revisi 1 Note.md",
     "Skripsi/Done/Sempro/Kerangka Bab 2 (Minor Update).md",
