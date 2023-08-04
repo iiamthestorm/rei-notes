@@ -62,4 +62,5 @@ yang mau di kerjakan hari ini.
 4. Suruh TTD Berita Acara (Bu Ause)
 5. Suruh TTD Halaman Pengesahan Dewan Penguji Tugas Akhir (Bu Ana)
 6. Suruh TTD Halaman Pengesahan Dewan Penguji Tugas Akhir (Bu Ause)
-7. Foto (Pake Latar Belakang Merah, Pake Ja)
+7. Foto (Pake Latar Belakang Merah, Pake Jas)
+	- 
