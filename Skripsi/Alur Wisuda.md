@@ -64,4 +64,5 @@ yang mau di kerjakan hari ini.
 6. Suruh TTD Halaman Pengesahan Dewan Penguji Tugas Akhir (Bu Ause)
 7. Foto (Pake Latar Belakang Merah, Pake Jas)
 	- ![[Pasted image 20230804120752.png]]
+	- ![[Pasted image 20230804121547.png]]
 
