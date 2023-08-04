@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Judul Skripsi.md",
+                "file": "Skripsi/Alur Wisuda.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Judul Skripsi.md",
+                "file": "Skripsi/Alur Wisuda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Judul Skripsi.md",
+                "file": "Skripsi/Alur Wisuda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Judul Skripsi.md"
+                "file": "Skripsi/Alur Wisuda.md"
               }
             }
           }
@@ -186,8 +186,8 @@
   },
   "active": "cbf4e86ab8a39257",
   "lastOpenFiles": [
-    "Skripsi/Alur Wisuda.md",
     "Skripsi/Judul Skripsi.md",
+    "Skripsi/Alur Wisuda.md",
     "Skripsi/Referensi.md",
     "Skripsi/Jurnal.md",
     "Skripsi/Done/Kompre/Kerangka Bab 5.md",
