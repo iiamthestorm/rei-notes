@@ -70,3 +70,8 @@ yang mau di ttd
 2. Berita Acara
 3. Halaman Pengesahan Dewan Penguji Tugas Akhir
 4. Bukti Serah Terima Skripsi
+
+yg mau di print pagi ini
+1. Lembar Pernyataan dan Publikasi Sebagai Bentuk Acc
+2. Jurnal
+3. Bukti Serah Terima Skripsi
