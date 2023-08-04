@@ -1,5 +1,11 @@
 {
-  "calendarSources": [],
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "hsl( 254,  80%, calc( 68% - 3.8%))",
+      "directory": "Skripsi"
+    }
+  ],
   "defaultCalendar": 0,
   "firstDay": 1,
   "initialView": {

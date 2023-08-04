@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94dc95abd5579489",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +190,11 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "translate:Open translation view": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cbf4e86ab8a39257",
+  "active": "94dc95abd5579489",
   "lastOpenFiles": [
     "Skripsi/Judul Skripsi.md",
     "Skripsi/Alur Wisuda.md",
