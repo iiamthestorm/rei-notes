@@ -26,8 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f328f5419f47ff6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skripsi/Jurnal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md",
+                "file": "Skripsi/Jurnal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md",
+                "file": "Skripsi/Jurnal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md"
+                "file": "Skripsi/Jurnal.md"
               }
             }
           }
@@ -193,16 +206,19 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "94dc95abd5579489",
+  "active": "f328f5419f47ff6a",
   "lastOpenFiles": [
+    "Skripsi/Judul Skripsi.md",
+    "Skripsi/2023-08-21 URUS SYARAT WISUDA.md",
+    "Skripsi/Alur Wisuda.md",
+    "Skripsi/2023-08-14 URUS SYARAT WISUDA.md",
+    "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
     "Skripsi/2023-08-07 Urus Jurnal, Berita Acara, Pengesahan,.md",
     "Skripsi/2023-08-04 Revisi, TTD Bu Ause.md",
     "Skripsi/2023-08-04 Revisi, TTD Bu Ana.md",
-    "Skripsi/Alur Wisuda.md",
     "Skripsi/Jurnal.md",
     "Skripsi/2023-08-04 Revisi 1x Bu Ause .md",
     "Skripsi/2023-08-04 Revisi 1x Bu Ana.md",
-    "Skripsi/Judul Skripsi.md",
     "Skripsi/Referensi.md",
     "Skripsi/Done/Kompre/Kerangka Bab 5.md",
     "attachment/Pasted image 20230803145824.png",
@@ -220,10 +236,7 @@
     "Skripsi/Done/Kompre/Link Referensi.md",
     "Skripsi/Done/Kompre/KERANGKA PPT KOMPRE.md",
     "Skripsi/Done/Kompre/Kerangka Bab 4.md",
-    "Skripsi/Done/Kompre/Alur sampai kompre.md",
-    "Skripsi/Done/Sempro/Kerangka Bab 3.md",
     "attachment/Pasted image 20230726224226.png",
-    "Skripsi/Done/Sempro/KERANGKA PPT SEMPRO.md",
     "attachment/Pasted image 20230725104719.png",
     "attachment/Pasted image 20230725104642.png",
     "attachment/Pasted image 20230725104622.png",
