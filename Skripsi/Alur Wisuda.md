@@ -56,17 +56,10 @@
 
 # Jumat, 4 Agustus 2023
 yang mau di kerjakan hari ini.
-1. Suruh TTD Berita Acara (Bu Ana)
-2. Suruh TTD Berita Acara (Bu Ause)
-3. Suruh TTD Halaman Pengesahan Dewan Penguji Tugas Akhir (Bu Ana)
-4. Suruh TTD Halaman Pengesahan Dewan Penguji Tugas Akhir (Bu Ause)
-
-yang mau di ttd
-2. Berita Acara
-3. Halaman Pengesahan Dewan Penguji Tugas Akhir
-4. Bukti Serah Terima Skripsi
-
-yg mau di print pagi ini
-1. Lembar Pernyataan dan Publikasi Sebagai Bentuk Acc
-2. Jurnal
-3. Bukti Serah Terima Skripsi
+1. Revisi 1x Bu Ana
+2. Revisi 1x Bu Ause
+3. Suruh TTD Berita Acara (Bu Ana)
+4. Suruh TTD Berita Acara (Bu Ause)
+5. Suruh TTD Halaman Pengesahan Dewan Penguji Tugas Akhir (Bu Ana)
+6. Suruh TTD Halaman Pengesahan Dewan Penguji Tugas Akhir (Bu Ause)
+7. Foto (Pake Latar Belakang Merah, Pake Ja)
