@@ -64,7 +64,7 @@ yang mau di kerjakan hari ini.
 6. Suruh TTD Bukti Serah Terima Skripsi
 7. Upload Jurnal di tempat buk des
 8. TTD Bukti Upload Jurnal
-9. 
+
 yang mau di ttd
 1. Lembar Pernyataan dan Publikasi Sebagai Bentuk ACC
 2. Berita Acara
