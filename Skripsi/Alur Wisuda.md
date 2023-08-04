@@ -56,17 +56,12 @@
 
 # Jumat, 4 Agustus 2023
 yang mau di kerjakan hari ini.
-1. Liatin Jurnal ke Ibu Nesi
-2. Suruh ttd Lembar Pernyataan dan Publikasi Sebagai Bentuk ACC
-3. Suruh TTD Berita Acara
-4. Kirim SK Penguji
-5. Suruh TTD Halaman Pengesahan Dewan Penguji Tugas Akhir
-6. Suruh TTD Bukti Serah Terima Skripsi
-7. Upload Jurnal di tempat buk des
-8. TTD Bukti Upload Jurnal
+1. Suruh TTD Berita Acara (Bu Ana)
+2. Suruh TTD Berita Acara (Bu Ause)
+3. Suruh TTD Halaman Pengesahan Dewan Penguji Tugas Akhir (Bu Ana)
+4. Suruh TTD Halaman Pengesahan Dewan Penguji Tugas Akhir (Bu Ause)
 
 yang mau di ttd
-1. Lembar Pernyataan dan Publikasi Sebagai Bentuk ACC
 2. Berita Acara
 3. Halaman Pengesahan Dewan Penguji Tugas Akhir
 4. Bukti Serah Terima Skripsi
