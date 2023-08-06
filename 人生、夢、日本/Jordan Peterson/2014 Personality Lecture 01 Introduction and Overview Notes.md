@@ -1,3 +1,4 @@
 - for freud, if you weren't sick then you're healthy, but for existensialist, if you're human, then you're sick, why? because life offer tons of problems to you. it is once again the price that we pay in order to be conscious. life posses a paradoxical problems such :
 	- how do you live when you're mortal and vulnerable? or why is there suffering? how do you face against cruelty?
-	- Everyone is always evaluating you and you never be good enough, 
+	- Everyone is always evaluating you and you never be good enough, there is insufficience relationship between you and history itself. History as a judge to you.
+	- What to do about ourself? why have to improve ourself?
