@@ -1,1 +1,2 @@
-- for freud, if you weren't sick then you're healthy, but for existensialist, if you're human, then you're sick, why? because life offer tons of problems to you. it is once again the price that we pay in order to be conc
+- for freud, if you weren't sick then you're healthy, but for existensialist, if you're human, then you're sick, why? because life offer tons of problems to you. it is once again the price that we pay in order to be conscious.  
+- 
