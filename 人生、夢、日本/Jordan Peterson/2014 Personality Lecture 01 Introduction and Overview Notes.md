@@ -2,3 +2,4 @@
 	- how do you live when you're mortal and vulnerable? or why is there suffering? how do you face against cruelty?
 	- Everyone is always evaluating you and you never be good enough, there is insufficience relationship between you and history itself. History as a judge to you.
 	- What to do about ourself? why have to improve ourself?
+- 
