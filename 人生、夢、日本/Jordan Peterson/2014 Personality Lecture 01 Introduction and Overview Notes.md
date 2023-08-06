@@ -7,4 +7,5 @@
 - success is not in too much pain and anxiety. it is actually more important than being happy. people said wants to be happy but if you analyze what their means of happiness.. they would answer they want to not suffer and have anxiety except their lives would be boring because you can't have a live without suffering. suffering is the fundamental condition of human existence. 
 - course about personality by jordan peterson requires 2 things :
 	- You like discussing and knowing abstract ideas, because not everyone equipped with capability to perceive different ideas.
-	- You have to spentere's a fair bit of reading along the way, and mostly it's from classic literature and old mythologies.
+	- You have to spend your time reading. There's a fair bit of reading along the way, and mostly it's from classic literature and old mythologies.
+
