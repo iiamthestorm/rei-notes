@@ -4,3 +4,4 @@
 	- What to do about ourself? why have to improve ourself?
 - solution to paradoxical problems? meaning. what is the meaning of life? the meaning to life is the pattern thought and action that you take and that enables you to (at least) tolerate the conditions of life.
 -  Why chase happiness? happiness is not the right aim. It is manner of manifestation while you're journying. it is byproduct. 
+- success is not in too much pain and anxiety. it is actually more important than 
