@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md",
+                "file": "人生、夢、日本/Jordan Peterson/2014 Personality Lecture 01 Introduction and Overview Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5110321044922
+    "width": 235.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "8906746a4084a68f",
@@ -149,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md",
+                "file": "人生、夢、日本/Jordan Peterson/2014 Personality Lecture 01 Introduction and Overview Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md",
+                "file": "人生、夢、日本/Jordan Peterson/2014 Personality Lecture 01 Introduction and Overview Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md"
+                "file": "人生、夢、日本/Jordan Peterson/2014 Personality Lecture 01 Introduction and Overview Notes.md"
               }
             }
           }
@@ -208,11 +209,13 @@
   },
   "active": "f328f5419f47ff6a",
   "lastOpenFiles": [
+    "人生、夢、日本/Jordan Peterson/Self Authoring Program.md",
+    "人生、夢、日本/Jordan Peterson/2014 Personality Lecture 01 Introduction and Overview Notes.md",
+    "Skripsi/Alur Wisuda.md",
     "attachment/Pasted image 20230804121547.png",
     "attachment/Pasted image 20230804120752.png",
     "Skripsi/Referensi.md",
     "Skripsi/Judul Skripsi.md",
-    "Skripsi/Alur Wisuda.md",
     "Skripsi/Jurnal.md",
     "Skripsi/2023-08-21 URUS SYARAT WISUDA.md",
     "Skripsi/2023-08-14 URUS SYARAT WISUDA.md",
@@ -236,14 +239,12 @@
     "Skripsi/Done/Kompre/Revisi Bab 4 & 5 ke 2.md",
     "Skripsi/Done/Kompre/Revisi Bab 4 & 5 ke 1.md",
     "Skripsi/Done/Kompre/Link Referensi.md",
-    "Skripsi/Done/Kompre/KERANGKA PPT KOMPRE.md",
     "attachment/Pasted image 20230726224226.png",
     "attachment/Pasted image 20230725104719.png",
     "attachment/Pasted image 20230725104642.png",
     "attachment/Pasted image 20230725104622.png",
     "attachment/Pasted image 20230723163535.png",
     "attachment/Pasted image 20230723143254.png",
-    "attachment/Pasted image 20230723143225.png",
     "人生、夢、日本/Akun Gmail Bunpro Free Trial",
     "IT STUFF",
     "人生、夢、日本/forallx An Introduction to Formal Logic",
