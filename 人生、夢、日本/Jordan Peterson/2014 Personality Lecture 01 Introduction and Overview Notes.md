@@ -1,1 +1,1 @@
-- 
+- for freud, if you weren't sick then you're healthy, but for existensialist, if you're human, the
