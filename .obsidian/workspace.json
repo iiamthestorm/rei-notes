@@ -11,8 +11,12 @@
             "id": "94dc95abd5579489",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Skripsi/2023-08-21 URUS SYARAT WISUDA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -148,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/Jordan Peterson/2017 Personality 230.md",
+                "file": "Skripsi/2023-08-21 URUS SYARAT WISUDA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/Jordan Peterson/2017 Personality 230.md",
+                "file": "Skripsi/2023-08-21 URUS SYARAT WISUDA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/Jordan Peterson/2017 Personality 230.md"
+                "file": "Skripsi/2023-08-21 URUS SYARAT WISUDA.md"
               }
             }
           }
@@ -207,8 +211,11 @@
   },
   "active": "94dc95abd5579489",
   "lastOpenFiles": [
-    "Skripsi/Alur Wisuda.md",
     "人生、夢、日本/Jordan Peterson/2017 Personality 230.md",
+    "Skripsi/2023-08-21 URUS SYARAT WISUDA.md",
+    "Skripsi/2023-08-14 URUS SYARAT WISUDA.md",
+    "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
+    "Skripsi/Alur Wisuda.md",
     "人生、夢、日本/Jordan Peterson/2014 Personality Lecture 01 Introduction and Overview Notes.md",
     "人生、夢、日本/Jordan Peterson/Book that i have to read in order to understand JP Lecture..md",
     "人生、夢、日本/Jordan Peterson/Self Authoring Program.md",
@@ -217,9 +224,6 @@
     "Skripsi/Referensi.md",
     "Skripsi/Judul Skripsi.md",
     "Skripsi/Jurnal.md",
-    "Skripsi/2023-08-21 URUS SYARAT WISUDA.md",
-    "Skripsi/2023-08-14 URUS SYARAT WISUDA.md",
-    "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
     "Skripsi/2023-08-07 Urus Jurnal, Berita Acara, Pengesahan,.md",
     "Skripsi/2023-08-04 Revisi, TTD Bu Ause.md",
     "Skripsi/2023-08-04 Revisi, TTD Bu Ana.md",
