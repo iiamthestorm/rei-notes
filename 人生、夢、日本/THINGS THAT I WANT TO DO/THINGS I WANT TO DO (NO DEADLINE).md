@@ -1,7 +1,7 @@
 1. ~~UPLOAD ALL SISYPHUS MEME TO TWITTER
 2. WATCHING FIGHT CLUB
 3. WATCHING TONIKAKU KAWAI
-4. WATCHING ALL QUIET IN THE WESTE
+4. WATCHING ALL QUIET ON THE WESTERN FRONT
 
 
 MBTI IS CRINGE REDDIT:
@@ -13,3 +13,4 @@ https://www.reddit.com/r/CasualConversation/comments/pxz2k6/anyone_else_attracte
 
 NPC GUY FUNNY YT SHORT:
 https://www.youtube.com/shorts/X-M6xJGJt4I
+
