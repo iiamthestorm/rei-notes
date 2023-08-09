@@ -4,4 +4,5 @@ Done, it's great
 Derogatory is insulting or disrespectful.
 Inexhaustible is endless, infinite.
 
-Old story is inexhaustib
+Old story is inexhaustible.
+We look at old story and fairy tale not by derogatory views.
