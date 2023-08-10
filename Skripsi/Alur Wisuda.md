@@ -3,7 +3,7 @@
 - ~~Surat SK Penguji (Sudah keluar)
 - Surat Pernyataan Naskah Publikasi
 - Surat Serah Terima Skripsi
-- 
+- Surat Upload Bukti Jurnal
 
 ![[Pasted image 20230731132036.png]]
 
