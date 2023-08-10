@@ -1,6 +1,8 @@
 # Surat Yang belum
 - ~~Surat Berita Acara (Sudah Keluar) (Belum di ttd)
 - ~~Surat SK Penguji (Sudah keluar)
+- Surat Pernyataan Naskah Publikasi
+- 
 
 ![[Pasted image 20230731132036.png]]
 
