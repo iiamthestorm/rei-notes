@@ -24,33 +24,33 @@
 	- TTD surat serah terima skripsi
 9. Surat bebas labor (kepala labor/sekretaris prodi)
 10. Mendapatkan Pin Wisuda
-	- Transkrip Nilai
-	- Berita Acara
+	- ~~Transkrip Nilai
+	- ~~Berita Acara
 	- ~~KTM
-	- Pas Foto
+	- ~~Pas Foto
 	- Pesan dan Kesan
 	- email ke : zulfadli@staff.uir.ac.id
 	- subject : Fail Pin Wisuda Reihan Maulana-193510037-0895614016403
 11. Upload Foto Wisuda (Diverifikasi oleh BAAK)
 	- Pin Wisuda
-	- Pas Foto Baju Putih Pakai Jas (Laki)
-	- Latar Merah
-	- Size Foto minimal 300kb (max 1mb)
+	- ~~Pas Foto Baju Putih Pakai Jas (Laki)
+	- ~~Latar Merah
+	- ~~Size Foto minimal 300kb (max 1mb)
 12. Daftar Online Wisuda (Isi data dan upload, dan diverifikasi oleh BAAK)
-	- Berita Acara (jpg)
+	- ~~Berita Acara (jpg)
 	- Ijazah (jpg)
 	- Bebas Pustaka (jpg)
 	- Bebas Labor (jpg)
-	- KTP (jpg)
+	- ~~KTP (jpg)
 13. Pendaftaran di Fakultas
 	- Surat Pernyataan Daftar Online Wisuda
 	- KTP
-	- Transkrip Nilai Sikad
+	- ~~Transkrip Nilai Sikad
 	- Ijazah
 	- Bebas Pustaka 
 	- Bebas Labor (adm)
 	- Serah Terima skripsi
-	- berita acara
+	- ~~berita acara
 	- yudisium
 
 
@@ -65,4 +65,5 @@ yang mau di kerjakan hari ini.
 7. ~~Foto (Pake Latar Belakang Merah, Pake Jas)
 	- ![[Pasted image 20230804120752.png]]
 	- ![[Pasted image 20230804121547.png]]
+
 

@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md",
+                "file": "Skripsi/Jurnal Revisi 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md",
+                "file": "Skripsi/Jurnal Revisi 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md"
+                "file": "Skripsi/Jurnal Revisi 1.md"
               }
             }
           }
@@ -206,10 +206,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3edf0fc23ab996c6",
+  "active": "f328f5419f47ff6a",
   "lastOpenFiles": [
-    "Skripsi/Jurnal Revisi 1.md",
     "Skripsi/Alur Wisuda.md",
+    "Skripsi/Jurnal Revisi 1.md",
     "Skripsi/Judul Skripsi.md",
     "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
     "Skripsi/2023-08-14 URUS SYARAT WISUDA.md",
