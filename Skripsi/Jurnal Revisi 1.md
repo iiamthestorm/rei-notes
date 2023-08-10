@@ -1,7 +1,6 @@
 benar
-3 top (pre)
-3 top (pre)
-7 top (pre)
+3 top (pre) = 2x
+7 top (pre) =
 
 0 bottom (post)
 1 bottom (post)
