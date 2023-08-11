@@ -81,4 +81,10 @@ yang mau di kerjakan hari ini.
 - ~~Berita Acara Kompre
 
 # 2. Surat Bebas Pustaka
-- Jilid Skripsi 
+- Jilid Skripsi, lengkap dengan:
+	- Kartu Bimbingan
+	- Pengesahan Pembimbing
+	- Pengesahan Kompre
+	- SK penguji
+	- Plagiat
+	- 
