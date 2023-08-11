@@ -111,4 +111,7 @@ yang mau di kerjakan hari ini.
 - Upload PasFoto Ijazah ke https://foto.alumni.uir.ac.id/login.php
 - Setelah PasFoto valid lalu, daftar ke https://alumni.uir.ac.id/online/utama
 	- Berita Acara Kompre
-	- 
+	- Transkrip Nilai Final
+	- Bebas Pustaka
+	- Bebas Labor
+	- PasFoto Ijazah
