@@ -6,7 +6,6 @@
 - Surat Bebas Labor
 - Surat Serah Terima Skripsi
 - Surat Bebas Pustaka
-- 
 
 ![[Pasted image 20230731132036.png]]
 
