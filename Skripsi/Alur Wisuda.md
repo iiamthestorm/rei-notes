@@ -110,8 +110,8 @@ yang mau di kerjakan hari ini.
 # 5. Daftar Wisuda Online setelah dapat PIN
 - Upload PasFoto Ijazah ke https://foto.alumni.uir.ac.id/login.php
 - Setelah PasFoto valid lalu, daftar ke https://alumni.uir.ac.id/online/utama
-	- Berita Acara Kompre
-	- Transkrip Nilai Final
+	- ~~Berita Acara Kompre
+	- ~~Transkrip Nilai Final
 	- Bebas Pustaka
 	- Bebas Labor
 	- PasFoto Ijazah / Fotocopy Ijazah SMA
@@ -120,7 +120,7 @@ yang mau di kerjakan hari ini.
 # 6. Daftar Wisuda Ke Fakultas setelah dapat Surat Pernyataan Daftar Wisuda Online
 - Surat Pernyataan Daftar Wisuda Online
 - Fotocopy KTP
-- Transkrip Nilai Sikad
+- ~~Transkrip Nilai Sikad
 - Fotocopy Ijazah SMA
 - Surat Bebas Pustaka
 - Surat Bebas Labor
