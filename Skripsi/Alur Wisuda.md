@@ -92,4 +92,8 @@ yang mau di kerjakan hari ini.
 - Burning CD
 - Surat Serah Terima Skripsi
 
-#
+# 3. Surat Bebas Labor
+- Surat Berita Acara Kompre
+- Surat Bukti Upload Jurnal
+
+# 4. 
