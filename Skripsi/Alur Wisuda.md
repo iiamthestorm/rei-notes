@@ -78,12 +78,12 @@ yang mau di kerjakan hari ini.
 - Bukti Upload Jurnal
 
 # 2. Syarat Input Nilai & Surat Bebas Labor
-- SK Penguji
-- SK Pembimbing
-- Kartu Bimbingan
-- Surat Turnitin/Surat Plagiat
+- ~~SK Penguji
+- ~~SK Pembimbing
+- ~~Kartu Bimbingan
+- ~~Surat Turnitin/Surat Plagiat
 - Buku Cetak
-- Surat Berita Acara Kompre (Surat Bebas Labor)
+- ~~Surat Berita Acara Kompre (Surat Bebas Labor)
 - Surat Bukti Upload Jurnal (Surat Bebas Labor)
 
 # 3. Surat Bebas Pustaka
