@@ -7,23 +7,7 @@
 - Surat Serah Terima Skripsi
 - Surat Bebas Pustaka
 
-![[Pasted image 20230731132036.png]]
-
-# Jumat, 4 Agustus 2023
-yang mau di kerjakan hari ini.
-1. ~~Revisi 1x Bu Ana
-2. ~~Revisi 1x Bu Ause
-3. ~~Suruh TTD Berita Acara (Bu Ana)
-4. ~~Suruh TTD Berita Acara (Bu Ause)
-5. ~~Suruh TTD Halaman Pengesahan Dewan Penguji Tugas Akhir (Bu Ana)
-6. ~~Suruh TTD Halaman Pengesahan Dewan Penguji Tugas Akhir (Bu Ause)
-7. ~~Foto (Pake Latar Belakang Merah, Pake Jas)
-	- ![[Pasted image 20230804120752.png]]
-	- ![[Pasted image 20230804121547.png]]
-
-
-
-
+# Alur
 ## 1. Jurnal
 - Revisi
 - Surat Pernyataan Naskah Publikasi
