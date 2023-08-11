@@ -117,6 +117,13 @@ yang mau di kerjakan hari ini.
 	- PasFoto Ijazah
 	- KTP
 
-# 6. Daftar Wisuda Ke Fakultas
+# 6. Daftar Wisuda Ke Fakultas setelah dapat Surat Pernyataan Daftar Wisuda Online
 - Surat Pernyataan Daftar Wisuda Online
-- 
+- KTP
+- Transkrip Nilai Sikad
+- PasFoto Ijazah
+- Bebas Pustaka
+- Bebas Labor
+- Surat Serah Terima Skripsi
+- Berita Acara
+- Yudis
