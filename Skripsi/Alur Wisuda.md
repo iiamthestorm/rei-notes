@@ -73,8 +73,11 @@ yang mau di kerjakan hari ini.
 
 
 # 1. Pin Wisuda
-- Foto
-- Kalimat singkat
-- Surat Keterangan Bebas Plagiarisme
-- Scan KTM
-- Scan
+- ~~Foto
+- ~~Kalimat singkat
+- ~~Surat Keterangan Bebas Plagiarisme
+- ~~Scan KTM
+- ~~Transkrip Nilai
+- ~~Berita Acara Kompre
+
+# 
