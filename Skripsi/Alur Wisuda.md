@@ -114,7 +114,7 @@ yang mau di kerjakan hari ini.
 	- Transkrip Nilai Final
 	- Bebas Pustaka
 	- Bebas Labor
-	- PasFoto Ijazah
+	- PasFoto Ijazah / Fotocopy Ijazah SMA
 	- KTP
 
 # 6. Daftar Wisuda Ke Fakultas setelah dapat Surat Pernyataan Daftar Wisuda Online
