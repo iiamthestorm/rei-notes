@@ -77,15 +77,26 @@ yang mau di kerjakan hari ini.
 - Surat Pernyataan Naskah Publikasi
 - Bukti Upload Jurnal
 
-# 2. Surat Bebas Labor & Syarat Input Nilai
+# 2. Syarat Input Nilai & Surat Bebas Labor
 - SK Penguji
 - SK Pembimbing
 - Kartu Bimbingan
 - Surat Turnitin/Surat Plagiat
 - Buku Cetak
-- Surat Berita Acara Kompre
-- Surat Bukti Upload Jurnal
+- Surat Berita Acara Kompre (Surat Bebas Labor)
+- Surat Bukti Upload Jurnal (Surat Bebas Labor)
 
+# 3. Surat Bebas Pustaka
+- Jilid Skripsi, lengkap dengan:
+	- Kartu Bimbingan
+	- Pengesahan Pembimbing
+	- Pengesahan Kompre
+	- SK pembimbing
+	- SK penguji
+	- Plagiat
+	- BA
+- Burning CD
+- Surat Serah Terima Skripsi
 
 # 3. Pin Wisuda
 - ~~Foto
