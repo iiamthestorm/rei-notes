@@ -108,4 +108,5 @@ yang mau di kerjakan hari ini.
 - Bebas Pustaka
 
 # 5. Daftar Wisuda Online setelah dapat PIN
+- Upload Foto ke https://foto.alumni.uir.ac.id/login.php
 - 
