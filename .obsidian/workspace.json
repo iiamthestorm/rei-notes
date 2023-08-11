@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "3edf0fc23ab996c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skripsi/Alur Wisuda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f328f5419f47ff6a",
             "type": "leaf",
             "state": {
@@ -40,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
