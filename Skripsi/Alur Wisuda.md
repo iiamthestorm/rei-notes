@@ -79,6 +79,7 @@ yang mau di kerjakan hari ini.
 - ~~Scan KTM
 - ~~Transkrip Nilai
 - ~~Berita Acara Kompre
+- Bebas Pustaka
 
 # 2. Surat Bebas Pustaka
 - Jilid Skripsi, lengkap dengan:
