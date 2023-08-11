@@ -85,6 +85,11 @@ yang mau di kerjakan hari ini.
 	- Kartu Bimbingan
 	- Pengesahan Pembimbing
 	- Pengesahan Kompre
+	- SK pembimbing
 	- SK penguji
 	- Plagiat
-	- 
+	- BA
+- Burning CD
+- Surat Serah Terima Skripsi
+
+#
