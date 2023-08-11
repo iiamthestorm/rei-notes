@@ -2,8 +2,11 @@
 - ~~Surat Berita Acara (Sudah Keluar) (Belum di ttd)
 - ~~Surat SK Penguji (Sudah keluar)
 - Surat Pernyataan Naskah Publikasi
-- Surat Serah Terima Skripsi
 - Surat Upload Bukti Jurnal
+- Surat Bebas Labor
+- Surat Serah Terima Skripsi
+- Surat Bebas Pustaka
+- 
 
 ![[Pasted image 20230731132036.png]]
 
@@ -125,6 +128,6 @@ yang mau di kerjakan hari ini.
 - Surat Bebas Pustaka
 - Surat Bebas Labor
 - Surat Serah Terima Skripsi
-- Berita Acara Kompre
+- ~~Berita Acara Kompre
 - Bukti Membayar Yudisium (400.000)
 Semua syarat dimasukkan kedalam Map Pink Fakultas
