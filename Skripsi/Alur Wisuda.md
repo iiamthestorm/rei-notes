@@ -115,3 +115,6 @@ yang mau di kerjakan hari ini.
 	- Bebas Pustaka
 	- Bebas Labor
 	- PasFoto Ijazah
+	- KTP
+
+# 6. Daftar
