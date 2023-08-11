@@ -73,10 +73,12 @@ yang mau di kerjakan hari ini.
 
 
 # 1. Jurnal
+- Revisi
 - Surat Pernyataan Naskah Publikasi
-- 
-
-
+- Bukti Upload Jurnal
+# 2. Surat Bebas Labor
+- Surat Berita Acara Kompre
+- Surat Bukti Upload Jurnal
 # 1. Pin Wisuda
 - ~~Foto
 - ~~Kalimat singkat
@@ -98,8 +100,6 @@ yang mau di kerjakan hari ini.
 - Burning CD
 - Surat Serah Terima Skripsi
 
-# 3. Surat Bebas Labor
-- Surat Berita Acara Kompre
-- Surat Bukti Upload Jurnal
+
 
 # 4. 
