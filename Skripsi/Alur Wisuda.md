@@ -76,13 +76,18 @@ yang mau di kerjakan hari ini.
 - Revisi
 - Surat Pernyataan Naskah Publikasi
 - Bukti Upload Jurnal
+
 # 2. Surat Bebas Labor & Syarat Input Nilai
 - SK Penguji
 - SK Pembimbing
-- 
+- Kartu Bimbingan
+- Surat Turnitin/Surat Plagiat
+- Buku Cetak
 - Surat Berita Acara Kompre
 - Surat Bukti Upload Jurnal
-# 1. Pin Wisuda
+
+
+# 3. Pin Wisuda
 - ~~Foto
 - ~~Kalimat singkat
 - ~~Surat Keterangan Bebas Plagiarisme
@@ -91,17 +96,7 @@ yang mau di kerjakan hari ini.
 - ~~Berita Acara Kompre
 - Bebas Pustaka
 
-# 2. Surat Bebas Pustaka
-- Jilid Skripsi, lengkap dengan:
-	- Kartu Bimbingan
-	- Pengesahan Pembimbing
-	- Pengesahan Kompre
-	- SK pembimbing
-	- SK penguji
-	- Plagiat
-	- BA
-- Burning CD
-- Surat Serah Terima Skripsi
+
 
 
 
