@@ -80,4 +80,5 @@ yang mau di kerjakan hari ini.
 - ~~Transkrip Nilai
 - ~~Berita Acara Kompre
 
-# 
+# 2. Surat Bebas Pustaka
+- Jilid Skripsi 
