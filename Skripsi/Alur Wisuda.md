@@ -72,6 +72,11 @@ yang mau di kerjakan hari ini.
 
 
 
+# 1. Jurnal
+- Surat Pernyataan Naskah Publikasi
+- 
+
+
 # 1. Pin Wisuda
 - ~~Foto
 - ~~Kalimat singkat
