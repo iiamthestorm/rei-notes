@@ -98,7 +98,7 @@ yang mau di kerjakan hari ini.
 - Burning CD
 - Surat Serah Terima Skripsi
 
-# 3. Pin Wisuda
+# 4. Pin Wisuda
 - ~~Foto
 - ~~Kalimat singkat
 - ~~Surat Keterangan Bebas Plagiarisme
@@ -107,8 +107,5 @@ yang mau di kerjakan hari ini.
 - ~~Berita Acara Kompre
 - Bebas Pustaka
 
-
-
-
-
-# 4. 
+# 5. Daftar Wisuda Online setelah dapat PIN
+- 
