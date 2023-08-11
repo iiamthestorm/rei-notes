@@ -76,7 +76,10 @@ yang mau di kerjakan hari ini.
 - Revisi
 - Surat Pernyataan Naskah Publikasi
 - Bukti Upload Jurnal
-# 2. Surat Bebas Labor
+# 2. Surat Bebas Labor & Syarat Input Nilai
+- SK Penguji
+- SK Pembimbing
+- 
 - Surat Berita Acara Kompre
 - Surat Bukti Upload Jurnal
 # 1. Pin Wisuda
