@@ -123,7 +123,8 @@ yang mau di kerjakan hari ini.
 - Transkrip Nilai Sikad
 - Fotocopy Ijazah SMA
 - Surat Bebas Pustaka
-- Bebas Labor
+- Surat Bebas Labor
 - Surat Serah Terima Skripsi
-- Berita Acara
-- Yudisium (400.000)
+- Berita Acara Kompre
+- Bukti Membayar Yudisium (400.000)
+Semua syarat dimasukkan kedalam Map Pink Fakultas
