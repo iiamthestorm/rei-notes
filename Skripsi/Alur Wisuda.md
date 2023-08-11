@@ -26,14 +26,14 @@
 	- Serahkan jilid skripsi dan burning CD 
 	- TTD surat serah terima skripsi
 9. Surat bebas labor (kepala labor/sekretaris prodi)
-10. Mendapatkan Pin Wisuda
+10. ~~Mendapatkan Pin Wisuda
 	- ~~Transkrip Nilai
 	- ~~Berita Acara
 	- ~~KTM
 	- ~~Pas Foto
-	- Pesan dan Kesan
-	- email ke : zulfadli@staff.uir.ac.id
-	- subject : Fail Pin Wisuda Reihan Maulana-193510037-0895614016403
+	- ~~Pesan dan Kesan
+	- ~~email ke : zulfadli@staff.uir.ac.id
+	- ~~subject : Fail Pin Wisuda Reihan Maulana-193510037-0895614016403
 11. Upload Foto Wisuda (Diverifikasi oleh BAAK)
 	- Pin Wisuda
 	- ~~Pas Foto Baju Putih Pakai Jas (Laki)
@@ -70,3 +70,11 @@ yang mau di kerjakan hari ini.
 	- ![[Pasted image 20230804121547.png]]
 
 
+
+
+# 1. Pin Wisuda
+- Foto
+- Kalimat singkat
+- Surat Keterangan Bebas Plagiarisme
+- Scan KTM
+- Scan
