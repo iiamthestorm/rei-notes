@@ -9,7 +9,8 @@
 9. WATCH DANSHI KOKOUSEI NO NICHIJOU https://www.instagram.com/p/CvuIMIgr0l0/
 10. WATCH the tunnel to summer, the exit of goodbyes https://www.instagram.com/p/CvZ7-mdICyf/
 11. WATCH taishou otome otogibanashi https://www.instagram.com/p/Ctx396uOh78/
-12. 
+12. WATCH Serial Experiments Lain https://www.instagram.com/p/Cva47XQIWIa/
+13. 
 
 
 MBTI IS CRINGE REDDIT:
