@@ -5,6 +5,10 @@
       "path": "Skripsi/Alur Wisuda.md"
     },
     {
+      "basename": "Referensi",
+      "path": "Skripsi/Referensi.md"
+    },
+    {
       "basename": "Judul Skripsi",
       "path": "Skripsi/Judul Skripsi.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Book that i have to read in order to understand JP Lecture.",
       "path": "人生、夢、日本/Jordan Peterson/Book that i have to read in order to understand JP Lecture..md"
-    },
-    {
-      "basename": "Referensi",
-      "path": "Skripsi/Referensi.md"
     },
     {
       "basename": "2023-08-07 URUS SYARAT WISUDA",
