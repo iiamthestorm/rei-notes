@@ -1,17 +1,17 @@
 # Surat Yang belum
 - ~~Surat Berita Acara (Sudah Keluar) (Belum di ttd)
 - ~~Surat SK Penguji (Sudah keluar)
-- Surat Pernyataan Naskah Publikasi
-- Surat Upload Bukti Jurnal
+- ~~Surat Pernyataan Naskah Publikasi
+- ~~Surat Upload Bukti Jurnal
 - Surat Bebas Labor
 - Surat Serah Terima Skripsi
 - Surat Bebas Pustaka
 
 # Alur
 ## 1. Jurnal
-- Revisi
-- Surat Pernyataan Naskah Publikasi
-- Bukti Upload Jurnal
+- ~~Revisi
+- ~~Surat Pernyataan Naskah Publikasi
+- ~~Bukti Upload Jurnal
 
 ## 2. Syarat Input Nilai & Surat Bebas Labor
 - ~~SK Penguji
@@ -20,7 +20,7 @@
 - ~~Surat Turnitin/Surat Plagiat
 - Buku Cetak
 - ~~Surat Berita Acara Kompre (Surat Bebas Labor)
-- Surat Bukti Upload Jurnal (Surat Bebas Labor)
+- ~~Surat Bukti Upload Jurnal (Surat Bebas Labor)
 
 ## 3. Surat Bebas Pustaka
 - Jilid Skripsi, lengkap dengan:
