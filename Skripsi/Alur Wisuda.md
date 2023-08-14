@@ -21,18 +21,18 @@
 - Buku Cetak
 - ~~Surat Berita Acara Kompre (Surat Bebas Labor)
 - ~~Surat Bukti Upload Jurnal (Surat Bebas Labor)
-- Burning CD
+- ~~Burning CD
 
 ## 3. Surat Bebas Pustaka
 - Jilid Skripsi, lengkap dengan:
-	- Kartu Bimbingan
-	- Pengesahan Pembimbing
-	- Pengesahan Kompre
-	- SK pembimbing
-	- SK penguji
-	- Plagiat
-	- BA
-- Burning CD
+	- ~~Kartu Bimbingan
+	- ~~Pengesahan Pembimbing
+	- ~~Pengesahan Kompre
+	- ~~SK pembimbing
+	- ~~SK penguji
+	- ~~Plagiat
+	- ~~BA
+- ~~Burning CD
 - Surat Serah Terima Skripsi
 
 ## 4. Pin Wisuda setelah dapat Surat Bebas Pustaka
