@@ -18,7 +18,7 @@
 - ~~SK Pembimbing
 - ~~Kartu Bimbingan
 - ~~Surat Turnitin/Surat Plagiat
-- Buku Cetak
+- ~~Buku Cetak
 - ~~Surat Berita Acara Kompre (Surat Bebas Labor)
 - ~~Surat Bukti Upload Jurnal (Surat Bebas Labor)
 - ~~Burning CD
