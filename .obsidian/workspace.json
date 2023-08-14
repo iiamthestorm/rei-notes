@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/漫画とアニメ that i have to follow.md",
+                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/漫画とアニメ that i have to follow.md",
+                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/漫画とアニメ that i have to follow.md"
+                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md"
               }
             }
           }
@@ -206,10 +206,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2c42978dbac3b25e",
+  "active": "f328f5419f47ff6a",
   "lastOpenFiles": [
-    "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
     "人生、夢、日本/漫画とアニメと映画/漫画とアニメ that i have to follow.md",
+    "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
     "Skripsi/Judul Skripsi.md",
     "Skripsi/Alur Wisuda.md",
     "Skripsi/Referensi.md",
