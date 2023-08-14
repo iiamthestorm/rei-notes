@@ -1,3 +1,3 @@
-- Boku no Kokoro no yabai yatsu
+- 僕の心のヤバイやつ
 - Blooming Love (半人前の恋人)
 - 
