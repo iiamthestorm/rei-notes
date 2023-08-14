@@ -7,15 +7,16 @@
 7. LISTENING TO PRAGMATISM & TRUTH PHILOSOPHIZE THIS!
 8. WATCHING Kubo-san https://www.instagram.com/p/CsVOkMqoYfN/
 9. WATCH the tunnel to summer, the exit of goodbyes https://www.instagram.com/p/CvZ7-mdICyf/
-10. WATCHING Skip and Loafer https://www.instagram.com/p/CtqXjxQAXq_/
-11. WATCH KAMISAMAKISS https://www.instagram.com/p/CtDBuHFrmAL/
-12. WATCH CHUUNIBYOU https://www.instagram.com/p/CtYcMB6gqfr/
-13. WATCH DANSHI KOKOUSEI NO NICHIJOU https://www.instagram.com/p/CvuIMIgr0l0/
-14. WATCH 𝙍𝙞𝙙𝙚 𝙮𝙤𝙪𝙧 𝙬𝙖𝙫𝙚 https://www.instagram.com/p/CtRyy0yB5CQ/
-15. WATCH taishou otome otogibanashi https://www.instagram.com/p/Ctx396uOh78/
-16. WATCH Serial Experiments Lain https://www.instagram.com/p/Cva47XQIWIa/
-17. WATCHING OREGAIRU https://www.instagram.com/p/CuPdu0TpibF/
-18. 
+10. watc
+11. WATCHING Skip and Loafer https://www.instagram.com/p/CtqXjxQAXq_/
+12. WATCH KAMISAMAKISS https://www.instagram.com/p/CtDBuHFrmAL/
+13. WATCH CHUUNIBYOU https://www.instagram.com/p/CtYcMB6gqfr/
+14. WATCH DANSHI KOKOUSEI NO NICHIJOU https://www.instagram.com/p/CvuIMIgr0l0/
+15. WATCH 𝙍𝙞𝙙𝙚 𝙮𝙤𝙪𝙧 𝙬𝙖𝙫𝙚 https://www.instagram.com/p/CtRyy0yB5CQ/
+16. WATCH taishou otome otogibanashi https://www.instagram.com/p/Ctx396uOh78/
+17. WATCH Serial Experiments Lain https://www.instagram.com/p/Cva47XQIWIa/
+18. WATCHING OREGAIRU https://www.instagram.com/p/CuPdu0TpibF/
+19. 
 
 
 MBTI IS CRINGE REDDIT:
