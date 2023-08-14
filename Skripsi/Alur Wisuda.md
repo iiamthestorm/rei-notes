@@ -21,6 +21,7 @@
 - Buku Cetak
 - ~~Surat Berita Acara Kompre (Surat Bebas Labor)
 - ~~Surat Bukti Upload Jurnal (Surat Bebas Labor)
+- Burning CD
 
 ## 3. Surat Bebas Pustaka
 - Jilid Skripsi, lengkap dengan:
