@@ -7,8 +7,8 @@
 7. LISTENING TO PRAGMATISM & TRUTH PHILOSOPHIZE THIS!
 8. WATCHING Kubo-san https://www.instagram.com/p/CsVOkMqoYfN/
 9. WATCH the tunnel to summer, the exit of goodbyes https://www.instagram.com/p/CvZ7-mdICyf/
-10. watc
-11. WATCHING Skip and Loafer https://www.instagram.com/p/CtqXjxQAXq_/
+10. WATCH wotakoi love is hard for otaku https://www.instagram.com/p/CuY65MKME5y/
+11. WATCH Skip and Loafer https://www.instagram.com/p/CtqXjxQAXq_/
 12. WATCH KAMISAMAKISS https://www.instagram.com/p/CtDBuHFrmAL/
 13. WATCH CHUUNIBYOU https://www.instagram.com/p/CtYcMB6gqfr/
 14. WATCH DANSHI KOKOUSEI NO NICHIJOU https://www.instagram.com/p/CvuIMIgr0l0/
