@@ -7,7 +7,8 @@
 7. LISTENING TO PRAGMATISM & TRUTH PHILOSOPHIZE THIS!
 8. WATCH 𝙍𝙞𝙙𝙚 𝙮𝙤𝙪𝙧 𝙬𝙖𝙫𝙚 https://www.instagram.com/p/CtRyy0yB5CQ/
 9. WATCH DANSHI KOKOUSEI NO NICHIJOU https://www.instagram.com/p/CvuIMIgr0l0/
-10. 
+10. WATCH the tunnel to summer, the exit of goodbyes https://www.instagram.com/p/CvZ7-mdICyf/
+11. 
 
 
 MBTI IS CRINGE REDDIT:
