@@ -26,8 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a96d7583f4503e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skripsi/Referensi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/THINGS THAT I WANT TO DO/THINGS I WANT TO DO (NO DEADLINE).md",
+                "file": "Skripsi/Referensi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/THINGS THAT I WANT TO DO/THINGS I WANT TO DO (NO DEADLINE).md",
+                "file": "Skripsi/Referensi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/THINGS THAT I WANT TO DO/THINGS I WANT TO DO (NO DEADLINE).md"
+                "file": "Skripsi/Referensi.md"
               }
             }
           }
@@ -193,21 +206,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "94dc95abd5579489",
+  "active": "0a96d7583f4503e6",
   "lastOpenFiles": [
-    "人生、夢、日本/Jordan Peterson/Book that i have to read in order to understand JP Lecture..md",
-    "Skripsi/Alur Wisuda.md",
-    "人生、夢、日本/THINGS THAT I WANT TO DO/THINGS I WANT TO DO (NO DEADLINE).md",
-    "Skripsi/Referensi.md",
     "Skripsi/Judul Skripsi.md",
+    "Skripsi/Alur Wisuda.md",
+    "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
+    "Skripsi/2023-08-14 URUS SYARAT WISUDA.md",
+    "Skripsi/2023-08-21 URUS SYARAT WISUDA.md",
+    "人生、夢、日本/THINGS THAT I WANT TO DO/THINGS I WANT TO DO (NO DEADLINE).md",
+    "人生、夢、日本/Jordan Peterson/Book that i have to read in order to understand JP Lecture..md",
+    "Skripsi/Referensi.md",
     "Skripsi/Done/Jurnal Revisi 1.md",
     "人生、夢、日本/Jordan Peterson/2014 Personality Lecture 01 Introduction and Overview Notes.md",
     "人生、夢、日本/Non Partner Criteria.md",
     "人生、夢、日本/何で日本に来たの.md",
     "人生、夢、日本/Akun Gmail Bunpro Free Trial.md",
-    "Skripsi/2023-08-14 URUS SYARAT WISUDA.md",
-    "Skripsi/2023-08-21 URUS SYARAT WISUDA.md",
-    "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
     "人生、夢、日本/Jordan Peterson/Self Authoring Program.md",
     "人生、夢、日本/Jordan Peterson/2017 Personality 230.md",
     "人生、夢、日本/THINGS THAT I WANT TO DO",
