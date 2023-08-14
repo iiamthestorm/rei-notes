@@ -16,3 +16,4 @@ https://www.reddit.com/r/CasualConversation/comments/pxz2k6/anyone_else_attracte
 NPC GUY FUNNY YT SHORT:
 https://www.youtube.com/shorts/X-M6xJGJt4I
 
+
