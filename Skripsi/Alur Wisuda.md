@@ -3,8 +3,8 @@
 - ~~Surat SK Penguji (Sudah keluar)
 - ~~Surat Pernyataan Naskah Publikasi
 - ~~Surat Upload Bukti Jurnal
-- Surat Bebas Labor
-- Surat Serah Terima Skripsi
+- ~~Surat Bebas Labor
+- ~~Surat Serah Terima Skripsi
 - Surat Bebas Pustaka
 
 # Alur
