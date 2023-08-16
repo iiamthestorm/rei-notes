@@ -5,7 +5,7 @@
 - ~~Surat Upload Bukti Jurnal
 - ~~Surat Bebas Labor
 - ~~Surat Serah Terima Skripsi
-- Surat Bebas Pustaka
+- ~~Surat Bebas Pustaka
 
 # Alur
 ## 1. Jurnal
@@ -24,7 +24,7 @@
 - ~~Burning CD
 
 ## 3. Surat Bebas Pustaka
-- Jilid Skripsi, lengkap dengan:
+- ~~Jilid Skripsi, lengkap dengan:
 	- ~~Kartu Bimbingan
 	- ~~Pengesahan Pembimbing
 	- ~~Pengesahan Kompre
@@ -33,7 +33,7 @@
 	- ~~Plagiat
 	- ~~BA
 - ~~Burning CD
-- Surat Serah Terima Skripsi
+- ~~Surat Serah Terima Skripsi
 
 ## 4. Pin Wisuda setelah dapat Surat Bebas Pustaka
 - ~~Foto
@@ -42,7 +42,7 @@
 - ~~Scan KTM
 - ~~Transkrip Nilai
 - ~~Berita Acara Kompre
-- Bebas Pustaka
+- ~~Bebas Pustaka
 
 ## 5. Daftar Wisuda Online setelah dapat PIN
 - Upload PasFoto Ijazah ke https://foto.alumni.uir.ac.id/login.php
