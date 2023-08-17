@@ -65,3 +65,7 @@
 - ~~Berita Acara Kompre
 - Bukti Membayar Yudisium (400.000)
 Semua syarat dimasukkan kedalam Map Pink Fakultas
+
+
+
+pin wisuda : J9Z66
