@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md",
+                "file": "Skripsi/Judul Skripsi.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md",
+                "file": "Skripsi/Judul Skripsi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md",
+                "file": "Skripsi/Judul Skripsi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md"
+                "file": "Skripsi/Judul Skripsi.md"
               }
             }
           }
@@ -208,8 +208,8 @@
   },
   "active": "f328f5419f47ff6a",
   "lastOpenFiles": [
-    "Skripsi/Judul Skripsi.md",
     "Skripsi/Alur Wisuda.md",
+    "Skripsi/Judul Skripsi.md",
     "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
     "Skripsi/2023-08-14 URUS SYARAT WISUDA.md",
     "Skripsi/Referensi.md",
