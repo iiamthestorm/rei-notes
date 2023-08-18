@@ -1,5 +1,7 @@
 Pemanfaatan Augmentasi Data Dalam Klasifikasi Handwritten Digit Images Menggunakan Algoritma CNNs Berbasis Android
 
+Utilization Of Data Augmentation In Handwritten Digit Image Classification Using CNNs Android-Based.
+
 # Dosen Pembimbing
 Nesi Syafitri N, S.Kom., M.Cs
 NIDN. 0009088102
