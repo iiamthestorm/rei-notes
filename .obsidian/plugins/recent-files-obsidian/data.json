@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Crime & Punishment",
+      "path": "人生、夢、日本/Books/Crime & Punishment.md"
+    },
+    {
       "basename": "THINGS I WANT TO DO (NO DEADLINE)",
       "path": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "12 Rules of Life",
       "path": "人生、夢、日本/本を読んでいる/12 Rules of Life.md"
-    },
-    {
-      "basename": "Kafka On The Shore",
-      "path": "人生、夢、日本/本を読んでいる/Kafka On The Shore.md"
     }
   ],
   "omittedPaths": [],

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
+                "file": "人生、夢、日本/Books/Crime & Punishment.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
+                "file": "人生、夢、日本/Books/Crime & Punishment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
+                "file": "人生、夢、日本/Books/Crime & Punishment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md"
+                "file": "人生、夢、日本/Books/Crime & Punishment.md"
               }
             }
           }
@@ -208,12 +208,14 @@
   },
   "active": "f328f5419f47ff6a",
   "lastOpenFiles": [
+    "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
+    "人生、夢、日本/Books/Crime & Punishment.md",
+    "人生、夢、日本/Books",
     "Skripsi/Alur Wisuda.md",
     "Skripsi/Judul Skripsi.md",
     "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
     "Skripsi/2023-08-14 URUS SYARAT WISUDA.md",
     "Skripsi/Referensi.md",
-    "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
     "人生、夢、日本/漫画とアニメと映画/漫画とアニメ that i have to follow.md",
     "人生、夢、日本/Jordan Peterson/Book that i have to read in order to understand JP Lecture..md",
     "Skripsi/2023-08-21 URUS SYARAT WISUDA.md",
@@ -238,7 +240,6 @@
     "attachment/Pasted image 20230731132036.png",
     "Skripsi/Done/Sempro/Revisi 1 Note.md",
     "Skripsi/Done/Sempro/Kerangka Bab 2 (Minor Update).md",
-    "Skripsi/Done/Kompre/Minta maaf sama bu nesi atas keterlambatan skripsi (Done).md",
     "attachment/Pasted image 20230726224226.png",
     "attachment/Pasted image 20230725104719.png",
     "attachment/Pasted image 20230725104642.png",
@@ -252,7 +253,6 @@
     "人生、夢、日本/3D (Blender)",
     "人生、夢、日本/Jordan Peterson",
     "Skripsi/Done/Kompre",
-    "Skripsi/Done/Sempro",
-    "人生、夢、日本/日本語勉強中/文法/ぶんぷろう"
+    "Skripsi/Done/Sempro"
   ]
 }

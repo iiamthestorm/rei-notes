@@ -1,0 +1,1 @@
+- Part 1 Chapter 6 Discussion about the students : https://www.reddit.com/r/dostoevsky/comments/ddm1ex/crime_punishment_part_1_chapter_6_discussion_post/
