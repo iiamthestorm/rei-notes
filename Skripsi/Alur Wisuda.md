@@ -45,14 +45,14 @@
 - ~~Bebas Pustaka
 
 ## 5. Daftar Wisuda Online setelah dapat PIN
-- Upload PasFoto Ijazah ke https://foto.alumni.uir.ac.id/login.php
-- Setelah PasFoto valid lalu, daftar ke https://alumni.uir.ac.id/online/utama
+- ~~Upload PasFoto Ijazah ke https://foto.alumni.uir.ac.id/login.php
+- ~~Setelah PasFoto valid lalu, daftar ke https://alumni.uir.ac.id/online/utama
 	- ~~Berita Acara Kompre
 	- ~~Transkrip Nilai Final
 	- ~~Bebas Pustaka
 	- ~~Bebas Labor
-	- PasFoto Ijazah / Fotocopy Ijazah SMA
-	- KTP
+	- ~~PasFoto Ijazah / Fotocopy Ijazah SMA
+	- ~~KTP
 
 ## 6. Daftar Wisuda Ke Fakultas setelah dapat Surat Pernyataan Daftar Wisuda Online
 - Surat Pernyataan Daftar Wisuda Online
