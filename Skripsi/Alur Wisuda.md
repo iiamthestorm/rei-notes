@@ -49,8 +49,8 @@
 - Setelah PasFoto valid lalu, daftar ke https://alumni.uir.ac.id/online/utama
 	- ~~Berita Acara Kompre
 	- ~~Transkrip Nilai Final
-	- Bebas Pustaka
-	- Bebas Labor
+	- ~~Bebas Pustaka
+	- ~~Bebas Labor
 	- PasFoto Ijazah / Fotocopy Ijazah SMA
 	- KTP
 
