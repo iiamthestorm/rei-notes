@@ -32,20 +32,22 @@ https://www.youtube.com/shorts/X-M6xJGJt4I
 
 # Things i want to share
 
-part 2 chapter 5
+## c&p part 2 chapter 5
 1. shares about luhzin philosphy
 2. point out there's mistakes on luhzin philosophy
 3. state that the friends of raskalnikov had enough of "science forbids compassion"
 4. Natasya being so cared about him yet persistenltly made him annoyed.
 
-part 2 chapter 6
+## c&p part 2 chapter 6
 1. Convo Between raskolnikov and zamtoyov
 2. Convo between raskolnikov and razumikhin
+3. Lady suicide attempts
 
 
-3. shares about "how to get the most ouf of literature which talks about how different the language on the literature compared to conversational language. That brings us into a mental cramp.
-4. Shares plato thought about relationship
-5. 
+
+## yt 
+1. shares about "how to get the most ouf of literature which talks about how different the language on the literature compared to conversational language. That brings us into a mental cramp.
+2. Shares plato thought about relationship
 
 
 
