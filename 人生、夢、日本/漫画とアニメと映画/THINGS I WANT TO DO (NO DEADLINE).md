@@ -30,4 +30,15 @@ https://www.reddit.com/r/CasualConversation/comments/pxz2k6/anyone_else_attracte
 NPC GUY FUNNY YT SHORT:
 https://www.youtube.com/shorts/X-M6xJGJt4I
 
+# Things i want to share
+1. shares about luhzin philosphy
+2. point out there's mistakes on luhzin philosophy
+3. state that the friends of raskalnikov had enough of "science forbids compassion"
+4. Natasya being so cared about him yet persistenltly made him annoyed.
+5. Convo between raskolnikov and razumikh
+
+
+5. shares about "how to get the most ouf of literature which talks about how different the language on the literature compared to conversational language. That brings us into a mental cramp.
+
+
 
