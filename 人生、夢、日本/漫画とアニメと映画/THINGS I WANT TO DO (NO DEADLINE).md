@@ -44,8 +44,10 @@ https://www.youtube.com/shorts/X-M6xJGJt4I
 3. Lady suicide attempts
 
 c&p part 2 chapter 7
-1. Marmeladov 
-
+1. Marmeladov Death
+2. Raskolnikov generosity to give marmeladov wife money even tho he also in need of money
+3. Katerina daughter that run and hug raskolnikov
+4. Raskolnikov have a strent
 
 
 ## yt 
