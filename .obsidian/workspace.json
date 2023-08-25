@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
+                "file": "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
+                "file": "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
+                "file": "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md"
+                "file": "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md"
               }
             }
           }
@@ -207,10 +207,12 @@
   },
   "active": "f328f5419f47ff6a",
   "lastOpenFiles": [
+    "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment.md",
+    "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md",
+    "人生、夢、日本/Books/Fyodor Dostoevsky",
+    "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
     "人生、夢、日本/日記/2023-08-23、水曜日.md",
     "Skripsi/Alur Wisuda.md",
-    "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
-    "人生、夢、日本/Books/Crime & Punishment.md",
     "人生、夢、日本/Books",
     "Skripsi/Judul Skripsi.md",
     "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
@@ -238,7 +240,6 @@
     "Skripsi/Done/Kompre/Kerangka Bab 5.md",
     "attachment/Pasted image 20230803145824.png",
     "attachment/Pasted image 20230731132036.png",
-    "Skripsi/Done/Sempro/Revisi 1 Note.md",
     "attachment/Pasted image 20230726224226.png",
     "attachment/Pasted image 20230725104719.png",
     "attachment/Pasted image 20230725104642.png",
@@ -251,7 +252,6 @@
     "人生、夢、日本/3D (Blender)/Progress",
     "人生、夢、日本/3D (Blender)",
     "人生、夢、日本/Jordan Peterson",
-    "Skripsi/Done/Kompre",
-    "Skripsi/Done/Sempro"
+    "Skripsi/Done/Kompre"
   ]
 }
