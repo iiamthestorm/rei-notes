@@ -47,7 +47,10 @@ c&p part 2 chapter 7
 1. Marmeladov Death
 2. Raskolnikov generosity to give marmeladov wife money even tho he also in need of money
 3. Katerina daughter that run and hug raskolnikov
-4. Raskolnikov have a strent
+4. Raskolnikov have a strength to live again
+5. Raskolnikov met his mom and sister and fainted along the way
+
+c&p part 3 chapter 
 
 
 ## yt 
