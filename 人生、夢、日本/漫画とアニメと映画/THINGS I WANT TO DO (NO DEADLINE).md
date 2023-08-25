@@ -43,6 +43,9 @@ https://www.youtube.com/shorts/X-M6xJGJt4I
 2. Convo between raskolnikov and razumikhin
 3. Lady suicide attempts
 
+c&p part 2 chapter 7
+1. Marmeladov 
+
 
 
 ## yt 
