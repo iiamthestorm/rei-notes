@@ -5,5 +5,5 @@ It's unquestionably worthwhile to read. For the most part, it didn't feel length
 
 I'm pleasantly surprised that this book is arguably more readable than many contemporary English novelists, such as Dickens. You can't imagine how challenging it was to read Dickens. I vividly recall my struggle with 'A Tale of Two Cities.'
 
-In my opinion, Crime and Punishment sometimes cited as one of the first psychological thriller with some religious overtones. 
+
 
