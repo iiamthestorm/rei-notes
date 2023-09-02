@@ -26,21 +26,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2c42978dbac3b25e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
+                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
+                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/2023-08-07 URUS SYARAT WISUDA.md"
+                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md"
               }
             }
           }
@@ -205,8 +192,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2c42978dbac3b25e",
+  "active": "94dc95abd5579489",
   "lastOpenFiles": [
+    "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
     "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
     "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md",
     "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment.md",
@@ -215,7 +203,6 @@
     "Skripsi/Alur Wisuda.md",
     "人生、夢、日本/Books",
     "Skripsi/Judul Skripsi.md",
-    "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
     "Skripsi/2023-08-14 URUS SYARAT WISUDA.md",
     "Skripsi/Referensi.md",
     "人生、夢、日本/漫画とアニメと映画/漫画とアニメ that i have to follow.md",
