@@ -25,7 +25,7 @@ There's also a profound particular quote in the book that goes:
 
 Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth.
 
-I thought that Dostoevsky himself had made this quote because he was making an observation, considering some of the people around him as intelligent and noticing that they were sad, unwanted, and depressed.
+I thought that Dostoevsky himself had made that quote because he was making an observation, considering some of the people around him as intelligent and noticing that they were sad, unwanted, and depressed.
 
 But what's ironic in all of this is that life is full of grief and suffering. It's an inherent aspect of existence, and Dostoevsky is either suggesting that we all possess intelligence or failing to recognize that his pain isn't inherently more or less meaningful than anyone else
 
