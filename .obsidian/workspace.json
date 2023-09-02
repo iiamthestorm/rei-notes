@@ -28,6 +28,16 @@
             }
           },
           {
+            "id": "a092e5e713b26be7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
             "id": "2c42978dbac3b25e",
             "type": "leaf",
             "state": {
@@ -40,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,7 +215,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f328f5419f47ff6a",
+  "active": "a092e5e713b26be7",
   "lastOpenFiles": [
     "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md",
     "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment.md",
