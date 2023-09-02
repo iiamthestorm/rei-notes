@@ -27,3 +27,6 @@ c&p part 2 chapter 7
 5. Raskolnikov met his mom and sister and fainted along the way
 
 c&p part 3 chapter 
+
+
+# C&P Book Review
