@@ -5,9 +5,9 @@ It's unquestionably worthwhile to read. For the most part, it didn't feel length
 
 I'm pleasantly surprised that this book is arguably more readable than many contemporary English novelists, such as Dickens. You can't imagine how challenging it was to read Dickens. I vividly recall my struggle with 'A Tale of Two Cities.'
 
-This book 
-
 The book's plot is self-explanatory, as the title suggests. There's a main character who commits a crime and is destined to receive his punishment. It raises some deep philosophical questions that might be a bit beyond my understanding but are nonetheless fascinating to think.
+
+The time setting of the book 
 
 Prior to reading, I had a basic grasp of the book's theme (a criticism of utilitarianism/rational egoism/nihilism), but I wasn't anticipating its profound psychological insight.
 
