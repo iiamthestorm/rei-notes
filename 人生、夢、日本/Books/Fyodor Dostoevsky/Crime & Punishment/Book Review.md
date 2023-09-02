@@ -29,7 +29,17 @@ I thought that Dostoevsky himself had made this quote because he was making an o
 
 But what's ironic in all of this is that life is full of grief and suffering. It's an inherent aspect of existence, and Dostoevsky is either suggesting that we all possess intelligence or failing to recognize that his pain isn't inherently more or less meaningful than anyone else
 
+I'm pleasantly surprised that this book is arguably more readable than many contemporary English novelists, such as Dickens. You can't imagine how challenging it was to read Dickens. I vividly recall my struggle with 'A Tale of Two Cities.'
 
+The ending is great. I let out a deep sigh of relief as if an unresolved musical motif that had been present throughout the entire book had finally reached its resolution at the end. It's astonishing how Dostoevsky managed to maintain that tension for over 500 pages.
+
+This book is depressing but incredible and beautifully done. All in all, I believe this book has imparted numerous lessons, prompted deep reflections, and provided immense enjoyment throughout my reading journey and I can't wait to reread it!
+
+So yes!
+
+I would rate this book,
+
+🌟4.75/5
 
 
 
