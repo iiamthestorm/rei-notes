@@ -28,16 +28,6 @@
             }
           },
           {
-            "id": "a092e5e713b26be7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
             "id": "2c42978dbac3b25e",
             "type": "leaf",
             "state": {
@@ -159,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
+                "file": "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
+                "file": "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md"
+                "file": "Skripsi/2023-08-07 URUS SYARAT WISUDA.md"
               }
             }
           }
@@ -215,12 +205,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a092e5e713b26be7",
+  "active": "2c42978dbac3b25e",
   "lastOpenFiles": [
+    "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
     "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md",
     "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment.md",
     "人生、夢、日本/Books/Fyodor Dostoevsky",
-    "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
     "人生、夢、日本/日記/2023-08-23、水曜日.md",
     "Skripsi/Alur Wisuda.md",
     "人生、夢、日本/Books",
