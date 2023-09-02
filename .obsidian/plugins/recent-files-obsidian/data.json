@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Crime & Punishment",
-      "path": "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment.md"
-    },
-    {
       "basename": "1. Order of the book",
       "path": "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md"
+    },
+    {
+      "basename": "Book Review",
+      "path": "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment/Book Review.md"
+    },
+    {
+      "basename": "Crime & Punishment",
+      "path": "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment/Crime & Punishment.md"
     },
     {
       "basename": "THINGS I WANT TO DO (NO DEADLINE)",
@@ -195,10 +199,6 @@
     {
       "basename": "文法",
       "path": "人生、夢、日本/日本語勉強中/文法/文法.md"
-    },
-    {
-      "basename": "ヨルシカの広告",
-      "path": "人生、夢、日本/ヨルシカ/ヨルシカの広告.md"
     }
   ],
   "omittedPaths": [],

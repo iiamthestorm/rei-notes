@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment.md",
+                "file": "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment.md",
+                "file": "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment.md",
+                "file": "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment.md"
+                "file": "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md"
               }
             }
           }
@@ -195,8 +195,10 @@
   },
   "active": "f328f5419f47ff6a",
   "lastOpenFiles": [
+    "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment/Book Review.md",
+    "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment/Crime & Punishment.md",
     "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md",
-    "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment.md",
+    "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment",
     "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
     "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
     "人生、夢、日本/Books/Fyodor Dostoevsky",
@@ -225,7 +227,6 @@
     "Skripsi/2023-08-04 Revisi, TTD Bu Ana.md",
     "Skripsi/2023-08-04 Revisi 1x Bu Ause .md",
     "Skripsi/2023-08-04 Revisi 1x Bu Ana.md",
-    "Skripsi/Done/Kompre/Kerangka Bab 5.md",
     "attachment/Pasted image 20230803145824.png",
     "attachment/Pasted image 20230731132036.png",
     "attachment/Pasted image 20230726224226.png",
@@ -239,7 +240,6 @@
     "人生、夢、日本/forallx An Introduction to Formal Logic",
     "人生、夢、日本/3D (Blender)/Progress",
     "人生、夢、日本/3D (Blender)",
-    "人生、夢、日本/Jordan Peterson",
-    "Skripsi/Done/Kompre"
+    "人生、夢、日本/Jordan Peterson"
   ]
 }
