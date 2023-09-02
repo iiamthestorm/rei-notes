@@ -1,5 +1,5 @@
 # C&P Book Review
-Now, i want to say that this is the first classics book that i have no trouble to read whatsoever.. i don't really forced myself to read this because i just instantly likes the theme of this book offers. 
+This might be the first classic book that I have had no trouble reading whatsoever. I didn't have to force myself to read it because I instantly liked the theme this book offers. Richard Pevear and Larissa Volokhonsky are often regarded as the best translators, so I chose theirs.
 
 
-In my opinion, Crime and Punishment sometimes cited as one of the first psychological thriller with some religious overtones.
+In my opinion, Crime and Punishment sometimes cited as one of the first psychological thriller with some religious overtones. 
