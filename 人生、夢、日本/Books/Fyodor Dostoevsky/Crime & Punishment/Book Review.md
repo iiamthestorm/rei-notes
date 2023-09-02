@@ -7,7 +7,7 @@ I'm pleasantly surprised that this book is arguably more readable than many cont
 
 This book 
 
-The book's plot is self-explanatory, There's a main character who commits a crime and is destined to receive his punishment. It raised some deep philosophical questions that might be a bit beyond my understanding but are nonetheless fascinating to think about.
+The book's plot is self-explanatory, as the title suggests. There's a main character who commits a crime and is destined to receive his punishment. It raises some deep philosophical questions that might be a bit beyond my understanding but are nonetheless fascinating to think.
 
 Prior to reading, I had a basic grasp of the book's theme (a criticism of utilitarianism/rational egoism/nihilism), but I wasn't anticipating its profound psychological insight.
 
