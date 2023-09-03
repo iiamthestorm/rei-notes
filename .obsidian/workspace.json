@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
+                "file": "人生、夢、日本/Books/Fyodor Dostoevsky/The Brothers Karamazov/Important Quotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
+                "file": "人生、夢、日本/Books/Fyodor Dostoevsky/The Brothers Karamazov/Important Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
+                "file": "人生、夢、日本/Books/Fyodor Dostoevsky/The Brothers Karamazov/Important Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md"
+                "file": "人生、夢、日本/Books/Fyodor Dostoevsky/The Brothers Karamazov/Important Quotes.md"
               }
             }
           }
@@ -193,14 +193,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9dcf3e208f434302",
+  "active": "f328f5419f47ff6a",
   "lastOpenFiles": [
-    "人生、夢、日本/Books/Fyodor Dostoevsky/Untitled",
+    "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
+    "人生、夢、日本/Books/Fyodor Dostoevsky/The Brothers Karamazov/Important Quotes.md",
+    "人生、夢、日本/Books/Fyodor Dostoevsky/The Brothers Karamazov",
     "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment/Book Review.md",
     "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment/Crime & Punishment.md",
     "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md",
     "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment",
-    "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
     "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
     "人生、夢、日本/Books/Fyodor Dostoevsky",
     "人生、夢、日本/日記/2023-08-23、水曜日.md",
@@ -239,7 +240,6 @@
     "IT STUFF",
     "人生、夢、日本/forallx An Introduction to Formal Logic",
     "人生、夢、日本/3D (Blender)/Progress",
-    "人生、夢、日本/3D (Blender)",
-    "人生、夢、日本/Jordan Peterson"
+    "人生、夢、日本/3D (Blender)"
   ]
 }
