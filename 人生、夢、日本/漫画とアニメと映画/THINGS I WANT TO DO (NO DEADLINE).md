@@ -1,24 +1,26 @@
 1. ~~UPLOAD ALL SISYPHUS MEME TO TWITTER
 2. ~~CONTINUING DJANGO UNCHAINED
 3. ~~WATCHING FIGHT CLUB
-4. WATCHING TONIKAKU KAWAI
-5. ~~WATCHING ALL QUIET ON THE WESTERN FRONT
-6. READING CHAINSAW MAN 
-7. WATCHING HORSES YT CHANNEL
-8. LISTENING TO PRAGMATISM & TRUTH PHILOSOPHIZE THIS!
-9. WATCHING Kubo-san https://www.instagram.com/p/CsVOkMqoYfN/
-10. WATCH the tunnel to summer, the exit of goodbyes https://www.instagram.com/p/CvZ7-mdICyf/
-11. WATCH wotakoi love is hard for otaku https://www.instagram.com/p/CuY65MKME5y/
-12. WATCH Skip and Loafer https://www.instagram.com/p/CtqXjxQAXq_/
-13. WATCH KAMISAMAKISS https://www.instagram.com/p/CtDBuHFrmAL/
-14. WATCH CHUUNIBYOU https://www.instagram.com/p/CtYcMB6gqfr/
-15. WATCH DANSHI KOKOUSEI NO NICHIJOU https://www.instagram.com/p/CvuIMIgr0l0/
-16. WATCH 𝙍𝙞𝙙𝙚 𝙮𝙤𝙪𝙧 𝙬𝙖𝙫𝙚 https://www.instagram.com/p/CtRyy0yB5CQ/
-17. WATCH taishou otome otogibanashi https://www.instagram.com/p/Ctx396uOh78/
-18. WATCH Serial Experiments Lain https://www.instagram.com/p/Cva47XQIWIa/
-19. WATCHING OREGAIRU https://www.instagram.com/p/CuPdu0TpibF/
-20. READ VEIL https://www.instagram.com/p/CvzhYKRIgBu/
-21. 
+4. WATCHING ONE PIECE LIVE ACTION
+5. WATCHING WOTAKOI
+6. WATCHING TONIKAKU KAWAI
+7. ~~WATCHING ALL QUIET ON THE WESTERN FRONT
+8. READING CHAINSAW MAN 
+9. WATCHING HORSES YT CHANNEL
+10. LISTENING TO PRAGMATISM & TRUTH PHILOSOPHIZE THIS!
+11. WATCHING Kubo-san https://www.instagram.com/p/CsVOkMqoYfN/
+12. WATCH the tunnel to summer, the exit of goodbyes https://www.instagram.com/p/CvZ7-mdICyf/
+13. WATCH wotakoi love is hard for otaku https://www.instagram.com/p/CuY65MKME5y/
+14. WATCH Skip and Loafer https://www.instagram.com/p/CtqXjxQAXq_/
+15. WATCH KAMISAMAKISS https://www.instagram.com/p/CtDBuHFrmAL/
+16. WATCH CHUUNIBYOU https://www.instagram.com/p/CtYcMB6gqfr/
+17. WATCH DANSHI KOKOUSEI NO NICHIJOU https://www.instagram.com/p/CvuIMIgr0l0/
+18. WATCH 𝙍𝙞𝙙𝙚 𝙮𝙤𝙪𝙧 𝙬𝙖𝙫𝙚 https://www.instagram.com/p/CtRyy0yB5CQ/
+19. WATCH taishou otome otogibanashi https://www.instagram.com/p/Ctx396uOh78/
+20. WATCH Serial Experiments Lain https://www.instagram.com/p/Cva47XQIWIa/
+21. WATCHING OREGAIRU https://www.instagram.com/p/CuPdu0TpibF/
+22. READ VEIL https://www.instagram.com/p/CvzhYKRIgBu/
+23. 
 
 
 MBTI IS CRINGE REDDIT:
