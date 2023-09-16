@@ -26,19 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "52f921c174a12c5e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +203,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "52f921c174a12c5e",
+  "active": "f328f5419f47ff6a",
   "lastOpenFiles": [
     "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
     "人生、夢、日本/Books/Fyodor Dostoevsky/The Brothers Karamazov/Important Quotes.md",
