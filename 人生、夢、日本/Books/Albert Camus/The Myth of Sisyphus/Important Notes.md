@@ -7,4 +7,4 @@ So the one and the foremost thing to answer is to judge whether life is or is no
 - People die because they judge that life is not worth living. The explanation about getting killed for the ideas or illusions that give them a reason for living is: https://www.reddit.com/r/askphilosophy/comments/kz46ow/what_does_albert_camus_mean_by_this/
 - about la palisse and donquixote : https://philosophy.stackexchange.com/questions/85955/what-does-albert-camus-mean-by-two-methods-of-thought-of-la-palisse-and-don-qu
 
-![[Pasted image 20230925014512.png]]
+
