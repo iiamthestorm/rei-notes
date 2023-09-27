@@ -26,19 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "64da1c50d4ae158d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +203,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "64da1c50d4ae158d",
+  "active": "f328f5419f47ff6a",
   "lastOpenFiles": [
     "attachment/Pasted image 20230925014512.png",
     "attachment/Pasted image 20230924233617.png",
