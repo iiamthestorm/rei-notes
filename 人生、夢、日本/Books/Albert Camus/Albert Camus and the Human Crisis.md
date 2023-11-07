@@ -30,23 +30,9 @@
 ## Page 34
 - At the worst of his illness, the doctor showed no hope for him. He had had no doubts about it. Besides, the fear of death troubled him considerably.
 - For the seventeen-year-old Camus, mortality was no casual truism. If not before, from that time on he “thought mortal thoughts.” He had learned an essential truth, a “noble truth,” and would live it. He carried his death around with him and felt its presence with every breath.
-
-Highlight (pink) - Page 34
-
-Philosophy, Camus once commented, used to teach us how to die, but now it only teaches us how to think. Modern philosophy, all too often, is an effete, low-stakes parlor game for members only. Not so for Camus, who felt uncomfortable in the presence of French intellectuals. “Uncomfortable! That’s hardly the word for it,” commented Camus’s close friend Germaine Brée. “Camus came to feel almost physically distressed in their presence.”
-
-Highlight (pink) - Page 34
-
-When, with one collapsed lung, Camus resumed his studies and received his baccalaureate degree, he found the course of his life permanently altered. He would never teach, serve in the military, or tend his soccer team’s goal. Instead, for the remainder of his life, he would mostly sit at a desk, read, and write, in relative solitude.
-
-Highlight (pink) - Page 34
-
-For the next several years Camus continued his university studies, receiving certificates in sociology and ethics, psychology, classical literature, and logic and general philosophy, culminating in his thesis, “Christian Metaphysics and Neoplatonism,” for which he was awarded the diplôme d’études superieures. At the same time, he honed his writing skills and published his first two volumes of essays, entitled L’envers et l’endroit (The Wrong Side and the Right Side) and Nuptials, in humble print runs of 350 copies each. Neither book made an appreciable ripple, much less a splash. What they did do was launch a life.
-
-Highlight (pink) - Page 35
-
-“People can think only in images. If you want to be a philosopher, write novels.”
-
-Highlight (pink) - Page 35
-
-he revealed that he was already mapping out the first cycle of his work that would include The Stranger, The Myth of Sisyphus, Caligula, and The Misunderstanding (a novel, a philosophical essay, and two plays). Each cycle would have its own distinct patron or paradigm drawn from Greek myth and its own focal idea or concept. For the first cycle, in which Camus would address the “absurd,” he chose Sisyphus as his patron
+- Philosophy, Camus once commented, used to teach us how to die, but now it only teaches us how to think. Modern philosophy, all too often, is an effete, low-stakes parlor game for members only. Not so for Camus, who felt uncomfortable in the presence of French intellectuals. “Uncomfortable! That’s hardly the word for it,” commented Camus’s close friend Germaine Brée. “Camus came to feel almost physically distressed in their presence.”
+- When, with one collapsed lung, Camus resumed his studies and received his baccalaureate degree, he found the course of his life permanently altered. He would never teach, serve in the military, or tend his soccer team’s goal. Instead, for the remainder of his life, he would mostly sit at a desk, read, and write, in relative solitude.
+- For the next several years Camus continued his university studies, receiving certificates in sociology and ethics, psychology, classical literature, and logic and general philosophy, culminating in his thesis, “Christian Metaphysics and Neoplatonism,” for which he was awarded the diplôme d’études superieures. At the same time, he honed his writing skills and published his first two volumes of essays, entitled L’envers et l’endroit (The Wrong Side and the Right Side) and Nuptials, in humble print runs of 350 copies each. Neither book made an appreciable ripple, much less a splash. What they did do was launch a life.
+## Page 35
+- “People can think only in images. If you want to be a philosopher, write novels.”
+- he revealed that he was already mapping out the first cycle of his work that would include The Stranger, The Myth of Sisyphus, Caligula, and The Misunderstanding (a novel, a philosophical essay, and two plays). Each cycle would have its own distinct patron or paradigm drawn from Greek myth and its own focal idea or concept. For the first cycle, in which Camus would address the “absurd,” he chose Sisyphus as his patron
