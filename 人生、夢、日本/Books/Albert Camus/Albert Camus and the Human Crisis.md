@@ -36,3 +36,4 @@
 ## Page 35
 - “People can think only in images. If you want to be a philosopher, write novels.”
 - he revealed that he was already mapping out the first cycle of his work that would include The Stranger, The Myth of Sisyphus, Caligula, and The Misunderstanding (a novel, a philosophical essay, and two plays). Each cycle would have its own distinct patron or paradigm drawn from Greek myth and its own focal idea or concept. For the first cycle, in which Camus would address the “absurd,” he chose Sisyphus as his patron
+- 
