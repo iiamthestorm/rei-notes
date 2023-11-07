@@ -40,5 +40,6 @@
 - at the age of forty-five, Camus looks back at his youth and recalls how “the lovely warmth that reigned over my childhood freed me from all resentment… I lived on almost nothing, but also in a kind of rapture.
 ## Page 36
 - A Moslem child had been hit by a bus and seemed to be in a coma. They watched the huddled crowd, listened to a wailed Arabic lament as long as they could stand it. Walking away, Camus turned toward the landscape of blue sea and sky. Raising a finger toward the heavens he said: “You see, He says nothing.”
+- This episode speaks for itself about a boy’s scorn for a world without answers to suffering, injustice, and death, a world where “in the normal order of things, no one is ever recognized.”
 
-HThis episode speaks for itself about a boy’s scorn for a world without answers to suffering, injustice, and death, a world where “in the normal order of things, no one is ever recognized.”
+# Chapter 3: Happiness
