@@ -10,4 +10,9 @@
 - Whereas for Sartre something was real and understood only when put into words, for Camus the more real or profound the truth, the less it could or need be spoken.
 ## Page 25
 - Like the soul, our humanity is both innate and elusive. Its existence is a truism, eluding positive proof. We may only witness it in its absence. We may only experience it when we feel it slipping away.
-- 
+## Page 26
+- At this point Camus would have embarked on a career in university teaching had not his tuberculosis permanently closed that path to him. The same impairment would exclude him from military service, as well as cancel his early aspirations to play professional soccer. The young Camus, like his mentor, would instead, and to the benefit of many, become a writer.
+- Camus, at eighteen, who had flourished in poverty and survived a collapsed lung, was nothing if not kindling, and Grenier lit the match. “Grenier,” Camus once remarked in an interview, “gave me a taste for philosophical meditation.”5 A taste that led to hunger. In the ensuing years, under Grenier’s tutelage, Camus consumed mounds of philosophy and literature, whatever Grenier piled on his plate and whatever he found on his own
+## Page 27
+- From the poverty that each of them knew as children there was but one escape—education—
+## Page 28
