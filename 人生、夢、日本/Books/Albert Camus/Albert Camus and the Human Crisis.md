@@ -21,32 +21,15 @@
 ## Page 31
 - if he, as a human being, had a nature, he would do well to live in accord with it, as would everyone else. It made simple, common sense that to violate your own nature would be folly and would carry a heavy price.IV This inquiry into the nature of human being—so fundamental to ancient Greek and early Christian philosophy—formed the core of Camus’s most enduring and consequential writings, from The Stranger to The Fall.
 ## Page 32
-
-Humans—halfway between the two—are as finite as beasts and as rational or conscious as gods, and in this they are unique. The gods, in Greek literature, are “deathless” (άθάνατοι); animals are “perishable” (ϕθαρτοί). Humans, on the other hand, are uniquely “deathful” (qnhtoiv). As Heidegger put it, human being is “Being-towards-death” (Sein-zum-Tode). In addition to being alive, we are, in every moment of life, also in the process of dying; and we know it, however far off the actual moment of our death might be. Knowing this, however, is not the same as daily living with it.
-
-Highlight (pink) - Page 32
-
-“I know another truism: it tells me that man is mortal,” wrote Camus. “One can nevertheless count the minds that have deduced the extreme conclusions from it.”25 As Camus pointed out, most people live in denial of death, in particular their own death, as long as they are able to run or distract themselves from it. Life offers countless escapes from the consciousness of death, but none from death itself. If the experience of death were required to become conscious of mortality, no one would ever achieve it, since death marks the cessation of consciousness.
-
-Highlight (pink) - Page 32
-
-We need only to use our imaginations to see ourselves in others—in the sick, the aged, and the dying—to realize that we will one day be them.
-
-Highlight (pink) - Page 32
-
-Why, we might ask, would we want to live with the consciousness of death, our death? The simple Greek answer to this is that our humanity depends on it. Ready or not, we are mortals, and when we pretend and act as if we are not, we all too often adopt the postures and presumptions of gods. Our imagined ascent into divinity, however, is in truth a never-ending descent.
-
-Highlight (pink) - Page 33
-
-I mean do you know what it means to be human? I don’t think you do. Anyway, you listen to me. We all gotta die. There ain’t one of us alive today That knows whether he’ll be around tomorrow…. So there, that’s it. You heard what I got to teach…. When you’re mortal, you gotta think mortal thoughts.
-
-Highlight (pink) - Page 34
-
-At the worst of his illness, the doctor showed no hope for him. He had had no doubts about it. Besides, the fear of death troubled him considerably.
-
-Highlight (pink) - Page 34
-
-For the seventeen-year-old Camus, mortality was no casual truism. If not before, from that time on he “thought mortal thoughts.” He had learned an essential truth, a “noble truth,” and would live it. He carried his death around with him and felt its presence with every breath.
+- Humans—halfway between the two—are as finite as beasts and as rational or conscious as gods, and in this they are unique. The gods, in Greek literature, are “deathless” (άθάνατοι); animals are “perishable” (ϕθαρτοί). Humans, on the other hand, are uniquely “deathful” (qnhtoiv). As Heidegger put it, human being is “Being-towards-death” (Sein-zum-Tode). In addition to being alive, we are, in every moment of life, also in the process of dying; and we know it, however far off the actual moment of our death might be. Knowing this, however, is not the same as daily living with it.
+- “I know another truism: it tells me that man is mortal,” wrote Camus. “One can nevertheless count the minds that have deduced the extreme conclusions from it.”25 As Camus pointed out, most people live in denial of death, in particular their own death, as long as they are able to run or distract themselves from it. Life offers countless escapes from the consciousness of death, but none from death itself. If the experience of death were required to become conscious of mortality, no one would ever achieve it, since death marks the cessation of consciousness.
+- We need only to use our imaginations to see ourselves in others—in the sick, the aged, and the dying—to realize that we will one day be them.
+- Why, we might ask, would we want to live with the consciousness of death, our death? The simple Greek answer to this is that our humanity depends on it. Ready or not, we are mortals, and when we pretend and act as if we are not, we all too often adopt the postures and presumptions of gods. Our imagined ascent into divinity, however, is in truth a never-ending descent.
+## Page 33
+- I mean do you know what it means to be human? I don’t think you do. Anyway, you listen to me. We all gotta die. There ain’t one of us alive today That knows whether he’ll be around tomorrow…. So there, that’s it. You heard what I got to teach…. When you’re mortal, you gotta think mortal thoughts.
+## Page 34
+- At the worst of his illness, the doctor showed no hope for him. He had had no doubts about it. Besides, the fear of death troubled him considerably.
+- For the seventeen-year-old Camus, mortality was no casual truism. If not before, from that time on he “thought mortal thoughts.” He had learned an essential truth, a “noble truth,” and would live it. He carried his death around with him and felt its presence with every breath.
 
 Highlight (pink) - Page 34
 
