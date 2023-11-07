@@ -36,4 +36,9 @@
 ## Page 35
 - “People can think only in images. If you want to be a philosopher, write novels.”
 - he revealed that he was already mapping out the first cycle of his work that would include The Stranger, The Myth of Sisyphus, Caligula, and The Misunderstanding (a novel, a philosophical essay, and two plays). Each cycle would have its own distinct patron or paradigm drawn from Greek myth and its own focal idea or concept. For the first cycle, in which Camus would address the “absurd,” he chose Sisyphus as his patron
-- 
+- In his own retelling of the myth, Camus highlights three qualities of Sisyphus’s character that recommend him to our attention as an absurd hero: “His scorn of the gods, his hatred of death, and his passion for life.”30 Absurd heroes aside, what we cannot help but notice first is how vividly these qualities define the young Camus. His passionate love of life leaps from his earliest writings. “I am happy in this world,” he announces in the first pages of his Notebooks, “for my kingdom is of this world.”
+- at the age of forty-five, Camus looks back at his youth and recalls how “the lovely warmth that reigned over my childhood freed me from all resentment… I lived on almost nothing, but also in a kind of rapture.
+## Page 36
+- A Moslem child had been hit by a bus and seemed to be in a coma. They watched the huddled crowd, listened to a wailed Arabic lament as long as they could stand it. Walking away, Camus turned toward the landscape of blue sea and sky. Raising a finger toward the heavens he said: “You see, He says nothing.”
+
+HThis episode speaks for itself about a boy’s scorn for a world without answers to suffering, injustice, and death, a world where “in the normal order of things, no one is ever recognized.”
