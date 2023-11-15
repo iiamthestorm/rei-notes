@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f790628f5fe1572d",
+        "id": "a6201120196e7048",
         "type": "tabs",
         "children": [
           {
-            "id": "edd980526278e7ff",
+            "id": "dc43cb6fa0332715",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md",
+                "file": "Skripsi (Done)/Done/2023-08-07 URUS SYARAT WISUDA.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md",
+                "file": "Skripsi (Done)/Done/2023-08-07 URUS SYARAT WISUDA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md",
+                "file": "Skripsi (Done)/Done/2023-08-07 URUS SYARAT WISUDA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skripsi/Alur Wisuda.md"
+                "file": "Skripsi (Done)/Done/2023-08-07 URUS SYARAT WISUDA.md"
               }
             }
           },
@@ -194,8 +194,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "edd980526278e7ff",
+  "active": "9dcf3e208f434302",
   "lastOpenFiles": [
+    "Skripsi (Done)/Done/2023-08-14 URUS SYARAT WISUDA.md",
+    "Skripsi (Done)/Done/2023-08-07 URUS SYARAT WISUDA.md",
+    "Skripsi (Done)/Done/Alur Wisuda.md",
+    "Skripsi (Done)/Done/Judul Skripsi.md",
+    "Skripsi (Done)/Done/Referensi.md",
     "人生、夢、日本/Books/Albert Camus/Albert Camus and the Human Crisis.md",
     "人生、夢、日本/Books/Albert Camus/The Myth of Sisyphus/Important Notes.md",
     "attachment/Pasted image 20230925014512.png",
@@ -207,23 +212,18 @@
     "人生、夢、日本/Books/Albert Camus",
     "人生、夢、日本/Books/Fyodor Dostoevsky/The Brothers Karamazov/Important Quotes.md",
     "人生、夢、日本/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
-    "Skripsi/Alur Wisuda.md",
     "人生、夢、日本/Non Partner Criteria.md",
     "人生、夢、日本/Books/Fyodor Dostoevsky/The Brothers Karamazov",
     "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment/Book Review.md",
     "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md",
     "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment",
-    "Skripsi/2023-08-07 URUS SYARAT WISUDA.md",
     "人生、夢、日本/Books/Fyodor Dostoevsky",
     "人生、夢、日本/日記/2023-08-23、水曜日.md",
     "人生、夢、日本/Books",
-    "Skripsi/Judul Skripsi.md",
-    "Skripsi/2023-08-14 URUS SYARAT WISUDA.md",
-    "Skripsi/Referensi.md",
     "人生、夢、日本/漫画とアニメと映画/漫画とアニメ that i have to follow.md",
     "人生、夢、日本/Jordan Peterson/Book that i have to read in order to understand JP Lecture..md",
-    "Skripsi/2023-08-21 URUS SYARAT WISUDA.md",
-    "Skripsi/Done/Jurnal Revisi 1.md",
+    "Skripsi (Done)/Done/2023-08-21 URUS SYARAT WISUDA.md",
+    "Skripsi (Done)/Done/Jurnal Revisi 1.md",
     "人生、夢、日本/Jordan Peterson/2014 Personality Lecture 01 Introduction and Overview Notes.md",
     "人生、夢、日本/何で日本に来たの.md",
     "人生、夢、日本/Akun Gmail Bunpro Free Trial.md",
@@ -241,6 +241,6 @@
     "attachment/Pasted image 20230725104642.png",
     "人生、夢、日本/Akun Gmail Bunpro Free Trial",
     "IT STUFF",
-    "人生、夢、日本/forallx An Introduction to Formal Logic"
+    "人生、夢、日本/Books/forallx An Introduction to Formal Logic"
   ]
 }

@@ -55,15 +55,15 @@
 	- ~~KTP
 
 ## 6. Daftar Wisuda Ke Fakultas setelah dapat Surat Pernyataan Daftar Wisuda Online
-- Surat Pernyataan Daftar Wisuda Online
-- Fotocopy KTP
+- ~~Surat Pernyataan Daftar Wisuda Online
+- ~~Fotocopy KTP
 - ~~Transkrip Nilai Sikad
-- Fotocopy Ijazah SMA
-- Surat Bebas Pustaka
-- Surat Bebas Labor
-- Surat Serah Terima Skripsi
+- ~~Fotocopy Ijazah SMA
+- ~~Surat Bebas Pustaka
+- ~~Surat Bebas Labor
+- ~~Surat Serah Terima Skripsi
 - ~~Berita Acara Kompre
-- Bukti Membayar Yudisium (400.000)
+- ~~Bukti Membayar Yudisium (400.000)
 Semua syarat dimasukkan kedalam Map Pink Fakultas
 
 
