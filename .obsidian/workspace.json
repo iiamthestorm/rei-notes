@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a6201120196e7048",
+        "id": "83290646f69f9681",
         "type": "tabs",
         "children": [
           {
-            "id": "dc43cb6fa0332715",
+            "id": "60e289f6bfad4733",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人生、夢、日本/Books/At the Existentialist Café, Freedom, Being, and Apricot Cocktails.md",
+                "file": "人生、夢、日本/Cari Kerja/Daftar Institusi.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人生、夢、日本/Books/At the Existentialist Café, Freedom, Being, and Apricot Cocktails.md",
+                "file": "人生、夢、日本/Cari Kerja/Daftar Institusi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人生、夢、日本/Books/At the Existentialist Café, Freedom, Being, and Apricot Cocktails.md",
+                "file": "人生、夢、日本/Cari Kerja/Daftar Institusi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人生、夢、日本/Books/At the Existentialist Café, Freedom, Being, and Apricot Cocktails.md"
+                "file": "人生、夢、日本/Cari Kerja/Daftar Institusi.md"
               }
             }
           },
@@ -194,8 +194,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dc43cb6fa0332715",
+  "active": "60e289f6bfad4733",
   "lastOpenFiles": [
+    "人生、夢、日本/Cari Kerja/Daftar Institusi.md",
+    "人生、夢、日本/Cari Kerja",
+    "人生、夢、日本/Books/At the Existentialist Café, Freedom, Being, and Apricot Cocktails.md",
     "人生、夢、日本/日本語勉強中/Akun Gmail Bunpro Free Trial.md",
     "人生、夢、日本/日本語勉強中/Non Partner Criteria.md",
     "人生、夢、日本/日本語勉強中/何で日本に来たの.md",
@@ -211,7 +214,6 @@
     "attachment/Pasted image 20230924231348.png",
     "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment/Crime & Punishment.md",
     "人生、夢、日本/Books/Albert Camus/The Myth of Sisyphus",
-    "人生、夢、日本/Books/At the Existentialist Café, Freedom, Being, and Apricot Cocktails.md",
     "人生、夢、日本/Books/Albert Camus",
     "人生、夢、日本/Books/Fyodor Dostoevsky/The Brothers Karamazov/Important Quotes.md",
     "人生、夢、日本/日本語勉強中/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
@@ -233,14 +235,12 @@
     "attachment/Pasted image 20230804121547.png",
     "attachment/Pasted image 20230804120752.png",
     "Skripsi/Jurnal.md",
-    "Skripsi/2023-08-07 Urus Jurnal, Berita Acara, Pengesahan,.md",
     "attachment/Pasted image 20230803145824.png",
     "attachment/Pasted image 20230731132036.png",
     "attachment/Pasted image 20230726224226.png",
     "attachment/Pasted image 20230725104719.png",
     "attachment/Pasted image 20230725104642.png",
     "人生、夢、日本/Akun Gmail Bunpro Free Trial",
-    "IT STUFF",
-    "人生、夢、日本/Books/forallx An Introduction to Formal Logic"
+    "IT STUFF"
   ]
 }
