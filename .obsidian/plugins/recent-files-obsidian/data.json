@@ -1,32 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Kafka On The Shore",
-      "path": "人生、夢、日本/日本語勉強中/本を読んでいる/Kafka On The Shore.md"
+      "basename": "At the Existentialist Café, Freedom, Being, and Apricot Cocktails",
+      "path": "人生、夢、日本/Books/At the Existentialist Café, Freedom, Being, and Apricot Cocktails.md"
     },
     {
-      "basename": "12 Rules of Life",
-      "path": "人生、夢、日本/日本語勉強中/本を読んでいる/12 Rules of Life.md"
+      "basename": "Daftar Institusi",
+      "path": "人生、夢、日本/Cari Kerja/Daftar Institusi.md"
     },
     {
-      "basename": "THINGS I WANT TO DO (NO DEADLINE)",
-      "path": "人生、夢、日本/日本語勉強中/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md"
+      "basename": "出所",
+      "path": "人生、夢、日本/日本語勉強中/出所/出所.md"
     },
     {
-      "basename": "漫画とアニメ that i have to follow",
-      "path": "人生、夢、日本/日本語勉強中/漫画とアニメと映画/漫画とアニメ that i have to follow.md"
+      "basename": "Redditからの出所",
+      "path": "人生、夢、日本/日本語勉強中/出所/Redditからの出所.md"
     },
     {
-      "basename": "Akun Gmail Bunpro Free Trial",
-      "path": "人生、夢、日本/日本語勉強中/Akun Gmail Bunpro Free Trial.md"
+      "basename": "文プロのN4",
+      "path": "人生、夢、日本/日本語勉強中/文法/ぶんぷろう/文プロのN4.md"
     },
     {
-      "basename": "何で日本に来たの",
-      "path": "人生、夢、日本/日本語勉強中/何で日本に来たの.md"
+      "basename": "文法",
+      "path": "人生、夢、日本/日本語勉強中/文法/文法.md"
     },
     {
-      "basename": "Non Partner Criteria",
-      "path": "人生、夢、日本/日本語勉強中/Non Partner Criteria.md"
+      "basename": "いつまでも VS いつまででも",
+      "path": "人生、夢、日本/日本語勉強中/文法/いつまでも VS いつまででも.md"
+    },
+    {
+      "basename": "2023-06-26、月曜日",
+      "path": "人生、夢、日本/日本語勉強中/日記/2023-06-26、月曜日.md"
+    },
+    {
+      "basename": "2023-06-25、日曜日",
+      "path": "人生、夢、日本/日本語勉強中/日記/2023-06-25、日曜日.md"
+    },
+    {
+      "basename": "2023-06-22、木曜日",
+      "path": "人生、夢、日本/日本語勉強中/日記/2023-06-22、木曜日.md"
+    },
+    {
+      "basename": "2023-06-13、水曜日",
+      "path": "人生、夢、日本/日本語勉強中/日記/2023-06-13、水曜日.md"
+    },
+    {
+      "basename": "2023-03-22, Wednesday",
+      "path": "人生、夢、日本/日本語勉強中/日記/2023-03-22, Wednesday.md"
+    },
+    {
+      "basename": "2023-03-23, Thursday",
+      "path": "人生、夢、日本/日本語勉強中/日記/2023-03-23, Thursday.md"
+    },
+    {
+      "basename": "2023-03-24, Friday",
+      "path": "人生、夢、日本/日本語勉強中/日記/2023-03-24, Friday.md"
+    },
+    {
+      "basename": "2023-05-28, 日曜日",
+      "path": "人生、夢、日本/日本語勉強中/日記/2023-05-28, 日曜日.md"
+    },
+    {
+      "basename": "2023-06-19、月曜日",
+      "path": "人生、夢、日本/日本語勉強中/日記/2023-06-19、月曜日.md"
     },
     {
       "basename": "2023-07-05、水曜日",
@@ -37,16 +73,36 @@
       "path": "人生、夢、日本/日本語勉強中/日記/2023-08-23、水曜日.md"
     },
     {
+      "basename": "12 Rules of Life",
+      "path": "人生、夢、日本/日本語勉強中/本を読んでいる/12 Rules of Life.md"
+    },
+    {
+      "basename": "Kafka On The Shore",
+      "path": "人生、夢、日本/日本語勉強中/本を読んでいる/Kafka On The Shore.md"
+    },
+    {
+      "basename": "Akun Gmail Bunpro Free Trial",
+      "path": "人生、夢、日本/日本語勉強中/Akun Gmail Bunpro Free Trial.md"
+    },
+    {
+      "basename": "Non Partner Criteria",
+      "path": "人生、夢、日本/日本語勉強中/Non Partner Criteria.md"
+    },
+    {
+      "basename": "何で日本に来たの",
+      "path": "人生、夢、日本/日本語勉強中/何で日本に来たの.md"
+    },
+    {
+      "basename": "漫画とアニメ that i have to follow",
+      "path": "人生、夢、日本/日本語勉強中/漫画とアニメと映画/漫画とアニメ that i have to follow.md"
+    },
+    {
+      "basename": "THINGS I WANT TO DO (NO DEADLINE)",
+      "path": "人生、夢、日本/日本語勉強中/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md"
+    },
+    {
       "basename": "2023-07-23、日曜日",
       "path": "人生、夢、日本/日本語勉強中/日記/2023-07-23、日曜日.md"
-    },
-    {
-      "basename": "At the Existentialist Café, Freedom, Being, and Apricot Cocktails",
-      "path": "人生、夢、日本/Books/At the Existentialist Café, Freedom, Being, and Apricot Cocktails.md"
-    },
-    {
-      "basename": "Daftar Institusi",
-      "path": "人生、夢、日本/Cari Kerja/Daftar Institusi.md"
     },
     {
       "basename": "2023-08-07 URUS SYARAT WISUDA",
@@ -143,62 +199,6 @@
     {
       "basename": "Saran dari Bu Ause untuk Sempro Reihan (DONE)",
       "path": "Skripsi (Done)/Done/Kompre/Saran dari Bu Ause untuk Sempro Reihan (DONE).md"
-    },
-    {
-      "basename": "Saran dari Bu Ana untuk Sempro Reihan",
-      "path": "Skripsi (Done)/Done/Kompre/Saran dari Bu Ana untuk Sempro Reihan.md"
-    },
-    {
-      "basename": "Revisi Bab 4 & 5 ke 3",
-      "path": "Skripsi (Done)/Done/Kompre/Revisi Bab 4 & 5 ke 3.md"
-    },
-    {
-      "basename": "Revisi Bab 4 & 5 ke 2",
-      "path": "Skripsi (Done)/Done/Kompre/Revisi Bab 4 & 5 ke 2.md"
-    },
-    {
-      "basename": "Revisi Bab 4 & 5 ke 1",
-      "path": "Skripsi (Done)/Done/Kompre/Revisi Bab 4 & 5 ke 1.md"
-    },
-    {
-      "basename": "Link Referensi",
-      "path": "Skripsi (Done)/Done/Kompre/Link Referensi.md"
-    },
-    {
-      "basename": "KERANGKA PPT KOMPRE",
-      "path": "Skripsi (Done)/Done/Kompre/KERANGKA PPT KOMPRE.md"
-    },
-    {
-      "basename": "Kerangka Bab 4",
-      "path": "Skripsi (Done)/Done/Kompre/Kerangka Bab 4.md"
-    },
-    {
-      "basename": "Alur sampai kompre",
-      "path": "Skripsi (Done)/Done/Kompre/Alur sampai kompre.md"
-    },
-    {
-      "basename": "Kerangka Bab 3",
-      "path": "Skripsi (Done)/Done/Sempro/Kerangka Bab 3.md"
-    },
-    {
-      "basename": "KERANGKA PPT SEMPRO",
-      "path": "Skripsi (Done)/Done/Sempro/KERANGKA PPT SEMPRO.md"
-    },
-    {
-      "basename": "文プロのN4",
-      "path": "人生、夢、日本/日本語勉強中/文法/ぶんぷろう/文プロのN4.md"
-    },
-    {
-      "basename": "文プロのN5",
-      "path": "人生、夢、日本/日本語勉強中/文法/ぶんぷろう/文プロのN5.md"
-    },
-    {
-      "basename": "出所",
-      "path": "人生、夢、日本/日本語勉強中/出所/出所.md"
-    },
-    {
-      "basename": "Redditからの出所",
-      "path": "人生、夢、日本/日本語勉強中/出所/Redditからの出所.md"
     }
   ],
   "omittedPaths": [],
