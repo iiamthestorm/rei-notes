@@ -5,4 +5,7 @@
 - Di Education Hapuskan Islamic dan ipk, also cantumkan kapan mulai kuliah dan selesai kuliah
 - Di Skills cantumkan yang benar2 pandai
 
-# Surat 
+# Surat Lamaran Kerja
+- Header samakan dengan Surat Lamaran Kerja
+- Jangan pake (Company Name). HRD Manager, tapi gunakan nama langsung instead
+- Jangan pake Dear (Company Name)
