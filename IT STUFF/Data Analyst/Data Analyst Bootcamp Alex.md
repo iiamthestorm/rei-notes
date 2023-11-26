@@ -76,3 +76,44 @@ SELECT *
 FROM SQLTutorial.dbo.EmployeeSalary
 
 ## Where Statement
+SELECT *
+FROM EmployeeDemographics
+WHERE FirstName = 'Jim'
+
+SELECT *
+FROM EmployeeDemographics
+WHERE FirstName <> 'Jim'
+
+SELECT *
+FROM EmployeeDemographics
+WHERE Age >= 30
+
+SELECT *
+FROM EmployeeDemographics
+WHERE Age <= 30
+
+SELECT *
+FROM EmployeeDemographics
+WHERE Age <= 30 AND Gender = 'Male'
+
+SELECT *
+FROM EmployeeDemographics
+WHERE Age >= 30 OR Gender = 'Male'
+
+SELECT * 
+FROM EmployeeDemographics
+WHERE FirstName LIKE '%A%'  -- Like a Wildcard
+
+SELECT *
+FROM EmployeeDemographics
+WHERE FirstName IS NOT NULL
+
+SELECT *
+FROM EmployeeDemographics
+WHERE FirstName IS NULL
+
+SELECT *
+FROM EmployeeDemographics
+WHERE FirstName IN ('Pam', 'Michael')  -- IN is to choose multiple name that you want to be included
+
+## Group By + Order By Statements
