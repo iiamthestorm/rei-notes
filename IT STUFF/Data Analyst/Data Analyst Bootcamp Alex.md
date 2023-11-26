@@ -1,4 +1,5 @@
-## Basic SQL
+https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF
+# Basic SQL
 ### Installing microsoft sql
 - SQL Server Management Studio: [https://docs.microsoft.com/en-us/sql/...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnpCY1BSekxsWTgzSGFtbHg5Nmw5anEwVUFyd3xBQ3Jtc0trSkFmYWxNWU55M3NuSjMwNXYxQmc0d3FicFljamhkUzRCQno4dV81THhfUnpEVHJVM1VGbHJGYkdxSF9wNzlfLXU1RXJwN0FMQmFJSktYR3hlQVNFR0VZZmViVmRXVzhJOV9rNFpYb3BaZXF5ak82SQ&q=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fsql%2Fssms%2Fdownload-sql-server-management-studio-ssms%3Fview%3Dsql-server-ver15&v=RSlqWnP-Dy8) 
 - SQL Server: [https://www.microsoft.com/en-us/sql-s...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVpBY0ZJYjg5MXRqWFJGbk5pSFc4TFF0NExXUXxBQ3Jtc0ttM3NnZ2NXbjd5WGpVZ0Nna0xTZGcwOXFoTVJMSDJkcjNsdXp5eHgwRnkweEU0WHBaY003WkpjWjgzZUdEQTJjbnpmaHhrR2pZdXN6d1NrMnkxM2wwVUpKQWl4TkhfcmJnR0E4Y0t3UVlBdVcycV9GRQ&q=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsql-server%2Fsql-server-downloads&v=RSlqWnP-Dy8) 
