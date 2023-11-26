@@ -71,4 +71,8 @@ FROM EmployeeSalary
 SELECT AVG(Salary)
 FROM EmployeeSalary
 
+If you in the master, then:
+SELECT *
+FROM SQLTutorial.dbo.EmployeeSalary
+
 ## 
