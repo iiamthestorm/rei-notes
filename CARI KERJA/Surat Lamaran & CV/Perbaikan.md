@@ -10,3 +10,5 @@
 - Jangan pake (Company Name). HRD Manager, tapi gunakan nama langsung instead
 - Jangan pake Dear (Company Name) Hiring Manager, tapi Sir/Madam (Nama)
 - Jangan pake Islamic di "from the Islamic", langsung University of Riau
+- Jangan pakai "Over the past year" sampe Poin bullet.
+- 
