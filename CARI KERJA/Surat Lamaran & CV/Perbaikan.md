@@ -8,4 +8,5 @@
 # Surat Lamaran Kerja
 - Header samakan dengan Surat Lamaran Kerja
 - Jangan pake (Company Name). HRD Manager, tapi gunakan nama langsung instead
-- Jangan pake Dear (Company Name)
+- Jangan pake Dear (Company Name) Hiring Manager, tapi Sir/Madam (Nama)
+- Jangan pake Islamic di "from the Islamic", langsung University of Riau
