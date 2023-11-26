@@ -62,3 +62,13 @@ FROM EmployeeDemographics
 SELECT COUNT(Gender) AS GenderCount
 FROM EmployeeDemographics
 
+SELECT MAX(Salary)
+FROM EmployeeSalary
+
+SELECT MIN(Salary)
+FROM EmployeeSalary
+
+SELECT AVG(Salary)
+FROM EmployeeSalary
+
+## 
