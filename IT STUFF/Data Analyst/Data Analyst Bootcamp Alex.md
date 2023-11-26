@@ -75,4 +75,4 @@ If you in the master, then:
 SELECT *
 FROM SQLTutorial.dbo.EmployeeSalary
 
-## 
+## Where Statement
