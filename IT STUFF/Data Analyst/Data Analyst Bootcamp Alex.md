@@ -39,4 +39,5 @@ INSERT INTO EmployeeSalary VALUES
 (1008, 'Salesman', 48000),
 (1009, 'Accountant', 42000)
 
-## 
+## Select + From Statements
+
