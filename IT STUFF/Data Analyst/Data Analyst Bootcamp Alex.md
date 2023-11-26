@@ -56,3 +56,9 @@ FROM EmployeeDemographics
 SELECT DISTINCT(Gender)
 FROM EmployeeDemographics
 
+SELECT COUNT(Gender)
+FROM EmployeeDemographics
+
+SELECT COUNT(Gender) AS GenderCount
+FROM EmployeeDemographics
+
