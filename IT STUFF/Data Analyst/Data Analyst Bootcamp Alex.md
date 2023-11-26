@@ -50,3 +50,9 @@ FROM EmployeeDemographics
 SELECT TOP 5 FirstName, LastName
 FROM EmployeeDemographics
 
+SELECT DISTINCT(EmployeeID)
+FROM EmployeeDemographics
+
+SELECT DISTINCT(Gender)
+FROM EmployeeDemographics
+
