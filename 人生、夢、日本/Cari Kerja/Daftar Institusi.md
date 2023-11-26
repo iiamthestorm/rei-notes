@@ -1,2 +1,0 @@
-- Maxim user service
-- 
