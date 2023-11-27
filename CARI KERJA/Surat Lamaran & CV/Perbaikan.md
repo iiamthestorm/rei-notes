@@ -4,7 +4,7 @@
 - ~~Di Summary Hilangkan Islamic
 - ~~Di Experience Letakkan 1 paragraph di "Web Programming Laboratory Assistant" dan "Operating System Laborartory Assistant", dan ubah "Universitas Islam Riau" to "University of Riau"
 - ~~Di Education Hapuskan Islamic dan ipk, also cantumkan kapan mulai kuliah dan selesai kuliah
-- Di Skills cantumkan yang benar2 pandai
+- ~~Di Skills cantumkan yang benar2 pandai
 
 # Surat Lamaran Kerja
 - Header samakan dengan Surat Lamaran Kerja
