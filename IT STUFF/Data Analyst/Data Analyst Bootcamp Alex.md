@@ -128,3 +128,23 @@ WHERE AGE > 31
 GROUP BY Gender
 # Intermediate SQL
 ## Inner/Outer
+SELECT *
+FROM SQLTutorial.dbo.EmployeeDemographics
+INNER JOIN SQLTutorial.dbo.EmployeeSalary
+	ON EmployeeDemographics.EmployeeID = EmployeeSalary.EmployeeID
+
+SELECT *
+FROM SQLTutorial.dbo.EmployeeDemographics
+FULL OUTER JOIN SQLTutorial.dbo.EmployeeSalary
+	ON EmployeeDemographics.EmployeeID = EmployeeSalary.EmployeeID
+
+SELECT *
+FROM SQLTutorial.dbo.EmployeeDemographics
+LEFT OUTER JOIN SQLTutorial.dbo.EmployeeSalary
+	ON EmployeeDemographics.EmployeeID = EmployeeSalary.EmployeeID
+
+SELECT *
+FROM SQLTutorial.dbo.EmployeeDemographics
+RIGHT OUTER JOIN SQLTutorial.dbo.EmployeeSalary
+	ON EmployeeDemographics.EmployeeID = EmployeeSalary.EmployeeID
+
