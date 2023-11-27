@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT STUFF/Data Analyst/Data Analyst Bootcamp Alex.md",
+                "file": "2023-11-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT STUFF/Data Analyst/Data Analyst Bootcamp Alex.md",
+                "file": "2023-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT STUFF/Data Analyst/Data Analyst Bootcamp Alex.md",
+                "file": "2023-11-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT STUFF/Data Analyst/Data Analyst Bootcamp Alex.md"
+                "file": "2023-11-28.md"
               }
             }
           },
@@ -196,10 +196,13 @@
   },
   "active": "a70180f446debcf9",
   "lastOpenFiles": [
+    "attachment/Pasted image 20231128063240.png",
+    "attachment/Pasted image 20231128063239.png",
+    "IT STUFF/Data Analyst/Data Analyst Bootcamp Alex.md",
+    "2023-11-28.md",
     "CARI KERJA/Surat Lamaran & CV/Perbaikan 2.md",
     "CARI KERJA/Surat Lamaran & CV/Perbaikan 1.md",
     "CARI KERJA/Daftar Perusahaan/Yang di Apply.md",
-    "IT STUFF/Data Analyst/Data Analyst Bootcamp Alex.md",
     "IT STUFF/Machine Learning/CNN Fundamentals Part 2.md",
     "IT STUFF/Machine Learning/CNN.md",
     "CARI KERJA/Daftar Perusahaan",
@@ -224,8 +227,6 @@
     "人生、夢、日本/Books/Albert Camus/Albert Camus and the Human Crisis.md",
     "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment/Book Review.md",
     "人生、夢、日本/Books/Fyodor Dostoevsky/1. Order of the book.md",
-    "人生、夢、日本/Books/Fyodor Dostoevsky/The Brothers Karamazov/Important Quotes.md",
-    "人生、夢、日本/Books/Jordan Peterson/2014 Personality Lecture 01 Introduction and Overview Notes.md",
     "人生、夢、日本/Cari Kerja",
     "attachment/Pasted image 20230925014512.png",
     "attachment/Pasted image 20230924233617.png",
@@ -240,7 +241,6 @@
     "attachment/Pasted image 20230803145824.png",
     "attachment/Pasted image 20230731132036.png",
     "attachment/Pasted image 20230726224226.png",
-    "attachment/Pasted image 20230725104719.png",
-    "attachment/Pasted image 20230725104642.png"
+    "attachment/Pasted image 20230725104719.png"
   ]
 }
