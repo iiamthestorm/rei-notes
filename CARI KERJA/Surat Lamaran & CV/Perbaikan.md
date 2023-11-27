@@ -13,4 +13,4 @@
 - ~~Jangan pake Islamic di "from the Islamic", langsung University of Riau
 - ~~Jangan pakai "Over the past year" sampe Poin bullet.
 - ~~Jangan pakai "Please refer to my attached resume"
-- Tambahkan "AKU AKAN SENANG KALAU DIPANGGIL WAWANCARA" in english di "I appreciate your time spent reading and i will be glad if i been calling to interview"
+- ~~Tambahkan "AKU AKAN SENANG KALAU DIPANGGIL WAWANCARA" in english di "I appreciate your time spent reading and i will be glad if i been calling to interview"
