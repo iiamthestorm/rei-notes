@@ -127,4 +127,4 @@ FROM EmployeeDemographics
 WHERE AGE > 31
 GROUP BY Gender
 # Intermediate SQL
-##
+## Inner/Outer
