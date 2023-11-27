@@ -148,3 +148,11 @@ FROM SQLTutorial.dbo.EmployeeDemographics
 RIGHT OUTER JOIN SQLTutorial.dbo.EmployeeSalary
 	ON EmployeeDemographics.EmployeeID = EmployeeSalary.EmployeeID
 
+SELECT JobTitle, AVG(Salary)
+FROM EmployeeDemographics
+INNER JOIN EmployeeSalary
+	ON EmployeeDemographics.EmployeeID = EmployeeSalary.EmployeeID
+WHERE JobTitle = 'HR'
+GROUP BY JobTitle
+
+## 
