@@ -31,4 +31,8 @@
 
 ## Ich komme aus..., ich wohne in (I come from..., I live in...)
 - Ich komme aus ... = I come from ...
-- Frankr
+- Frankreich = France
+- Ich wohne in ... = I live in ...
+- Großbrittannien = Great Britain 
+- ... aus den USA = ... from the USA
+- 
