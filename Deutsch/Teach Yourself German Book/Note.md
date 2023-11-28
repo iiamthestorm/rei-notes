@@ -24,4 +24,4 @@
 - Germans often shake hands when they meet and when they say goodbye.
 - Herr = Mr
 - Frau = Mrs
-- Fráulein = Miss (considered rude)
+- Fräulein = Miss (considered rude)
