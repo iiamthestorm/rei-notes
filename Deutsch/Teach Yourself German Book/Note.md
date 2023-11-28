@@ -13,4 +13,10 @@
 
 ## Ein Unfall (An Accident)
 ## Guten Tag! Guten Morgen!
-- 
+- Hallo = Hello
+- Guten Morgen = Good morning
+- Guten Tag = Good day
+- Guten Abend = Good evening
+- Gute Nacht = Good night
+- Auf Wiedersehen = Goodbye
+
