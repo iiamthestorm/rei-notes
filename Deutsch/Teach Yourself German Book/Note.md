@@ -29,4 +29,6 @@
 ## Grüße im Radio und Fernsehen (Greetings on radio and tv)
 - Hören Sie zu! (Hoekhren zi su!) = Look at them!/Look at these people.
 
-## iC
+## Ich komme aus..., ich wohne in (I come from..., I live in...)
+- Ich komme aus ... = I come from ...
+- Frankr
