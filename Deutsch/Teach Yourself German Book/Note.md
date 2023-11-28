@@ -10,3 +10,7 @@
 - Guten Abend = Good evening
 - Wie ist Ihr Name? = What is your name?
 - Wie heißen Sie? = What are you called?
+
+## Ein Unfall (An Accident)
+## Guten Tag! Guten Morgen!
+- 
