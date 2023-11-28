@@ -20,3 +20,5 @@
 - Gute Nacht = Good night
 - Auf Wiedersehen = Goodbye
 
+## Customs and traditions
+Germans often shake hands when they meet and when they say goodbye.
