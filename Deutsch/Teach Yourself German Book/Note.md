@@ -26,4 +26,4 @@
 - Frau = Mrs
 - Fräulein = Miss (considered rude)
 
-## Grüße im Radio und Fernsehen (Greetings)
+## Grüße im Radio und Fernsehen (Greetings on radion and tv)
