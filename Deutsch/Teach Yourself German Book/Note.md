@@ -35,4 +35,8 @@
 - Ich wohne in ... = I live in ...
 - Großbrittannien = Great Britain 
 - ... aus den USA = ... from the USA
-- 
+- aber = but
+- Österreich = Austria
+- jetzt = now
+
+## In der Fußgängerzone
