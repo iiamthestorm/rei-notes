@@ -1,18 +1,18 @@
 # 1. mein Name ist ... 
-## Saying hello
+## 1. Saying hello
 - Guten Tag = Good day
 - Hallo = Hello
 - Ich heiße = (lit) I am called
 - Mein Name ist = My name is
 
-## Wie ist Ihr Name? 
+## 2. Wie ist Ihr Name? 
 - bitte = please
 - Guten Abend = Good evening
 - Wie ist Ihr Name? = What is your name?
 - Wie heißen Sie? = What are you called?
 
-## Ein Unfall (An Accident)
-## Guten Tag! Guten Morgen!
+## 3. Ein Unfall (An Accident)
+## 4. Guten Tag! Guten Morgen!
 - Hallo = Hello
 - Guten Morgen = Good morning
 - Guten Tag = Good day
@@ -26,10 +26,10 @@
 - Frau = Mrs
 - Fräulein = Miss (considered rude)
 
-## Grüße im Radio und Fernsehen (Greetings on radio and tv)
+## 6. Grüße im Radio und Fernsehen (Greetings on radio and tv)
 - Hören Sie zu! (Hoekhren zi su!) = Look at them!/Look at these people.
 
-## Ich komme aus..., ich wohne in (I come from..., I live in...)
+## 7. Ich komme aus..., ich wohne in (I come from..., I live in...)
 - Ich komme aus ... = I come from ...
 - Frankreich = France
 - Ich wohne in ... = I live in ...
@@ -39,4 +39,4 @@
 - Österreich = Austria
 - jetzt = now
 
-## In der Fußgängerzone
+## 8. In der Fußgängerzone
