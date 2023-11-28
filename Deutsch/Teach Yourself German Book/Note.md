@@ -27,4 +27,6 @@
 - Fräulein = Miss (considered rude)
 
 ## Grüße im Radio und Fernsehen (Greetings on radio and tv)
-- Hören Sie zu! 
+- Hören Sie zu! (Hoekhren zi su!) = Look at them!/Look at these people.
+
+## iC
