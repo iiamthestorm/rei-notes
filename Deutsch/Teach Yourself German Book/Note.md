@@ -27,4 +27,4 @@
 - Fräulein = Miss (considered rude)
 
 ## Grüße im Radio und Fernsehen (Greetings on radio and tv)
-- Hören Sie zu!
+- Hören Sie zu! 
