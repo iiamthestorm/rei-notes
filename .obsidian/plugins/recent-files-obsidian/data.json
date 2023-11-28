@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Note",
+      "path": "Deutsch/Teach Yourself German Book/Note.md"
+    },
+    {
       "basename": "Data Analyst Bootcamp Alex",
       "path": "IT STUFF/Data Analyst/Data Analyst Bootcamp Alex.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Akun Gmail Bunpro Free Trial",
       "path": "人生、夢、日本/日本語勉強中/Akun Gmail Bunpro Free Trial.md"
-    },
-    {
-      "basename": "Non Partner Criteria",
-      "path": "人生、夢、日本/日本語勉強中/Non Partner Criteria.md"
     }
   ],
   "omittedPaths": [],
