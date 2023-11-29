@@ -46,4 +46,15 @@
 - woher? = where ... from?
 - Wo wohnen Sie? = Where do you live?
 - Woher kommen Sie? = Where do you come from?
-- Darf ich Ihnen eine Frage stellen = 
+
+Darf ich Ihnen eine Frage stellen = 
+- Darf": May/I am allowed to
+- "ich": I
+- "Ihnen": to you (formal, addressing someone with respect)
+- "eine": a
+- "Frage": question
+- "stellen": to ask/pose
+
+So, the translation of the entire phrase is: "May I ask you a question?"
+
+This is a polite and formal way to ask someone if you can pose a question to them.
