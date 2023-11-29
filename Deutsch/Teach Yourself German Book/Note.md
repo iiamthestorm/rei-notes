@@ -46,3 +46,4 @@
 - woher? = where ... from?
 - Wo wohnen Sie? = Where do you live?
 - Woher kommen Sie? = Where do you come from?
+- Darf ich Ihnen eine Frage stellen = 
