@@ -72,4 +72,10 @@ Ich heiße Rei, ich komme aus Indonesien, ich wohne jetzt in Pekanbaru, Indonesi
 ## Grammar
 ### 1. Personal pronouns
 - Singular :
-- 
+	- ich = I
+	- du = you (informal)
+	- Sie = you (formal)
+	- er = he
+	- sie = she
+	- es = it
+	- man = one
