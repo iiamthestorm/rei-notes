@@ -71,3 +71,5 @@ Ich heiße Rei, ich komme aus Indonesien, ich wohne jetzt in Pekanbaru, Indonesi
 
 ## Grammar
 ### 1. Personal pronouns
+- Singular :
+- 
