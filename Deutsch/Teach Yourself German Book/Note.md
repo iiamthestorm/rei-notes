@@ -93,9 +93,7 @@ The endings change according to the *subject* used (i.e. ich, Sie, etc.).
 ![[Pasted image 20231129225918.png]]
 
 ### 3. Word order
-- In german, the verb is usually in the second position.
-- In german question like what, where, why, how etc, tend to start with W-
-	- 
+
 
 ## More practice
 1. 
