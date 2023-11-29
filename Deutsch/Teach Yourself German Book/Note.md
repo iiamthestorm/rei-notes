@@ -59,4 +59,4 @@ So, the translation of the entire phrase is: "May I ask you a question?"
 
 This is a polite and formal way to ask someone if you can pose a question to them.
 
-Ich h
+Ich heiße Rei, Ich komme aus Indonesien, Ich w
