@@ -79,3 +79,8 @@ Ich heiße Rei, ich komme aus Indonesien, ich wohne jetzt in Pekanbaru, Indonesi
 	- sie = she
 	- es = it
 	- man = one
+- Plural : 
+	- wir = we
+	- ihr = you (informal)
+	- Sie = you (formal)
+	- sie = they
