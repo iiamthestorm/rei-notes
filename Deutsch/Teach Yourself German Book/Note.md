@@ -61,9 +61,10 @@ This is a polite and formal way to ask someone if you can pose a question to the
 
 ## Woher kommen Sie?
 q : Wie heißen Sie?
-r  : Ich heiße Rei
+r  : Ich heiße Rei.
 q : Woher kommen Sie?
-r  : Ich komme aus Indonesien
-q : Wo wohnen Sie?
+r  : Ich komme aus Indonesien.
+q : Und Wo wohnen Sie jetzt?
+r  : Ich wohne jetzt in Pekanbaru, Indonesien.
 
 Ich heiße Rei, ich komme aus Indonesien, ich wohne jetzt in Pekanbaru, Indonesien.
