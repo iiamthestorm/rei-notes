@@ -84,3 +84,4 @@ Ich heiße Rei, ich komme aus Indonesien, ich wohne jetzt in Pekanbaru, Indonesi
 	- ihr = you (informal)
 	- Sie = you (formal)
 	- sie = they
+### 2. Verb endings
