@@ -93,8 +93,7 @@ The endings change according to the *subject* used (i.e. ich, Sie, etc.).
 ![[Pasted image 20231129225918.png]]
 
 ### 3. Word order
+![[Pasted image 20231129230413.png]]
 
-
-## More practice
-1. 
+# 2. 
 
