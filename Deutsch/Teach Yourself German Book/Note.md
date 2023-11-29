@@ -41,4 +41,8 @@
 
 ## 8. In der Fußgängerzone (In the pedestrian precinct)
 - Entschuldigen Sie = Excuse (me)
-- ein paar Frag
+- ein paar Fragen = a few questions
+- wo? = where?
+- woher? = where ... from?
+- Wo wohnen Sie? = Where do you live?
+- Woher kommen Sie? = Where do you come from?
