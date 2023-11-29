@@ -90,4 +90,7 @@ We met **Heißen**, **kommen**, **wohnen** in this chapter. The form of the verb
 The infinitive can be divided into 2 parts: **wohn-** the *stem*, **-en** the ending.
 
 The endings change according to the *subject* used (i.e. ich, Sie, etc.).
+![[Pasted image 20231129225918.png]]
 
+### 3. Word order
+In german, the verb is usually in the second position
