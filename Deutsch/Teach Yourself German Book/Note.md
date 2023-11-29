@@ -68,3 +68,6 @@ q : Und Wo wohnen Sie jetzt?
 r  : Ich wohne jetzt in Pekanbaru, Indonesien.
 
 Ich heiße Rei, ich komme aus Indonesien, ich wohne jetzt in Pekanbaru, Indonesien.
+
+## Grammar
+### 1. Personal Pr
