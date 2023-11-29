@@ -40,4 +40,4 @@
 - jetzt = now
 
 ## 8. In der Fußgängerzone (In the pedestrian precinct)
-- 
+- Entschuldigung
