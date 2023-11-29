@@ -40,4 +40,5 @@
 - jetzt = now
 
 ## 8. In der Fußgängerzone (In the pedestrian precinct)
-- Entschuldigung
+- Entschuldigen Sie = Excuse (me)
+- ein paar Frag
