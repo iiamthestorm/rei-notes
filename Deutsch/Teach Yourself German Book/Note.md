@@ -85,4 +85,6 @@ Ich heiße Rei, ich komme aus Indonesien, ich wohne jetzt in Pekanbaru, Indonesi
 	- Sie = you (formal)
 	- sie = they
 ### 2. Verb endings
-We met **Heißen**, **kommen**, **wohnen** in this chapter. The form of the verb that i find in dictionary or gloassary called the *infinitive*
+We met **Heißen**, **kommen**, **wohnen** in this chapter. The form of the verb that i find in dictionary or gloassary called the *infinitive*: e.g. **wohnen** (to live).
+
+The infinitive can be divided into 2 parts: **wohn-** the *stem*, 
