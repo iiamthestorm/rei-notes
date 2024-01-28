@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8178cc09d8264994",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +178,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -194,7 +207,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a70180f446debcf9",
+  "active": "8178cc09d8264994",
   "lastOpenFiles": [
     "attachment/Pasted image 20231129230413.png",
     "attachment/Pasted image 20231129225918.png",
