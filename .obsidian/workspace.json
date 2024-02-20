@@ -23,9 +23,11 @@
             "id": "8178cc09d8264994",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "人生、夢、日本/日本語勉強中/何で日本に来たの.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -139,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Teach Yourself German Book/Note.md",
+                "file": "人生、夢、日本/日本語勉強中/何で日本に来たの.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Teach Yourself German Book/Note.md",
+                "file": "人生、夢、日本/日本語勉強中/何で日本に来たの.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Teach Yourself German Book/Note.md"
+                "file": "人生、夢、日本/日本語勉強中/何で日本に来たの.md"
               }
             }
           },
@@ -209,15 +211,32 @@
   },
   "active": "8178cc09d8264994",
   "lastOpenFiles": [
+    "人生、夢、日本/日本語勉強中/Akun Gmail Bunpro Free Trial.md",
+    "人生、夢、日本/日本語勉強中/Non Partner Criteria.md",
+    "人生、夢、日本/日本語勉強中/漫画とアニメと映画/THINGS I WANT TO DO (NO DEADLINE).md",
+    "人生、夢、日本/日本語勉強中/日記/2023-03-22, Wednesday.md",
+    "人生、夢、日本/日本語勉強中/日記/2023-03-23, Thursday.md",
+    "人生、夢、日本/日本語勉強中/日記/2023-03-24, Friday.md",
+    "人生、夢、日本/日本語勉強中/日記/2023-05-28, 日曜日.md",
+    "人生、夢、日本/日本語勉強中/日記/2023-06-13、水曜日.md",
+    "人生、夢、日本/日本語勉強中/日記/2023-06-19、月曜日.md",
+    "人生、夢、日本/日本語勉強中/日記/2023-06-22、木曜日.md",
+    "人生、夢、日本/日本語勉強中/日記/2023-06-25、日曜日.md",
+    "人生、夢、日本/日本語勉強中/日記/2023-06-26、月曜日.md",
+    "人生、夢、日本/日本語勉強中/日記/2023-07-03、月曜日.md",
+    "人生、夢、日本/日本語勉強中/日記/2023-07-05、水曜日.md",
+    "人生、夢、日本/日本語勉強中/日記/2023-07-23、日曜日.md",
+    "人生、夢、日本/日本語勉強中/日記/2023-08-23、水曜日.md",
+    "人生、夢、日本/日本語勉強中/何で日本に来たの.md",
+    "Deutsch/Teach Yourself German Book/Note.md",
+    "2023-11-28.md",
     "attachment/Pasted image 20231129230413.png",
     "attachment/Pasted image 20231129225918.png",
     "IT STUFF/Data Analyst/Data Analyst Bootcamp Alex.md",
-    "Deutsch/Teach Yourself German Book/Note.md",
     "Deutsch/Teach Yourself German Book",
     "Deutsch",
     "CARI KERJA/Surat Lamaran & CV/Perbaikan 1.md",
     "CARI KERJA/Surat Lamaran & CV/Perbaikan 2.md",
-    "2023-11-28.md",
     "attachment/Pasted image 20231128213342.png",
     "attachment/Pasted image 20231128070839.png",
     "attachment/Pasted image 20231128063335.png",
@@ -231,29 +250,12 @@
     "人生、夢、日本/Cari Kerja/Daftar Institusi.md",
     "CARI KERJA",
     "IT STUFF/Data Analyst",
-    "Skripsi (2023, Done)/Done/2023-08-07 URUS SYARAT WISUDA.md",
-    "Skripsi (2023, Done)/Done/2023-08-14 URUS SYARAT WISUDA.md",
-    "Skripsi (2023, Done)/Done/2023-08-21 URUS SYARAT WISUDA.md",
-    "Skripsi (2023, Done)/Done/Alur Wisuda.md",
-    "Skripsi (2023, Done)/Done/Judul Skripsi.md",
-    "Skripsi (2023, Done)/Done/Jurnal Revisi 1.md",
-    "Skripsi (2023, Done)/Done/Referensi.md",
-    "Skripsi (2023, Done)/Done/Kompre/Alur sampai kompre.md",
-    "Skripsi (2023, Done)/Done/Kompre/Kerangka Bab 4.md",
-    "Skripsi (2023, Done)/Done/Kompre/Kerangka Bab 5.md",
-    "人生、夢、日本/3D (Blender)/Progress/2023-07-06、木曜日.md",
-    "人生、夢、日本/3D (Blender)/Progress/2023-07-02、日曜日.md",
-    "人生、夢、日本/3D (Blender)/Progress/2023-07-01、土曜日.md",
-    "人生、夢、日本/Books/Albert Camus/The Myth of Sisyphus/Important Notes.md",
-    "人生、夢、日本/Books/Albert Camus/Albert Camus and the Human Crisis.md",
-    "人生、夢、日本/Books/Fyodor Dostoevsky/Crime & Punishment/Book Review.md",
     "人生、夢、日本/Cari Kerja",
     "attachment/Pasted image 20230925014512.png",
     "attachment/Pasted image 20230924233617.png",
     "attachment/Pasted image 20230924231348.png",
     "人生、夢、日本/Books/Albert Camus/The Myth of Sisyphus",
     "人生、夢、日本/Books/Albert Camus",
-    "人生、夢、日本/Books/Fyodor Dostoevsky/The Brothers Karamazov",
-    "attachment/Pasted image 20230804121547.png"
+    "人生、夢、日本/Books/Fyodor Dostoevsky/The Brothers Karamazov"
   ]
 }
